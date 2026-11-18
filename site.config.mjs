@@ -7,7 +7,7 @@ export const SITE = {
 
   // Domínio próprio. Vazio = site no endereço provisório.
   // Exemplo: 'https://macetesgta6.com.br'
-  dominio: 'https://macetesgta6.com.br',
+  dominio: '',  // LIGAR: 'https://macetesgta6.com.br' (volta quando o DNS do Registro.br terminar a transição)
 
   // true = o Google pode indexar o site. Quando o domínio próprio for ligado,
   // o GitHub Pages redireciona sozinho o endereço provisório para ele.
