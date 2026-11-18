@@ -8,17 +8,19 @@ plataformas: [ps5, xbox]
 fontes:
   - { tipo: youtube, canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", titulo: "GTA 6 - BIGFOOT Easter Egg Secret Scene (LOCATION)", minuto: "1:20", data: "2026-11-18T13:57:55-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=mhgv0kj-BFw", titulo: "Que criatura é essa??? O PRIMEIRO EASTER EGG DO GTA VI", minuto: "13:11", data: "2026-11-18T16:25:53-03:00" }
+  - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=3Uz64TZrEEY", titulo: "EASTER EGG do PÉ GRANDE no GTA 6! EVENTO ALEATÓRIO ACIDENTE AÉREO!", minuto: "3:59", data: "2026-11-18T16:29:51-03:00" }
 descoberto_em: "2026-11-18T17:10:00-03:00"
-atualizado_em: "2026-11-18T17:10:00-03:00"
+atualizado_em: "2026-11-18T17:21:00-03:00"
 historico:
   - { data: "2026-11-18T17:10:00-03:00", nota: "Publicado como confirmado: a mesma figura aparece em dois canais diferentes (Punish e Gameplayrj)." }
+  - { data: "2026-11-18T17:21:00-03:00", nota: "Terceira fonte (SanInPlay), que encontrou a figura à noite. Incluído que ela aparece de dia e de noite." }
 perguntas:
-  - { p: "Tem pé grande no GTA 6?", r: "Tem uma criatura que os jogadores chamam de pé grande: uma figura humana feita de tronco e cipó, escondida no mangue de Grassrivers. Ela aparece em vídeos de dois canais diferentes." }
+  - { p: "Tem pé grande no GTA 6?", r: "Tem uma criatura que os jogadores chamam de pé grande: uma figura humana feita de tronco e cipó, escondida no mangue de Grassrivers. Ela aparece em vídeos de três canais diferentes." }
   - { p: "Onde fica o pé grande do GTA 6?", r: "Em Grassrivers, no meio do mangue, longe das estradas asfaltadas. Os dois vídeos mostram o mesmo tipo de mata, mas o ponto exato ainda não foi marcado num mapa público." }
   - { p: "O que acontece quando você examina o pé grande?", r: "A tela fica turva, escurece e o Jason apaga. Ele acorda reclamando de dor e o jogo continua." }
 ---
 
-O GTA 6 já tem o seu "pé grande". No mangue de Grassrivers, a região de pântano do mapa, existe uma figura com forma de gente feita de tronco, cipó e amarras de corda, com flores em volta. Dois canais diferentes chegaram até ela no mesmo dia: o Punish e o brasileiro Gameplayrj. Ao examinar a figura, o personagem apaga.
+O GTA 6 já tem o seu "pé grande". No mangue de Grassrivers, a região de pântano do mapa, existe uma figura com forma de gente feita de tronco, cipó e amarras de corda, com flores em volta. Três canais diferentes chegaram até ela no mesmo dia: o Punish e os brasileiros Gameplayrj e SanInPlay. Ao examinar a figura, o personagem apaga.
 
 ## Onde procurar
 
@@ -27,6 +29,10 @@ O GTA 6 já tem o seu "pé grande". No mangue de Grassrivers, a região de pânt
 - **Referência:** logo depois da cena, o Gameplayrj passa por uma placa de "Grassrivers Pelican Valley" na estrada de terra da região.
 
 O ponto exato ainda não foi marcado num mapa público. Quando alguém publicar a localização certinha, esta página é atualizada.
+
+## De dia ou de noite
+
+Ela aparece nos dois horários. No vídeo do Gameplayrj o relógio do jogo marcava 15:59. O SanInPlay encontrou a figura à noite, depois de parar para ver um acidente de avião que aconteceu como evento aleatório na região. No escuro ela parece mais clara, quase brilhando no meio da mata.
 
 ## Como achar
 
@@ -37,9 +43,13 @@ O ponto exato ainda não foi marcado num mapa público. Quando alguém publicar 
 
 ## O que acontece
 
-Ao examinar, a tela fica turva e roxa, depois escurece por completo. O Jason apaga e acorda resmungando, com a fala "Urgh... Cacete..." na legenda. No vídeo do Punish a sequência é a mesma: a figura aparece e logo em seguida a tela fica preta.
+Ao examinar, a tela fica turva e roxa, depois escurece por completo. O Jason apaga e acorda resmungando, com a fala "Urgh... Cacete..." na legenda. Nos vídeos do Punish e do SanInPlay a sequência é a mesma: a figura aparece e logo em seguida a tela fica preta.
 
 No caso do Gameplayrj, a droga que ele tinha recolhido na mata antes de achar a figura não estava mais com ele depois que acordou. Ainda não dá para dizer se isso sempre acontece.
+
+## É o pé grande mesmo?
+
+Os jogadores chamam de pé grande porque a figura tem forma de gente e aparece no meio do mato, mas ela não é peluda: parece feita de madeira e planta. O SanInPlay lembrou do skunk ape, a versão do pé grande nas lendas da Flórida, estado que inspira Leonida. É uma boa hipótese, mas a Rockstar não explicou nada.
 
 ## Cuidado com os bichos
 
@@ -48,7 +58,6 @@ Grassrivers é cheio de animal. No mesmo vídeo aparecem jacarés brigando, um u
 ## O que ainda não se sabe
 
 - Se a figura aparece sempre no mesmo lugar ou em pontos diferentes.
-- Se há horário ou clima certo para ela surgir.
 - Se apagar perto dela tem alguma consequência além do susto.
 
 Veja também [o que tem no fim do mapa do GTA 6](../fim-do-mapa-gta-6/) e a [lista de easter eggs](../../easter-eggs/).
