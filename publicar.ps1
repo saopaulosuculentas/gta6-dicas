@@ -19,11 +19,12 @@ git add -A
 git diff --cached --quiet
 if ($LASTEXITCODE -ne 0) { git commit -q -m $Mensagem -m "Co-Authored-By: Claude Fable 5.2 <noreply@anthropic.com>" }
 git push -q origin main
-if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar para o GitHub."; exit 1 }
+if ($LASTEXITCODE -ne 0) { Start-Sleep -Seconds 8; git push -q origin main }
+if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar para o GitHub (tentei duas vezes)."; exit 1 }
 
 # 2) envia o site montado (branch gh-pages, que e o que aparece na internet)
 $remoto = git remote get-url origin
-$pages = Join-Path $env:LOCALAPPDATA "gta6-dicas-pages"
+$pages = Join-Path $PSScriptRoot ".pages"
 if (-not (Test-Path (Join-Path $pages ".git"))) {
   git clone -q --branch gh-pages --single-branch $remoto $pages
   if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: a branch gh-pages ainda nao existe."; exit 1 }
@@ -43,7 +44,8 @@ git -C $pages diff --cached --quiet
 if ($LASTEXITCODE -ne 0) {
   git -C $pages commit -q -m $Mensagem
   git -C $pages push -q origin gh-pages
-  if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar o site."; exit 1 }
+  if ($LASTEXITCODE -ne 0) { Start-Sleep -Seconds 8; git -C $pages push -q origin gh-pages }
+  if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar o site (tentei duas vezes)."; exit 1 }
   Write-Host "NO AR: site atualizado."
 } else {
   Write-Host "NO AR: nada mudou no site desde a ultima vez."
