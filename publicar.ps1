@@ -30,6 +30,8 @@ if (-not (Test-Path (Join-Path $pages ".git"))) {
   git -C $pages config user.name (git config user.name)
   git -C $pages config user.email (git config user.email)
 }
+git -C $pages config core.autocrlf false
+git -C $pages config core.safecrlf false
 git -C $pages pull -q
 robocopy dist $pages /MIR /XD .git /NFL /NDL /NJH /NJS /NP | Out-Null
 if ($LASTEXITCODE -ge 8) { Write-Host "PAREI: erro ao copiar o site."; exit 1 }
