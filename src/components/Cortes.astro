@@ -1,0 +1,46 @@
+---
+// Vitrine dos cortes do nosso canal. A lista vem de dados/cortes.json (atualizada por agente/cortes.py).
+// Cada corte só carrega do YouTube quando a pessoa clica.
+import cortes from '../../dados/cortes.json';
+import { SITE } from '../../site.config.mjs';
+interface Props { limite?: number }
+const { limite = 4 } = Astro.props;
+const lista = (cortes as { id: string; titulo: string; tipo: string }[]).slice(0, limite);
+const limpo = (t: string) => t.replace(/#\S+/g, '').trim();
+---
+
+{
+  lista.length > 0 && SITE.canalCortes && (
+    <section class="secao" aria-labelledby="s-cortes">
+      <div class="secao__cabeca">
+        <h2 id="s-cortes">Cortes do nosso canal</h2>
+        <a href={SITE.canalCortes} target="_blank" rel="noopener">Ver o canal no YouTube →</a>
+      </div>
+      <div class="cortes">
+        {lista.map((c) => (
+          <figure class={`corte corte--${c.tipo}`}>
+            <div class="corte__moldura">
+              <button type="button" class="corte__botao" data-corte={c.id} aria-label={`Tocar o corte: ${limpo(c.titulo)}`}>
+                <span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z" /></svg></span>
+                <b>{limpo(c.titulo)}</b>
+              </button>
+            </div>
+          </figure>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<script is:inline>
+  document.querySelectorAll('.corte__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.corte + '?autoplay=1';
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script>

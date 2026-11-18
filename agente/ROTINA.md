@@ -24,6 +24,12 @@ python agente/transcrever.py
 ```
 O segundo comando termina com `PRONTO PARA LER` e a lista de arquivos em `agente/trechos/`. Se sobrou arquivo de uma rodada anterior, ele também está na lista: leia todos.
 
+### 1a. Nosso canal de cortes
+```
+python agente/cortes.py
+```
+Lista os envios do nosso canal (Vice Cortes | GTA VI) e atualiza a vitrine da capa. Se um corte nosso mostrar exatamente uma dica que está no site, acrescente o link dele no campo `cortes` daquela dica (`cortes: [{ url: "https://www.youtube.com/watch?v=...", titulo: "Título do corte" }]`). Corte nosso não conta como fonte: ele ilustra a dica, não a confirma.
+
 ### 1b. Sites grandes
 Abra `agente/sites.json`. Com a ferramenta de busca na web (WebSearch), rode 3 ou 4 das buscas da lista `buscas`, variando a cada rodada, e fique só com resultados dos domínios das listas `oficial` e `imprensa` publicados nas últimas 48 horas. Abra com a ferramenta de leitura de página (WebFetch) no máximo 5 matérias por rodada.
 
@@ -116,7 +122,7 @@ Como escrever o texto:
 - Mire em 900 letras ou mais, só com informação que veio do vídeo ou do próprio jogo. Não encha linguiça e não invente detalhe para dar volume.
 - Subtítulos com `##`. Sem emoji. Sem "neste artigo vamos ver".
 - Pense em quem digitou a pergunta no Google: o título diz exatamente o que a página responde, a primeira frase já responde, e o `resumo` (que vira a descrição no Google) repete a resposta em uma linha.
-- Ligue as páginas entre si: se a dica cita outra dica ou guia do site, ponha o link (`/gta6-dicas/dica/nome-do-arquivo/` enquanto o site estiver no endereço provisório).
+- Ligue as páginas entre si: se a dica cita outra dica ou guia do site, ponha o link relativo, que funciona em qualquer endereço: `[texto](../nome-do-arquivo/)` para outra dica e `[texto](../../codigos/)` para uma seção.
 - Não prometa o que o vídeo não mostrou. Se algo ficou incerto, diga que ficou incerto.
 
 ### 5. Canais de confiança

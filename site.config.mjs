@@ -18,7 +18,7 @@ export const SITE = {
   bingVerificacao: '',
 
   // Endereço do canal de cortes no YouTube (aparece no rodapé e nas dicas com corte).
-  canalCortes: '',
+  canalCortes: 'https://www.youtube.com/@vice_cortes_gtavi_clips',
 
   // Endereço provisório (GitHub Pages) usado enquanto "dominio" estiver vazio.
   provisorio: { site: 'https://saopaulosuculentas.github.io', base: '/gta6-dicas' },

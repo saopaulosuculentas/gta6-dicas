@@ -5,6 +5,7 @@ import Anuncio from '../components/Anuncio.astro';
 import Lateral from '../components/Lateral.astro';
 import TabelaCodigos from '../components/TabelaCodigos.astro';
 import SemCodigos from '../components/SemCodigos.astro';
+import Cortes from '../components/Cortes.astro';
 import { SITE, CATEGORIAS } from '../../site.config.mjs';
 import { u, todasDicas, hora, dataHora, linkDica } from '../lib/util';
 
@@ -92,6 +93,8 @@ const jsonld = {
           </section>
         )
       }
+
+      <Cortes limite={4} />
 
       {
         ultimas.length > 0 && (
