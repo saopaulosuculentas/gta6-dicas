@@ -1,6 +1,6 @@
 # Buscas reais sobre GTA 6 (Google, português do Brasil)
 
-Gerado em 18/11/2026 17:24 por `agente/buscas.py` a partir das sugestões do autocompletar do Google.
+Gerado em 18/11/2026 17:29 por `agente/buscas.py` a partir das sugestões do autocompletar do Google.
 Cada linha é algo que as pessoas digitam. `✔ nome-da-dica` = o site já tem página que responde. `✘` = falta página.
 O agente usa esta lista para escolher o que publicar primeiro e para escrever títulos com as palavras das pessoas.
 Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida fica esperando.
@@ -47,16 +47,16 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 ## Dinheiro (15)
 
 - ✔ gta 6 dinheiro → `codigo-dinheiro-gta-6`
-- ✘ gta 6 dinheiro real
+- ✔ gta 6 dinheiro real → `como-ganhar-dinheiro-gta-6`
 - ✘ gta 6 dinheiro gasto
-- ✘ gta 6 ganhar dinheiro
-- ✘ gta 6 dinheiro infinito
+- ✔ gta 6 ganhar dinheiro → `como-ganhar-dinheiro-gta-6`
+- ✔ gta 6 dinheiro infinito → `como-ganhar-dinheiro-gta-6`
 - ✘ gta 6 dinheiro investido
 - ✘ luminaria gta 6 dinheiro
 - ✘ vazamento gta 6 dinheiro
 - ✘ gta 6 dinheiro arrecadado
-- ✘ como ganhar dinheiro gta 6
-- ✘ gta 6 ganhar dinheiro real
+- ✔ como ganhar dinheiro gta 6 → `como-ganhar-dinheiro-gta-6`
+- ✔ gta 6 ganhar dinheiro real → `como-ganhar-dinheiro-gta-6`
 - ✘ como fazer dinheiro com gta 6
 - ✘ vai ter como ganhar dinheiro no gta 6
 - ✘ vai ter como ganhar dinheiro real no gta 6
@@ -434,7 +434,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 gameplay
 - ✘ gta 6 graficos
 - ✘ gta 6 graphics
-- ✘ gta 6 historia
+- ✔ gta 6 historia → `como-ganhar-dinheiro-gta-6`
 - ✘ gta 6 indicado
 - ✘ gta 6 magazine
 - ✘ gta 6 map size

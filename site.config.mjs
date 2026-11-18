@@ -36,7 +36,7 @@ export const SITE = {
   afiliados: [],
 
   // E-mail público de contato (aparece em /contato/). Use um e-mail do domínio, não o pessoal.
-  emailContato: '',
+  emailContato: 'pardinhocortes@gmail.com',
 
   lancamento: '2026-11-19',
 };
