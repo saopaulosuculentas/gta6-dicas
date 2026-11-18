@@ -1,0 +1,21 @@
+---
+import Pagina from '../layouts/Pagina.astro';
+import { SITE } from '../../site.config.mjs';
+---
+
+<Pagina titulo="Contato" descricao={`Fale com o ${SITE.nome}: correções, sugestões de dica e pedidos de criadores.`}>
+  <p>Escreva para a gente quando:</p>
+  <ul>
+    <li>uma dica estiver errada ou parar de funcionar depois de uma atualização do jogo;</li>
+    <li>você tiver achado um código, easter egg ou segredo que ainda não está aqui (mande o vídeo);</li>
+    <li>você for o criador de um vídeo citado e quiser ajustar o crédito ou pedir a retirada.</li>
+  </ul>
+  {
+    SITE.emailContato ? (
+      <p>E-mail: <a href={`mailto:${SITE.emailContato}`}>{SITE.emailContato}</a></p>
+    ) : (
+      <p><strong>O e-mail de contato entra no ar junto com o endereço definitivo do site.</strong></p>
+    )
+  }
+  <p>Pedidos de correção e de criadores são respondidos primeiro.</p>
+</Pagina>

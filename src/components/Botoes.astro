@@ -1,0 +1,37 @@
+---
+// Desenha a sequência de botões de um código, no padrão do PS5 ou do Xbox.
+interface Props { console: 'ps5' | 'xbox'; seq: readonly string[] }
+const { console: qual, seq } = Astro.props;
+
+const SETAS: Record<string, [string, string]> = {
+  cima: ['Cima', 'M9 3 3.5 10h3.7v5h3.6v-5h3.7z'],
+  baixo: ['Baixo', 'M9 15 3.5 8h3.7V3h3.6v5h3.7z'],
+  esquerda: ['Esquerda', 'M3 9l7-5.5v3.7h5v3.6h-5v3.7z'],
+  direita: ['Direita', 'M15 9 8 3.5v3.7H3v3.6h5v3.7z'],
+};
+const FORMAS: Record<string, [string, string, string]> = {
+  triangulo: ['Triângulo', 'bt--tri', '<path d="M9 3 15.5 14.5h-13z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/>'],
+  circulo: ['Círculo', 'bt--cir', '<circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
+  x: ['X', 'bt--xis', '<path d="M4 4l10 10M14 4 4 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>'],
+  quadrado: ['Quadrado', 'bt--qua', '<rect x="3.5" y="3.5" width="11" height="11" rx="1" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
+};
+const LETRAS_XBOX: Record<string, string> = { a: 'bt--a', b: 'bt--b', x: 'bt--xx', y: 'bt--y' };
+
+const pecas = seq.map((b) => {
+  if (SETAS[b]) return { nome: SETAS[b][0], classe: '', svg: `<path d="${SETAS[b][1]}" fill="currentColor"/>`, texto: '' };
+  if (qual === 'ps5' && FORMAS[b]) return { nome: FORMAS[b][0], classe: `bt--redondo ${FORMAS[b][1]}`, svg: FORMAS[b][2], texto: '' };
+  if (qual === 'xbox' && LETRAS_XBOX[b]) return { nome: b.toUpperCase(), classe: `bt--redondo ${LETRAS_XBOX[b]}`, svg: '', texto: b.toUpperCase() };
+  return { nome: b.toUpperCase(), classe: '', svg: '', texto: b.toUpperCase() };
+});
+const falado = pecas.map((p) => p.nome).join(', ');
+---
+
+<ol class="botoes" aria-label={`Sequência no ${qual === 'ps5' ? 'PS5' : 'Xbox'}: ${falado}`}>
+  {
+    pecas.map((p) => (
+      <li class={`bt ${p.classe}`} title={p.nome}>
+        {p.svg ? <svg viewBox="0 0 18 18" aria-hidden="true" set:html={p.svg} /> : p.texto}
+      </li>
+    ))
+  }
+</ol>

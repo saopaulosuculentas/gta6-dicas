@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import { u } from '../lib/util';
+---
+
+<Base titulo="Página não encontrada" noindex>
+  <header class="cabeca-pagina miolo">
+    <span class="olho">Erro 404</span>
+    <h1>Essa rua não existe no mapa</h1>
+    <p>
+      O endereço mudou ou a dica saiu do ar. <a href={u('/')} style="color: var(--ambar)">Voltar para o início</a> ou
+      <a href={u('/codigos/')} style="color: var(--ambar)">ver os códigos</a>.
+    </p>
+  </header>
+</Base>

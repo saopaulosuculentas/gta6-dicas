@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+agente/trabalho/
+agente/quadros/
+__pycache__/
+*.log
+agente/trechos/
+agente/fila.json
+.claude/

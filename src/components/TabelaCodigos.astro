@@ -1,0 +1,66 @@
+---
+import Botoes from './Botoes.astro';
+import Selo from './Selo.astro';
+import { u, type Dica } from '../lib/util';
+interface Props { dicas: Dica[]; ferramentas?: boolean }
+const { dicas, ferramentas = true } = Astro.props;
+---
+
+{
+  ferramentas && (
+    <div class="ferramentas">
+      <input class="busca" type="search" placeholder="Procurar código: armas, vida, carro..." aria-label="Procurar código" data-busca />
+      <div class="troca" role="group" aria-label="Console">
+        <button type="button" data-console="ps5" aria-pressed="true">PS5</button>
+        <button type="button" data-console="xbox" aria-pressed="false">Xbox</button>
+      </div>
+    </div>
+  )
+}
+<div class="codigos" data-console="ps5" data-codigos>
+  {
+    dicas.map((dica) => {
+      const d = dica.data;
+      return (
+        <article class="codigo-linha" data-texto={`${d.titulo} ${d.efeito ?? ''} ${d.resumo}`.toLowerCase()}>
+          <div>
+            <h3><a href={u(`/dica/${dica.id.replace('exemplos/', '')}/`)}>{d.titulo}</a></h3>
+            {d.efeito && <p>{d.efeito}</p>}
+            <p><Selo status={d.status} /></p>
+          </div>
+          <div>
+            <div class="seq--ps5">{d.codigo?.ps5 ? <Botoes console="ps5" seq={d.codigo.ps5} /> : <span class="seq__sem">{d.codigo?.telefone ? `No celular do jogo: ${d.codigo.telefone}` : (d.codigo?.texto ?? 'Sem sequência para PS5 ainda')}</span>}</div>
+            <div class="seq--xbox">{d.codigo?.xbox ? <Botoes console="xbox" seq={d.codigo.xbox} /> : <span class="seq__sem">{d.codigo?.telefone ? `No celular do jogo: ${d.codigo.telefone}` : (d.codigo?.texto ?? 'Sem sequência para Xbox ainda')}</span>}</div>
+          </div>
+        </article>
+      );
+    })
+  }
+</div>
+<p class="seq__sem" data-nada hidden>Nenhum código com esse nome. Tente outra palavra.</p>
+
+<script is:inline>
+  (function () {
+    var lista = document.querySelector('[data-codigos]');
+    if (!lista) return;
+    var guardado = null;
+    try { guardado = localStorage.getItem('console'); } catch (e) {}
+    function escolher(c) {
+      lista.dataset.console = c;
+      document.querySelectorAll('.troca button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.console === c)); });
+      try { localStorage.setItem('console', c); } catch (e) {}
+    }
+    if (guardado === 'xbox') escolher('xbox');
+    document.querySelectorAll('.troca button').forEach(function (b) { b.addEventListener('click', function () { escolher(b.dataset.console); }); });
+    var busca = document.querySelector('[data-busca]');
+    var nada = document.querySelector('[data-nada]');
+    if (busca) busca.addEventListener('input', function () {
+      var q = busca.value.trim().toLowerCase(), visiveis = 0;
+      lista.querySelectorAll('.codigo-linha').forEach(function (l) {
+        var ok = !q || l.dataset.texto.indexOf(q) > -1;
+        l.hidden = !ok; if (ok) visiveis++;
+      });
+      if (nada) nada.hidden = visiveis > 0;
+    });
+  })();
+</script>

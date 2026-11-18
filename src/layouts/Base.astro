@@ -1,0 +1,137 @@
+---
+import '../styles/global.css';
+import { SITE, INDEXAR, CATEGORIAS } from '../../site.config.mjs';
+import { u, todasDicas, ultimaRodada, videosLidos, dataHora } from '../lib/util';
+
+interface Props {
+  titulo?: string;
+  descricao?: string;
+  tipo?: 'website' | 'article';
+  jsonld?: Record<string, unknown> | Record<string, unknown>[];
+  noindex?: boolean;
+}
+const { titulo, descricao = SITE.descricao, tipo = 'website', jsonld, noindex = false } = Astro.props;
+const tituloPagina = titulo ? `${titulo} | ${SITE.nome}` : `${SITE.nome}: códigos, easter eggs e segredos do GTA 6`;
+const canonica = new URL(Astro.url.pathname, Astro.site).href;
+const dicas = await todasDicas();
+const confirmadas = dicas.filter((d) => d.data.status === 'confirmado').length;
+const caminho = Astro.url.pathname;
+const ativo = (p: string) => (caminho.startsWith(u(p)) ? 'page' : undefined);
+const temExemplo = dicas.some((d) => d.id.startsWith('exemplos/'));
+const blocos = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloPagina}</title>
+    <meta name="description" content={descricao} />
+    <link rel="canonical" href={canonica} />
+    {(!INDEXAR || noindex) && <meta name="robots" content="noindex, nofollow" />}
+    <meta name="theme-color" content="#0d0916" />
+    <meta property="og:type" content={tipo} />
+    <meta property="og:site_name" content={SITE.nome} />
+    <meta property="og:title" content={titulo ?? SITE.nome} />
+    <meta property="og:description" content={descricao} />
+    <meta property="og:url" content={canonica} />
+    <meta property="og:locale" content="pt_BR" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" type="image/svg+xml" href={u('/favicon.svg')} />
+    <link rel="alternate" type="application/rss+xml" title={SITE.nome} href={u('/rss.xml')} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap"
+      rel="stylesheet"
+    />
+    {
+      SITE.adsenseId && (
+        <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseId}`} crossorigin="anonymous" />
+      )
+    }
+    {blocos.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
+  </head>
+  <body>
+    {
+      temExemplo && (
+        <div class="demo">
+          Modo demonstração: as dicas marcadas com [Exemplo] são inventadas só para mostrar o visual. Elas não vão ao ar.
+        </div>
+      )
+    }
+    <header class="topo">
+      <div class="miolo">
+        <a class="marca" href={u('/')} aria-label={`${SITE.nome}, página inicial`}>
+          <span class="marca__letreiro">Macetes</span>
+          <span class="marca__tag">GTA 6</span>
+        </a>
+        <nav class="menu" aria-label="Seções">
+          {Object.entries(CATEGORIAS).map(([slug, c]) => <a href={u(`/${slug}/`)} aria-current={ativo(`/${slug}/`)}>{c.nome}</a>)}
+          <a href={u('/novidades/')} aria-current={ativo('/novidades/')}>Novidades</a>
+        </nav>
+      </div>
+      <div class="faixa">
+        <div class="miolo">
+          <span>
+            <i class="pisca"></i>
+            {ultimaRodada ? <>Última checagem: <strong>{dataHora(ultimaRodada)}</strong></> : <>Agente de checagem: <strong>começa no lançamento, 19/11</strong></>}
+          </span>
+          <span><strong>{dicas.length}</strong> {dicas.length === 1 ? 'dica no ar' : 'dicas no ar'}</span>
+          <span><strong>{confirmadas}</strong> {confirmadas === 1 ? 'confirmada' : 'confirmadas'}</span>
+          {videosLidos > 0 && <span><strong>{videosLidos}</strong> vídeos e lives lidos</span>}
+        </div>
+      </div>
+    </header>
+
+    <slot />
+
+    <footer class="rodape">
+      <div class="miolo">
+        <div>
+          <h2>{SITE.nome}</h2>
+          <p>
+            Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.
+          </p>
+          <p>
+            Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.
+          </p>
+        </div>
+        <div>
+          <h2>Seções</h2>
+          <ul>
+            {Object.entries(CATEGORIAS).map(([slug, c]) => <li><a href={u(`/${slug}/`)}>{c.nome}</a></li>)}
+            <li><a href={u('/novidades/')}>Novidades</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>O site</h2>
+          <ul>
+            <li><a href={u('/como-verificamos/')}>Como verificamos</a></li>
+            <li><a href={u('/sobre/')}>Sobre</a></li>
+            <li><a href={u('/contato/')}>Contato</a></li>
+            <li><a href={u('/politica-de-privacidade/')}>Política de privacidade</a></li>
+            <li><a href={u('/termos/')}>Termos de uso</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="rodape__fim">
+        <div class="miolo">© {new Date().getFullYear()} {SITE.nome}. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      // "há 2 h" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null;
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+---
+// Espaço de anúncio do Google AdSense.
+// - Sem adsenseId em site.config.mjs: no ar não aparece nada; no modo de teste aparece uma caixa mostrando o lugar.
+// - Com adsenseId: carrega o anúncio. Se houver o número do bloco (adsBlocos), usa o bloco; senão, usa formato automático.
+import { SITE } from '../../site.config.mjs';
+interface Props { formato: 'faixa' | 'retangulo' | 'arranha' | 'artigo' | 'grade' }
+const { formato } = Astro.props;
+const NOMES = {
+  faixa: 'Faixa horizontal (728×90 no PC, 320×100 no celular)',
+  retangulo: 'Retângulo 300×250',
+  arranha: 'Lateral 300×600 (acompanha a rolagem)',
+  artigo: 'No meio do texto',
+  grade: 'No meio da lista',
+};
+const bloco = SITE.adsBlocos?.[formato] ?? '';
+const demo = !SITE.adsenseId && import.meta.env.DEV;
+---
+
+{
+  SITE.adsenseId && (
+    <div class={`anuncio anuncio--${formato}`}>
+      <ins
+        class="adsbygoogle"
+        style="display:block"
+        data-ad-client={SITE.adsenseId}
+        data-ad-slot={bloco || undefined}
+        data-ad-format={formato === 'artigo' ? 'fluid' : 'auto'}
+        data-ad-layout={formato === 'artigo' ? 'in-article' : undefined}
+        data-full-width-responsive="true"
+      />
+      <script is:inline>(window.adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  )
+}
+{demo && <div class={`anuncio anuncio--${formato} anuncio--demo`}><span>Espaço de anúncio<br /><small>{NOMES[formato]}</small></span></div>}

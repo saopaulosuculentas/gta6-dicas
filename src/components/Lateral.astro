@@ -1,0 +1,35 @@
+---
+// Coluna lateral: anúncio, atalhos de seção, afiliados e anúncio alto.
+import Anuncio from './Anuncio.astro';
+import { SITE, CATEGORIAS } from '../../site.config.mjs';
+import { u, todasDicas } from '../lib/util';
+const dicas = await todasDicas();
+const conta = (slug: string) => dicas.filter((d) => d.data.categoria === slug).length;
+---
+
+<aside class="lateral">
+  <Anuncio formato="retangulo" />
+  <div class="caixa">
+    <h2>Seções</h2>
+    <ul class="lista-trilhas">
+      {Object.entries(CATEGORIAS).map(([slug, c]) => <li><a href={u(`/${slug}/`)}>{c.nome} <span>{conta(slug)}</span></a></li>)}
+    </ul>
+  </div>
+  <div class="caixa">
+    <h2>Como ler o selo</h2>
+    <p><strong style="color: var(--menta)">Confirmado:</strong> a mesma dica apareceu funcionando em 2 ou mais canais diferentes, ou veio da própria Rockstar.</p>
+    <p><strong style="color: var(--ambar)">Em verificação:</strong> por enquanto só uma fonte mostrou. Pode mudar.</p>
+  </div>
+  {
+    SITE.afiliados.length > 0 && (
+      <div class="caixa">
+        <h2>Para jogar melhor</h2>
+        <ul class="afiliados">
+          {SITE.afiliados.map((a) => <li><a href={a.url} rel="sponsored nofollow noopener" target="_blank">{a.nome}</a><small>{a.nota}</small></li>)}
+        </ul>
+        <p style="margin-top: 10px; font-size: 0.78rem; color: var(--nevoa)">Links de afiliado: se você comprar, o site ganha uma comissão e você não paga nada a mais.</p>
+      </div>
+    )
+  }
+  <Anuncio formato="arranha" />
+</aside>

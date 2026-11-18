@@ -1,0 +1,14 @@
+---
+import Base from './Base.astro';
+import { u } from '../lib/util';
+interface Props { titulo: string; descricao: string }
+const { titulo, descricao } = Astro.props;
+---
+
+<Base titulo={titulo} descricao={descricao}>
+  <header class="cabeca-pagina miolo">
+    <nav class="trilho" aria-label="Você está em"><a href={u('/')}>Início</a> <span>/</span> <span>{titulo}</span></nav>
+    <h1>{titulo}</h1>
+  </header>
+  <main class="miolo texto" style="padding-bottom: 40px"><slot /></main>
+</Base>

@@ -1,0 +1,29 @@
+---
+import Pagina from '../layouts/Pagina.astro';
+import { SITE } from '../../site.config.mjs';
+import { u } from '../lib/util';
+---
+
+<Pagina titulo="Sobre" descricao={`O que é o ${SITE.nome}, quem faz e como o site se mantém.`}>
+  <p>
+    O {SITE.nome} é um site brasileiro, independente, com um único assunto: códigos, easter eggs, segredos e dicas do GTA 6, em português claro
+    e sem enrolação.
+  </p>
+  <h2>Por que este site existe</h2>
+  <p>
+    Quem cresceu anotando macete de GTA em caderno sabe o valor de uma lista confiável. Com o GTA 6, as descobertas aparecem espalhadas em
+    centenas de vídeos e lives, muitos em inglês. A gente junta tudo num lugar só, diz de onde veio e separa o que já foi confirmado do que
+    ainda é novidade de uma fonte só.
+  </p>
+  <h2>Como o site se mantém</h2>
+  <p>
+    O site é gratuito e se paga com anúncios. Os anúncios são marcados como publicidade e não decidem o que publicamos. Quando houver link de
+    afiliado, ele vem identificado.
+  </p>
+  <h2>Sem vínculo com a Rockstar</h2>
+  <p>
+    Este é um site de fãs. Não temos ligação com a Rockstar Games nem com a Take-Two Interactive. Grand Theft Auto, GTA e os nomes do jogo são
+    marcas de seus donos. Não usamos logotipo nem arte oficial.
+  </p>
+  <p>Veja também <a href={u('/como-verificamos/')}>como verificamos cada dica</a>.</p>
+</Pagina>

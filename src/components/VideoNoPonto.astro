@@ -1,0 +1,36 @@
+---
+// Vídeo do YouTube incorporado já no minuto da dica. Só carrega quando a pessoa clica (site mais leve e sem cookie antes do clique).
+import { idYoutube, segundos } from '../lib/util';
+interface Props { url: string; canal: string; minuto?: string; titulo?: string }
+const { url, canal, minuto, titulo } = Astro.props;
+const id = idYoutube(url);
+const inicio = segundos(minuto);
+---
+
+{
+  id && (
+    <figure class="video">
+      <div class="video__moldura">
+        <button class="video__botao" type="button" data-video={id} data-inicio={inicio} aria-label={`Tocar o vídeo de ${canal}${minuto ? ` a partir de ${minuto}` : ''}`}>
+          <span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z" /></svg></span>
+          <b>{minuto ? `Ver no minuto ${minuto}` : 'Ver no vídeo'}</b>
+          <small>Canal {canal}</small>
+        </button>
+      </div>
+      <figcaption>{titulo ? `"${titulo}", de ${canal}.` : `Vídeo de ${canal}.`} O vídeo pertence ao criador e toca direto do YouTube.</figcaption>
+    </figure>
+  )
+}
+
+<script is:inline>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script>

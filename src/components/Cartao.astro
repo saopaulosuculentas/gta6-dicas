@@ -1,0 +1,22 @@
+---
+import Selo from './Selo.astro';
+import { CATEGORIAS } from '../../site.config.mjs';
+import { u, canais, dataHora, type Dica } from '../lib/util';
+interface Props { dica: Dica }
+const { dica } = Astro.props;
+const d = dica.data;
+const n = canais(dica).length;
+---
+
+<a class="cartao" href={u(`/dica/${dica.id.replace('exemplos/', '')}/`)}>
+  <div class="cartao__topo">
+    <span class="etiqueta">{CATEGORIAS[d.categoria].nome}</span>
+    <Selo status={d.status} />
+  </div>
+  <h3>{d.titulo}</h3>
+  <p>{d.resumo}</p>
+  <div class="cartao__pe">
+    <time datetime={d.atualizado_em.toISOString()} data-relativo>{dataHora(d.atualizado_em)}</time>
+    <span>{n} {n > 1 ? 'fontes' : 'fonte'}</span>
+  </div>
+</a>

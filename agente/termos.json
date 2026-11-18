@@ -1,0 +1,35 @@
+{
+  "buscas": [
+    "gta 6 códigos",
+    "gta 6 macetes",
+    "gta 6 cheats",
+    "gta 6 cheat codes",
+    "gta 6 easter eggs",
+    "gta 6 easter egg",
+    "gta 6 segredos",
+    "gta 6 secrets",
+    "gta 6 locais secretos",
+    "gta 6 hidden locations",
+    "gta 6 dinheiro rápido",
+    "gta 6 money guide",
+    "gta 6 dicas",
+    "gta 6 tips and tricks",
+    "gta 6 armas raras",
+    "gta 6 rare vehicles",
+    "gta 6 trucos"
+  ],
+  "obrigatorio": ["gta 6", "gta6", "gta vi", "gtavi", "grand theft auto 6", "grand theft auto vi"],
+  "sinais": {
+    "código": 5, "codigo": 5, "códigos": 5, "codigos": 5, "cheat": 5, "macete": 5, "truco": 4, "trapaça": 4,
+    "easter egg": 5, "segredo": 4, "secret": 4, "hidden": 4, "escondid": 4, "mistério": 3, "mystery": 3,
+    "dinheiro": 3, "money": 3, "dinero": 3, "grana": 3,
+    "locais": 3, "location": 3, "localiza": 3, "onde achar": 3, "where to find": 3,
+    "rara": 3, "rare": 3, "desbloque": 3, "unlock": 3,
+    "dicas": 2, "tips": 2, "tricks": 2, "guia": 2, "guide": 2, "detalhes": 2, "details": 2
+  },
+  "bloqueio": [
+    "sorteio", "giveaway", "giving away", "gratis", "grátis", "free download", "descarga", "apk", "mobile",
+    "gerador", "generator", "hack", "mod menu", "resgate", "redeem", "roubad", "stolen", "pre-order", "pré-venda",
+    "gta 5", "gta v ", "gta online", "fivem", "roleplay", "rp ", "reagindo", "react", "trailer 3", "teoria", "theory", "vazou", "leak"
+  ]
+}

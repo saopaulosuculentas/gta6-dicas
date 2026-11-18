@@ -1,0 +1,40 @@
+---
+import Pagina from '../layouts/Pagina.astro';
+import { SITE } from '../../site.config.mjs';
+---
+
+<Pagina titulo="Como verificamos" descricao={`Como o ${SITE.nome} encontra, confere e publica códigos, easter eggs e segredos do GTA 6.`}>
+  <p>
+    A internet enche de "código do GTA 6" que não funciona. A regra aqui é simples: só entra o que alguém mostrou funcionando no jogo, e você
+    sempre vê quem mostrou.
+  </p>
+
+  <h2>De onde vêm as dicas</h2>
+  <p>
+    Acompanhamos vídeos e lives de GTA 6 no YouTube, em português e em inglês, várias vezes por dia. Um programa de inteligência artificial lê a
+    transcrição desses vídeos, separa os trechos que falam de código, segredo, easter egg ou dinheiro e, quando o detalhe só aparece na tela
+    (uma sequência de botões, um ponto no mapa), confere a imagem daquele momento.
+  </p>
+  <p>
+    O texto de cada dica é escrito por nós, do zero, em português. O vídeo original fica incorporado na página, no minuto exato, com o nome do
+    canal. O mérito da descoberta é de quem achou.
+  </p>
+
+  <h2>O que cada selo quer dizer</h2>
+  <ul>
+    <li><strong>Confirmado:</strong> a mesma dica apareceu funcionando em pelo menos dois canais diferentes, ou foi divulgada pela própria Rockstar Games.</li>
+    <li><strong>Em verificação:</strong> até agora só uma fonte mostrou. Publicamos para você não ficar para trás, mas avisamos que ainda pode mudar.</li>
+  </ul>
+  <p>Se uma dica em verificação for desmentida, ela sai do ar. Se uma dica confirmada mudar depois de uma atualização do jogo, a página é corrigida e a mudança fica registrada no histórico dela.</p>
+
+  <h2>O que não entra</h2>
+  <ul>
+    <li>Boato, "vazamento" e lista de código publicada antes do lançamento.</li>
+    <li>Programa de trapaça, modificação paga e qualquer coisa que dê vantagem no modo online.</li>
+    <li>"Gerador de dinheiro" e site que pede login da sua conta. Isso é golpe.</li>
+    <li>Código que não deu para ler com certeza. Sem chute.</li>
+  </ul>
+
+  <h2>Achou um erro?</h2>
+  <p>Avise pela página de contato dizendo qual dica e o que está errado. Correção tem prioridade sobre conteúdo novo.</p>
+</Pagina>

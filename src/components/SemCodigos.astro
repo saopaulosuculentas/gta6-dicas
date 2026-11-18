@@ -1,0 +1,19 @@
+---
+import { ultimaRodada, dataHora, u } from '../lib/util';
+---
+
+<div class="aviso">
+  <h3>Ainda não existe código confirmado</h3>
+  <p>
+    O GTA 6 chega em 19 de novembro de 2026 para PS5 e Xbox Series X|S. Até a última checagem, a Rockstar não divulgou nenhum código
+    e nenhum apareceu funcionando em vídeo.
+  </p>
+  <p>
+    Lista de "códigos do GTA 6" publicada antes do lançamento é chute ou código de GTA antigo. Aqui só entra o que foi mostrado
+    funcionando no jogo, com a sequência de botões e o vídeo de quem achou.
+  </p>
+  <p>
+    {ultimaRodada ? <>Última checagem: <strong>{dataHora(ultimaRodada)}</strong>. </> : null}
+    <a href={u('/como-verificamos/')} style="color: var(--ambar)">Como a gente verifica</a>
+  </p>
+</div>
