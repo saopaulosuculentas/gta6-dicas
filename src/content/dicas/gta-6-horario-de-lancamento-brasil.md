@@ -14,6 +14,7 @@ perguntas:
   - { p: "Que dia lança o GTA 6?", r: "19 de novembro de 2026, para PS5 e Xbox Series X|S." }
   - { p: "Que horas o GTA 6 libera no Brasil?", r: "À meia-noite de 19 de novembro, na virada do dia 18 para o dia 19, segundo o TechTudo." }
   - { p: "Dá para baixar o GTA 6 antes do lançamento?", r: "Sim. A página oficial do PlayStation informa pré-carregamento desde 10 de novembro para quem comprou em pré-venda." }
+  - { p: "Como baixar o GTA 6?", r: "Compre na PlayStation Store ou na Microsoft Store, ou resgate o código da caixa na loja do console. O download começa pela própria loja e pede no mínimo 212 GB livres no PS5." }
 ---
 
 O GTA 6 libera no Brasil à meia-noite de 19 de novembro de 2026, na virada do dia 18 para o dia 19. A data é oficial e o horário foi publicado pelo TechTudo.

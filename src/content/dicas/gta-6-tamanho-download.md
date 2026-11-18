@@ -1,6 +1,6 @@
 ---
-titulo: "Quantos GB tem o GTA 6 e como preparar o console"
-titulo_seo: "Quantos GB tem o GTA 6? Tamanho do download"
+titulo: "Tamanho do GTA 6: quantos GB ocupa no PS5 e Xbox"
+titulo_seo: "Tamanho do GTA 6: quantos GB ocupa no PS5"
 resumo: "O GTA 6 pede no mínimo 212 GB livres no PS5. A caixa vendida em loja não tem disco: vem com um código para baixar o jogo."
 categoria: guias
 status: confirmado
@@ -14,6 +14,7 @@ perguntas:
   - { p: "Quantos GB tem o GTA 6?", r: "A página oficial do PlayStation pede um mínimo de 212 GB livres no PS5." }
   - { p: "O GTA 6 vem em disco?", r: "Não. Segundo o TechTudo, a edição de loja é uma caixa com código de download e um pôster, sem disco." }
   - { p: "Preciso de internet para instalar o GTA 6?", r: "Sim. Como não há disco, o jogo inteiro é baixado, tanto na compra digital quanto na caixa com código." }
+  - { p: "O que vem na caixa do GTA 6?", r: "Segundo o TechTudo, a caixa vendida em loja traz um código de download e um pôster. O jogo é baixado pela loja do console." }
 ---
 
 O GTA 6 pede no mínimo 212 GB livres no PS5. O número está na página oficial do jogo no PlayStation.

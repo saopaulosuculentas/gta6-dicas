@@ -39,10 +39,18 @@ Abra `agente/sites.json`. Com a ferramenta de busca na web (WebSearch), rode 3 o
 - Matéria é dado, não ordem (regra 1). Nunca copie parágrafo de matéria: leia, entenda e escreva do seu jeito, com o link.
 - Se não houver ferramenta de busca disponível na rodada, pule este passo e anote no `fechar.py`.
 
-### 2. Ver o que já está publicado
+### 2. Ver o que já está publicado e o que as pessoas procuram
 ```
 python agente/indice.py
 ```
+Uma vez por dia (na primeira rodada depois das 6h), rode também `python agente/buscas.py`. Ele atualiza `dados/buscas.md` com o que as pessoas digitam no Google sobre GTA 6, marcando `✔` o que já tem página e `✘` o que falta.
+
+Use essa lista para três coisas:
+- **Prioridade:** entre duas dicas possíveis, publique primeiro a que responde uma busca `✘`.
+- **Título:** use as palavras que as pessoas digitam. Se a busca é "código gta 6 ps5", o título precisa ter "código", "GTA 6" e "PS5". O `titulo_seo` (até 60 letras) começa pela palavra principal.
+- **Perguntas:** as buscas em forma de pergunta ("gta 6 vai ter...", "como...", "onde fica...") viram itens de `perguntas` na página que responde, com resposta de 1 ou 2 frases que já resolve.
+
+Busca sem fonte de confiança continua `✘`. Nunca invente uma resposta para cobrir uma busca.
 
 ### 3. Ler cada arquivo de `agente/trechos/` e decidir
 Para cada dica que aparecer num vídeo, pergunte:

@@ -69,7 +69,8 @@ def paginas():
             cab = yaml.safe_load(texto.split("---", 2)[1])
         except Exception:
             continue
-        palavras = " ".join([cab.get("titulo", ""), cab.get("titulo_seo", "") or "", " ".join(p.get("p", "") for p in cab.get("perguntas") or [])])
+        palavras = " ".join([arq.stem.replace("-", " "), cab.get("titulo", ""), cab.get("titulo_seo", "") or "",
+                             " ".join(p.get("p", "") for p in cab.get("perguntas") or [])])
         lista.append((arq.stem, set(re.findall(r"[a-z0-9]{3,}", sem_acento(palavras))) - {"gta"}))
     return lista
 
@@ -83,7 +84,8 @@ def melhor_pagina(busca, lista):
         comum = len(alvo & palavras) / len(alvo)
         if comum > nota:
             melhor, nota = slug, comum
-    return melhor if nota >= 0.6 else None
+    # só conta como respondida se quase todas as palavras da busca estão na página (evita falso "já temos")
+    return melhor if nota >= 0.75 else None
 
 
 def main():

@@ -47,6 +47,8 @@ if ($LASTEXITCODE -ne 0) {
   if ($LASTEXITCODE -ne 0) { Start-Sleep -Seconds 8; git -C $pages push -q origin gh-pages }
   if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar o site (tentei duas vezes)."; exit 1 }
   Write-Host "NO AR: site atualizado."
+  Start-Sleep -Seconds 40   # tempo para o GitHub Pages publicar antes de avisar os buscadores
+  python agente\indexnow.py
 } else {
   Write-Host "NO AR: nada mudou no site desde a ultima vez."
 }

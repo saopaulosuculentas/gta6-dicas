@@ -1,6 +1,6 @@
 # Buscas reais sobre GTA 6 (Google, português do Brasil)
 
-Gerado em 18/11/2026 17:16 por `agente/buscas.py` a partir das sugestões do autocompletar do Google.
+Gerado em 18/11/2026 17:24 por `agente/buscas.py` a partir das sugestões do autocompletar do Google.
 Cada linha é algo que as pessoas digitam. `✔ nome-da-dica` = o site já tem página que responde. `✘` = falta página.
 O agente usa esta lista para escolher o que publicar primeiro e para escrever títulos com as palavras das pessoas.
 Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida fica esperando.
@@ -15,28 +15,28 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✔ gta 6 codigos → `codigos-gta-6-como-usar`
 - ✘ gta 6 cheating
 - ✘ cheats gta 6 ps5
-- ✘ codigo gta 6 ps5
+- ✔ codigo gta 6 ps5 → `codigos-gta-6-como-usar`
 - ✔ codigos gta 6 pc → `codigos-gta-6-como-usar`
 - ✘ gta 6 cheat code
-- ✘ codigo gta 6 xbox
+- ✔ codigo gta 6 xbox → `codigos-gta-6-como-usar`
 - ✘ codigos gta 6 ps3
-- ✘ codigos gta 6 ps4
-- ✘ gta 6 codigo xbox
-- ✘ gta 6 codigos ps5
-- ✘ codigos gta 6 xbox
+- ✔ codigos gta 6 ps4 → `codigos-gta-6-como-usar`
+- ✔ gta 6 codigo xbox → `codigos-gta-6-como-usar`
+- ✔ gta 6 codigos ps5 → `codigos-gta-6-como-usar`
+- ✔ codigos gta 6 xbox → `codigos-gta-6-como-usar`
 - ✘ gta 6 codigo fonte
 - ✘ gta 6 tera codigos
 - ✘ gta 6 cheat codes pc
 - ✘ gta 6 codigo digital
-- ✘ codigo gta 6 xbox 360
-- ✔ codigo gta 6 xbox one → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ codigo gta 6 xbox 360 → `codigos-gta-6-como-usar`
+- ✘ codigo gta 6 xbox one
 - ✘ gta 6 cheat codes ps4
 - ✘ gta 6 cheat codes ps5
 - ✘ gta 6 cheats xbox 360
 - ✘ gta 6 codigo na caixa
-- ✔ gta 6 vai ter codigos → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 vai ter macetes → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✘ codigos gta 6 xbox 360
+- ✘ gta 6 vai ter codigos
+- ✘ gta 6 vai ter macetes
+- ✔ codigos gta 6 xbox 360 → `codigos-gta-6-como-usar`
 - ✘ gta 6 codigo 25 digitos
 - ✘ codigo desconto gta 6 ps5
 - ✘ codigo descuento gta 6 ps5
@@ -55,7 +55,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ luminaria gta 6 dinheiro
 - ✘ vazamento gta 6 dinheiro
 - ✘ gta 6 dinheiro arrecadado
-- ✔ como ganhar dinheiro gta 6 → `casa-do-jason-o-que-fazer-gta-6`
+- ✘ como ganhar dinheiro gta 6
 - ✘ gta 6 ganhar dinheiro real
 - ✘ como fazer dinheiro com gta 6
 - ✘ vai ter como ganhar dinheiro no gta 6
@@ -105,9 +105,9 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 local multiplayer
 - ✘ gta 6 mapa da comunidade
 - ✘ gta 6 onde vai se passar
-- ✔ onde fica o mapa do gta 6 → `pe-grande-grassrivers-gta-6`
+- ✘ onde fica o mapa do gta 6
 - ✘ como achar o gta 6 no xbox
-- ✔ onde fica a cidade do gta 6 → `pe-grande-grassrivers-gta-6`
+- ✘ onde fica a cidade do gta 6
 - ✘ gta 6 onde ver os vazamentos
 - ✘ gta 6 onde vai lançar primeiro
 - ✘ gta 6 onde comprar na pre venda
@@ -143,7 +143,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 missão
 - ✘ gta 6 platina
 - ✔ gta 6 trofeus → `codigo-dinheiro-gta-6`
-- ✔ gta 6 vai ter missão → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 vai ter missão
 - ✘ gta 6 missão da mandy
 - ✘ gta 6 primeira missão
 - ✘ gta 6 quanto tempo para zerar
@@ -156,7 +156,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✔ gta 6 como es → `casa-do-jason-o-que-fazer-gta-6`
 - ✘ gta 6 como sera
 - ✘ gta 6 como jogar
-- ✘ gta 6 como baixar
+- ✔ gta 6 como baixar → `gta-6-horario-de-lancamento-brasil`
 - ✘ gta 6 como comprar
 - ✘ gta 6 como vai ser
 - ✘ gta 6 como funciona
@@ -165,9 +165,9 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 como jogar antes
 - ✘ gta 6 como jogar no pc
 - ✘ gta 6 como jogar dia 18
-- ✔ como fazer upgrade gta 6 → `casa-do-jason-o-que-fazer-gta-6`
+- ✘ como fazer upgrade gta 6
 - ✘ gta 6 como vai funcionar
-- ✔ como fazer a trend do gta 6 → `casa-do-jason-o-que-fazer-gta-6`
+- ✘ como fazer a trend do gta 6
 - ✘ gta 6 como descargar gratis
 - ✘ gta 6 como vai rodar no ps5
 - ✘ como fazer a pre venda do gta 6
@@ -180,20 +180,20 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 
 - ✘ gta 6 gb
 - ✘ gta 6 pc
-- ✔ gta 6 ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✘ gta 6 ps5
+- ✔ gta 6 ps4 → `codigos-gta-6-como-usar`
+- ✔ gta 6 ps5 → `codigos-gta-6-como-usar`
 - ✘ gta 6 data
-- ✔ gta 6 xbox → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ gta 6 xbox → `codigos-gta-6-como-usar`
 - ✘ gta 6 no pc
 - ✘ gta 6 on pc
 - ✔ gta 6 preço → `gta-6-preco-edicoes-brasil`
 - ✘ gta 6 valor
-- ✘ gta 6 en ps5
+- ✔ gta 6 en ps5 → `codigos-gta-6-como-usar`
 - ✘ gta 6 for pc
-- ✔ gta 6 no ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ gta 6 no ps4 → `codigos-gta-6-como-usar`
 - ✔ gta 6 online → `gta-6-tem-modo-online`
 - ✔ gta 6 dublado → `gta-6-dublado-em-portugues`
-- ✔ gta 6 en xbox → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ gta 6 en xbox → `codigos-gta-6-como-usar`
 - ✘ gta 6 for ps5
 - ✔ gta 6 horario → `gta-6-horario-de-lancamento-brasil`
 - ✔ gta 6 para pc → `casa-do-jason-o-que-fazer-gta-6`
@@ -203,7 +203,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 ps5 pro
 - ✔ gta 6 tamanho → `gta-6-tamanho-download`
 - ✘ gta 6 for xbox
-- ✔ gta 6 para ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ gta 6 para ps4 → `codigos-gta-6-como-usar`
 - ✔ gta 6 pc preço → `gta-6-preco-edicoes-brasil`
 - ✔ gta 6 preço pc → `gta-6-preco-edicoes-brasil`
 - ✘ gta 6 ps4 meme
@@ -237,7 +237,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✔ gta 6 ps4 vai ter → `gta-6-roda-no-ps4-xbox-one-pc`
 - ✘ gta 6 ps5 digital
 - ✔ gta 6 roda no ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✘ gta 6 tamanho ps5
+- ✔ gta 6 tamanho ps5 → `gta-6-tamanho-download`
 - ✔ gta 6 tem para pc → `casa-do-jason-o-que-fazer-gta-6`
 - ✘ gta 6 tem pra ps4
 - ✘ gta 6 xbox series
@@ -245,7 +245,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 lança quando
 - ✘ gta 6 quando lança
 - ✘ gta 6 sera dublado
-- ✔ gta 6 tem para ps4 → `casa-do-jason-o-que-fazer-gta-6`
+- ✔ gta 6 tem para ps4 → `codigos-gta-6-como-usar`
 - ✘ gta 6 tem pra xbox
 - ✔ gta 6 en xbox one s → `gta-6-roda-no-ps4-xbox-one-pc`
 - ✘ gta 6 online gratis
@@ -256,14 +256,14 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 xbox series x
 - ✘ gta 6 controller ps5
 - ✘ gta 6 ja foi lançado
-- ✔ gta 6 online vai ter → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 online vai ter
 - ✘ gta 6 preço em dolar
 - ✘ gta 6 ps4 lançamento
 - ✘ gta 6 ps5 vs ps5 pro
-- ✘ gta 6 tamanho gb ps5
-- ✔ gta 6 vai ter online → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✔ gta 6 tamanho gb ps5 → `gta-6-tamanho-download`
+- ✘ gta 6 vai ter online
 - ✘ gta 6 funciona no ps4
-- ✔ gta 6 online tem data → `gta-6-tem-modo-online`
+- ✘ gta 6 online tem data
 - ✘ gta 6 pc release date
 - ✔ gta 6 preço no brasil → `gta-6-preco-edicoes-brasil`
 - ✘ gta 6 preço pre venda
@@ -278,13 +278,13 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✔ gta 6 roda no xbox one → `gta-6-roda-no-ps4-xbox-one-pc`
 - ✔ gta 6 tamanho em disco → `gta-6-tamanho-download`
 - ✘ gta 6 tamanho estimado
-- ✔ gta 6 vai rodar no ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 vai sair para pc → `fim-do-mapa-gta-6`
+- ✘ gta 6 vai rodar no ps4
+- ✘ gta 6 vai sair para pc
 - ✔ gta 6 brasil lançamento → `gta-6-horario-de-lancamento-brasil`
 - ✔ gta 6 lançamento brasil → `gta-6-horario-de-lancamento-brasil`
 - ✘ gta 6 midia fisica xbox
 - ✔ gta 6 online lançamento → `gta-6-tem-modo-online`
-- ✔ gta 6 pode jogar no ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 pode jogar no ps4
 - ✘ gta 6 pode rodar no ps4
 - ✘ gta 6 preço playstation
 - ✘ gta 6 quando vai lançar
@@ -293,38 +293,38 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 xbox midia fisica
 - ✘ gta 6 da pra jogar no pc
 - ✘ gta 6 data de lançamento
-- ✔ gta 6 da pra jogar no ps4 → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 da pra jogar online → `gta-6-tem-modo-online`
+- ✘ gta 6 da pra jogar no ps4
+- ✘ gta 6 da pra jogar online
 - ✔ gta 6 dá para jogar no pc → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 online quando lança → `gta-6-tem-modo-online`
+- ✘ gta 6 online quando lança
 - ✘ gta 6 online release date
 - ✘ gta 6 online vai ser pago
 - ✘ gta 6 preço xbox series s
 - ✘ gta 6 xbox series s preço
 - ✔ gta 6 dublado em português → `gta-6-dublado-em-portugues`
-- ✔ gta 6 dá para jogar no ps5 → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 online tem crossplay → `gta-6-tem-modo-online`
+- ✘ gta 6 dá para jogar no ps5
+- ✘ gta 6 online tem crossplay
 - ✘ gta 6 ps5 ultimate edition
 - ✘ gta 6 qual vai ser o valor
-- ✔ gta 6 quando lança para pc → `gta-6-horario-de-lancamento-brasil`
+- ✘ gta 6 quando lança para pc
 - ✘ gta 6 ultimate edition ps5
 - ✘ gta 6 comprar xbox series s
 - ✔ gta 6 dá para jogar no xbox → `gta-6-roda-no-ps4-xbox-one-pc`
 - ✔ gta 6 horario de lançamento → `gta-6-horario-de-lancamento-brasil`
 - ✘ gta 6 online terá crossplay
-- ✔ gta 6 roda no xbox series s → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 roda no xbox series s
 - ✘ gta 6 tamanho xbox series s
 - ✘ gta 6 ultimate edition xbox
 - ✔ gta 6 vai rodar no xbox one → `gta-6-roda-no-ps4-xbox-one-pc`
-- ✔ gta 6 qual o tamanho do jogo → `codigo-dinheiro-gta-6`
-- ✔ gta 6 quando lança no brasil → `gta-6-horario-de-lancamento-brasil`
-- ✔ gta 6 ultimate edition preço → `gta-6-preco-edicoes-brasil`
-- ✔ gta 6 dá para jogar no xbox 360 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 qual o tamanho do jogo
+- ✘ gta 6 quando lança no brasil
+- ✘ gta 6 ultimate edition preço
+- ✔ gta 6 dá para jogar no xbox 360 → `codigos-gta-6-como-usar`
 - ✔ gta 6 dá para jogar no xbox one → `gta-6-roda-no-ps4-xbox-one-pc`
 - ✘ gta 6 qual a data de lançamento
 - ✘ gta 6 da pra jogar no ps5 normal
 - ✘ gta 6 vai rodar no xbox series s
-- ✔ gta 6 data de lançamento no brasil → `gta-6-horario-de-lancamento-brasil`
+- ✘ gta 6 data de lançamento no brasil
 - ✘ gta 6 vai ser dublado em português
 
 ## Outras (282)
@@ -536,7 +536,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 casa das primas
 - ✔ gta 6 edição ultimate → `gta-6-preco-edicoes-brasil`
 - ✘ gta 6 ja da pra jogar
-- ✔ gta 6 jason tem filho → `casa-do-jason-o-que-fazer-gta-6`
+- ✘ gta 6 jason tem filho
 - ✘ gta 6 lucia tem filho
 - ✘ gta 6 lucia vazamento
 - ✘ gta 6 mapping project
@@ -559,7 +559,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 da pra jogar de 2
 - ✘ gta 6 jason voice actor
 - ✘ gta 6 playstation store
-- ✔ gta 6 quando pode jogar → `gta-6-tem-modo-online`
+- ✘ gta 6 quando pode jogar
 - ✘ gta 6 bonus de pre venda
 - ✘ gta 6 en nintendo switch
 - ✘ gta 6 foi adiado de novo
@@ -571,7 +571,7 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 contagem regressiva
 - ✘ gta 6 já lançou no brasil
 - ✘ gta 6 personagem feminina
-- ✔ gta 6 quando da pra jogar → `gta-6-tem-modo-online`
+- ✘ gta 6 quando da pra jogar
 - ✘ gta 6 quantos dias faltam
 - ✘ gta 6 release date update
 - ✘ gta 6 se passa em que ano
@@ -581,26 +581,26 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 personagem principal
 - ✘ gta 6 roda em qual console
 - ✘ gta 6 countdown new zealand
-- ✔ gta 6 dá para jogar de dois → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 dá para jogar de dois
 - ✘ gta 6 personagem brasileiro
 - ✘ gta 6 quantas horas de jogo
 - ✘ gta 6 pode ser compartilhado
 - ✘ gta 6 qual console vai rodar
 - ✘ gta 6 quando vai poder jogar
 - ✘ gta 6 se passa em que cidade
-- ✔ gta 6 dá para jogar no play 4 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 dá para jogar no play 4
 - ✘ gta 6 gameplay footage reddit
 - ✘ gta 6 jason e lucia tem filho
 - ✘ gta 6 já lançou em algum país
 - ✘ gta 6 pode ser adiado de novo
 - ✘ gta 6 ultimate edition amazon
 - ✘ gta 6 da pra jogar multiplayer
-- ✔ gta 6 dá para jogar no celular → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 dá para jogar no celular
 - ✘ gta 6 pode ser banido do brasil
-- ✔ gta 6 tem dublagem em portugues → `gta-6-dublado-em-portugues`
+- ✘ gta 6 tem dublagem em portugues
 - ✘ gta 6 tem quantas horas de jogo
 - ✘ gta 6 ja lancou na nova zelandia
-- ✔ gta 6 ultimate edition diferença → `gta-6-preco-edicoes-brasil`
+- ✘ gta 6 ultimate edition diferença
 - ✔ gta 6 ultimate edition o que vem → `gta-6-preco-edicoes-brasil`
 - ✘ gta 6 pode concorrer ao goty 2026
 - ✘ gta 6 pode ser proibido no brasil
@@ -608,6 +608,6 @@ Só vira página o que tiver fonte de confiança. Busca sem resposta conhecida f
 - ✘ gta 6 ultimate edition vale a pena
 - ✘ gta 6 ultimate edition midia fisica
 - ✘ gta 6 vai ter dublagem em português
-- ✔ gta 6 dá para jogar no playstation 4 → `gta-6-roda-no-ps4-xbox-one-pc`
+- ✘ gta 6 dá para jogar no playstation 4
 - ✘ gta 6 graphics playstation commercial
 - ✔ gta 6 qual a diferença entre as versões → `codigo-municao-infinita-gta-6`

@@ -1,6 +1,6 @@
 ---
-titulo: "Como usar e desbloquear os códigos do GTA 6"
-titulo_seo: "Códigos do GTA 6: como usar e desbloquear"
+titulo: "Códigos do GTA 6 no PS5 e Xbox: como usar e desbloquear"
+titulo_seo: "Códigos do GTA 6 (PS5 e Xbox): como usar e liberar"
 resumo: "No GTA 6 os códigos são digitados no celular do jogo, com L1 e R1 seguros, e precisam ser desbloqueados antes. São 61, e usar qualquer um desliga os troféus."
 categoria: guias
 status: em-verificacao
@@ -16,6 +16,8 @@ perguntas:
   - { p: "Como digitar código no GTA 6?", r: "Abra o celular do personagem com o direcional para cima, segure L1 e R1 e digite a sequência no direcional." }
   - { p: "Os códigos do GTA 6 funcionam desde o começo?", r: "Não. Cada código tem um requisito para ser liberado, como concluir a história ou cumprir um desafio." }
   - { p: "Usar código no GTA 6 desliga os troféus?", r: "Sim, segundo o TechTudo. Salve o jogo antes de ativar." }
+  - { p: "Os códigos do GTA 6 são iguais no PS5 e no Xbox?", r: "Sim. As sequências usam só o direcional (cima, baixo, esquerda, direita), então são as mesmas nos dois consoles. Muda só o par de botões que você segura." }
+  - { p: "Tem código do GTA 6 para PS4, PC ou Xbox 360?", r: "Não. O GTA 6 só existe para PS5 e Xbox Series X|S. Lista de código para PS4, PS3, Xbox 360 ou PC é de outro GTA ou é falsa." }
 ---
 
 O GTA 6 tem códigos, mas eles funcionam de um jeito diferente dos GTA antigos: não basta decorar a sequência. Cada código precisa ser desbloqueado antes, cumprindo um requisito dentro do jogo. A lista mais completa até agora saiu no TechTudo em 18 de novembro, e é dela que vêm as informações desta página.

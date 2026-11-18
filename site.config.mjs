@@ -47,8 +47,8 @@ export const INDEXAR = SITE.indexar;
 export const CATEGORIAS = {
   codigos: {
     nome: 'Códigos',
-    titulo: 'Códigos e macetes do GTA 6 (PS5 e Xbox)',
-    descricao: 'Lista de códigos e macetes do GTA 6 para PS5 e Xbox Series: sequência de botões, o que cada um faz e se já foi confirmado.',
+    titulo: 'Códigos do GTA 6 para PS5 e Xbox: lista de macetes',
+    descricao: 'Lista de códigos e macetes do GTA 6 para PS5 e Xbox Series: dinheiro, munição infinita, colete, sequência de botões, como liberar cada um e se já foi confirmado.',
     chamada: 'Sequências de botões, o que cada uma faz e em qual console funciona.',
   },
   'easter-eggs': {
