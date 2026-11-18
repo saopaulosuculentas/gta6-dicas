@@ -1,6 +1,7 @@
 {
   "_como_usar": "Canais de confiança. 'oficial' = a própria Rockstar (uma fonte oficial já confirma a dica). 'alta' = canal que já acertou 2 ou mais dicas confirmadas aqui; o agente acrescenta canais nesta lista conforme eles se provam. Os vídeos destes canais entram na fila antes dos demais.",
   "canais": [
-    { "nome": "Rockstar Games", "url": "https://www.youtube.com/@RockstarGames", "confianca": "oficial" }
+    { "nome": "Rockstar Games", "url": "https://www.youtube.com/@RockstarGames", "confianca": "oficial" },
+    { "nome": "Gameplayrj", "url": "https://www.youtube.com/@Gameplayrj", "confianca": "alta", "_nota": "indicado pelo Luan em 18/11/2026; conta como 1 fonte, como qualquer canal" }
   ]
 }

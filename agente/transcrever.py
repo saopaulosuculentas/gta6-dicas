@@ -209,7 +209,7 @@ def main():
             gravar_json(VISTOS, vistos)
             continue
         linhas = em_linhas(falas)
-        if v.get("confianca") == "indicado":
+        if v.get("confianca") == "indicado" and v["duracao"] <= 20 * 60:
             # vídeo indicado à mão: o agente lê tudo, não só os trechos com palavra-chave
             texto, n, inteiro = "\n".join(f"[{hms(s)}] {t}" for s, t in linhas)[: MAX_LETRAS * 2], 1, True
         else:
