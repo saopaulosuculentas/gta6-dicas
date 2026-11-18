@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://saopaulosuculentas.github.io/sitemap-index.xml
+Sitemap: https://macetesgta6.com.br/sitemap-index.xml
