@@ -16,8 +16,7 @@ if ($exemplo) { Write-Host "PAREI: tem dica de exemplo no site montado."; exit 1
 
 # 1) guarda o conteudo (branch main)
 git add -A
-git diff --cached --quiet
-if ($LASTEXITCODE -ne 0) { git commit -q -m $Mensagem -m "Co-Authored-By: Claude Fable 5.2 <noreply@anthropic.com>" }
+if (git status --porcelain) { git commit -q -m $Mensagem -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" }
 git push -q origin main
 if ($LASTEXITCODE -ne 0) { Start-Sleep -Seconds 8; git push -q origin main }
 if ($LASTEXITCODE -ne 0) { Write-Host "PAREI: nao consegui enviar para o GitHub (tentei duas vezes)."; exit 1 }
@@ -40,8 +39,8 @@ Set-Content -Path (Join-Path $pages ".nojekyll") -Value "" -Encoding ascii
 $cname = Join-Path $PSScriptRoot "CNAME"
 if (Test-Path $cname) { Copy-Item $cname (Join-Path $pages "CNAME") -Force }
 git -C $pages add -A
-git -C $pages diff --cached --quiet
-if ($LASTEXITCODE -ne 0) {
+$mudou = git -C $pages status --porcelain
+if ($mudou) {
   git -C $pages commit -q -m $Mensagem
   git -C $pages push -q origin gh-pages
   if ($LASTEXITCODE -ne 0) { Start-Sleep -Seconds 8; git -C $pages push -q origin gh-pages }
