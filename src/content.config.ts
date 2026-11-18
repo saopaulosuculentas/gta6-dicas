@@ -23,8 +23,10 @@ const dicas = defineCollection({
   schema: z
     .object({
       titulo: z.string().min(10).max(95),
+      // título que aparece no Google (até 60 letras). Vazio = usa o título da página.
+      titulo_seo: z.string().max(62).optional(),
       resumo: z.string().min(40).max(220),
-      categoria: z.enum(['codigos', 'easter-eggs', 'segredos-e-locais', 'dinheiro', 'dicas']),
+      categoria: z.enum(['codigos', 'easter-eggs', 'segredos-e-locais', 'dinheiro', 'dicas', 'guias']),
       status: z.enum(['confirmado', 'em-verificacao']),
       plataformas: z.array(z.enum(['ps5', 'xbox'])).min(1).default(['ps5', 'xbox']),
       codigo: z
@@ -41,6 +43,10 @@ const dicas = defineCollection({
       atualizado_em: z.coerce.date(),
       historico: z.array(z.object({ data: z.coerce.date(), nota: z.string() })).default([]),
       destaque: z.boolean().default(false),
+      // perguntas e respostas curtas no fim da página (aparecem também para o Google)
+      perguntas: z.array(z.object({ p: z.string().min(8), r: z.string().min(20) })).default([]),
+      // cortes curtos do nosso canal que mostram a dica (links do YouTube)
+      cortes: z.array(z.object({ url: z.string().url(), titulo: z.string(), canal: z.string().optional() })).default([]),
     })
     .refine(
       (d) => {

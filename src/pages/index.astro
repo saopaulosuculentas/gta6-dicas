@@ -11,6 +11,7 @@ import { u, todasDicas, hora, dataHora, linkDica } from '../lib/util';
 const dicas = await todasDicas();
 const confirmadas = dicas.filter((d) => d.data.status === 'confirmado').length;
 const codigos = dicas.filter((d) => d.data.categoria === 'codigos');
+const guias = dicas.filter((d) => d.data.categoria === 'guias');
 const hoje = new Date().toDateString();
 const plantao = dicas.slice(0, 6);
 const ultimas = dicas.slice(0, 12);
@@ -72,6 +73,25 @@ const jsonld = {
         </div>
         {codigos.length ? <TabelaCodigos dicas={codigos.slice(0, 6)} /> : <SemCodigos />}
       </section>
+
+      {
+        guias.length > 0 && (
+          <section class="secao" aria-labelledby="s-guias">
+            <div class="secao__cabeca">
+              <h2 id="s-guias">Respostas diretas</h2>
+              <a href={u('/guias/')}>Todos os guias →</a>
+            </div>
+            <div class="guias">
+              {guias.slice(0, 9).map((g, i) => (
+                <a class="guia" href={linkDica(g)}>
+                  <i aria-hidden="true">{String(i + 1).padStart(2, '0')}</i>
+                  <span><b>{g.data.titulo}</b><small>{g.data.resumo}</small></span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )
+      }
 
       {
         ultimas.length > 0 && (

@@ -8,3 +8,5 @@ __pycache__/
 agente/trechos/
 agente/fila.json
 .claude/
+dados/takes.md
+dados/pautas.md

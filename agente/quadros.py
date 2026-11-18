@@ -2,9 +2,11 @@
 
 Uso:  python agente/quadros.py ID_DO_VIDEO MINUTO [--dur 12] [--n 6]
       python agente/quadros.py dQw4w9WgXcQ 4:12
+      python agente/quadros.py "https://www.youtube.com/watch?v=-p9V4ivrBnI" 4:12   (id que começa com "-": passe o link)
 Sai:  agente/quadros/<id>/<minuto>_NN.jpg  (as imagens são só para conferência; nunca vão para o site)
 """
 import argparse
+import re
 import subprocess
 
 from comum import QUADROS, TRABALHO, hms, segundos, utf8, ytdlp
@@ -18,6 +20,10 @@ def main():
     ap.add_argument("--dur", type=int, default=12, help="quantos segundos olhar a partir do minuto")
     ap.add_argument("--n", type=int, default=6, help="quantos quadros tirar")
     a = ap.parse_args()
+    # aceita o link inteiro no lugar do id (necessário quando o id começa com "-")
+    m = re.search(r"(?:v=|youtu\.be/|/live/|/shorts/)([\w-]{11})", a.id)
+    if m:
+        a.id = m.group(1)
 
     ini = max(0, segundos(a.minuto) - 2)
     fim = ini + a.dur + 2

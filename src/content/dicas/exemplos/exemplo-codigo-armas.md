@@ -12,6 +12,9 @@ fontes:
   - { canal: "Canal de Exemplo B", url: "https://www.youtube.com/watch?v=EXEMPLO0002", titulo: "Vídeo de exemplo B", minuto: "12:40", data: "2026-11-18T19:30:00-03:00" }
 descoberto_em: "2026-11-18T18:20:00-03:00"
 atualizado_em: "2026-11-18T19:45:00-03:00"
+perguntas:
+  - { p: "[Exemplo] Esse código desliga os troféus?", r: "Resposta de exemplo, só para mostrar como as perguntas aparecem no fim da página." }
+  - { p: "[Exemplo] Funciona no Xbox?", r: "Resposta de exemplo: a sequência do Xbox aparece logo abaixo da do PS5." }
 historico:
   - { data: "2026-11-18T18:20:00-03:00", nota: "Dica publicada, em verificação." }
   - { data: "2026-11-18T19:45:00-03:00", nota: "Segunda fonte encontrada. Selo mudou para confirmado." }

@@ -5,9 +5,20 @@ export const SITE = {
   descricao:
     'Códigos, macetes, easter eggs, segredos e dicas de dinheiro do GTA 6 em português. Cada dica traz a fonte e um selo: confirmado ou em verificação.',
 
-  // Domínio próprio. Vazio = site no endereço provisório e escondido do Google (noindex).
+  // Domínio próprio. Vazio = site no endereço provisório.
   // Exemplo: 'https://macetesgta6.com.br'
   dominio: '',
+
+  // true = o Google pode indexar o site. Quando o domínio próprio for ligado,
+  // o GitHub Pages redireciona sozinho o endereço provisório para ele.
+  indexar: true,
+
+  // Códigos de verificação (só o conteúdo da meta tag) do Google Search Console e do Bing Webmaster.
+  googleVerificacao: '',
+  bingVerificacao: '',
+
+  // Endereço do canal de cortes no YouTube (aparece no rodapé e nas dicas com corte).
+  canalCortes: '',
 
   // Endereço provisório (GitHub Pages) usado enquanto "dominio" estiver vazio.
   provisorio: { site: 'https://saopaulosuculentas.github.io', base: '/gta6-dicas' },
@@ -31,20 +42,19 @@ export const SITE = {
 };
 
 export const temDominio = Boolean(SITE.dominio);
-// Só deixa o Google indexar quando o domínio próprio estiver ligado.
-export const INDEXAR = temDominio;
+export const INDEXAR = SITE.indexar;
 
 export const CATEGORIAS = {
   codigos: {
     nome: 'Códigos',
-    titulo: 'Códigos e macetes do GTA 6',
-    descricao: 'Todos os códigos do GTA 6 para PS5 e Xbox Series, com a sequência de botões e o que cada um faz.',
+    titulo: 'Códigos e macetes do GTA 6 (PS5 e Xbox)',
+    descricao: 'Lista de códigos e macetes do GTA 6 para PS5 e Xbox Series: sequência de botões, o que cada um faz e se já foi confirmado.',
     chamada: 'Sequências de botões, o que cada uma faz e em qual console funciona.',
   },
   'easter-eggs': {
     nome: 'Easter eggs',
-    titulo: 'Easter eggs do GTA 6',
-    descricao: 'Referências, piadas escondidas e mistérios do GTA 6, com o local exato e o vídeo de quem achou.',
+    titulo: 'Easter eggs do GTA 6: lista com local e vídeo',
+    descricao: 'Todos os easter eggs do GTA 6 já encontrados: referências, piadas escondidas e mistérios, com o local exato e o vídeo de quem achou.',
     chamada: 'Referências, piadas escondidas e mistérios de Leonida.',
   },
   'segredos-e-locais': {
@@ -55,8 +65,8 @@ export const CATEGORIAS = {
   },
   dinheiro: {
     nome: 'Dinheiro',
-    titulo: 'Como ganhar dinheiro no GTA 6',
-    descricao: 'Formas de ganhar dinheiro rápido no modo história do GTA 6, testadas e com fonte.',
+    titulo: 'Como ganhar dinheiro rápido no GTA 6',
+    descricao: 'Jeitos de ganhar dinheiro rápido no modo história do GTA 6, mostrados funcionando e com a fonte de cada um.',
     chamada: 'Jeitos de encher a carteira no modo história.',
   },
   dicas: {
@@ -64,5 +74,11 @@ export const CATEGORIAS = {
     titulo: 'Dicas de GTA 6',
     descricao: 'Dicas práticas de GTA 6: controles, fuga da polícia, missões e ajustes que facilitam o jogo.',
     chamada: 'O que facilita a vida: controles, fuga da polícia, missões.',
+  },
+  guias: {
+    nome: 'Guias',
+    titulo: 'Guias do GTA 6: respostas diretas',
+    descricao: 'Respostas diretas sobre o GTA 6: horário de lançamento, consoles, preço, tamanho do download, mapa, personagens e o que é verdade sobre os códigos.',
+    chamada: 'Respostas diretas: lançamento, consoles, preço, mapa e personagens.',
   },
 };

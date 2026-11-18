@@ -11,7 +11,7 @@ import yaml
 
 from comum import BRT, DICAS, utf8
 
-CATEGORIAS = {"codigos", "easter-eggs", "segredos-e-locais", "dinheiro", "dicas"}
+CATEGORIAS = {"codigos", "easter-eggs", "segredos-e-locais", "dinheiro", "dicas", "guias"}
 PS5 = {"cima", "baixo", "esquerda", "direita", "x", "circulo", "quadrado", "triangulo", "l1", "l2", "r1", "r2", "l3", "r3"}
 XBOX = {"cima", "baixo", "esquerda", "direita", "a", "b", "x", "y", "lb", "lt", "rb", "rt", "ls", "rs"}
 PROIBIDO = re.compile(r"mod menu|trainer|gerador de dinheiro|money generator|hack\b|crack|conta modded|modded account|"
@@ -90,6 +90,8 @@ def main():
             avisos.append(f"{nome}: cita o modo online; confira se não ensina vantagem indevida")
         if len(corpo.strip()) < 500:
             avisos.append(f"{nome}: texto curto ({len(corpo.strip())} letras); o Google recusa página rasa, mire em 900+")
+        if len(str(d.get("titulo_seo", ""))) > 62:
+            erros.append(f"{nome}: 'titulo_seo' com mais de 62 letras")
         if "[exemplo]" in str(d.get("titulo", "")).lower():
             erros.append(f"{nome}: dica de exemplo fora da pasta exemplos/")
         k = chave(str(d.get("titulo", "")))

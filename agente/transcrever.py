@@ -209,7 +209,11 @@ def main():
             gravar_json(VISTOS, vistos)
             continue
         linhas = em_linhas(falas)
-        texto, n, inteiro = separar(linhas, v["duracao"])
+        if v.get("confianca") == "indicado":
+            # vídeo indicado à mão: o agente lê tudo, não só os trechos com palavra-chave
+            texto, n, inteiro = "\n".join(f"[{hms(s)}] {t}" for s, t in linhas)[: MAX_LETRAS * 2], 1, True
+        else:
+            texto, n, inteiro = separar(linhas, v["duracao"])
         if not texto:
             vistos[v["id"]] = {"quando": agora_iso(), "titulo": v["titulo"], "canal": v["canal"], "resultado": "sem-sinal"}
             gravar_json(VISTOS, vistos)

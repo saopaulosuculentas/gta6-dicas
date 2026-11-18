@@ -4,6 +4,7 @@ Uso:  python agente/concluir.py ID_DO_VIDEO "o que saiu dele"
       python agente/concluir.py dQw4w9WgXcQ "2 dicas novas, 1 confirmação"
       python agente/concluir.py dQw4w9WgXcQ "nada aproveitável: só boato"
 """
+import re
 import sys
 
 from comum import TRECHOS, VISTOS, agora_iso, gravar_json, ler_json, utf8
@@ -11,9 +12,13 @@ from comum import TRECHOS, VISTOS, agora_iso, gravar_json, ler_json, utf8
 
 def main():
     utf8()
-    if len(sys.argv) < 3:
+    args = [x for x in sys.argv[1:] if x != "--"]
+    if len(args) < 2:
         raise SystemExit(__doc__)
-    vid, nota = sys.argv[1], " ".join(sys.argv[2:])
+    vid, nota = args[0], " ".join(args[1:])
+    m = re.search(r"(?:v=|youtu\.be/|/live/|/shorts/)([\w-]{11})", vid)  # aceita o link inteiro no lugar do id
+    if m:
+        vid = m.group(1)
     arq = TRECHOS / f"{vid}.txt"
     feitos = TRECHOS / "feitos"
     feitos.mkdir(parents=True, exist_ok=True)

@@ -22,7 +22,16 @@ const video = d.fontes.find((f) => f.tipo === 'youtube');
 const outras = (await todasDicas()).filter((x) => x.id !== dica.id && x.data.categoria === d.categoria).slice(0, 3);
 const endereco = new URL(linkDica(dica), Astro.site).href;
 
+const perguntas = d.perguntas.length
+  ? [{
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: d.perguntas.map((q) => ({ '@type': 'Question', name: q.p, acceptedAnswer: { '@type': 'Answer', text: q.r } })),
+    }]
+  : [];
+const temOficial = d.fontes.some((f) => f.tipo === 'oficial');
 const jsonld = [
+  ...perguntas,
   {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -47,7 +56,7 @@ const jsonld = [
 ];
 ---
 
-<Base titulo={d.titulo} descricao={d.resumo} tipo="article" jsonld={jsonld} noindex={dica.id.startsWith('exemplos/')}>
+<Base titulo={d.titulo} tituloSeo={d.titulo_seo} descricao={d.resumo} tipo="article" jsonld={jsonld} noindex={dica.id.startsWith('exemplos/')}>
   <div class="miolo"><Anuncio formato="faixa" /></div>
   <div class="miolo dica">
     <main>
@@ -78,11 +87,27 @@ const jsonld = [
         )
       }
 
+      {d.cortes.map((c) => <VideoNoPonto url={c.url} canal={c.canal ?? SITE.nome} titulo={c.titulo} />)}
+
       <article class="texto"><Content /></article>
 
       <Anuncio formato="artigo" />
 
       {video && <VideoNoPonto url={video.url} canal={video.canal} minuto={video.minuto} titulo={video.titulo} />}
+
+      {
+        d.perguntas.length > 0 && (
+          <section class="perguntas" aria-labelledby="s-perguntas">
+            <h2 id="s-perguntas">Perguntas rápidas</h2>
+            {d.perguntas.map((q) => (
+              <details>
+                <summary>{q.p}</summary>
+                <p>{q.r}</p>
+              </details>
+            ))}
+          </section>
+        )
+      }
 
       {
         outras.length > 0 && (
@@ -101,7 +126,7 @@ const jsonld = [
           {
             d.fontes.map((f) => (
               <li>
-                <b>{f.canal}{f.tipo === 'oficial' ? ' (oficial)' : ''}</b>
+                <b>{f.canal}{f.tipo === 'oficial' ? ' (fonte oficial)' : ''}</b>
                 <a href={f.tipo === 'youtube' ? linkNoMinuto(f.url, f.minuto) : f.url} target="_blank" rel="noopener nofollow">
                   {f.titulo ?? 'Abrir a fonte'}{f.minuto ? ` (minuto ${f.minuto})` : ''}
                 </a>
@@ -115,7 +140,7 @@ const jsonld = [
         <h2>Situação</h2>
         {
           d.status === 'confirmado' ? (
-            <p><strong style="color: var(--menta)">Confirmado.</strong> A dica apareceu funcionando em {n} fontes diferentes{d.fontes.some((f) => f.tipo === 'oficial') ? ', incluindo fonte oficial' : ''}.</p>
+            <p><strong style="color: var(--menta)">Confirmado.</strong> {temOficial ? 'A informação vem de fonte oficial.' : `A informação aparece em ${n} fontes diferentes.`}</p>
           ) : (
             <p><strong style="color: var(--ambar)">Em verificação.</strong> Por enquanto só uma fonte mostrou. Se outra confirmar, o selo muda; se cair, a dica sai do ar.</p>
           )

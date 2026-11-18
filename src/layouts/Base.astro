@@ -5,20 +5,32 @@ import { u, todasDicas, ultimaRodada, videosLidos, dataHora } from '../lib/util'
 
 interface Props {
   titulo?: string;
+  /** título para o Google, quando for diferente do título da página */
+  tituloSeo?: string;
   descricao?: string;
   tipo?: 'website' | 'article';
   jsonld?: Record<string, unknown> | Record<string, unknown>[];
   noindex?: boolean;
 }
-const { titulo, descricao = SITE.descricao, tipo = 'website', jsonld, noindex = false } = Astro.props;
-const tituloPagina = titulo ? `${titulo} | ${SITE.nome}` : `${SITE.nome}: códigos, easter eggs e segredos do GTA 6`;
+const { titulo, tituloSeo, descricao = SITE.descricao, tipo = 'website', jsonld, noindex = false } = Astro.props;
+const tituloBase = tituloSeo ?? titulo;
+// o nome do site só entra no título quando cabe (o Google corta por volta de 60 letras)
+const tituloPagina = tituloBase ? (tituloBase.length <= 42 ? `${tituloBase} | ${SITE.nome}` : tituloBase) : 'Códigos e macetes do GTA 6 para PS5 e Xbox | Macetes GTA 6';
+const imagem = new URL(u('/og.png'), Astro.site).href;
+const organizacao = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: SITE.nome,
+  url: new URL(u('/'), Astro.site).href,
+  logo: new URL(u('/favicon.svg'), Astro.site).href,
+};
 const canonica = new URL(Astro.url.pathname, Astro.site).href;
 const dicas = await todasDicas();
 const confirmadas = dicas.filter((d) => d.data.status === 'confirmado').length;
 const caminho = Astro.url.pathname;
 const ativo = (p: string) => (caminho.startsWith(u(p)) ? 'page' : undefined);
 const temExemplo = dicas.some((d) => d.id.startsWith('exemplos/'));
-const blocos = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
+const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
 ---
 
 <!doctype html>
@@ -37,7 +49,16 @@ const blocos = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
     <meta property="og:description" content={descricao} />
     <meta property="og:url" content={canonica} />
     <meta property="og:locale" content="pt_BR" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={imagem} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={titulo ?? SITE.nome} />
+    <meta name="twitter:description" content={descricao} />
+    <meta name="twitter:image" content={imagem} />
+    <link rel="alternate" hreflang="pt-BR" href={canonica} />
+    {SITE.googleVerificacao && <meta name="google-site-verification" content={SITE.googleVerificacao} />}
+    {SITE.bingVerificacao && <meta name="msvalidate.01" content={SITE.bingVerificacao} />}
     <link rel="icon" type="image/svg+xml" href={u('/favicon.svg')} />
     <link rel="alternate" type="application/rss+xml" title={SITE.nome} href={u('/rss.xml')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -103,6 +124,7 @@ const blocos = jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [];
           <ul>
             {Object.entries(CATEGORIAS).map(([slug, c]) => <li><a href={u(`/${slug}/`)}>{c.nome}</a></li>)}
             <li><a href={u('/novidades/')}>Novidades</a></li>
+            {SITE.canalCortes && <li><a href={SITE.canalCortes} target="_blank" rel="noopener">Nosso canal de cortes</a></li>}
           </ul>
         </div>
         <div>

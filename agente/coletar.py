@@ -51,7 +51,34 @@ def main():
     ap.add_argument("--max", type=int, default=10, help="quantos vídeos entram na fila")
     ap.add_argument("--horas", type=int, default=48, help="idade máxima do vídeo")
     ap.add_argument("--min-views", type=int, default=300, help="mínimo de views para canal que não é de confiança")
+    ap.add_argument("--url", nargs="+", help="põe na fila um ou mais vídeos indicados à mão (pula a busca e os filtros)")
     a = ap.parse_args()
+
+    if a.url:
+        import re
+        fila = []
+        for link in a.url:
+            m = re.search(r"(?:v=|youtu\.be/|/live/|/shorts/)([\w-]{11})", link)
+            meta = detalhe(m.group(1)) if m else None
+            if not meta:
+                print(f"  não consegui ler: {link}")
+                continue
+            quando = meta.get("release_timestamp") or meta.get("timestamp") or time.time()
+            fila.append({
+                "id": meta["id"], "titulo": meta.get("title"), "canal": meta.get("channel") or meta.get("uploader") or "",
+                "canal_url": meta.get("channel_url"), "confianca": "indicado", "url": f"https://www.youtube.com/watch?v={meta['id']}",
+                "duracao": meta.get("duration") or 0, "views": meta.get("view_count") or 0, "publicado": quando,
+                "idade_h": round((time.time() - quando) / 3600, 1), "foi_live": bool(meta.get("was_live")),
+                "idioma": (meta.get("language") or "").split("-")[0] or None, "legendas": sorted(meta.get("subtitles") or {}),
+                "legendas_auto": [k for k in (meta.get("automatic_captions") or {}) if k.endswith("-orig")], "nota": 99,
+            })
+            print(f"  na fila: {meta.get('title')}  ({fila[-1]['canal']}, {hms(fila[-1]['duracao'])}, {fila[-1]['views']} views)")
+        vistos = ler_json(VISTOS, {})
+        for v in fila:
+            vistos.pop(v["id"], None)  # vídeo indicado à mão é lido de novo mesmo que já tenha passado
+        gravar_json(VISTOS, vistos)
+        gravar_json(FILA, fila)
+        return
 
     termos = ler_json(AGENTE / "termos.json")
     canais = ler_json(AGENTE / "canais.json", {}).get("canais", [])
