@@ -496,3 +496,5 @@ html[lang='en'] .anuncio::before { content: 'Advertisement'; }
    Quando o anúncio carrega, o Google marca o bloco como "filled" e o rótulo e o espaço voltam sozinhos. */
 .anuncio:not(.anuncio--demo):not(:has(ins[data-ad-status='filled'])) { min-height: 0; margin-block: 0; }
 .anuncio:not(.anuncio--demo):not(:has(ins[data-ad-status='filled']))::before { display: none; }
+/* recomendação do próprio AdSense para esconder bloco sem anúncio */
+ins.adsbygoogle[data-ad-status='unfilled'] { display: none !important; }
