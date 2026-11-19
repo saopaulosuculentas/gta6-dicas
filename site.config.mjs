@@ -25,7 +25,7 @@ export const SITE = {
 
   // ID do Google AdSense. Vazio = nenhum anúncio é carregado.
   // Exemplo: 'ca-pub-1234567890123456'
-  adsenseId: '',
+  adsenseId: 'ca-pub-3340639341412766',
 
   // Números dos blocos de anúncio criados no painel do AdSense (opcional).
   // Vazio = formato automático. Exemplo: { faixa: '1234567890', retangulo: '2345678901' }
