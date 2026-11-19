@@ -67,7 +67,7 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 ## Alienígenas e coisas estranhas
 
 - **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Se você chegar perto, é o próximo: a tela fica branca e você acorda no dia seguinte. Em verificação: ZacCoxTV.
-- **Meteorito no Mount Kaga.** No alto do Mount Kaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV.
+- **Meteorito no Mount Kalaga.** No alto do Mount Kalaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV.
 - **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. Ainda não se sabe o que faz a cena começar.
 - **Notícia de discos voadores.** No app de notícias do celular, uma matéria fala de uma onda de avistamentos de OVNI em Leonida. Em verificação: T5G.
 

@@ -59,6 +59,8 @@ Para cada dica que aparecer num vídeo, pergunte:
 
 **Dicas práticas também valem** (pedido do Luan em 19/11/2026): como ganhar dinheiro no começo, o que fazer primeiro, como não perder dinheiro, erros comuns, quanto paga cada atividade. Se o canal mostrou acontecendo na tela (valor que aparece, menu, resultado), a dica entra, com o valor conferido no quadro. Agrupe na página do assunto (ex.: `como-ganhar-dinheiro-gta-6`) e crie página própria quando a dica responder sozinha a uma busca (ex.: "perde dinheiro ao morrer").
 
+**"Como fazer" e "como funciona" são ouro** (pedido do Luan em 19/11/2026): como ficar musculoso, como invadir o aeroporto, como funcionam as praias, como pegar avião, como comprar casa, como trocar de personagem. Cada mecânica mostrada na tela vira uma página própria com título no formato da busca ("Como ficar musculoso no GTA 6"), resposta na primeira frase e passo a passo. Priorize esses vídeos na fila.
+
 Se o detalhe está na tela e não na fala (sequência de botões, ponto no mapa), tire quadros:
 ```
 python agente/quadros.py ID_DO_VIDEO 4:12
