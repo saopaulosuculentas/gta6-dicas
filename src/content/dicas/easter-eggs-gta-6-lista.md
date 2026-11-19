@@ -9,9 +9,11 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "0:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:00", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
+  - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=D2nOcgWsG1k", titulo: "I Found the Secret Kraken Easter Egg in GTA 6!", minuto: "0:00", data: "2026-11-19T04:45:13-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T08:21:00-03:00"
+atualizado_em: "2026-11-19T09:22:00-03:00"
 historico:
+  - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentada a estátua do Kraken no fundo do mar (Robbin Rams)." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Lista publicada com os easter eggs vistos em vídeos do T5G, do ZacCoxTV e de canais brasileiros, e no Kotaku. Cada item diz quem mostrou." }
 perguntas:
   - { p: "Quais são os easter eggs do GTA 6?", r: "Os mais comentados até agora: o Skunk Ape (pé grande) de Grassrivers, o ovo na torre de rádio, o cachorro que pilota jet ski, o laboratório alienígena, o barco do Michael na casa do Jason e o apartamento do Dexter." }
@@ -68,6 +70,7 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 - **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Se você chegar perto, é o próximo: a tela fica branca e você acorda no dia seguinte. Em verificação: ZacCoxTV.
 - **Meteorito no Mount Kalaga.** No alto do Mount Kalaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV.
+- **Estátua do Kraken.** No fundo do mar, a sudeste do mapa, logo abaixo da ilha Gloriana Key, há uma estátua gigante de um polvo agarrando um barco. Um barco de mergulhadores fica parado em cima do ponto. Perto dela aparece uma figura estranha que some no fundo. Ainda não se sabe se tem tesouro. Em verificação: Robbin Rams.
 - **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. Ainda não se sabe o que faz a cena começar.
 - **Notícia de discos voadores.** No app de notícias do celular, uma matéria fala de uma onda de avistamentos de OVNI em Leonida. Em verificação: T5G.
 

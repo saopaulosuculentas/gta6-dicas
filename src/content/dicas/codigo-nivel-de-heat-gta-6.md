@@ -1,6 +1,6 @@
 ---
-titulo: "Código para aumentar o heat (atenção da polícia) no GTA 6"
-titulo_seo: "Código de heat do GTA 6 (atenção da polícia)"
+titulo: "Código para aumentar a pressão da polícia (heat) no GTA 6"
+titulo_seo: "Código de pressão da polícia do GTA 6 (heat)"
 resumo: "O código de heat do GTA 6 aumenta de uma vez a atenção da polícia em todo o mapa. Sequência: esquerda, baixo, direita, baixo, cima, baixo, cima."
 categoria: codigos
 status: confirmado
@@ -21,7 +21,7 @@ perguntas:
   - { p: "Como liberar o código de heat no GTA 6?", r: "Segundo o GamesRadar+, é preciso perder um nível de procurado de 3 estrelas 25 vezes, depois de zerar a história." }
 ---
 
-O código de heat do GTA 6 aumenta a atenção da polícia sobre você em todo o mapa. No jogo em inglês o nome é "Raise Heat Level". Ele é diferente do código de nível de procurado: o procurado é a perseguição do momento, e o heat é a atenção que você acumula pelo mapa.
+O código de heat do GTA 6 aumenta a atenção da polícia sobre você em todo o mapa. No jogo em inglês o nome é "Raise Heat Level"; em português, o jogo chama esse sistema de **pressão**, que explicamos em [como fugir da polícia](../como-fugir-da-policia-gta-6/). Ele é diferente do código de nível de procurado: o procurado é a perseguição do momento, e o heat é a atenção que você acumula pelo mapa.
 
 ## Como digitar
 

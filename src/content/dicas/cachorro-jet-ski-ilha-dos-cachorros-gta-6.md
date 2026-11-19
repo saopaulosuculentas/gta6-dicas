@@ -10,9 +10,11 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:25", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:55", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
+  - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=BgS97FUMfGI", titulo: "GTA 6 - Cachorro de JET SKI easter egg", minuto: "3:08", data: "2026-11-18T20:03:50-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T08:21:00-03:00"
+atualizado_em: "2026-11-19T09:22:00-03:00"
 historico:
+  - { data: "2026-11-19T09:22:00-03:00", nota: "Quarto canal: o Gameplayrj também foi resgatado pelo cachorro e ganhou dinheiro e habilidade na ilha." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Publicada como confirmada: o cachorro do jet ski aparece em vídeos do ZoneX, do ZacCoxTV e do T5G, e no Kotaku. O valor de US$ 1.218 foi conferido no quadro do vídeo do ZoneX." }
 perguntas:
   - { p: "Onde fica o cachorro do jet ski no GTA 6?", r: "Ele aparece em Gambit Bay. Vá até o meio da baía, pule na água, deixe o barco ir embora e fique nadando até ele chegar." }
@@ -22,7 +24,7 @@ perguntas:
 
 No GTA 6 existe um cachorro que pilota jet ski. Ele usa colete salva-vidas e óculos de natação, aparece quando você está perdido no meio da água e dá carona até uma ilha cheia de cachorros. Se você fizer amizade com eles, um dos cachorros desenterra um dinheiro escondido: no vídeo do ZoneX foram **US$ 1.218**.
 
-Três canais mostraram o encontro (ZoneX, ZacCoxTV e T5G), e o Kotaku também registrou o cachorro que resgata jogadores com o jet ski.
+Quatro canais mostraram o encontro (ZoneX, ZacCoxTV, T5G e o brasileiro Gameplayrj), e o Kotaku também registrou o cachorro que resgata jogadores com o jet ski.
 
 ## Como fazer o cachorro aparecer
 
@@ -47,6 +49,12 @@ O passeio termina numa ilha com um grupo de cachorros na praia.
 O ZacCoxTV conta a mesma história com uma diferença: o cachorro levou ele até uma **carteira escondida com dinheiro**. Pode ser que o prêmio mude de uma vez para outra.
 
 Depois da primeira vez, a ilha fica conhecida e dá para voltar de barco. O ZoneX mostra o ponto no mapa no fim do vídeo, a partir de 1:10.
+
+## Na live do Gameplayrj
+
+O Gameplayrj fez o mesmo caminho: ficou boiando no meio do mar até ouvir um barulho. Primeiro não aconteceu nada, e ele precisou ir **mais longe da costa**, passando de um navio grande. Aí o cachorro apareceu. Na ilha, um cachorro trouxe uma **carteira com uns US$ 1.000**, outro levou até uma caixa para abrir, e ele brincou de frisbee com eles. No fim, o jogo deu **dinheiro e habilidade**.
+
+Se o cachorro não aparecer, afaste-se mais da costa.
 
 ## O que ainda não se sabe
 

@@ -13,14 +13,19 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:40", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "0:28", data: "2026-11-18T15:45:05-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/", titulo: "GTA 6: The fastest ways to make money", data: "2026-11-18T15:00:00-03:00" }
+  - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:47", data: "2026-11-18T21:36:13-03:00" }
+  - { tipo: youtube, canal: "LoDj1c", url: "https://www.youtube.com/watch?v=KrLUtGZw7lQ", titulo: "HOW TO MAKE MONEY FAST IN GTA 6! (Secret Location to EARN QUICK MONEY)", minuto: "2:14", data: "2026-11-19T00:47:30-03:00" }
+  - { tipo: youtube, canal: "AlmightyDen", url: "https://www.youtube.com/watch?v=7V7zR22ZCW8", titulo: "GTA 6 – How to Find SECRET WEAPON and MONEY in HAMLET!", minuto: "0:13", data: "2026-11-18T20:00:16-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T08:51:00-03:00"
+atualizado_em: "2026-11-19T09:22:00-03:00"
 historico:
+  - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados: aviso do WiLLiSGaming de que o dinheiro do capítulo 1 zera, meta de US$ 5.000 do BuckMe, mergulho com o Kenton, pacotes do Donnie, cofres de trailer, bases de gangue e figurinha vendida por US$ 6.000." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Acrescentados os jeitos que mais rendem depois do capítulo 2, segundo o PC Gamer: roubar outros criminosos, vender carros, derby de demolição, caça e roubos pelos fundos." }
   - { data: "2026-11-19T08:30:00-03:00", nota: "Confirmado: caixa de correio vista por Gameplayrj e Ikoma Games. Acrescentados cobrança de aluguel, corridas, ataques de gangue, naufrágio, guardar dinheiro em casa e tabela de valores." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Novos jeitos: ilha dos cachorros (US$ 1.218), meteoritos para vender e colecionáveis na loja de penhores." }
   - { data: "2026-11-18T17:29:00-03:00", nota: "Guia publicado, em verificação. Gameplay do Gameplayrj e código do TechTudo." }
 perguntas:
+  - { p: "O dinheiro some no capítulo 2 do GTA 6?", r: "Segundo o WiLLiSGaming, sim: o dinheiro volta a zero quando o capítulo 2 começa. Só fica a poupança da família, os US$ 5.000 do app BuckMe." }
   - { p: "Qual a melhor forma de ganhar dinheiro no GTA 6?", r: "No começo, ataques de gangue e corridas. Mais para frente, segundo o PC Gamer, roubar outros criminosos em fuga, vender carros roubados e o derby de demolição do Ambrosia Raceway, que paga até US$ 6.300 por vitória." }
   - { p: "Qual o jeito mais rápido de ganhar dinheiro no começo do GTA 6?", r: "Ataques de gangue marcados no mapa e corridas: no vídeo do Ikoma Games, uma bolsa de espólios rendeu US$ 2.130 e cada corrida paga de US$ 1.500 a US$ 1.900." }
   - { p: "Perde dinheiro quando morre no GTA 6?", r: "Perde. O dinheiro da carteira zera quando você morre. Guarde o que não precisa no estoque da casa." }
@@ -34,6 +39,10 @@ No começo do GTA 6 o dinheiro é curto, e não existe atalho: o [código de US$
 
 Esta página junta o que já foi mostrado em gameplay e vai crescendo conforme os jogadores avançam.
 
+## Antes de tudo: o dinheiro do capítulo 1 zera
+
+Segundo o WiLLiSGaming, que já passou do capítulo 2: **quando o capítulo 2 começa, o dinheiro volta a zero**. Só fica a **poupança da família**, os **US$ 5.000** que a história pede para juntar no app **BuckMe** (o Jason tem o nome sujo, e o banco dá o app para ele construir crédito). Então, no capítulo 1, junte os US$ 5.000 e siga a história; não vale passar horas acumulando.
+
 ## Quanto rende cada jeito
 
 | Jeito | Quanto rendeu no vídeo | Quem mostrou |
@@ -41,6 +50,8 @@ Esta página junta o que já foi mostrado em gameplay e vai crescendo conforme o
 | Ataque de gangue (bolsa de espólios) | US$ 2.130 | Ikoma Games |
 | Naufrágio de barco com carga | cerca de US$ 2.500 | Ikoma Games |
 | Corrida de rua (1º lugar) | US$ 1.500 a US$ 1.900 por corrida | Ikoma Games |
+| Tesouro no fundo do mar (Kenton) | até US$ 4.000 por mergulho | WiLLiSGaming, JoblessGarrett |
+| Figurinha rara vendida na loja de penhores | US$ 6.000 | LoDj1c |
 | Ilha dos cachorros | US$ 1.218 | ZoneX |
 | Pagamento do Brian | US$ 1.200 | Gameplayrj |
 | Derby de demolição no Ambrosia Raceway | US$ 3.800 a US$ 6.300 por vitória | PC Gamer |
@@ -117,6 +128,26 @@ No capítulo 3 você ganha uma ferramenta para abrir fechaduras. A partir daí, 
 - **Telhados:** quase sempre tem um cofrinho com algum dinheiro.
 - **Tesouro no fundo do mar:** rende pouco e demora, mas é divertido.
 - **Caixa eletrônico:** com um guincho na caminhonete dá para arrancar o caixa da parede, mas faz barulho e atrai muita polícia.
+
+### Mergulho em naufrágios com o Kenton
+
+O instrutor de mergulho **Kenton** manda locais de naufrágio pelo celular. Você mergulha com o detector de metal, junta os tesouros e vende para ele. Rende até US$ 4.000 por mergulho, e quanto mais você faz, mais ele paga. Passo a passo em [tesouro no fundo do mar](../tesouro-fundo-do-mar-gta-6/).
+
+### Pacotes perdidos do Donnie
+
+O Donnie perde pacotes que aparecem marcados no mapa. Pegue e leve ao **trailer do Donnie**: segundo o WiLLiSGaming, ele paga mais que o Brian. Use o **modo foco**: os pacotes têm um rastreador que faz barulho, e o foco mostra o som. Um deles estava preso numa árvore e precisou de um tiro para cair.
+
+### Depósito do Brian
+
+Tudo o que você pegar de ilegal pelo mapa pode ser vendido no **depósito do Brian** (digite a senha no teclado da porta e deixe no cofre dele). O depósito libera numa das primeiras missões.
+
+### Cofres de trailer e figurinhas raras
+
+Alguns trailers no meio do mato têm um **cofrinho**, e a senha costuma estar **escrita na parede**. Segundo o WiLLiSGaming, quase sempre tem algo bom dentro, como uma **figurinha de esporte** rara. Figurinhas valem dinheiro na loja de penhores: o LoDj1c vendeu uma por **US$ 6.000** na loja de penhores de **Hamlet**. Ele achou a figurinha num cofre de um prédio ao sul de Vice-Dale County, perto da casa do Jason, onde também havia dinheiro e carga para vender, somando uns US$ 10.000.
+
+### Bases de gangue (King Fishers)
+
+As bases da gangue **King Fishers** são cheias de carga ilegal que vende bem, e numa delas o WiLLiSGaming achou um rifle único. Leve espaço na bolsa e vá preparado: ele enfrentou uns 30 inimigos. Em **Hamlet**, o AlmightyDen achou um galpão com dois homens batendo num refém: depois da briga, havia dinheiro na mesa e uma **escopeta de cano serrado** de graça.
 
 ### A ilha dos cachorros (cerca de US$ 1.200)
 Fique nadando sem barco no meio de Gambit Bay até um cachorro aparecer de jet ski. Ele leva você a uma ilha, e um dos cachorros desenterra dinheiro: **US$ 1.218** no vídeo do ZoneX. O passo a passo está em [cachorro do jet ski](../cachorro-jet-ski-ilha-dos-cachorros-gta-6/).
