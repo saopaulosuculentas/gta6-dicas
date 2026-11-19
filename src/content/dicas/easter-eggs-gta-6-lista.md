@@ -15,9 +15,12 @@ fontes:
   - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=D2nOcgWsG1k", titulo: "I Found the Secret Kraken Easter Egg in GTA 6!", minuto: "0:00", data: "2026-11-19T04:45:13-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=ap6xVy_jDYw", titulo: "GTA 6 - ALIEN Easter Egg SINISTRO", minuto: "1:55", data: "2026-11-19T12:19:19-03:00" }
   - { tipo: youtube, canal: "Nobreza Games", url: "https://www.youtube.com/watch?v=tzH_eA9vqPA", titulo: "7 SEGREDOS E EASTER EGGS no GTA 6", minuto: "4:18", data: "2026-11-19T12:03:32-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "3:56", data: "2026-11-19T01:53:46-03:00" }
+  - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=OT9VS3yBodM", titulo: "GTA 6 SECRET BUNKER FOUND IN GRASSRIVERS", minuto: "2:25", data: "2026-11-18T17:30:23-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T14:42:00-03:00"
+atualizado_em: "2026-11-19T16:28:00-03:00"
 historico:
+  - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram o depósito da torre de vigia do Mount Kalaga com o código 69185 (confirmado: Milo e Robbin Rams), o bunker fechado de Grassrivers (Robbin Rams), a ilha do SOS e a influenciadora no alto da torre do ovo (Milo). Casa do OVNI passou a confirmada com o Milo, e o caranguejo gigante agora tem página própria." }
   - { data: "2026-11-19T14:42:00-03:00", nota: "Abdução confirmada com o vídeo do Gameplayrj (conquista \"A verdade está lá fora\"); laboratório dos caranguejos mostrado pelo Nobreza Games." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentada a estátua do Kraken no fundo do mar (Robbin Rams)." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Lista publicada com os easter eggs vistos em vídeos do T5G, do ZacCoxTV e de canais brasileiros, e no Kotaku. Cada item diz quem mostrou." }
@@ -39,11 +42,11 @@ Nos pântanos de Grassrivers vive o **Skunk Ape**, o pé grande das lendas da Fl
 Veja [o pé grande de Grassrivers](../pe-grande-grassrivers-gta-6/) e [a missão do Skunk Ape](../missao-skunk-ape-rifle-sniper-gta-6/).
 
 ### Ovo de Páscoa na torre de rádio
-No alto da torre de rádio mais alta do jogo, depois de uns seis minutos de escada, há um ninho com um ovo de Páscoa. Jogar o ovo lá de cima libera uma cena. Confirmado: T5G, ZacCoxTV e Kotaku.
+No alto da torre de rádio mais alta do jogo, depois de uns seis minutos de escada, há um ninho com um ovo de Páscoa. Jogar o ovo lá de cima libera uma cena. Confirmado: T5G, ZacCoxTV, Kotaku e Milo. O Milo ainda encontrou uma influenciadora parada lá no alto, que conversa com você (em verificação).
 Veja [o ovo na torre de rádio](../ovo-de-pascoa-torre-de-radio-gta-6/).
 
 ### O cachorro que pilota jet ski
-Perdido no meio de Gambit Bay, sem barco, você é resgatado por um cachorro de colete e óculos num jet ski. Ele leva você a uma ilha de cachorros, e um deles desenterra cerca de US$ 1.200. Confirmado: ZoneX, ZacCoxTV, T5G e Kotaku.
+Perdido no meio de Gambit Bay, sem barco, você é resgatado por um cachorro de colete e óculos num jet ski. Ele leva você a uma ilha de cachorros, e um deles desenterra cerca de US$ 1.200. Confirmado: ZoneX, ZacCoxTV, T5G, Kotaku e Milo.
 Veja [o cachorro do jet ski](../cachorro-jet-ski-ilha-dos-cachorros-gta-6/).
 
 ### Laboratório alienígena (senha 2314)
@@ -62,7 +65,7 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 - **GTA 4.** Um livro na casa do Jason, "Lethal by Design", é a memória de um guarda-costas de Liberty City que escapou do ataque do Niko Bellic. Em verificação: ZacCoxTV.
 - **Vice City.** Nos Keys, uma iguana anda por aí com a camisa do Tommy Vercetti. Em verificação: ZacCoxTV.
-- **San Andreas.** Adesivos "Lil' Probe Inn" pelos carros e uma [casa de ufólogo igual à do San Andreas](../casa-do-ovni-san-andreas-gta-6/), em Bellville, com um meteorito embaixo da cama que dá para vender. Em verificação: ZacCoxTV.
+- **San Andreas.** Adesivos "Lil' Probe Inn" pelos carros e uma [casa de ufólogo igual à do San Andreas](../casa-do-ovni-san-andreas-gta-6/), em Bellville, com um meteorito embaixo da cama que dá para vender. O Milo entrou na mesma casa e achou uma cobra no porta-malas do carro parado na frente. Confirmado: ZacCoxTV e Milo.
 - **Mistério Epsilon.** Um caminhão com o olho do culto Epsilon e um QR code. Por enquanto o código leva só ao site da Rockstar. Em verificação: T5G.
 - **Race'n'Chase.** No celular, um post reclama que o jogo "Race and Chase 7" atrasou de novo. Race'n'Chase era o nome original do primeiro GTA, e a piada é com a espera pelo próprio GTA 6. Em verificação: T5G.
 
@@ -74,10 +77,13 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 ## Alienígenas e coisas estranhas
 
-- **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Antes dela aparecem pistas estranhas: uma bolsa largada, pedras, roupas no chão e um celular piscando. Depois uma mulher é levada pela luz, e se você chegar perto é o próximo: a tela fica branca e você acorda no dia seguinte em outro lugar. Com a Lucia, o Gameplayrj ganhou a conquista "A verdade está lá fora", referência a Arquivo X. Confirmado: ZacCoxTV e Gameplayrj.
-- **Meteorito no Mount Kalaga.** No alto do Mount Kalaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV.
+- **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Antes dela aparecem pistas estranhas: uma bolsa largada, pedras, roupas no chão e um celular piscando. Depois uma mulher é levada pela luz, e se você chegar perto é o próximo: a tela fica branca e você acorda no dia seguinte em outro lugar. Com a Lucia, o Gameplayrj ganhou a conquista "A verdade está lá fora", referência a Arquivo X. O Milo cita o norte de Kelly County, o mesmo condado de Port Gellhorn, sempre à noite, e diz que é raro de ver. Confirmado: ZacCoxTV e Gameplayrj.
+- **Meteorito no Mount Kalaga.** No alto do Mount Kalaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV. O Milo mostrou um meteorito parecido no alto do mapa, em Lummox County, o condado do Mount Kalaga: descendo o morro para o leste, num acampamento destruído, há uma pedra com brilho roxo, e dá para pegar um pedaço. Ele não diz o nome da montanha, então pode ser o mesmo ponto ou outro.
 - **Estátua do Kraken.** No fundo do mar, a sudeste do mapa, logo abaixo da ilha Gloriana Key, há uma estátua gigante de um polvo agarrando um barco. Um barco de mergulhadores fica parado em cima do ponto. Perto dela aparece uma figura estranha que some no fundo. Ainda não se sabe se tem tesouro. Em verificação: Robbin Rams.
-- **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. O Nobreza Games achou a origem: um **laboratório de pesquisa** num grupo de cabanas no mato. Ligue o gerador e leia as anotações. Elas contam um experimento para engordar guaiamuns (caranguejos de mangue) que saiu do controle. Há um cofre com dinheiro e um rastro de sangue que leva ao bicho. As senhas ainda não ficaram claras no vídeo, então não publicamos.
+- **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. O Nobreza Games achou a origem: um **laboratório de pesquisa** num grupo de cabanas no mato. Ligue o gerador e leia as anotações. Elas contam um experimento para engordar guaiamuns (caranguejos de mangue) que saiu do controle. Há um cofre com dinheiro e um rastro de sangue que leva ao bicho. O mistério já foi resolvido, com senha, cofre e recompensa: veja o passo a passo em [caranguejo gigante do GTA 6](../caranguejo-gigante-senhas-gta-6/).
+- **O depósito da torre de vigia (código 69185).** No Mount Kalaga há uma torre de vigia. Suba até o topo: perto de uma lupa há um bilhete com a palavra "shed" (depósito) e o número **69185**. O depósito fica embaixo da escada da torre, com um teclado na porta. Digite 69185 e entre. Lá dentro tem coisa de caçador de OVNI: adesivos sobre alienígenas, uma câmera e o diário do vigia, que tem desenhos estranhos, como uma abdução. O Robbin Rams não sabe se o número é o mesmo em todo jogo, então confira o bilhete no seu. Confirmado: Milo e Robbin Rams.
+- **Bunker fechado em Grassrivers.** No meio dos pântanos há um bunker enorme, com portas grossas e, bem longe delas, uma escotilha com teclado que não deixa digitar nada. O foco não mostra nenhuma pista. Ninguém achou ainda como abrir. Em verificação: Robbin Rams.
+- **A ilha do SOS.** Numa ilhota bem longe da costa há latas espalhadas, uma placa enorme de SOS e um celular com um vídeo gravado pelas pessoas que ficaram presas ali. O vídeo acaba de repente. Segundo o Milo, a ilha fica ao largo de Mariana County, no sul do mapa, mas o nome sai confuso no áudio. Em verificação: Milo.
 - **Notícia de discos voadores.** No app de notícias do celular, uma matéria fala de uma onda de avistamentos de OVNI em Leonida. Em verificação: T5G.
 
 ## Pequenos detalhes que valem ver

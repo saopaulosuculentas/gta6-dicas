@@ -11,9 +11,13 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/", titulo: "GTA 6 fence locations: Where to sell stolen goods", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "2:38", data: "2026-11-19T02:29:35-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-stolen-goods-illegal/", titulo: "How to sell illegal goods and stolen items in GTA 6", data: "2026-11-19T13:33:26-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "4:30", data: "2026-11-18T17:35:43-03:00" }
+  - { tipo: youtube, canal: "DooDooPoo", url: "https://www.youtube.com/watch?v=cZLAIDMi4ak", titulo: "GTA 6 SECRET WAREHOUSE LOCATION - FREE $20K, RARE TRADING CARD & WEAPONS - GTA VI", minuto: "0:11", data: "2026-11-19T12:41:03-03:00" }
+  - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=c3EZuDNC6Zc", titulo: "GTA 6 Gameplay: How to Pull Off the Perfect Robbery! (GTA 6 Money)", minuto: "6:50", data: "2026-11-18T17:00:35-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-19T16:03:00-03:00"
+atualizado_em: "2026-11-19T16:22:00-03:00"
 historico:
+  - { data: "2026-11-19T16:22:00-03:00", nota: "Senha 7700 do depósito do Brian, mostrada por KhrazeGaming, DooDooPoo e JoblessGarrett." }
   - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmada com o guia do GamesRadar+: o que cada tipo de roubo rende, aba Drop-offs no índice e pagamento pela caixa de correio." }
   - { data: "2026-11-19T11:49:00-03:00", nota: "Publicada em verificação: lista de receptadores do PC Gamer; o aviso de dinheiro marcado aparece no vídeo do DPJ." }
 perguntas:
@@ -58,6 +62,10 @@ O dinheiro vivo já é seu. O resto precisa passar por um receptador.
 2. Vá a qualquer receptador, a qualquer hora do dia.
 3. Abra o [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/), vá na aba **Roubos** e desça até **Drop-offs - Goods**: ali estão os receptadores que você já liberou. No capítulo 1 são só o Brian e o Donnie.
 4. Passe o cursor sobre o nome do receptador para ver **quem paga mais** por droga, por joia e por dinheiro marcado. Vale escolher o certo para cada carga.
+
+## A senha do depósito do Brian
+
+O depósito do Brian, em South Key Lento, tem **teclado na porta**. A senha é **7700**: KhrazeGaming, DooDooPoo e JoblessGarrett mostraram a mesma. O jogo guarda a senha para você depois da primeira vez. Lá dentro, deixe as bolsas no contêiner e escolha vender. O DooDooPoo vendeu uma bolsa cheia por **US$ 10.000**.
 
 ## Na hora ou depois
 

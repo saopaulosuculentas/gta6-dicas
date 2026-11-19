@@ -11,9 +11,13 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "TheProfessional", url: "https://www.youtube.com/watch?v=hU4FIO2cL9g", titulo: "GTA 6 How To Rob The Secret Liquor Store Stash Room Early In The Game $2500+", minuto: "2:00", data: "2026-11-19T05:49:08-03:00" }
   - { tipo: youtube, canal: "vassillios16", url: "https://www.youtube.com/watch?v=_u_G6W0Z1Fk", titulo: "Secret Talking Parrot Cash Location in GTA 6! ($2,300+ Easy Early Money)", minuto: "0:00", data: "2026-11-19T09:40:18-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "6:36", data: "2026-11-19T13:00:22-03:00" }
+  - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "3:46", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "7:34", data: "2026-11-19T09:16:55-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T16:22:00-03:00"
 historico:
+  - { data: "2026-11-19T16:22:00-03:00", nota: "Three more channels showed the same robbery: Arekkz Gaming (vent behind the generator, $1,200), KultZ (Key Lento, $1,300) and KhrazeGaming." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Published as confirmed: the same robbery shows up in videos by TheProfessional and vassillios16." }
 perguntas:
   - { p: "Where is the parrot money in GTA 6?", r: "At the Three Sheets liquor store, the same one Shirley sends you to for rum. The parrot in the back keeps saying \"generator\": the cash is behind the grate right behind the generator." }
@@ -21,7 +25,7 @@ perguntas:
   - { p: "How much money is in the parrot stash?", r: "Over $2,000 in total: about $1,300 in the stash, about $900 in the safe and a bit more in the cash counter and the register." }
 ---
 
-The parrot money is at the **Three Sheets** liquor store, the same one where Jason's neighbor Shirley sends you to pick up rum. The back room runs an exotic animal smuggling racket with **over $2,000** lying around, and the best part sits in a stash only the **parrot** gives away. TheProfessional and vassillios16 both showed the same robbery.
+The parrot money is at the **Three Sheets** liquor store, the same one where Jason's neighbor Shirley sends you to pick up rum. The back room runs an exotic animal smuggling racket with **over $2,000** lying around, and the best part sits in a stash only the **parrot** gives away. Five channels showed the same robbery: TheProfessional, vassillios16, Arekkz Gaming, KultZ and KhrazeGaming. KultZ places the store in **Key Lento**.
 
 ## How the robbery shows up
 
@@ -59,7 +63,11 @@ There's a **parrot** in the back that keeps squawking about "cash" and a "stash"
 3. Walk to the generator but **don't touch it**. Open the **grate** right behind it.
 4. The cash is inside.
 
-vassillios16 found the stash without talking to the parrot, since it sits in a corner of the back area. If you can't spot it, ask the bird. You can even thank it on the way out.
+Arekkz Gaming describes the same spot: the generator is in the **back left corner** and the stash is a **vent** in the wall, worth about $1,200. KultZ pulled about $1,300 from the vent. vassillios16 found the stash without talking to the parrot, since it sits in a corner of the back area. If you can't spot it, ask the bird. You can even thank it on the way out.
+
+## Can you do it again?
+
+KhrazeGaming points out this exotic animal front is **easy to miss** if you never check the back. He also says enemy hideouts like this one **refresh** every few in-game days and restock.
 
 ## Getting away
 

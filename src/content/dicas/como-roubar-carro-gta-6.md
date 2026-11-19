@@ -3,25 +3,44 @@ titulo: "Como roubar carro no GTA 6: ligação direta, slim jim, clonador de cha
 titulo_seo: "Como roubar carro no GTA 6 (e carro sem chave)"
 resumo: "No GTA 6 roubar carro mudou: vários carros têm alarme, os sem chave não pegam na ligação direta e alguns têm rastreador. Veja quando você ganha o slim jim e o clonador de chave."
 categoria: dicas
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - {arquivo: "oficial/jason.webp", legenda: "Jason numa moto em Leonida, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/", titulo: "How to clone keys in GTA 6", data: "2026-11-18T15:21:00-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "9:28", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "0:49", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "27:43", data: "2026-11-18T22:26:16-03:00" }
+  - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "6:19", data: "2026-11-19T08:00:31-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T08:51:00-03:00"
+atualizado_em: "2026-11-19T16:20:00-03:00"
 historico:
+  - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmada: MrDalekJD, KhrazeGaming e Thalera mostram o Waink It, o alarme, a ligação direta e as ferramentas que a história libera. Novos: registro só a partir do capítulo 2, depois da missão Moses (MrDalekJD); monster truck que não coube na Pay 'n' Spray (GamingBolt); alarme sem testemunha que não chamou a polícia e o Waink It como catálogo (Thalera)." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada em verificação. Fonte: dois guias do PC Gamer (contam como uma fonte)." }
 perguntas:
   - { p: "Como roubar carro sem chave no GTA 6?", r: "Com o clonador de chave, que você ganha no capítulo 3, na missão 16, Steal the Zorruso for Randy. Antes disso, carro sem chave não pega na ligação direta." }
   - { p: "Como pegar o slim jim no GTA 6?", r: "Ele vem no capítulo 2, na quinta missão, chamada Moses. O mecânico Moses dá a ferramenta e ensina a usar." }
   - { p: "Como tirar o rastreador do carro no GTA 6?", r: "O rastreador avançado avisa a polícia. Para ele não mandar sinal, dirija rápido; se diminuir, ele apita e você tem poucos segundos para acelerar de novo." }
-  - { p: "Como ficar com um carro roubado no GTA 6?", r: "Registrando o carro numa Pay 'n' Spray. O app Waink It mostra quanto custa o registro." }
+  - { p: "Como ficar com um carro roubado no GTA 6?", r: "Registrando o carro numa Pay 'n' Spray. Isso só libera no capítulo 2, depois da missão Moses; no capítulo 1 você fica com o carro inicial. O app Waink It mostra quanto custa o registro." }
 ---
 
-Roubar carro no GTA 6 não é mais só quebrar o vidro e sair. Quase todo carro tem **alarme**, os carros **sem chave** não pegam na ligação direta e alguns têm **rastreador** que chama a polícia. Conforme a história avança, você ganha ferramentas para isso. As informações são do PC Gamer, que mapeou em que missão cada ferramenta aparece.
+Roubar carro no GTA 6 não é mais só quebrar o vidro e sair. Quase todo carro tem **alarme**, os carros **sem chave** não pegam na ligação direta e alguns têm **rastreador** que chama a polícia. Conforme a história avança, você ganha ferramentas para isso. O PC Gamer mapeou em que missão cada ferramenta aparece, e os vídeos do MrDalekJD, do KhrazeGaming e do Thalera mostram o sistema funcionando.
+
+## Antes de roubar: escaneie o carro
+
+O app **Waink It** diz tudo sobre o carro antes de você mexer nele. O MrDalekJD confere todo carro com ele antes de roubar: o app mostra se o carro está **trancado**, se tem **alarme** e se tem **rastreador**, e é isso que decide se a polícia vai vir atrás de você.
+
+Como usar, pelo vídeo do Thalera:
+
+1. Segure o **direcional para cima** para abrir o Waink It.
+2. Mire num carro e **segure R1** para analisar. Aparecem o tipo de tranca, o alarme e se o carro pede clonador de chave.
+3. Aperte **R3** para ver mais detalhes.
+
+Cada carro analisado entra numa coleção, separada por tipo: na tela do Thalera apareciam picapes 8 de 17, SUVs 7 de 23 e sedãs 7 de 29. Ele recomenda escanear tudo quando passar por um estacionamento.
+
+O KhrazeGaming avisa que, no começo, sobram poucos carros fáceis: muitos pedem **slim jim** ou **clonador de chave**, e o Waink It mostra qual ferramenta cada um exige. Os que dá para roubar só quebrando o vidro são, na maioria, os modelos mais velhos.
 
 ## O básico: quebrar o vidro e fazer ligação direta
 
@@ -30,6 +49,12 @@ Roubar carro no GTA 6 não é mais só quebrar o vidro e sair. Quase todo carro 
 3. Dentro do carro, faça a **ligação direta**: use os analógicos para achar o "ponto certo". Leva um ou dois segundos.
 
 Carro sem chave **não pega** na ligação direta. Para ele, só com o clonador.
+
+## Alarme: quem chama a polícia é a testemunha
+
+O Thalera fez o teste. Primeiro roubou um carro com alarme num lugar sem ninguém por perto: o alarme tocou, mas a polícia **não veio**, mesmo com uma viatura ali do lado, ocupada prendendo outra pessoa. Depois de um tempo o alarme parou sozinho. Em seguida ele roubou um sedã na frente de um grupo de pessoas: elas reagiram, denunciaram, o rádio da polícia chamou e as estrelas apareceram.
+
+Ele também notou que cada carro vem com uma quantidade diferente de gasolina, então confira o marcador antes de uma fuga longa.
 
 ## Tirar o motorista do carro
 
@@ -45,6 +70,8 @@ Ainda dá para puxar alguém do carro, mas muita gente reage. Você precisa aper
 
 O slim jim não funciona se tem alguém sentado no carro. Nesse caso, só quebrando o vidro.
 
+O MrDalekJD confirma que o slim jim vem do Moses, no capítulo 2. Segundo ele, a ferramenta fica para sempre no inventário do Jason e da Lucia, sem precisar equipar, e também abre o **porta-malas** em silêncio para você pegar o que tem dentro. Mais em [slim jim e snap gun](../slim-jim-snap-gun-gta-6/).
+
 Para clonar: pare do lado da porta, aperte interagir, escolha **Clonar chave** e use o analógico para achar o ponto certo e acelerar o processo.
 
 ## Rastreadores
@@ -52,11 +79,21 @@ Para clonar: pare do lado da porta, aperte interagir, escolha **Clonar chave** e
 - **Rastreador comum:** não chama a polícia. Só impede de modificar o carro na oficina até você registrar o carro como seu.
 - **Rastreador avançado:** avisa a polícia e mostra onde você está. Para ele não mandar sinal, **dirija rápido**. Se diminuir, ele começa a apitar e você tem poucos segundos para acelerar.
 
+O Thalera resume de um jeito mais simples: alarme chama a polícia, rastreador entrega onde você está. O PC Gamer separa os dois tipos, e é o rastreador avançado que avisa a polícia. Na prática, o Thalera procura um carro sem alarme ou, pelo menos, sem rastreador. Para o MrDalekJD, carro com rastreador avançado até serve para sair correndo do local, mas, se a ideia é sumir por um tempo, escolha outro.
+
+## Registrar o carro para ficar com ele
+
+- **No capítulo 1 não dá para registrar.** Segundo o MrDalekJD, você fica preso ao carro inicial. Dá para roubar carros na rua, mas eles não ficam salvos.
+- **O registro libera no capítulo 2**, depois da missão principal **Moses**, em Port Gellhorn.
+- **Onde:** leve o carro a uma **Pay 'n' Spray**. O GamingBolt avisa que nem todo veículo passa: um monster truck que ele achou explorando não coube na oficina e não pôde ser registrado.
+
+Há uma dúvida sobre rastreador e registro. O MrDalekJD diz que, depois de liberado, dá para registrar os carros que **não têm rastreador**. O PC Gamer diz que o rastreador comum só impede de modificar o carro até você registrar. Ainda não ficou claro se carro com rastreador pode ser registrado. Na dúvida, escolha um carro sem rastreador para ficar.
+
 ## Vender ou ficar com o carro
 
-- **Pay 'n' Spray:** vende carro roubado, com limite de **3 por dia**. Também é onde você **registra** o carro para ficar com ele.
+- **Pay 'n' Spray:** vende carro roubado, com limite de **3 por dia**. Também é onde você **registra** o carro para ficar com ele, a partir do capítulo 2.
 - **Moses** (capítulo 2): compra carros mais velhos e discretos, e costuma dizer onde estão os que ele procura. Depois de uma venda, demora um tempo para aceitar outra.
 - **Randy** (capítulo 3): paga mais, mas só quer carros caros e chamativos.
 - **Guardar:** numa garagem comprada pelo app de imóveis do celular (uma vaga por garagem) ou nas vagas da frente da sua casa.
 
-O Waink It avisa se o carro serve para o Moses ou para o Randy. Vender carro é um dos jeitos que mais rende dinheiro no capítulo 2; veja [como ganhar dinheiro no GTA 6](../como-ganhar-dinheiro-gta-6/).
+O Waink It avisa se o carro serve para o Moses ou para o Randy. Vender carro é um dos jeitos que mais rende dinheiro no capítulo 2; veja [como ganhar dinheiro no GTA 6](../como-ganhar-dinheiro-gta-6/). E para despistar a polícia depois de um roubo, veja [como fugir da polícia](../como-fugir-da-policia-gta-6/).

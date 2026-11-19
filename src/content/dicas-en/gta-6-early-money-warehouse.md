@@ -13,9 +13,12 @@ fontes:
   - { tipo: youtube, canal: "GrandTheftIntel", url: "https://www.youtube.com/watch?v=SQPu9zX4JW8", titulo: "$20,000 Before Your First Mission! (GTA 6 Early Money Guide)", minuto: "0:11", data: "2026-11-19T05:21:18-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "0:52", data: "2026-11-19T02:29:35-03:00" }
   - { tipo: youtube, canal: "LoDj1c", url: "https://www.youtube.com/watch?v=KrLUtGZw7lQ", titulo: "HOW TO MAKE MONEY FAST IN GTA 6! (Secret Location to EARN QUICK MONEY)", minuto: "2:14", data: "2026-11-19T00:47:30-03:00" }
+  - { tipo: youtube, canal: "DooDooPoo", url: "https://www.youtube.com/watch?v=cZLAIDMi4ak", titulo: "GTA 6 SECRET WAREHOUSE LOCATION - FREE $20K, RARE TRADING CARD & WEAPONS - GTA VI", minuto: "0:11", data: "2026-11-19T12:41:03-03:00" }
+  - { tipo: youtube, canal: "YTLukeyy", url: "https://www.youtube.com/watch?v=vt7GMPXbjOo", titulo: "SECRET $20,000 LOOT SPOT on GTA 6! ( Make Money FAST & Find Rare Guns )", minuto: "0:24", data: "2026-11-18T23:35:19-03:00" }
 descoberto_em: "2026-11-19T14:36:00-03:00"
-atualizado_em: "2026-11-19T14:36:00-03:00"
+atualizado_em: "2026-11-19T16:22:00-03:00"
 historico:
+  - { data: "2026-11-19T16:22:00-03:00", nota: "Two more channels at the same warehouse (DooDooPoo and YTLukeyy); Brian's lockup code 7700 and the drug bag selling for $10,000." }
   - { data: "2026-11-19T14:36:00-03:00", nota: "Published as confirmed: the same warehouse shows up in videos by GrandTheftIntel, DPJ and LoDj1c." }
 perguntas:
   - { p: "Where is the early money warehouse in GTA 6?", r: "In the south of Vice-Dale County, near Hamlet and a short drive from Jason's house. It's a red warehouse on the side of the road, next to a quarry, with trucks and vans in the yard." }
@@ -24,7 +27,7 @@ perguntas:
   - { p: "How do you open the warehouse safe in GTA 6?", r: "There's no code. Slowly turn the right stick until the circle fills quickly, and the lock breaks." }
 ---
 
-Early in GTA 6 you can leave Jason's house and come back with **over $10,000**, a **rifle** and an **SMG**. It's all in an abandoned warehouse in the south of **Vice-Dale County**. Whoever was inside is already dead, so there's **no shootout**: walk in and take it. GrandTheftIntel, DPJ and LoDj1c all showed the same spot.
+Early in GTA 6 you can leave Jason's house and come back with **over $10,000**, a **rifle** and an **SMG**. It's all in an abandoned warehouse in the south of **Vice-Dale County**. Whoever was inside is already dead, so there's **no shootout**: walk in and take it. GrandTheftIntel, DPJ, LoDj1c, DooDooPoo and YTLukeyy all showed the same spot.
 
 ## Where it is
 
@@ -51,7 +54,7 @@ Your bag fills up fast. Open the back of your car and stow the full stash bags t
 
 ## Turning it into money
 
-- **Contraband:** take it to **Brian's lockup**, the first fence, in Key Lento. See [all fence locations](../gta-6-fence-locations/).
+- **Contraband:** take it to **Brian's lockup**, the first fence, in Key Lento. The door code is **7700**. DooDooPoo sold the full drug bag for about **$10,000**. See [all fence locations](../gta-6-fence-locations/).
 - **Marked bills:** some of the cash comes marked and has to go through a fence too.
 - **The collectible card:** GrandTheftIntel sold the **Vice City Narcos** card for about **$6,000** at the store in **Hamlet**.
 - **Stash the rest at home:** there's no ATM early on. Keep your cash under Jason's floorboard, because [dying wipes your wallet](../gta-6-lose-money-when-you-die/).

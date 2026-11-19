@@ -12,17 +12,24 @@ fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-lose-the-police-in-gta-6/", titulo: "How To Lose The Police In GTA 6", data: "2026-11-19T08:55:00-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=wBVbxswlJ4A", titulo: "GTA 6 - 10 Tips & Tricks I Wish I Knew SOONER! (Beginner Guide)", minuto: "6:27", data: "2026-11-18T16:04:42-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "7:23", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "4:47", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "6:44", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "5:05", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "3:07", data: "2026-11-19T02:20:57-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T16:20:00-03:00"
 historico:
+  - { data: "2026-11-19T16:20:00-03:00", nota: "Added: cops off the minimap, witnesses and cameras (MrDalekJD); heat icons for CCTV, a visible weapon and both characters (GamingBolt, MrDalekJD); hollow stars (KhrazeGaming); long guns scaring people into calling the cops (KhrazeGaming, GamingBolt); spare outfits in the trunk (BennyCentral, KultZ)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: GameSpot and DPJ both explain that the police track your look and car, and how to change them." }
 perguntas:
   - { p: "How do you lose your wanted level in GTA 6?", r: "Stay outside the search zone until your heat drops, and change your look: respray the car at Pay 'n' Spray, change clothes, or get a haircut or tattoo." }
   - { p: "What is heat in GTA 6?", r: "It's what the police know about you: your look, outfit and car. They radio out your description, and the more you match it, the longer they keep looking." }
   - { p: "How do you get rid of trackers in GTA 6?", r: "You can't remove them on the spot. With a yellow tracker, don't stop; with a red one, keep your speed up so it can't ping the police." }
+  - { p: "What do hollow stars mean in GTA 6?", r: "According to KhrazeGaming, hollow stars (just the outline, red or white) mean the police don't have your description. You can stay in the area as long as you don't act suspicious." }
 ---
 
-The police in GTA 6 don't just chase you: they **learn what you look like**. They remember your car, your weapon and your outfit, and keep searching the area until you stop matching that description. Losing them means getting out of the search zone and changing your look. GameSpot, PC Gamer and DPJ explained how it works.
+The police in GTA 6 don't just chase you: they **learn what you look like**. They remember your car, your weapon and your outfit, and keep searching the area until you stop matching that description. Losing them means getting out of the search zone and changing your look. GameSpot, PC Gamer and DPJ explained how it works, and MrDalekJD, KhrazeGaming and GamingBolt showed how to wipe each clue.
 
 ## How the search works
 
@@ -30,16 +37,55 @@ According to GameSpot, when someone sees you commit a crime the police get calle
 
 That's GTA 6's **heat** system. The police put out your description over the radio, for example "white male in his 30s, driving a yellow Ganado", and it shows up on the heat map.
 
+## The cops aren't on your minimap
+
+If you're used to GTA 5, this one hurts: patrol cars **no longer show up on the minimap**, so you can't just steer around them. According to MrDalekJD, the police now track you down through **witnesses and cameras**. Before you do something shady, look around: how many people can see you, and is there a camera on that building? The fewer eyes on you, the less the cops have to work with.
+
+## The heat icons: what the police know
+
+Next to your wanted stars you get a row of icons showing what the police have on you. Each icon you clear is one less thing they can use to spot you.
+
+| What they know | How to clear it |
+|---|---|
+| Your outfit | Change clothes at a store, at home or from your trunk. |
+| Your appearance | Put on or take off sunglasses, a hat or a mask. A new haircut works too. |
+| Your vehicle | Ditch it or respray it at a Pay 'n' Spray. |
+| A visible weapon | Put your gun away (GamingBolt). |
+| CCTV footage | Destroy the recording at the scene. GamingBolt warns the alarm will go off sooner or later. |
+| Both of you did it | Split Jason and Lucia up. MrDalekJD says this icon shows up later in the game. |
+
+## Hollow stars
+
+Pay attention to how your stars look. According to KhrazeGaming, when they're **hollow** (just an outline, red or white), the police **don't have your description**. You can even hang around in the search area, as long as you don't do anything suspicious.
+
+He showed it after a store robbery. He'd parked behind the building where nobody saw, so the cops only had his face and his outfit. At his trunk he swapped outfits and took off his sunglasses and cap, both icons disappeared, and he could walk back into the red zone without anyone bothering him.
+
+## Don't walk around with a rifle out
+
+Carrying a big gun in the open draws attention in GTA 6.
+
+- KhrazeGaming explains that two long guns don't both fit on your back, so one ends up in your hands. People nearby get nervous and walk off.
+- GamingBolt adds that machine guns and shotguns in plain sight make bystanders react and even call the cops. If you want to stay low-key, carry a **pistol**.
+
+KhrazeGaming turns this into a trick before a robbery: he walks around with a long gun out until the witnesses leave, then puts everything back in the trunk before going in.
+
 ## Step by step to lose them
 
 1. **Get out of the search circle** and stay out until your heat fades.
-2. **Change the car:** take it to a **Pay 'n' Spray** and pick **Respray** in a different color.
-3. **Change your outfit:** a clothing store or Ammu-Nation works, sunglasses and hats included.
-4. **Change your face:** get a haircut at a salon or a tattoo.
-5. **On the spot:** hold **L1 (LB on Xbox) and press R1 (RB)** to take off pieces like your hat or change how you wear them, DPJ showed.
-6. **Keep outfits in your trunk** so you can change away from home.
+2. **Check the icons** next to your stars to see what they have on you.
+3. **Change the car:** take it to a **Pay 'n' Spray** and pick **Respray** in a different color. According to MrDalekJD, a fresh paint job is enough for patrol cars to drive by without noticing you.
+4. **Change your outfit:** a clothing store or Ammu-Nation works, sunglasses and hats included.
+5. **Change your face:** get a haircut at a salon or a tattoo. GamingBolt also suggests a mask.
+6. **On the spot:** hold **L1 (LB on Xbox) and press R1 (RB)** to take off pieces like your hat or change how you wear them, DPJ showed. MrDalekJD uses the same shortcut.
+7. **Put the gun away** and, if Lucia is with you, split up.
+
+MrDalekJD's habit: put on sunglasses and a cap before you do anything dodgy. That way you always have something to take off when you need to vanish.
 
 When they lose your description, you'll hear the radio say they lost sight of you.
+
+## Keep spare outfits in your trunk
+
+BennyCentral, KultZ, KhrazeGaming and GamingBolt all give the same advice: keep a couple of outfits in your car's trunk so you can pull over, change and leave the police with the wrong description. BennyCentral notes you can manage what's in your trunk at any clothing store that has a changing room, and KhrazeGaming loads his from the wardrobe at the safehouse.
 
 ## Stolen car trackers
 

@@ -22,9 +22,17 @@ fontes:
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
   - { tipo: youtube, canal: "GrandTheftIntel", url: "https://www.youtube.com/watch?v=SQPu9zX4JW8", titulo: "$20,000 Before Your First Mission! (GTA 6 Early Money Guide)", minuto: "0:11", data: "2026-11-19T05:21:18-03:00" }
   - { tipo: youtube, canal: "ImBones", url: "https://www.youtube.com/watch?v=ny6bOG-j3es", titulo: "GTA 6 | BEGINNERS GUIDE TO MAKE MONEY FAST (50k PER HOUR)", minuto: "1:30", data: "2026-11-18T13:55:54-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "33:04", data: "2026-11-18T22:26:16-03:00" }
+  - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "0:41", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "5:10", data: "2026-11-19T01:53:46-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "3:48", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "7:41", data: "2026-11-18T18:18:15-03:00" }
+  - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "14:47", data: "2026-11-19T11:39:01-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "12:08", data: "2026-11-19T07:27:23-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T14:44:00-03:00"
+atualizado_em: "2026-11-19T16:25:00-03:00"
 historico:
+  - { data: "2026-11-19T16:25:00-03:00", nota: "Acrescentados: assalto a loja de conveniência e operações ilegais no mapa (Thalera), passo a passo do BuckMe, cobrança Lab Fees do Brian e base dos King Fishers na ilha (KultZ), barco atacado por tubarão (Milo), banco na hora do carro-forte (CKX e Combo Infinito) e a opinião do CKX sobre porta-malas. Link para o roubo do papagaio." }
   - { data: "2026-11-19T14:44:00-03:00", nota: "Link para a página do galpão (GrandTheftIntel e RWGC Gameplays); ImBones sobre as recompensas na caixa de correio." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "DPJ mostrou o mesmo prédio com cofre e figurinha ao sul de Vice-Dale County (bolsa de US$ 4.800, fuzil); RageGamingVideos achou tubarão e carga de uns US$ 2.000 num evento a leste de Key Lento. Link para os receptadores." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados: aviso do WiLLiSGaming de que o dinheiro do capítulo 1 zera, meta de US$ 5.000 do BuckMe, mergulho com o Kenton, pacotes do Donnie, cofres de trailer, bases de gangue e figurinha vendida por US$ 6.000." }
@@ -51,6 +59,15 @@ Esta página junta o que já foi mostrado em gameplay e vai crescendo conforme o
 
 Segundo o WiLLiSGaming, que já passou do capítulo 2: **quando o capítulo 2 começa, o dinheiro volta a zero**. Só fica a **poupança da família**, os **US$ 5.000** que a história pede para juntar no app **BuckMe** (o Jason tem o nome sujo, e o banco dá o app para ele construir crédito). Então, no capítulo 1, junte os US$ 5.000 e siga a história; não vale passar horas acumulando.
 
+Como colocar o dinheiro na poupança, pelo vídeo do Thalera:
+
+1. Leve o dinheiro vivo a **qualquer caixa eletrônico** e escolha depositar. O valor cai na conta do BuckMe.
+2. No app **BuckMe**, abra a aba **Poupança família** e vá em **Transferência**.
+3. Ajuste o valor com o direcional para o lado e confirme em Transferência.
+4. Quando a meta é batida, a história libera missões novas.
+
+O depósito só funciona depois que a conta abre, na missão Buck Me do capítulo 1, e só no caixa eletrônico: pelo celular não dá. Mais detalhes em [banco e caixa eletrônico no GTA 6](../banco-caixa-eletronico-gta-6/).
+
 ## Quanto rende cada jeito
 
 | Jeito | Quanto rendeu no vídeo | Quem mostrou |
@@ -62,6 +79,9 @@ Segundo o WiLLiSGaming, que já passou do capítulo 2: **quando o capítulo 2 co
 | Figurinha rara vendida na loja de penhores | US$ 6.000 | LoDj1c |
 | Ilha dos cachorros | US$ 1.218 | ZoneX |
 | Pagamento do Brian | US$ 1.200 | Gameplayrj |
+| Base dos King Fishers na ilha | cerca de US$ 2.000 | KultZ |
+| Assalto ao caixa de loja (começo do jogo) | de quase US$ 600 a pouco mais de US$ 1.000 | KultZ, KhrazeGaming |
+| Cobrança de aluguel Lab Fees (Brian) | US$ 600, uma vez só | KultZ |
 | Derby de demolição no Ambrosia Raceway | US$ 3.800 a US$ 6.300 por vitória | PC Gamer |
 | Roubar outros criminosos em fuga | US$ 1.000 a US$ 15.000 | PC Gamer |
 | Vender carro roubado (capítulo 2 em diante) | US$ 1.000 a US$ 20.000 | PC Gamer |
@@ -71,7 +91,7 @@ Segundo o WiLLiSGaming, que já passou do capítulo 2: **quando o capítulo 2 co
 
 ## Regra número 1: guarde o dinheiro em casa
 
-Quando você morre, **o dinheiro da carteira some todo**. O Ikoma Games morreu com US$ 1.500 na carteira e voltou com zero. O que fica guardado no estoque da casa não se perde. Leve na carteira só o que vai usar. O passo a passo está em [como não perder dinheiro ao morrer no GTA 6](../dinheiro-ao-morrer-guardar-em-casa-gta-6/).
+Quando você morre, **o dinheiro da carteira some todo**. O Ikoma Games morreu com US$ 1.500 na carteira e voltou com zero. O que fica guardado no estoque da casa não se perde. Leve na carteira só o que vai usar. Depois que o banco libera, na missão Buck Me do capítulo 1, o MrDalekJD passa num caixa eletrônico antes de cada missão ou roubo, porque o dinheiro da conta também fica a salvo. O passo a passo está em [como não perder dinheiro ao morrer no GTA 6](../dinheiro-ao-morrer-guardar-em-casa-gta-6/).
 
 ## O que já foi visto dando dinheiro
 
@@ -83,13 +103,34 @@ Concluir missões paga, e alguns personagens mandam dinheiro direto para você. 
 
 Lojas podem ser roubadas. No fundo de uma delas o Gameplayrj encontrou um cofre e o jogo abriu um minijogo para arrombar. Dentro havia dinheiro e objetos de valor. A polícia aparece logo depois, então planeje a fuga antes.
 
+Para o Thalera, assaltar loja de conveniência é o jeito mais fácil de fazer dinheiro no começo, e dá para fazer desde o início do jogo. O passo a passo dele:
+
+1. Marque uma loja de conveniência no mapa.
+2. Entre pelo menos de **boné e óculos escuros**, e de bandana, se já tiver uma.
+3. Aponte a arma para o atendente e ameace. Ele vai soltando o dinheiro aos poucos, e você pode ameaçar de novo para sair mais.
+4. Depois de algumas ameaças, ele liga para a polícia. Antes de sair, abra o inventário e troque de traje, para não ser reconhecido mesmo que te denunciem.
+
+Quanto rende: o KhrazeGaming tirou uns US$ 1.000 do caixa no começo do jogo. O KultZ pegou quase US$ 600 numa loja e diz que uma noite de roubos rende de algumas centenas de dólares a mais de US$ 2.000, quando a noite é boa. Ele prefere roubar de madrugada, quando tem menos gente na rua e a loja costuma estar vazia. Para abrir cofre, veja [como descobrir a senha do cofre](../senha-do-cofre-gta-6/), e para despistar depois, [como fugir da polícia](../como-fugir-da-policia-gta-6/).
+
+### Banco: chegue junto com o carro-forte
+
+O CKX e o Combo Infinito dão a mesma dica: assaltar o banco na hora em que o **carro-forte** está chegando rende mais. Nenhum dos dois mostrou a diferença em números, então trate como dica de quem já jogou, não como regra.
+
+Na live do Combo Infinito, o mapa marcava esse banco com **até US$ 20.000**. Ele saiu às pressas quando a polícia chegou e depois viu que ainda tinham ficado uns **US$ 8.000** lá dentro. Se der tempo, leve tudo, e confira antes se o prédio tem saída pelos fundos.
+
 ### Operações ilegais no mapa
 
 No mapa do jogo há uma aba de **Roubos**, com a lista de **Alvos**. Ali aparecem as **Operações ilegais** disponíveis na região, marcadas no mapa. É o lugar para procurar crimes que rendem dinheiro fora da história.
 
+O Thalera explicou como ler essa lista. No começo, as principais são as dos **King Fishers**, em dois lugares. Quando o ponto está **amarelo**, dá para ir até lá, derrotar os bandidos e pegar o que eles deixam cair. Quando fica **cinza com um reloginho**, o grupo foi desfeito por um tempo; depois ele volta e dá para atacar de novo.
+
+Uma dessas operações é a **fachada de animais exóticos** nos fundos da loja de bebidas da missão do rum da vizinha. O passo a passo está em [dinheiro do papagaio da loja de bebidas](../dinheiro-do-papagaio-loja-de-bebidas-gta-6/).
+
 ### Cobrar aluguel para o Brian e a caixa de correio
 
 Logo no começo, o Brian passa missões secundárias pelo celular: **cobrar aluguel** de inquilinos e **levar pacotes** até o depósito dele. Segundo o Ikoma Games, o pagamento aparece na **caixa de correio da casa do Jason**, normalmente de um dia para o outro, e fica maior a partir da terceira ou quarta cobrança. O Gameplayrj também achou dinheiro na caixa. O ImBones confirma que a recompensa de cada missão e de cada tarefa secundária vai para essa caixa: se você não passar lá, o dinheiro fica parado.
+
+O KultZ deu a ordem: depois da missão **Gone Fishing**, faça a **Lab Fees**, que aparece como cobrar o aluguel do Brian. Deixe a bolsa no contêiner do **depósito do Brian, em South Key Lento**. Na hora a carteira continua vazia; espere um pouco e confira a caixa de correio na frente de casa, onde chegam os **US$ 600**. Segundo ele, essa cobrança específica paga uma vez só.
 
 Na cobrança, tente convencer o inquilino na conversa; só parta para a briga se ele ficar agressivo. Veja [tudo que dá para fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/).
 
@@ -107,7 +148,7 @@ Cada corrida paga uns **US$ 1.500 a US$ 1.900** para o primeiro lugar, segundo o
 
 ### Eventos aleatórios: avião e barco com carga
 
-Aviões caem e barcos naufragam pelo mapa, sem aviso e sem marcação no mapa. No local há **carga ilegal** e às vezes **armas**: o Ikoma Games pegou escopetas e ficou com a van que estava ali. Num naufrágio perto de uma ilha ele juntou uns **US$ 2.500**. O RageGamingVideos viu uma explosão no mar **a leste de Key Lento**, chegou lá e encontrou um tubarão atacando um homem. Depois de matar o tubarão com o arpão do kit de mergulho, pegou pacotes que apitavam na água: uns **US$ 2.000** em droga para vender. Cuidado: traficantes aparecem para pegar a carga, a polícia vem logo depois, e no naufrágio havia um tubarão. Veja [o avião caindo](../aviao-caindo-evento-aleatorio-gta-6/).
+Aviões caem e barcos naufragam pelo mapa, sem aviso e sem marcação no mapa. No local há **carga ilegal** e às vezes **armas**: o Ikoma Games pegou escopetas e ficou com a van que estava ali. Num naufrágio perto de uma ilha ele juntou uns **US$ 2.500**. O RageGamingVideos viu uma explosão no mar **a leste de Key Lento**, chegou lá e encontrou um tubarão atacando um homem. Depois de matar o tubarão com o arpão do kit de mergulho, pegou pacotes que apitavam na água: uns **US$ 2.000** em droga para vender. O Milo explica o sinal: se você estiver de barco e vir **outro barco explodir**, foi um tubarão que atacou. Vá até os destroços, que estão cheios de carga, mas o tubarão continua ali caçando: suba no barco, pegue o arpão e acabe com ele antes de recolher tudo. Depois é só vender para o Brian. Cuidado: traficantes aparecem para pegar a carga, a polícia vem logo depois, e no naufrágio havia um tubarão. Veja [o avião caindo](../aviao-caindo-evento-aleatorio-gta-6/).
 
 ### Derby de demolição no Ambrosia Raceway
 
@@ -134,7 +175,7 @@ No capítulo 3 você ganha uma ferramenta para abrir fechaduras. A partir daí, 
 ### Outros jeitos menores
 
 - **Assaltar pedestre:** nunca passa de umas centenas de dólares.
-- **Porta-malas de carros:** às vezes tem dinheiro, mas pouco.
+- **Porta-malas de carros:** segundo o PC Gamer, às vezes tem dinheiro, mas pouco. O CKX pensa diferente: recomenda abrir porta-malas sempre que puder, porque diz que dá para achar itens raros, armas e coisas para vender. Ele não mostrou um valor na tela. Com o slim jim, que vem no capítulo 2, o MrDalekJD conta que dá para abrir o porta-malas sem disparar o alarme.
 - **Telhados:** quase sempre tem um cofrinho com algum dinheiro.
 - **Tesouro no fundo do mar:** rende pouco e demora, mas é divertido.
 - **Caixa eletrônico:** com um guincho na caminhonete dá para arrancar o caixa da parede, mas faz barulho e atrai muita polícia.
@@ -159,7 +200,9 @@ O DPJ mostrou o mesmo tipo de galpão ao sul de Vice-Dale County, perto de Hamle
 
 ### Bases de gangue (King Fishers)
 
-As bases da gangue **King Fishers** são cheias de carga ilegal que vende bem, e numa delas o WiLLiSGaming achou um rifle único. Leve espaço na bolsa e vá preparado: ele enfrentou uns 30 inimigos. Em **Hamlet**, o AlmightyDen achou um galpão com dois homens batendo num refém: depois da briga, havia dinheiro na mesa e uma **escopeta de cano serrado** de graça.
+As bases da gangue **King Fishers** são cheias de carga ilegal que vende bem, e numa delas o WiLLiSGaming achou um rifle único. Leve espaço na bolsa e vá preparado: ele enfrentou uns 30 inimigos. O Thalera também aponta os King Fishers como o melhor alvo do começo, nas operações ilegais do mapa.
+
+O KultZ fez a missão de vingança contra os King Fishers numa **ilha**. Para chegar rápido, pegue um **barco ou hidroavião**: eles costumam estar parados perto da água. Lá, derrube os bandidos, pegue o dinheiro solto e encha a bolsa com o resto, quase tudo droga. Leve a carga ao depósito do Brian e depois busque o pagamento na caixa de correio. Ele fez uns **US$ 2.000** só nessa, e diz que mais para frente, no caminho para buscar a Lucia, aparece outra missão contra os King Fishers. Em **Hamlet**, o AlmightyDen achou um galpão com dois homens batendo num refém: depois da briga, havia dinheiro na mesa e uma **escopeta de cano serrado** de graça.
 
 ### A ilha dos cachorros (cerca de US$ 1.200)
 Fique nadando sem barco no meio de Gambit Bay até um cachorro aparecer de jet ski. Ele leva você a uma ilha, e um dos cachorros desenterra dinheiro: **US$ 1.218** no vídeo do ZoneX. O passo a passo está em [cachorro do jet ski](../cachorro-jet-ski-ilha-dos-cachorros-gta-6/).

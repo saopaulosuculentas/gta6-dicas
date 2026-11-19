@@ -68,6 +68,8 @@ Na primeira vez que o jogo abre, ele mostra o aviso de que os controles padrão 
 - **Intensidade do sangue:** fica na aba Jogabilidade, mais para baixo. O Milo mostrou que vai de 1 a 3 e vem no 2.
 - **Câmera:** além das câmeras normais, há uma câmera cinematográfica. Veja a seção de câmera logo abaixo.
 
+As opções de mira, legenda, unidades e áudio estão explicadas uma a uma em [melhores configurações do GTA 6](../melhores-configuracoes-gta-6/).
+
 ## Ver lugares por perto sem abrir o mapa
 
 Uma das novidades mais úteis: **segure o direcional para baixo** e aparece a lista de lugares próximos para marcar como destino. O Gigaton Games e o Gameplayrj usaram isso para ir direto a um bar e a um depósito sem abrir o mapa.

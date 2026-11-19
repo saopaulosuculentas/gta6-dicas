@@ -14,9 +14,12 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:00", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
   - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=D2nOcgWsG1k", titulo: "I Found the Secret Kraken Easter Egg in GTA 6!", minuto: "0:00", data: "2026-11-19T04:45:13-03:00" }
+  - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=OT9VS3yBodM", titulo: "GTA 6 SECRET BUNKER FOUND IN GRASSRIVERS", minuto: "2:25", data: "2026-11-18T17:30:23-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "3:56", data: "2026-11-19T01:53:46-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T16:28:00-03:00"
 historico:
+  - { data: "2026-11-19T16:28:00-03:00", nota: "Added the Mount Kalaga watchtower shed and its code 69185 (confirmed by Milo and Robbin Rams), the sealed Grassrivers bunker (Robbin Rams), the SOS island and the influencer on top of the egg tower (Milo). The UFO house is now confirmed with Milo, and the giant crab has its own page." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "List published with the easter eggs shown by T5G, ZacCoxTV, Robbin Rams and other channels, plus Kotaku. Each item says who showed it." }
 perguntas:
   - { p: "What are the easter eggs in GTA 6?", r: "The best known so far: the Skunk Ape (Bigfoot) in Grassrivers, the Easter egg on the radio tower, the jet ski dog, the alien lab, Michael's boat at Jason's house and Dexter's apartment." }
@@ -36,11 +39,11 @@ The Grassrivers swamps are home to the **Skunk Ape**, the Bigfoot of Florida leg
 See [the Skunk Ape mission](../gta-6-skunk-ape-mission-sniper-rifle/).
 
 ### The Easter egg on the radio tower
-At the top of the tallest radio tower in the game, after about six minutes of ladder, there's a nest with an Easter egg. Throw it off the top and a cutscene plays. Confirmed: T5G, ZacCoxTV and Kotaku.
+At the top of the tallest radio tower in the game, after about six minutes of ladder, there's a nest with an Easter egg. Throw it off the top and a cutscene plays. Confirmed: T5G, ZacCoxTV, Kotaku and Milo. Milo also ran into an influencer hanging out at the top, and you can chat with her (unverified).
 See [the radio tower easter egg](../gta-6-radio-tower-easter-egg/).
 
 ### The jet ski dog
-Stranded in the middle of Gambit Bay with no boat, you get rescued by a dog in a life jacket and goggles on a jet ski. It takes you to Dog Island, where a dog digs up about $1,200. Confirmed: ZoneX, ZacCoxTV, T5G and Kotaku.
+Stranded in the middle of Gambit Bay with no boat, you get rescued by a dog in a life jacket and goggles on a jet ski. It takes you to Dog Island, where a dog digs up about $1,200. Confirmed: ZoneX, ZacCoxTV, T5G, Kotaku and Milo.
 See [the jet ski dog location](../gta-6-jet-ski-dog-location/).
 
 ### The alien lab (code 2314)
@@ -59,7 +62,7 @@ See [the alien lab](../gta-6-alien-lab-code-2314/).
 
 - **GTA 4.** A book at Jason's house, "Lethal by Design", is the memoir of a Liberty City bodyguard who skipped the day Niko Bellic took out his crew. Unverified: ZacCoxTV.
 - **Vice City.** In the Keys, an iguana wanders around wearing Tommy Vercetti's shirt. Unverified: ZacCoxTV.
-- **San Andreas.** Lil' Probe Inn bumper stickers on cars and a [UFO-obsessed house just like San Andreas'](../gta-6-ufo-house-easter-egg/) in Bellville, with a meteorite under the bed you can sell. Unverified: ZacCoxTV.
+- **San Andreas.** Lil' Probe Inn bumper stickers on cars and a [UFO-obsessed house just like San Andreas'](../gta-6-ufo-house-easter-egg/) in Bellville, with a meteorite under the bed you can sell. Milo got into the same house and found a snake in the trunk of the car parked out front. Confirmed: ZacCoxTV and Milo.
 - **The Epsilon mystery.** A truck with the Epsilon eye and a QR code. For now the code just leads to Rockstar's website. Unverified: T5G.
 - **Race'n'Chase.** A post on the in-game social feed complains that "Race and Chase 7" got delayed again. Race'n'Chase was the original name of the first GTA, so the joke is about the wait for GTA 6 itself. Unverified: T5G.
 
@@ -71,10 +74,13 @@ See [the alien lab](../gta-6-alien-lab-code-2314/).
 
 ## Aliens and strange things
 
-- **Late-night abduction.** Near Port Gellhorn, between 2 and 3 a.m., you can stumble on a flying saucer abduction. Get too close and you're next: the screen goes white and you wake up the next day. Unverified: ZacCoxTV.
-- **Meteorite on Mount Kalaga.** At the top of the mountain there's a crater with a still-smoking meteorite. You can pick it up and sell it. There's also a ring of stones up there nobody has figured out yet. Unverified: ZacCoxTV.
+- **Late-night abduction.** Near Port Gellhorn, between 2 and 3 a.m., you can stumble on a flying saucer abduction. Get too close and you're next: the screen goes white and you wake up the next day. Milo points to the north end of Kelly County, the same county as Port Gellhorn, at night and as Lucia, and says it's rare; he didn't catch it on his own footage. Unverified: ZacCoxTV.
+- **Meteorite on Mount Kalaga.** At the top of the mountain there's a crater with a still-smoking meteorite. You can pick it up and sell it. There's also a ring of stones up there nobody has figured out yet. Unverified: ZacCoxTV. Milo showed a similar meteorite at the top of the map in Lummox County, where Mount Kalaga is: head east down the hill to a wrecked campsite with a glowing purple rock, and you can grab a piece. He doesn't name the mountain, so it may or may not be the same spot.
 - **The Kraken statue.** Deep underwater in the southeast, just below Gloriana Key, there's a giant statue of an octopus grabbing a boat. A scuba diving boat sits above the spot, and a creepy figure appears nearby and sinks out of sight. Nobody has found treasure there yet. Unverified: Robbin Rams.
-- **Giant crab.** Inside a building, a monster crab can attack out of nowhere. Confirmed: T5G and Kotaku. Nobody knows yet what triggers it.
+- **Giant crab.** Inside a building, a monster crab can attack out of nowhere. Confirmed: T5G and Kotaku. The mystery has since been solved, from the password to the reward: see [the giant crab mystery](../gta-6-giant-crab-mystery-codes/).
+- **The watchtower shed (code 69185).** There's a fire watchtower on Mount Kalaga. Climb to the top: next to a magnifying glass is a sticky note with the word "shed" and the number **69185**. The shed is under the tower's stairs, with a keypad on the door. Punch in 69185 and walk in. Inside is a UFO hunter's stash: alien stickers, a camera and the lookout's logbook, which has some strange drawings, including an abduction. Robbin Rams isn't sure the number is the same in every game, so check the note in yours. Confirmed: Milo and Robbin Rams.
+- **A sealed bunker in Grassrivers.** Out in the swamps there's a huge bunker with thick doors and, far from them, a hatch with a keypad that won't let you type anything. Focus doesn't highlight a thing. Nobody has found a way in yet. Unverified: Robbin Rams.
+- **The SOS island.** On a tiny island far out at sea there are cans everywhere, a giant SOS sign and a phone with a video recorded by the people who got stranded there. The video cuts off suddenly. Milo places it off the coast of Mariana County, in the south, but the name is hard to make out in his audio. Unverified: Milo.
 - **UFO news.** A story in the phone's news app talks about a wave of UFO sightings across Leonida. Unverified: T5G.
 
 ## Small details worth seeing

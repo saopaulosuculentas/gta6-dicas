@@ -10,9 +10,13 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "TheProfessional", url: "https://www.youtube.com/watch?v=hU4FIO2cL9g", titulo: "GTA 6 How To Rob The Secret Liquor Store Stash Room Early In The Game $2500+", minuto: "2:00", data: "2026-11-19T05:49:08-03:00" }
   - { tipo: youtube, canal: "vassillios16", url: "https://www.youtube.com/watch?v=_u_G6W0Z1Fk", titulo: "Secret Talking Parrot Cash Location in GTA 6! ($2,300+ Easy Early Money)", minuto: "0:00", data: "2026-11-19T09:40:18-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "6:36", data: "2026-11-19T13:00:22-03:00" }
+  - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "3:46", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "7:34", data: "2026-11-19T09:16:55-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T16:22:00-03:00"
 historico:
+  - { data: "2026-11-19T16:22:00-03:00", nota: "Mais 3 canais mostraram o mesmo roubo: Arekkz Gaming (duto atrás do gerador, US$ 1.200), KultZ (Key Lento, US$ 1.300) e KhrazeGaming." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Publicada como confirmada: o mesmo roubo aparece nos vídeos de TheProfessional e vassillios16." }
 perguntas:
   - { p: "Onde fica o dinheiro do papagaio no GTA 6?", r: "Na loja de bebidas Three Sheets, a mesma onde a vizinha Shirley manda buscar rum. O papagaio dos fundos diz \"gerador\": o dinheiro está atrás da grade logo atrás do gerador." }
@@ -20,7 +24,7 @@ perguntas:
   - { p: "Quanto dinheiro tem na loja do papagaio?", r: "Mais de US$ 2.000: uns US$ 1.300 no esconderijo, uns US$ 900 no cofre e mais um pouco na máquina de contar dinheiro e no caixa." }
 ---
 
-O dinheiro do papagaio fica na loja de bebidas **Three Sheets**, a mesma onde a vizinha Shirley manda o Jason buscar rum. Nos fundos há um esquema de contrabando de animais, com **mais de US$ 2.000** espalhados. A melhor parte está num esconderijo que só o **papagaio** entrega. Dois canais mostraram o mesmo roubo: TheProfessional e vassillios16.
+O dinheiro do papagaio fica na loja de bebidas **Three Sheets**, a mesma onde a vizinha Shirley manda o Jason buscar rum. Nos fundos há um esquema de contrabando de animais, com **mais de US$ 2.000** espalhados. A melhor parte está num esconderijo que só o **papagaio** entrega. Cinco canais mostraram o mesmo roubo: TheProfessional, vassillios16, Arekkz Gaming, KultZ e KhrazeGaming. Segundo o KultZ, a loja fica em **Key Lento**.
 
 ## Como o roubo aparece
 
@@ -58,7 +62,11 @@ Nos fundos há um **papagaio** que fala o tempo todo de "dinheiro" e "esconderij
 3. Vá até o gerador, mas **não mexa nele**. Abra a **grade** que fica logo atrás.
 4. Ali está o maço de dinheiro.
 
-O vassillios16 achou o esconderijo sem falar com o papagaio, porque ele fica num canto dos fundos. Se não achar de primeira, converse com o bicho. No fim, dá até para agradecer o papagaio.
+O Arekkz Gaming descreve o mesmo ponto: o gerador fica no **canto do fundo à esquerda**, e o esconderijo é um **duto de ventilação** na parede, com uns US$ 1.200. O KultZ tirou uns US$ 1.300 do duto. O vassillios16 achou o esconderijo sem falar com o papagaio, porque ele fica num canto dos fundos. Se não achar de primeira, converse com o bicho. No fim, dá até para agradecer o papagaio.
+
+## Dá para repetir?
+
+O KhrazeGaming lembra que essa fachada de animais exóticos é **fácil de perder** se você não for olhar os fundos. Ele também diz que esconderijos de inimigos como esse **se renovam** a cada poucos dias do jogo e voltam a ter mercadoria.
 
 ## Na saída
 

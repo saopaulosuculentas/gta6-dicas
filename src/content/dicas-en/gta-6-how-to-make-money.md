@@ -18,9 +18,14 @@ fontes:
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
   - { tipo: youtube, canal: "GrandTheftIntel", url: "https://www.youtube.com/watch?v=SQPu9zX4JW8", titulo: "$20,000 Before Your First Mission! (GTA 6 Early Money Guide)", minuto: "0:11", data: "2026-11-19T05:21:18-03:00" }
   - { tipo: youtube, canal: "ImBones", url: "https://www.youtube.com/watch?v=ny6bOG-j3es", titulo: "GTA 6 | BEGINNERS GUIDE TO MAKE MONEY FAST (50k PER HOUR)", minuto: "1:30", data: "2026-11-18T13:55:54-03:00" }
+  - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "0:41", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "5:10", data: "2026-11-19T01:53:46-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "3:48", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "1:21", data: "2026-11-19T07:27:23-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T14:44:00-03:00"
+atualizado_em: "2026-11-19T16:25:00-03:00"
 historico:
+  - { data: "2026-11-19T16:25:00-03:00", nota: "Added KultZ (Brian's Lab Fees job paying $600 to the mailbox, the King Fishers island raid for about $2,000, night store robberies), KhrazeGaming (about $1,000 from a register), Milo (boat blown up by a shark) and MrDalekJD (bank deposits at ATMs). Linked the parrot stash." }
   - { data: "2026-11-19T14:44:00-03:00", nota: "Linked the new warehouse walkthrough (GrandTheftIntel); added ImBones on mailbox rewards." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Added DPJ (loot warehouse in South Vice-Dale County) and RageGamingVideos (shark and cargo random event east of Key Lento). Linked the fence guide." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Guide published from PC Gamer, WiLLiSGaming, JoblessGarrett, ZoneX and LoDj1c." }
@@ -47,7 +52,10 @@ WiLLiSGaming, who already got past chapter 2, warns that **your cash goes back t
 | Demolition derby at Ambrosia Raceway | $3,800 to $6,300 per win | PC Gamer |
 | A rare trading card at a pawn shop | $6,000 | LoDj1c |
 | Kenton's shipwreck dives | up to $4,000 per dive | WiLLiSGaming, JoblessGarrett |
+| King Fishers island raid | about $2,000 | KultZ |
 | Dog Island | $1,218 | ZoneX |
+| Store register holdup (early game) | almost $600 to just over $1,000 | KultZ, KhrazeGaming |
+| Brian's Lab Fees rent job | $600, one time only | KultZ |
 | Money cheat (after the story) | $250,000 | GamesRadar+, PC Gamer |
 
 ## Early game (chapter 1)
@@ -64,6 +72,8 @@ Donnie loses packages that show up on your map. Pick them up and bring them to *
 ### Mailbox
 Check the mailbox at Jason's house after main missions. There's often cash waiting, usually with a text from Donnie letting you know. ImBones points out that rewards from main missions and side quests both land there, so if you never check it, the money just sits.
 
+KultZ lays out an easy first payday: after the mission **Gone Fishing**, do **Lab Fees**, the job listed as collecting Brian's rent. Drop the bag in the container at **Brian's lockup in South Key Lento**. Your wallet stays empty at first; give it a little while, then check the mailbox in front of the house for the **$600**. He notes this job only pays out once.
+
 ### RV lockboxes and trading cards
 Some RVs out in the wild have lockboxes, and the code is usually written on the wall. WiLLiSGaming says they almost always have good loot, like a rare **sports trading card**. Cards sell at pawn shops: LoDj1c got **$6,000** for one at the **Hamlet** pawn shop. He found that card in a safe inside a building in South Vice-Dale County, near Jason's place, along with cash and cargo worth about $10,000 in total.
 
@@ -73,8 +83,18 @@ DPJ showed the same kind of warehouse in South Vice-Dale County, near Hamlet, wi
 ### Random events at sea
 Stop when something weird happens. RageGamingVideos saw an explosion off the coast **east of Key Lento**, found a shark attacking a man, killed it with the speargun from the scuba kit and picked up beeping packages from the water: about **$2,000** worth of drugs to sell.
 
+Milo explains what to watch for: if you're out on a boat and see **another boat explode**, a shark just hit it. Head for the wreckage, which is full of loot, but the shark is still around and will come for you. Get back on your boat, grab the speargun, take the shark out, and then collect everything to sell to Brian.
+
 ### Gang hideouts
 King Fishers gang bases are packed with contraband that sells well, and WiLLiSGaming found a unique rifle at one. Bring an empty bag and come prepared: he fought about 30 enemies.
+
+KultZ did the payback job against the King Fishers on an **island**. To get there fast, steal a **boat or seaplane**; you'll usually find one near any stretch of water. Clear out the gang, pocket the loose cash and bag the rest, which is mostly drugs. Drop the haul at Brian's lockup and collect the money from your mailbox later. That one raid made him about **$2,000**, and he says another King Fishers job tends to pop up later, on your way to pick up Lucia.
+
+### Store holdups
+You can rob convenience stores from the very start. KhrazeGaming got about $1,000 out of a register early on, and KultZ took almost $600 from one shop. KultZ likes going out late at night, when the streets are quieter and the stores are often empty. His take per night ranged from a few hundred dollars to more than $2,000 on his best nights. Wear sunglasses and a cap, and keep a spare outfit in your trunk to change into on the way out. For the safe in the back, see [how to get safe codes](../gta-6-safe-codes/), and to shake the cops afterward, [how to lose the police](../gta-6-how-to-lose-the-police/).
+
+### The parrot behind the liquor store
+Shirley's rum errand leads to a liquor store with something hidden out back. The full walkthrough is in [the parrot money guide](../gta-6-parrot-money-strange-noises/).
 
 ## Later in the story (PC Gamer's list)
 
@@ -97,4 +117,4 @@ In chapter 3 you get a tool to pick locks. From then on, pick stores with a **ba
 
 ## Protect your money
 
-If you die or get busted with cash in your pocket, you lose it. Stash it at home. See [do you lose money when you die in GTA 6](../gta-6-lose-money-when-you-die/).
+If you die or get busted with cash in your pocket, you lose it. Stash it at home. Once the bank unlocks in the chapter 1 mission Buck Me, MrDalekJD also stops at an ATM before every job, since money in your account is safe; you can only deposit at an ATM, not from your phone. See [do you lose money when you die in GTA 6](../gta-6-lose-money-when-you-die/).

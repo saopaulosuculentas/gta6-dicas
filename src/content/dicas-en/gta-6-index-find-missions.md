@@ -11,9 +11,15 @@ imagens:
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/", titulo: "How to find tasks, objectives, and useful locations in GTA 6", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "11:36", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "16:48", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "5:22", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "NorZZa", url: "https://www.youtube.com/watch?v=Q6Zzn6VfaLA", titulo: "Change These Setting Before You Play Grand Theft Auto 6! | GTA6 Beginner's Guide & Tips", minuto: "4:25", data: "2026-11-19T01:00:18-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "11:02", data: "2026-11-19T09:16:55-03:00" }
 descoberto_em: "2026-11-19T14:38:00-03:00"
-atualizado_em: "2026-11-19T14:38:00-03:00"
+atualizado_em: "2026-11-19T16:28:00-03:00"
 historico:
+  - { data: "2026-11-19T16:28:00-03:00", nota: "Added which buildings you can enter (BennyCentral), the map fog (MrDalekJD and KhrazeGaming) and neighbor favors in the Exploration tab. BennyCentral, GamingBolt and NorZZa back up Quick Navigation." }
   - { data: "2026-11-19T14:38:00-03:00", nota: "Published as confirmed: index tabs from GamesRadar+; the hold-Down Quick Navigation shortcut is also described by Kotaku." }
 perguntas:
   - { p: "How do you open the index in GTA 6?", r: "Open the map (touchpad on PS5) and press Right on the D-pad. The index bar shows up on the side, split into tabs." }
@@ -22,7 +28,7 @@ perguntas:
   - { p: "What does the orange diamond mean in the GTA 6 index?", r: "It marks something you just discovered. Check the index now and then so you don't miss new stuff." }
 ---
 
-GTA 6's map fills up with icons fast, and the easiest way to find what you want is the **index**. It sorts missions, robberies, shops and activities into tabs. This guide is based on GamesRadar+, and Kotaku describes the same Quick Navigation shortcut.
+GTA 6's map fills up with icons fast, and the easiest way to find what you want is the **index**. It sorts missions, robberies, shops and activities into tabs. The tab breakdown comes from GamesRadar+. Kotaku, BennyCentral and GamingBolt all use the same Quick Navigation shortcut, and BennyCentral and MrDalekJD explain what the map colors and the fog mean.
 
 ## How to open it
 
@@ -38,7 +44,7 @@ GTA 6's map fills up with icons fast, and the easiest way to find what you want 
 | Story | diary | Story missions; the ones under "Optional" can be done any time |
 | Robberies | cash sack | Discovered banks, vehicle drop-offs, stick-ups, gang hideouts and more |
 | Activities | weights | Races, shooting ranges, golf, hunting, fishing, gyms and clubs |
-| Exploration | magnifying glass | Points of interest, optional quests, stunt jumps, base jumps and pawn shop collectors |
+| Exploration | magnifying glass | Points of interest, optional quests, neighbor favors, stunt jumps, base jumps and pawn shop collectors |
 | Vehicles | car | Mod shops, Pay 'n' Spray, gas stations, transport hubs, ferries and your unlocked [garages](../gta-6-garage-locations-prices/) |
 | Weapons | gun | Ammu-Nation stores, split into Everyday, Premium, Hunting and Pawn |
 | Style | shirt | Clothing stores, tattoo parlors, hair and makeup for Jason and Lucia |
@@ -46,11 +52,28 @@ GTA 6's map fills up with icons fast, and the easiest way to find what you want 
 
 Anything you just discovered shows up in the index with an **orange diamond**.
 
+Take a proper look at the **Exploration** tab. MrDalekJD points out that it lists favors your neighbors want, like a liquor run for Shirley next door, plus mini games and side jobs that hand out bonuses you might not know about.
+
 ## How to set a destination
 
 - **From the map or index:** hover over the task and press **X**. It becomes your active destination and the GPS shows the route.
-- **Quick Navigation, no map needed:** while roaming, **hold Down on the D-pad**. Time slows down and nearby points of interest appear (missions, gas stations, shops). Press **R3** on a marker to set the route. Handy when you're low on fuel.
+- **Quick Navigation, no map needed:** while roaming, **hold Down on the D-pad**. Time slows down and nearby points of interest appear (missions, gas stations, shops). Press **R3** on a marker to set the route. Handy when you're low on fuel. BennyCentral and GamingBolt use the same shortcut, and NorZZa notes it also brings up the minimap and your stats for a moment.
 - **Extra markers:** you can only have **one** active destination. You can still drop as many markers as you like: with the map open, point at a spot and press **Square**.
+
+## Which buildings can you enter?
+
+The game never tells you, but BennyCentral worked out what the building colors on the map mean:
+
+- **Dark blue:** there's a way in somewhere. Sometimes it's only a garage or a small corridor.
+- **Light blue:** you can't go in.
+
+To find the door, **rotate the map** and look around the building. Out in the world, the interact prompt pops up once you're close to a door that opens.
+
+## The map starts covered in fog
+
+The first time you open the full map, most of it is hidden under fog. Each patch only shows up once you've **walked, driven or flown** through it. MrDalekJD says flying clears big chunks fastest. The more you reveal, the more shops and points of interest show up in the index.
+
+KhrazeGaming also uses the taxi skip to reach spots he's never been to. Here's how in [hidden features](../gta-6-hidden-features/).
 
 ## Tip
 

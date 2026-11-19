@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/", titulo: "GTA 6 military base location: How to get into Mile Zero Air Station", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "2:38", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "8:50", data: "2026-11-18T21:00:37-03:00" }
+  - { tipo: youtube, canal: "TGG", url: "https://www.youtube.com/watch?v=hlEojE7w0Zw", titulo: "GTA 6: How To Break Into The Military Base & Steal a Jet or Tank (EASY GUIDE)", minuto: "0:24", data: "2026-11-19T01:03:30-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T11:54:00-03:00"
+atualizado_em: "2026-11-19T16:22:00-03:00"
 historico:
+  - { data: "2026-11-19T16:22:00-03:00", nota: "TGG: rampa de moto, colete, Zombix e salvar antes; jato com mísseis e rastreador; tanque dá 6 estrelas." }
   - { data: "2026-11-19T11:54:00-03:00", nota: "Terceira fonte (RageGamingVideos): saída da rodovia até a rampa, fileira de jatos, tanques e blindados, e o rastreador permanente dos veículos militares." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada como confirmada: o PC Gamer e o T5G mostram a entrada pela rampa." }
 perguntas:
@@ -36,6 +38,8 @@ A base militar do GTA 6 se chama **Mile Zero Air Station** e é o lugar mais fá
 3. Procure um **monte de terra** encostado na cerca de arame farpado. É o salto acrobático **Mile Zero Air Station Southeast**.
 4. Acelere e suba no monte. Você ganha o salto e cai **dentro da base**.
 
+O TGG recomenda fazer a rampa de **moto de trilha**: ela desvia melhor dos postos de controle. Se o salto falhar, vá mais rápido. Pela entrada principal também dá, mas tem muito mais guarda e um veículo bloqueando o portão.
+
 O T5G lembra que é a mesma ideia da rampa clássica do GTA 5 para entrar na base militar.
 
 ## O que tem lá dentro
@@ -56,6 +60,14 @@ Não para sempre. O RageGamingVideos avisa que **veículos militares têm rastre
 Faça um **save extra antes de entrar**. Com o sistema de ficha criminal do GTA 6, a bagunça na base pode pesar depois, e o save deixa você voltar atrás.
 
 ## Prepare-se para a polícia
+
+Antes de ir, o TGG sugere:
+
+- comprar **colete** na Ammu-Nation (até 3, no balcão, em Equipamentos);
+- levar **Zombix** e **adrenalina** para curar no caminho;
+- **salvar o jogo**, porque morrer com dinheiro na carteira faz perder tudo.
+
+Lá dentro, os militares tentam **fechar a saída**: vá direto aos jatos. O jato tem **metralhadora e mísseis**, mas também tem **rastreador vermelho** e caças vêm atrás de você. No vídeo, roubar o tanque rendeu **6 estrelas**. Veja [como chegar a 6 estrelas](../seis-estrelas-procurado-gta-6/).
 
 Se te virem dentro da base, você leva **procurado** e entra num tiroteio logo em seguida. O plano é: entre pela rampa, vá direto ao veículo e saia. Se pegou o jato, voe baixo para ser menos visto. Veja [como fugir da polícia](../como-fugir-da-policia-gta-6/).
 

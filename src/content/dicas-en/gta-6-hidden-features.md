@@ -1,9 +1,9 @@
 ---
 titulo: "GTA 6 Hidden Features the Game Doesn't Explain"
 titulo_seo: "GTA 6 Hidden Features: Flip Cars, Sit, Fast Travel"
-resumo: "GTA 6 lets you flip your car back over by pushing it, sit anywhere, use turn signals, keep outfits in the trunk to shake the cops and fast travel with RydeMe for $100. Here are the controls."
+resumo: "GTA 6 lets you flip your car back over by pushing it, sit anywhere, turn on autopilot, keep outfits in the trunk to shake the cops and skip a taxi ride for about $100. Here are the controls."
 categoria: guias
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "recursos-escondidos-gta-6"
 imagens:
@@ -11,29 +11,37 @@ imagens:
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "12:44", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "3:40", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "9:10", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "3:44", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "NorZZa", url: "https://www.youtube.com/watch?v=Q6Zzn6VfaLA", titulo: "Change These Setting Before You Play Grand Theft Auto 6! | GTA6 Beginner's Guide & Tips", minuto: "7:54", data: "2026-11-19T01:00:18-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T14:50:00-03:00"
+atualizado_em: "2026-11-19T16:28:00-03:00"
 historico:
+  - { data: "2026-11-19T16:28:00-03:00", nota: "Now confirmed: MrDalekJD, BennyCentral and KhrazeGaming show car flipping, the car menu and trunk outfits. Added autopilot, Paradise Taxi, Joey's free repairs, door colors in focus, fuel, fast swimming, whistling, headphones and the door-check move. Flipping and the taxi skip button show both versions." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Added Kotaku's tip about using focus to track down shouting and side quests." }
   - { data: "2026-11-19T14:40:00-03:00", nota: "Published as unverified: controls from two Kotaku guides by the same writer." }
 perguntas:
-  - { p: "How do you flip your car back over in GTA 6?", r: "Walk up to the side of the flipped car and click the left stick. Your character braces against it; hold Square (X on Xbox) to push. It fails if the car is too heavy, you run out of stamina or you're on a steep slope." }
+  - { p: "How do you flip your car back over in GTA 6?", r: "Walk into the side of the flipped car and keep pushing until your character braces against it and a shove prompt appears, then press Square (X on Xbox). Kotaku clicks the left stick first and holds Square. It fails if the car is too heavy or you run out of stamina." }
   - { p: "How do you sit down in GTA 6?", r: "Hold Circle (B on Xbox) on foot. On grass or sand your character sits; elsewhere they rest on one foot, and near a wall they lean on it." }
-  - { p: "Is there fast travel in GTA 6?", r: "Sort of. Call a driver with the RydeMe app, get in, hold the left trigger on the driver and choose to go straight to your destination for $100." }
+  - { p: "Is there fast travel in GTA 6?", r: "Sort of. Call a cab with Paradise Taxi or RydeMe, pick a destination and pay about $100 on top of the fare to skip the ride. In-game time still passes." }
   - { p: "How do you use turn signals in GTA 6?", r: "While driving, tap Left or Right on the D-pad. Kotaku noticed other drivers seem to react to them." }
 ---
 
-GTA 6 has a lot of controls it never really explains. These come from Kotaku, whose writer had played over 140 hours when he wrote them up. Controls are listed for PS5; on Xbox, Square is X and Circle is B.
+GTA 6 has a lot of controls it never really explains. These come from Kotaku, whose writer had played over 140 hours when he wrote them up, and from YouTube guides by MrDalekJD, BennyCentral, KhrazeGaming and others. Controls are listed for PS5; on Xbox, Square is X, Circle is B and Triangle is Y.
 
 ## Flip your car back over (and push boats)
 
 In GTA 5 you just wiggled the stick. In GTA 6 it's muscle:
 
-1. Walk up to the **side** of the flipped car.
-2. Click the **left stick (L3)**. Jason or Lucia braces against the car.
-3. **Hold Square** to push until it's back on its wheels.
+1. Walk into the **side** of the flipped car and keep walking.
+2. After a few seconds, Jason or Lucia braces against it and a **shove** prompt shows up.
+3. Press **Square** until it's back on its wheels. KhrazeGaming tapped it repeatedly.
 
-It won't work if the car is **too heavy**, you run out of **stamina**, or you're on a **steep slope**. The same move lets you **push a car that's out of gas** and shove a **boat or jet ski** off the sand into the water. It's handy mid-chase, because the police block the app that brings your car to you.
+That's how MrDalekJD, BennyCentral and KhrazeGaming did it, with no other button first. Kotaku describes it a little differently: lean on the car, click the **left stick (L3)**, then **hold Square**. If one way doesn't work for you, try the other.
+
+It won't work if the car is **too heavy**, you run out of **stamina**, or you're on a **steep slope**. The same move lets you **push a car that's out of gas** and shove a **boat or jet ski** off the sand into the water. It saves you a towing fee, and it's handy mid-chase, because the police block the app that brings your car to you.
 
 ## Sit anywhere
 
@@ -41,13 +49,42 @@ On foot, **hold Circle**. On grass or sand your character **sits down**; elsewhe
 
 ## Your car has its own menu
 
-- **Car menu:** hold **Left on the D-pad** while driving to turn the headlights off or on and close or open the trunk.
+- **Car menu:** hold **Left on the D-pad** while driving. The radio stations and podcasts come up first; MrDalekJD then pushes the stick up to reach the vehicle menu. From there you can switch the headlights and high beams, turn on the hazards, roll the windows up or down and open or close the trunk. Some cars have extras, like opening the truck bed on a big 4x4 or putting the roof down on a convertible.
 - **The trunk closes itself:** no need to shut it by hand; it closes when you drive off.
 - **Turn signals:** tap **Left** or **Right** on the D-pad. Kotaku noticed NPC drivers seem to react.
+- **Door-check people:** MrDalekJD found that pressing **Square** while driving swings the passenger door open for a second or two. Time it right and it knocks riders off motorbikes and bicycles.
+
+## Autopilot
+
+On a long trip, your character can drive for you:
+
+1. Set a **destination** on the map first. It won't work without an active route.
+2. While driving, **hold Down on the D-pad** and press **Circle**, according to BennyCentral.
+3. KhrazeGaming uses the same menu but **holds Circle**: that switches on the cinematic camera, and from there he turns on auto drive.
+
+You can **change the speed**, from crawling to as fast as the car goes. It works best on **boats**, where there's barely any traffic. On the road your character obeys the law, stopping at every red light and waiting for pedestrians.
+
+## Fast travel by taxi
+
+There's no free fast travel, but a cab does the job. Early on the service is **Paradise Taxi**, which you'll find in your phone contacts. Kotaku used the **RydeMe** app instead.
+
+1. Call a cab and confirm a destination. It can be on the other side of the map.
+2. The ride has its own fare. KhrazeGaming paid **$350** for a long trip.
+3. To **skip the drive** and load straight in at the destination, pay about **$100** more. BennyCentral, KhrazeGaming and Kotaku all mention that price. In-game time still passes.
+
+The button to skip depends on who you ask: Kotaku holds the left trigger to focus on the driver and picks the fast travel option, while BennyCentral just gets the option after choosing a destination. KhrazeGaming says more taxi services unlock later in the story, and he uses the skip to reach places he's never been.
+
+## Fuel
+
+Cars run out of gas now. MrDalekJD says a full tank lasts about **20 to 30 minutes** of driving, which goes faster than you'd think when you're exploring. Keep an eye on the gauge and fill up before a long trip so you don't run dry in the middle of a chase. See [how to refuel and repair your car](../gta-6-refuel-repair-car/).
+
+## Listen to the radio on foot
+
+Buy **headphones** at an electronics store. NorZZa found them at **Zeke's Electronics** in **Hamlet**, north of the Keys, which also sells phone cases. With headphones on, hold **Left on the D-pad** on foot to play music or podcasts while you walk around.
 
 ## Keep outfits in the trunk
 
-- Store **clothes and guns in your personal car's trunk**. Changing outfits is a fast way to lose the cops' attention.
+- Store **clothes and guns in your personal car's trunk**. Changing outfits is a fast way to lose the cops' attention. BennyCentral and KhrazeGaming both swap outfits at the trunk after a crime.
 - Build and store outfits at **any clothing store with a changing room**, no trip home needed.
 - **Rename** your saved outfits (clubbing, hunting, everyday) so you know what's in the trunk without trying it on.
 - **Shop as a couple:** bring both Jason and Lucia to buy for both. Buying clothes for your partner earns romance points.
@@ -56,22 +93,32 @@ More in [how to lose the police](../gta-6-how-to-lose-the-police/).
 
 ## Phone apps that save time
 
-- **Scooter Bros:** brings your car to you, repairs it and gets it out of the impound lot, for a fee each time. **Premium** costs **$12,500** and gives you **3 free uses per in-game day**.
-- **RydeMe:** call a driver, get in, hold the **left trigger** on the driver and choose to go straight to your destination for **$100**. It's the game's fast travel.
+- **Scooter Bros:** brings your car to you, repairs it and gets it out of the impound lot, for a fee each time. **Premium** costs **$12,500** and gives you **3 free uses per in-game day**. BennyCentral says it pays for itself over time.
+- **Joey, the mechanic:** call **Joey** from your contacts and your car shows up in front of you fully repaired, wherever you left it, **for free**. MrDalekJD and KhrazeGaming both showed it.
 - **Waink:** hold **Up on the D-pad** to scan a car and check it for an **advanced tracker**. See [how to steal cars](../gta-6-how-to-steal-cars/).
+- **Strong rumble:** BennyCentral says a sudden strong vibration while you're on foot means there's something nearby worth scanning with Waink, like a piece of art. That's why he leaves vibration on.
 - **Reminders:** this phone tab tells you who to call or text back, and it often opens new story moments.
 
-## Hear shouting? Use focus
+## Use focus (click both sticks)
 
-If you hear shouting, sirens or a loud argument, click **both sticks** to turn on focus and find the source. It's often a random event or a side quest, from a drug deal gone wrong to a man looking for his wife who vanished after a night out.
+- **Hear shouting?** If you hear shouting, sirens or a loud argument, turn on focus to find the source. It's often a random event or a side quest, from a drug deal gone wrong to a man looking for his wife who vanished after a night out. That's how BennyCentral found a crashed plane full of loot.
+- **Doors:** in focus, a **white door** means you can go in and a **red door** is **alarmed**, according to MrDalekJD. Kotaku also says alarmed doors glow red. On a job, look for another way in.
+
+## Swim faster
+
+At the surface, tap **sprint** to swim faster, which drains stamina. Once it's empty, **dive**: underwater the game switches to your lung capacity bar, so you're back at top speed. This one is from BennyCentral.
+
+## Talk your way out
+
+- **Talk to the cop:** at one star, hold the left trigger on the officer **with no gun out** and choose to defuse. The star goes away. BennyCentral says it works on regular people too, though some will still attack you.
+- **Whistle:** GamingBolt says you can whistle to grab an enemy's attention and draw them away, which helps when sneaking. The video doesn't say which button.
 
 ## Small things with a bonus
 
 - **Eat and drink before heading out:** food and drinks buff health, stamina and focus. You can eat **while driving or shooting**.
 - **Pet dogs and cats:** hold the left trigger on the animal and choose to praise or pet it. It buffs focus and adds good behavior points.
 - **Throw away your garbage:** also boosts focus and good behavior.
-- **Talk to the cop:** at one star, hold the left trigger on the officer **with no gun out** and choose to defuse. The star goes away.
-- **Repair at gas stations:** any pump fixes your car for a small fee, cheaper than Scooter Bros.
+- **Repair at gas stations:** any pump fixes your car for a small fee, cheaper than Scooter Bros. Joey is free, though.
 - **Zombix:** the game's healing item. If it's not on the shelf, ask the clerk.
 - **Shave at home:** the mirror in your safehouse bathroom trims your beard and hair. New styles need a barber.
 
