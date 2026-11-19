@@ -46,7 +46,7 @@ GTA 6 changes a lot compared with GTA 5, and some of those changes cost you if y
 ## Your phone is your quest log
 
 11. **Pending jobs live on your phone.** There's no reliable journal. Press Up on the D-pad: messages from characters list suggested jobs and past ones, and remind you of money waiting for you.
-12. **Apps worth knowing:** Waink It (scans cars), Snapmatic (the in-game social network, with camera and gallery), weather, contacts and the fitness app, which tracks your workout window and Focus.
+12. **Apps worth knowing:** Waink It (scans cars), Snapmatic (the in-game social network, with camera and gallery), weather, contacts and the fitness app, which tracks your workout window and Focus. For controls the game never explains (flipping cars, sitting, RydeMe fast travel), see [GTA 6 hidden features](../gta-6-hidden-features/), and to find missions and shops on the map, see the [index guide](../gta-6-index-find-missions/).
 
 ## Police and time
 

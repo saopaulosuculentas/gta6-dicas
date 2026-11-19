@@ -20,9 +20,12 @@ fontes:
   - { tipo: youtube, canal: "AlmightyDen", url: "https://www.youtube.com/watch?v=7V7zR22ZCW8", titulo: "GTA 6 – How to Find SECRET WEAPON and MONEY in HAMLET!", minuto: "0:13", data: "2026-11-18T20:00:16-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "0:52", data: "2026-11-19T02:29:35-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
+  - { tipo: youtube, canal: "GrandTheftIntel", url: "https://www.youtube.com/watch?v=SQPu9zX4JW8", titulo: "$20,000 Before Your First Mission! (GTA 6 Early Money Guide)", minuto: "0:11", data: "2026-11-19T05:21:18-03:00" }
+  - { tipo: youtube, canal: "ImBones", url: "https://www.youtube.com/watch?v=ny6bOG-j3es", titulo: "GTA 6 | BEGINNERS GUIDE TO MAKE MONEY FAST (50k PER HOUR)", minuto: "1:30", data: "2026-11-18T13:55:54-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T11:56:00-03:00"
+atualizado_em: "2026-11-19T14:44:00-03:00"
 historico:
+  - { data: "2026-11-19T14:44:00-03:00", nota: "Link para a página do galpão (GrandTheftIntel e RWGC Gameplays); ImBones sobre as recompensas na caixa de correio." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "DPJ mostrou o mesmo prédio com cofre e figurinha ao sul de Vice-Dale County (bolsa de US$ 4.800, fuzil); RageGamingVideos achou tubarão e carga de uns US$ 2.000 num evento a leste de Key Lento. Link para os receptadores." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados: aviso do WiLLiSGaming de que o dinheiro do capítulo 1 zera, meta de US$ 5.000 do BuckMe, mergulho com o Kenton, pacotes do Donnie, cofres de trailer, bases de gangue e figurinha vendida por US$ 6.000." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Acrescentados os jeitos que mais rendem depois do capítulo 2, segundo o PC Gamer: roubar outros criminosos, vender carros, derby de demolição, caça e roubos pelos fundos." }
@@ -86,7 +89,7 @@ No mapa do jogo há uma aba de **Roubos**, com a lista de **Alvos**. Ali aparece
 
 ### Cobrar aluguel para o Brian e a caixa de correio
 
-Logo no começo, o Brian passa missões secundárias pelo celular: **cobrar aluguel** de inquilinos e **levar pacotes** até o depósito dele. Segundo o Ikoma Games, o pagamento aparece na **caixa de correio da casa do Jason**, normalmente de um dia para o outro, e fica maior a partir da terceira ou quarta cobrança. O Gameplayrj também achou dinheiro na caixa.
+Logo no começo, o Brian passa missões secundárias pelo celular: **cobrar aluguel** de inquilinos e **levar pacotes** até o depósito dele. Segundo o Ikoma Games, o pagamento aparece na **caixa de correio da casa do Jason**, normalmente de um dia para o outro, e fica maior a partir da terceira ou quarta cobrança. O Gameplayrj também achou dinheiro na caixa. O ImBones confirma que a recompensa de cada missão e de cada tarefa secundária vai para essa caixa: se você não passar lá, o dinheiro fica parado.
 
 Na cobrança, tente convencer o inquilino na conversa; só parta para a briga se ele ficar agressivo. Veja [tudo que dá para fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/).
 
@@ -152,7 +155,7 @@ Tudo o que você pegar de ilegal pelo mapa pode ser vendido no **depósito do Br
 
 Alguns trailers no meio do mato têm um **cofrinho**, e a senha costuma estar **escrita na parede**. Segundo o WiLLiSGaming, quase sempre tem algo bom dentro, como uma **figurinha de esporte** rara. Figurinhas valem dinheiro na loja de penhores: o LoDj1c vendeu uma por **US$ 6.000** na loja de penhores de **Hamlet**. Ele achou a figurinha num cofre de um prédio ao sul de Vice-Dale County, perto da casa do Jason, onde também havia dinheiro e carga para vender, somando uns US$ 10.000.
 
-O DPJ mostrou o mesmo tipo de galpão ao sul de Vice-Dale County, perto de Hamlet, já com os ocupantes mortos no chão: **sem tiroteio**. Lá dentro ele achou uma bolsa com **US$ 4.800**, droga na traseira de um caminhão, um **fuzil Duke 5.56** e o cofre com a figurinha (gire o analógico direito para abrir). Leve um carro: as bolsas enchem rápido e você guarda o resto no porta-malas. O dinheiro vem como **dinheiro marcado**, que precisa ir a um [receptador](../onde-vender-itens-roubados-gta-6/).
+O DPJ mostrou o mesmo tipo de galpão ao sul de Vice-Dale County, perto de Hamlet, já com os ocupantes mortos no chão: **sem tiroteio**. Lá dentro ele achou uma bolsa com **US$ 4.800**, droga na traseira de um caminhão, um **fuzil Duke 5.56** e o cofre com a figurinha (gire o analógico direito para abrir). Leve um carro: as bolsas enchem rápido e você guarda o resto no porta-malas. O dinheiro vem como **dinheiro marcado**, que precisa ir a um [receptador](../onde-vender-itens-roubados-gta-6/). O GrandTheftIntel e o RWGC Gameplays foram ao mesmo galpão e passaram de US$ 9.000 só lá dentro. Veja o [passo a passo do galpão](../galpao-dinheiro-fuzil-inicio-gta-6/).
 
 ### Bases de gangue (King Fishers)
 

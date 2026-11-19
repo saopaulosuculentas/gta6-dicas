@@ -16,9 +16,12 @@ fontes:
   - { tipo: youtube, canal: "LoDj1c", url: "https://www.youtube.com/watch?v=KrLUtGZw7lQ", titulo: "HOW TO MAKE MONEY FAST IN GTA 6! (Secret Location to EARN QUICK MONEY)", minuto: "2:14", data: "2026-11-19T00:47:30-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "0:52", data: "2026-11-19T02:29:35-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
+  - { tipo: youtube, canal: "GrandTheftIntel", url: "https://www.youtube.com/watch?v=SQPu9zX4JW8", titulo: "$20,000 Before Your First Mission! (GTA 6 Early Money Guide)", minuto: "0:11", data: "2026-11-19T05:21:18-03:00" }
+  - { tipo: youtube, canal: "ImBones", url: "https://www.youtube.com/watch?v=ny6bOG-j3es", titulo: "GTA 6 | BEGINNERS GUIDE TO MAKE MONEY FAST (50k PER HOUR)", minuto: "1:30", data: "2026-11-18T13:55:54-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T11:56:00-03:00"
+atualizado_em: "2026-11-19T14:44:00-03:00"
 historico:
+  - { data: "2026-11-19T14:44:00-03:00", nota: "Linked the new warehouse walkthrough (GrandTheftIntel); added ImBones on mailbox rewards." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Added DPJ (loot warehouse in South Vice-Dale County) and RageGamingVideos (shark and cargo random event east of Key Lento). Linked the fence guide." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Guide published from PC Gamer, WiLLiSGaming, JoblessGarrett, ZoneX and LoDj1c." }
 perguntas:
@@ -59,13 +62,13 @@ Swim with no boat in the middle of Gambit Bay until a dog on a jet ski rescues y
 Donnie loses packages that show up on your map. Pick them up and bring them to **Donnie's trailer**: according to WiLLiSGaming he pays more than Brian. Use **Focus mode**, because the packages have a tracker that makes a sound Focus can show you. Anything else illegal you find can be sold at **Brian's lockup** (enter the code on the keypad and drop it in his strongbox).
 
 ### Mailbox
-Check the mailbox at Jason's house after main missions. There's often cash waiting, usually with a text from Donnie letting you know.
+Check the mailbox at Jason's house after main missions. There's often cash waiting, usually with a text from Donnie letting you know. ImBones points out that rewards from main missions and side quests both land there, so if you never check it, the money just sits.
 
 ### RV lockboxes and trading cards
 Some RVs out in the wild have lockboxes, and the code is usually written on the wall. WiLLiSGaming says they almost always have good loot, like a rare **sports trading card**. Cards sell at pawn shops: LoDj1c got **$6,000** for one at the **Hamlet** pawn shop. He found that card in a safe inside a building in South Vice-Dale County, near Jason's place, along with cash and cargo worth about $10,000 in total.
 
 ### The loot warehouse near Hamlet
-DPJ showed the same kind of warehouse in South Vice-Dale County, near Hamlet, with everyone inside already dead: **no fight needed**. He found a bag with **$4,800**, drugs in the back of a truck, a **Duke 5.56 assault rifle** and the safe with the card (rotate the right stick to open it). Bring a car: your bags fill up fast and you can stash the rest in the trunk. The cash comes as **marked bills**, which you have to take to a [fence](../gta-6-fence-locations/).
+DPJ showed the same kind of warehouse in South Vice-Dale County, near Hamlet, with everyone inside already dead: **no fight needed**. He found a bag with **$4,800**, drugs in the back of a truck, a **Duke 5.56 assault rifle** and the safe with the card (rotate the right stick to open it). Bring a car: your bags fill up fast and you can stash the rest in the trunk. The cash comes as **marked bills**, which you have to take to a [fence](../gta-6-fence-locations/). GrandTheftIntel hit the same warehouse and walked out with around $11,000 plus a card worth $6,000. Full walkthrough: [the early money warehouse](../gta-6-early-money-warehouse/).
 
 ### Random events at sea
 Stop when something weird happens. RageGamingVideos saw an explosion off the coast **east of Key Lento**, found a shark attacking a man, killed it with the speargun from the scuba kit and picked up beeping packages from the water: about **$2,000** worth of drugs to sell.

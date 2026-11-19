@@ -48,7 +48,7 @@ Mais sobre os botões em [controles do GTA 6](../controles-gta-6-o-que-mudou/).
 ## O celular é o seu diário
 
 11. **Missões pendentes ficam no celular.** O jogo não tem um diário confiável. Aperte o direcional para cima: as mensagens dos personagens mostram os trabalhos sugeridos e os que você já fez, e lembram de dinheiro esperando por você.
-12. **Apps que valem conhecer:** Waink It (escaneia carros), Snapmatic (a rede social do jogo, com câmera e galeria), clima, contatos e o app de fitness, que mostra treino e foco. Veja [como ficar musculoso](../como-ficar-musculoso-gta-6/).
+12. **Apps que valem conhecer:** Waink It (escaneia carros), Snapmatic (a rede social do jogo, com câmera e galeria), clima, contatos e o app de fitness, que mostra treino e foco. Veja [como ficar musculoso](../como-ficar-musculoso-gta-6/). Os comandos que o jogo não explica (desvirar carro, sentar, rádio a pé, viagem rápida de RydeMe) estão em [recursos escondidos](../recursos-escondidos-gta-6/), e o jeito de achar missões e lojas no mapa está no [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/).
 
 ## Polícia
 

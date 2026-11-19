@@ -13,9 +13,12 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:00", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
   - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=D2nOcgWsG1k", titulo: "I Found the Secret Kraken Easter Egg in GTA 6!", minuto: "0:00", data: "2026-11-19T04:45:13-03:00" }
+  - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=ap6xVy_jDYw", titulo: "GTA 6 - ALIEN Easter Egg SINISTRO", minuto: "1:55", data: "2026-11-19T12:19:19-03:00" }
+  - { tipo: youtube, canal: "Nobreza Games", url: "https://www.youtube.com/watch?v=tzH_eA9vqPA", titulo: "7 SEGREDOS E EASTER EGGS no GTA 6", minuto: "4:18", data: "2026-11-19T12:03:32-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-19T14:42:00-03:00"
 historico:
+  - { data: "2026-11-19T14:42:00-03:00", nota: "Abdução confirmada com o vídeo do Gameplayrj (conquista \"A verdade está lá fora\"); laboratório dos caranguejos mostrado pelo Nobreza Games." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentada a estátua do Kraken no fundo do mar (Robbin Rams)." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Lista publicada com os easter eggs vistos em vídeos do T5G, do ZacCoxTV e de canais brasileiros, e no Kotaku. Cada item diz quem mostrou." }
 perguntas:
@@ -71,10 +74,10 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 ## Alienígenas e coisas estranhas
 
-- **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Se você chegar perto, é o próximo: a tela fica branca e você acorda no dia seguinte. Em verificação: ZacCoxTV.
+- **Abdução de madrugada.** Perto de Port Gellhorn, entre 2h e 3h da manhã, pode acontecer uma cena de abdução por disco voador. Antes dela aparecem pistas estranhas: uma bolsa largada, pedras, roupas no chão e um celular piscando. Depois uma mulher é levada pela luz, e se você chegar perto é o próximo: a tela fica branca e você acorda no dia seguinte em outro lugar. Com a Lucia, o Gameplayrj ganhou a conquista "A verdade está lá fora", referência a Arquivo X. Confirmado: ZacCoxTV e Gameplayrj.
 - **Meteorito no Mount Kalaga.** No alto do Mount Kalaga há uma cratera com um meteorito ainda soltando fumaça. Dá para pegar e vender. Lá em cima também há um círculo de pedras que ninguém sabe para que serve. Em verificação: ZacCoxTV.
 - **Estátua do Kraken.** No fundo do mar, a sudeste do mapa, logo abaixo da ilha Gloriana Key, há uma estátua gigante de um polvo agarrando um barco. Um barco de mergulhadores fica parado em cima do ponto. Perto dela aparece uma figura estranha que some no fundo. Ainda não se sabe se tem tesouro. Em verificação: Robbin Rams.
-- **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. Ainda não se sabe o que faz a cena começar.
+- **Caranguejo gigante.** Em um prédio, um caranguejo monstro ataca do nada. Confirmado: T5G e Kotaku. O Nobreza Games achou a origem: um **laboratório de pesquisa** num grupo de cabanas no mato. Ligue o gerador e leia as anotações. Elas contam um experimento para engordar guaiamuns (caranguejos de mangue) que saiu do controle. Há um cofre com dinheiro e um rastro de sangue que leva ao bicho. As senhas ainda não ficaram claras no vídeo, então não publicamos.
 - **Notícia de discos voadores.** No app de notícias do celular, uma matéria fala de uma onda de avistamentos de OVNI em Leonida. Em verificação: T5G.
 
 ## Pequenos detalhes que valem ver
