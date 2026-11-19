@@ -9,7 +9,7 @@ import SemCodigos from '../components/SemCodigos.astro';
 import Cortes from '../components/Cortes.astro';
 import Carrossel from '../components/Carrossel.astro';
 import { SITE, CATEGORIAS } from '../../site.config.mjs';
-import { u, todasDicas, hora, diaCurto, linkDica } from '../lib/util';
+import { u, todasDicas, hora, diaCurto, linkDica, slugDe } from '../lib/util';
 import { PAGINAS, infoCategoria, prefixo, type Lang, type Categoria } from '../lib/i18n';
 
 interface Props { lang: Lang }
@@ -23,6 +23,30 @@ const hoje = new Date().toDateString();
 const plantao = dicas.slice(0, 6);
 const ultimas = dicas.slice(0, 12);
 const conta = (c: string) => dicas.filter((d) => d.data.categoria === c).length;
+// Páginas das buscas que mais sobem no Google Trends e no autocompletar (atualizar a cada rodada).
+const EM_ALTA: Record<Lang, string[]> = {
+  pt: [
+    'dinheiro-do-papagaio-loja-de-bebidas-gta-6',
+    'carro-paul-walker-eclipse-gta-6',
+    'como-consertar-casa-do-jason-gta-6',
+    'mandy-gta-6-casa-aluguel',
+    'lista-de-missoes-gta-6',
+    'como-vender-carro-gta-6',
+    'galpao-dinheiro-fuzil-inicio-gta-6',
+    'caranguejo-gigante-senhas-gta-6',
+  ],
+  en: [
+    'gta-6-parrot-money-strange-noises',
+    'gta-6-paul-walker-eclipse-car',
+    'gta-6-fix-jasons-house-railing',
+    'gta-6-mandy-house-rent-mission',
+    'gta-6-mission-list',
+    'gta-6-how-to-sell-cars',
+    'gta-6-early-money-warehouse',
+    'gta-6-giant-crab-mystery-codes',
+  ],
+};
+const emAlta = EM_ALTA[lang].map((s) => dicas.find((d) => slugDe(d) === s)).filter((d): d is (typeof dicas)[number] => Boolean(d));
 const cat = (c: Categoria) => u(`${prefixo(lang)}/${infoCategoria(c, lang).slug}/`);
 
 const jsonld = {
@@ -85,6 +109,24 @@ const alternativa = { pt: u(PAGINAS.inicio.pt), en: u(PAGINAS.inicio.en) };
 
   <div class="miolo duas">
     <main>
+      {
+        emAlta.length > 0 && (
+          <section class="secao" aria-labelledby="s-emalta">
+            <div class="secao__cabeca">
+              <h2 id="s-emalta">{en ? 'Trending now' : 'Em alta agora'}</h2>
+            </div>
+            <div class="guias">
+              {emAlta.map((g, i) => (
+                <a class="guia" href={linkDica(g)}>
+                  <i aria-hidden="true">{String(i + 1).padStart(2, '0')}</i>
+                  <span><b>{g.data.titulo}</b><small>{g.data.resumo}</small></span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
       <section class="secao" aria-labelledby="s-codigos">
         <div class="secao__cabeca">
           <h2 id="s-codigos">{en ? 'Cheats' : 'Códigos'}</h2>
