@@ -14,9 +14,11 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "3:53", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", titulo: "GTA 6 - BIGFOOT Easter Egg Secret Scene (LOCATION)", minuto: "1:20", data: "2026-11-18T13:57:55-03:00" }
+  - { tipo: youtube, canal: "The Easter Egg Hunter", url: "https://www.youtube.com/watch?v=WjQ86LH2hMY", titulo: "GTA VI Skunk Ape Easter Egg (Bigfoot) Part 2/3", minuto: "0:00", data: "2026-11-19T12:01:40-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Added The Easter Egg Hunter, who shows the start of the quest: Kirk's voicemail (Pelican Valley, most evenings), meeting him, hitting the truck with a stick, following the drone light and the warning not to shoot. The full quest up to the rifle is still JFM only, so the page stays unverified." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. The Skunk Ape and the effigy appear in four channels; the full quest up to the rifle has only been shown by JFM so far." }
 perguntas:
   - { p: "Is there Bigfoot in GTA 6?", r: "Yes. It's called the Skunk Ape, Florida's version of Bigfoot, and it lives in the Grassrivers swamps. Players have seen it eating a deer on the road." }
@@ -25,7 +27,7 @@ perguntas:
   - { p: "Who is Mr. Mangrove in GTA 6?", r: "It's the name the quest characters give the Skunk Ape, the hairy creature of the Grassrivers swamps." }
 ---
 
-GTA 6's "Bigfoot" isn't just a jump scare: it's the start of a **hidden side quest**. The creature is called the **Skunk Ape** (the characters call it **Mr. Mangrove**), it lives in the Grassrivers swamps, and hunting it down gets you a **unique, fully camouflaged sniper rifle**. JFM showed the quest from start to finish. T5G, ZacCoxTV and Punish also ran into the Skunk Ape or its effigy.
+GTA 6's "Bigfoot" isn't just a jump scare: it's the start of a **hidden side quest**. The creature is called the **Skunk Ape** (the characters call it **Mr. Mangrove**), it lives in the Grassrivers swamps, and hunting it down gets you a **unique, fully camouflaged sniper rifle**. JFM showed the quest from start to finish. T5G, ZacCoxTV and Punish also ran into the Skunk Ape or its effigy, and The Easter Egg Hunter showed the start of the hunt with Kirk.
 
 The catch: the game **doesn't tell you** what to do after the first encounter. Lots of players stop at the scare and never find the quest.
 
@@ -44,12 +46,16 @@ This is the part everyone misses. According to JFM, nearby there's a **note stuc
 2. **Call the number** on your in-game phone.
 3. The man who answers is **Kirk**, a Skunk Ape hunter. He marks a spot labeled **KK** on your map, in the swamp.
 
+In The Easter Egg Hunter's video, the call goes to **voicemail**. In the message, Kirk says he's out chasing the Skunk Ape and can be found in **Pelican Valley** most evenings.
+
 ## Step 3: the night hunt
 
-1. Go to the KK spot **at night**. According to JFM, the quest won't continue during the day.
-2. Kirk checks your "readings" and decides you've seen Mr. Mangrove.
-3. Chase the creature through the woods, following its roars. You'll pass its camps, bones and more effigies.
-4. At one point you have to **run from a giant ball**. Jason blacks out again but doesn't die, and the quest continues.
+1. Go to the KK spot **at night**. According to JFM, the quest won't continue during the day. Kirk's voicemail fits that, since he says he's out there most evenings.
+2. Kirk checks your "readings" and decides you've seen Mr. Mangrove. In The Easter Egg Hunter's video he flies drones, checks Jason's EMF and says he still has the creature's **spores** on him.
+3. To prove his point, Kirk has you grab a **stick** and hit his truck hard (The Easter Egg Hunter).
+4. During the hunt, **follow the drone's light**. And keep your gun away: Kirk says a bullet could make the creature release a **toxic cloud**, and he wants it alive.
+5. Chase the creature through the woods, following its roars. You'll pass its camps, bones and more effigies.
+6. At one point you have to **run from a giant ball**. Jason blacks out again but doesn't die, and the quest continues.
 
 ## Step 4: the three effigies
 
@@ -71,4 +77,4 @@ The quest ends with the **camo sniper rifle** in your arsenal.
 - Whether the final choice changes the reward.
 - The exact spot of the note on the map. JFM shows it in his video from 1:38.
 
-So far only JFM has shown the whole quest, so the badge says "Unverified". More secrets in the [GTA 6 easter eggs list](../gta-6-easter-eggs-list/).
+The start of the quest (Kirk's voicemail and the night hunt) also shows up in The Easter Egg Hunter's video. The whole quest, all the way to the rifle, has only been shown by JFM so far, so the badge still says "Unverified". More secrets in the [GTA 6 easter eggs list](../gta-6-easter-eggs-list/).

@@ -95,10 +95,10 @@ Não logo em seguida. Segundo o Mr Lawrence, a loja que você acabou de roubar a
 | KultZ | Quase US$ 600 numa loja; numa noite boa, mais de US$ 2.000 somando várias |
 | JoblessGarrett | US$ 300 no primeiro achado, e mais depois de vasculhar a loja |
 | Mr Lawrence | Algumas centenas de dólares no caixa da maioria das lojas |
-| TheSpazo | De US$ 600 a 900 em algumas lojas de roupa; uns US$ 3.100 somando várias lojas em Vice City |
+| TheSpazo | De US$ 600 a 900 em algumas lojas de roupa; uns US$ 3.100 somando várias lojas, a maioria em Vice City |
 
 ### Loja de roupa vale a pena?
 
-Aqui as fontes discordam. O **TheSpazo** diz que loja de roupa é o melhor alvo do começo do jogo: algumas renderam de US$ 600 a 900 cada, e ele chegou a uns US$ 3.100 numa sequência de lojas em Vice City. Já o **Vice City Dispatch**, citando a **Forbes**, diz que o dinheiro de loja de roupa provavelmente não compensa. O valor muda de loja para loja, então vale testar. O TheSpazo só desaconselha o estúdio de tatuagem, que para ele é perda de tempo.
+Aqui as fontes discordam. O **TheSpazo** diz que loja de roupa é o melhor alvo do começo do jogo: algumas renderam de US$ 600 a 900 cada, e ele chegou a uns US$ 3.100 numa sequência de lojas, a maioria em Vice City. Já o **Vice City Dispatch**, citando a **Forbes**, diz que o dinheiro de loja de roupa provavelmente não compensa. O valor muda de loja para loja, então vale testar. O TheSpazo só desaconselha o estúdio de tatuagem, que para ele é perda de tempo.
 
 Para um roubo com dinheiro escondido, veja o [dinheiro do papagaio](../dinheiro-do-papagaio-loja-de-bebidas-gta-6/), na loja de bebidas Three Sheets.

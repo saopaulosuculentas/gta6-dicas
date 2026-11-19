@@ -89,10 +89,10 @@ Not right away. Mr Lawrence says a store you just hit shows up as **closed or un
 | KultZ | Close to $600 from one store; over $2,000 across several on a good night |
 | JoblessGarrett | $300 at first, plus more after searching the store |
 | Mr Lawrence | A couple hundred dollars in most registers |
-| TheSpazo | $600 to $900 from some clothing stores; about $3,100 after several stores in Vice City |
+| TheSpazo | $600 to $900 from some clothing stores; about $3,100 after a string of stores, mostly in Vice City |
 
 ### Are clothing stores worth it?
 
-The sources disagree here. **TheSpazo** calls clothing stores the best early target: some paid $600 to $900 each, and a run through Vice City got him to about $3,100. **Vice City Dispatch**, quoting **Forbes**, says the cash from a clothing store probably isn't worth it. Payouts change from store to store, so try a few. The only place TheSpazo tells you to skip is the tattoo shop, which he calls a waste of time.
+The sources disagree here. **TheSpazo** calls clothing stores the best early target: some paid $600 to $900 each, and a string of stores, mostly in Vice City, got him to about $3,100. **Vice City Dispatch**, quoting **Forbes**, says the cash from a clothing store probably isn't worth it. Payouts change from store to store, so try a few. The only place TheSpazo tells you to skip is the tattoo shop, which he calls a waste of time.
 
 For a robbery with hidden cash, check out the [parrot money](../gta-6-parrot-money-strange-noises/) at the Three Sheets liquor store.

@@ -12,9 +12,11 @@ fontes:
   - { tipo: youtube, canal: "JFM", url: "https://www.youtube.com/watch?v=QeE2hEYhHT8", titulo: "GTA 6 - The SECRET Sasquatch Quest That Unlocks a UNIQUE Sniper Rifle", minuto: "0:13", data: "2026-11-19T00:43:20-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "3:53", data: "2026-11-19T05:47:12-03:00" }
+  - { tipo: youtube, canal: "The Easter Egg Hunter", url: "https://www.youtube.com/watch?v=WjQ86LH2hMY", titulo: "GTA VI Skunk Ape Easter Egg (Bigfoot) Part 2/3", minuto: "0:00", data: "2026-11-19T12:01:40-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T08:21:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Entrou o The Easter Egg Hunter, que mostra o começo da missão: o recado do Kirk (Pelican Valley, quase toda noite), o encontro com ele, o graveto no caminhão, a luz do drone e o aviso para não atirar. A missão inteira até o rifle segue só com o JFM, por isso continua em verificação." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Publicada em verificação. O Skunk Ape aparece em três canais (JFM, T5G e ZacCoxTV); a missão completa até o rifle, por enquanto, só no JFM." }
 perguntas:
   - { p: "Como começar a missão do pé grande no GTA 6?", r: "Encontre o Skunk Ape comendo um cervo na estrada de Grassrivers, entre no mato e examine a efígie. Depois que o Jason apagar, ache o bilhete com um número de telefone e ligue." }
@@ -23,7 +25,7 @@ perguntas:
   - { p: "Quem é Mr. Mangrove no GTA 6?", r: "É o nome que os personagens da missão dão ao Skunk Ape, a criatura peluda dos pântanos de Grassrivers." }
 ---
 
-O "pé grande" do GTA 6 não é só um susto: é o começo de uma **missão secundária escondida**. A criatura se chama **Skunk Ape** (os personagens chamam de **Mr. Mangrove**), vive nos pântanos de Grassrivers, e caçar ela rende um **rifle sniper único, todo camuflado**. O JFM mostrou a missão do começo ao fim. O T5G e o ZacCoxTV também encontraram o Skunk Ape.
+O "pé grande" do GTA 6 não é só um susto: é o começo de uma **missão secundária escondida**. A criatura se chama **Skunk Ape** (os personagens chamam de **Mr. Mangrove**), vive nos pântanos de Grassrivers, e caçar ela rende um **rifle sniper único, todo camuflado**. O JFM mostrou a missão do começo ao fim. O T5G e o ZacCoxTV também encontraram o Skunk Ape, e o The Easter Egg Hunter mostrou o começo da caçada com o Kirk.
 
 O problema: o jogo **não indica** o que fazer depois do primeiro encontro. Muita gente para no susto e nunca descobre a missão.
 
@@ -42,12 +44,16 @@ Esta é a parte que todo mundo perde. Segundo o JFM, perto dali há um **bilhete
 2. **Ligue para o número** pelo celular do jogo.
 3. Quem atende é **Kirk**, um caçador do Skunk Ape. Ele marca no mapa um ponto com as letras **KK**, na região do pântano.
 
+No vídeo do The Easter Egg Hunter, a ligação cai na **caixa postal**. No recado, o Kirk diz que está atrás do Skunk Ape e que fica em **Pelican Valley** quase toda noite.
+
 ## Passo 3: a caçada à noite
 
-1. Vá até o ponto KK **à noite**. Segundo o JFM, de dia a missão não continua.
-2. O Kirk mede a sua "radiação" e conclui que você viu o Mr. Mangrove.
-3. Persiga a criatura pela mata, seguindo os rugidos. Há acampamentos dele, ossos e mais efígies pelo caminho.
-4. Numa parte você precisa **correr de uma bola enorme**. O Jason apaga de novo, mas não morre: a missão continua.
+1. Vá até o ponto KK **à noite**. Segundo o JFM, de dia a missão não continua. O recado do Kirk bate com isso: ele diz que fica por lá quase toda noite.
+2. O Kirk mede a sua "radiação" e conclui que você viu o Mr. Mangrove. No vídeo do The Easter Egg Hunter, ele usa drones, mede o campo eletromagnético do Jason e diz que ele ainda tem os **esporos** da criatura.
+3. Para provar o que diz, o Kirk manda você pegar um **graveto** e bater com força no caminhão dele (The Easter Egg Hunter).
+4. Na caçada, **siga a luz do drone**. E não saque a arma: segundo o Kirk, um tiro pode fazer a criatura soltar uma **nuvem tóxica**, e ele quer o bicho vivo.
+5. Persiga a criatura pela mata, seguindo os rugidos. Há acampamentos dele, ossos e mais efígies pelo caminho.
+6. Numa parte você precisa **correr de uma bola enorme**. O Jason apaga de novo, mas não morre: a missão continua.
 
 ## Passo 4: as três efígies
 
@@ -69,4 +75,4 @@ A missão termina com o **rifle sniper camuflado** no seu arsenal.
 - Se a escolha final muda o prêmio.
 - O ponto exato do bilhete no mapa. O JFM mostra no vídeo a partir de 1:38.
 
-Por enquanto só o JFM mostrou a missão inteira, por isso o selo é "Em verificação". Mais segredos na [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).
+O começo da missão (o recado do Kirk e a caçada à noite) também aparece no vídeo do The Easter Egg Hunter. A missão inteira, até o rifle, por enquanto só o JFM mostrou, por isso o selo segue "Em verificação". Mais segredos na [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).
