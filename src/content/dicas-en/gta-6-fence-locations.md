@@ -3,7 +3,7 @@ titulo: "All GTA 6 Fence Locations: Where to Sell Stolen Goods"
 titulo_seo: "GTA 6 Fence Locations: Where to Sell Stolen Goods"
 resumo: "GTA 6 has 5 fences for drugs, jewelry and marked bills, plus 2 car buyers. Each fence pays best for a different item, and some only pay after you leave."
 categoria: dinheiro
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "onde-vender-itens-roubados-gta-6"
 imagens:
@@ -11,9 +11,11 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/", titulo: "GTA 6 fence locations: Where to sell stolen goods", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "2:38", data: "2026-11-19T02:29:35-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-stolen-goods-illegal/", titulo: "How to sell illegal goods and stolen items in GTA 6", data: "2026-11-19T13:33:26-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-19T11:49:00-03:00"
+atualizado_em: "2026-11-19T16:03:00-03:00"
 historico:
+  - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmed with GamesRadar+: loot by robbery type, the Drop-offs tab in the index and mailbox payouts." }
   - { data: "2026-11-19T11:49:00-03:00", nota: "Published as unverified: fence list from PC Gamer; the marked bills prompt shows up in DPJ's video." }
 perguntas:
   - { p: "Where do you sell drugs and jewelry in GTA 6?", r: "At a fence. The first one is Brian in Key Lento, unlocked in the Chapter 1 mission Lab Fees. Donnie, Dunk, Tyrone and Yasmani come later." }
@@ -37,18 +39,31 @@ The game spells it out: when you pick up marked bills, a prompt tells you to tak
 | Moses (cars) | Port Gellhorn, Kelly County | Chapter 2: Moses |
 | Randy (high-end cars) | Balsero, Vice City | Chapter 3: Steal The Zorrusso for Randy |
 
+## What each robbery gives you
+
+GamesRadar+ broke down what each robbery type in the index pays out:
+
+| Robbery type | What you get |
+|---|---|
+| Illegal Operations | Jewelry, marked bills, narcotics and pocket cash |
+| Smash 'n' Grabs | Jewelry, marked bills and pocket cash |
+| Bank Jobs and Payday Loans | Jewelry, marked bills and pocket cash |
+
+Pocket cash is yours right away. Everything else has to go through a fence.
+
 ## How to sell
 
 1. Lose the cops first. PC Gamer's advice is to sell only after a clean getaway.
 2. Go to any fence, any time of day.
-3. Hover over each fence's name to see **who pays most** for drugs, jewelry and marked bills. It pays to match the load to the fence.
+3. Open the [index](../gta-6-index-find-missions/), go to the **Robberies** tab and scroll to **Drop-offs - Goods**: those are the fences you've unlocked so far. In Chapter 1 that's just Brian and Donnie.
+4. Hover over each fence's name to see **who pays most** for drugs, jewelry and marked bills. It pays to match the load to the fence.
 
 ## Cash now or cash later
 
 Not every fence pays on the spot:
 
 - **Pay right away:** Tyrone (at his apartment) and Yasmani (at his shop).
-- **Pay later:** Brian (his lockup), Donnie (the drop box at his trailer) and Dunk (the trunk of his car). You drop off the goods and the money shows up later.
+- **Pay later:** Brian (his lockup), Donnie (the drop box at his trailer) and Dunk (the trunk of his car). You drop off the goods and the money shows up later in your **mailbox**. GamesRadar+ says some fences can take **several in-game days**.
 
 ## Two shortcuts
 

@@ -3,16 +3,18 @@ titulo: "Onde vender itens roubados no GTA 6: todos os receptadores e como funci
 titulo_seo: "Onde vender itens roubados no GTA 6 (receptadores)"
 resumo: "No GTA 6 você vende droga, joia e dinheiro marcado para 5 receptadores, e carro para 2. Cada um paga melhor por um tipo de item, e alguns só pagam depois."
 categoria: dinheiro
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "onde-vender-itens-roubados-gta-6/notas-marcadas.webp", legenda: "O aviso do jogo: dinheiro marcado precisa ir a um ponto de entrega para virar dinheiro de verdade.", canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", minuto: "2:38" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fence-locations/", titulo: "GTA 6 fence locations: Where to sell stolen goods", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "2:38", data: "2026-11-19T02:29:35-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-stolen-goods-illegal/", titulo: "How to sell illegal goods and stolen items in GTA 6", data: "2026-11-19T13:33:26-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-19T11:49:00-03:00"
+atualizado_em: "2026-11-19T16:03:00-03:00"
 historico:
+  - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmada com o guia do GamesRadar+: o que cada tipo de roubo rende, aba Drop-offs no índice e pagamento pela caixa de correio." }
   - { data: "2026-11-19T11:49:00-03:00", nota: "Publicada em verificação: lista de receptadores do PC Gamer; o aviso de dinheiro marcado aparece no vídeo do DPJ." }
 perguntas:
   - { p: "Onde vender droga e joia no GTA 6?", r: "Num receptador. O primeiro é o Brian, em Key Lento, liberado na missão Lab Fees do capítulo 1. Depois vêm Donnie, Dunk, Tyrone e Yasmani." }
@@ -38,18 +40,31 @@ O próprio jogo avisa: ao pegar dinheiro marcado, aparece a mensagem de que ele 
 
 Os nomes das missões estão em inglês, como saíram no PC Gamer. No jogo em português podem aparecer traduzidos.
 
+## O que cada roubo rende
+
+O GamesRadar+ separou o que sai de cada tipo de roubo do índice:
+
+| Tipo de roubo | O que você leva |
+|---|---|
+| Operações ilegais | Joia, dinheiro marcado, droga e dinheiro vivo |
+| Roubos rápidos (smash 'n' grab) | Joia, dinheiro marcado e dinheiro vivo |
+| Bancos e Payday Loans | Joia, dinheiro marcado e dinheiro vivo |
+
+O dinheiro vivo já é seu. O resto precisa passar por um receptador.
+
 ## Como vender
 
 1. Primeiro despiste a polícia. O PC Gamer recomenda só ir vender depois de uma fuga limpa.
 2. Vá a qualquer receptador, a qualquer hora do dia.
-3. No mapa, passe o cursor sobre o nome do receptador para ver **quem paga mais** por droga, por joia e por dinheiro marcado. Vale escolher o certo para cada carga.
+3. Abra o [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/), vá na aba **Roubos** e desça até **Drop-offs - Goods**: ali estão os receptadores que você já liberou. No capítulo 1 são só o Brian e o Donnie.
+4. Passe o cursor sobre o nome do receptador para ver **quem paga mais** por droga, por joia e por dinheiro marcado. Vale escolher o certo para cada carga.
 
 ## Na hora ou depois
 
 Nem todo receptador paga na hora:
 
 - **Pagam na hora:** Tyrone (no apartamento dele) e Yasmani (na loja dele).
-- **Pagam depois:** Brian (no depósito dele), Donnie (na caixa do trailer) e Dunk (no porta-malas do carro dele). Você deixa a mercadoria e o dinheiro chega mais tarde.
+- **Pagam depois:** Brian (no depósito dele), Donnie (na caixa do trailer) e Dunk (no porta-malas do carro dele). Você deixa a mercadoria e o dinheiro chega mais tarde na **caixa de correio** da sua casa. Segundo o GamesRadar+, dependendo do receptador pode levar **alguns dias** do jogo.
 
 ## Dois atalhos
 

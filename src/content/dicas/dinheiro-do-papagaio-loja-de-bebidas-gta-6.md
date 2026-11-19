@@ -1,0 +1,65 @@
+---
+titulo: "Dinheiro do papagaio no GTA 6: o roubo \"Strange Noises\" da loja de bebidas"
+titulo_seo: "GTA 6: dinheiro do papagaio (Strange Noises)"
+resumo: "Na loja de bebidas Three Sheets, o roubo \"Strange Noises\" esconde mais de US$ 2.000: cofre, caixa e um esconderijo que só o papagaio revela. Fale com ele e abra a grade atrás do gerador."
+categoria: dinheiro
+status: confirmado
+plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "loja-de-bebidas-papagaio-gta-6/sala-dos-fundos.webp", legenda: "Os fundos da loja de bebidas: era uma fachada para contrabando de animais.", canal: "TheProfessional", url: "https://www.youtube.com/watch?v=hU4FIO2cL9g", minuto: "4:22" }
+fontes:
+  - { tipo: youtube, canal: "TheProfessional", url: "https://www.youtube.com/watch?v=hU4FIO2cL9g", titulo: "GTA 6 How To Rob The Secret Liquor Store Stash Room Early In The Game $2500+", minuto: "2:00", data: "2026-11-19T05:49:08-03:00" }
+  - { tipo: youtube, canal: "vassillios16", url: "https://www.youtube.com/watch?v=_u_G6W0Z1Fk", titulo: "Secret Talking Parrot Cash Location in GTA 6! ($2,300+ Easy Early Money)", minuto: "0:00", data: "2026-11-19T09:40:18-03:00" }
+descoberto_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T16:20:00-03:00"
+historico:
+  - { data: "2026-11-19T16:20:00-03:00", nota: "Publicada como confirmada: o mesmo roubo aparece nos vídeos de TheProfessional e vassillios16." }
+perguntas:
+  - { p: "Onde fica o dinheiro do papagaio no GTA 6?", r: "Na loja de bebidas Three Sheets, a mesma onde a vizinha Shirley manda buscar rum. O papagaio dos fundos diz \"gerador\": o dinheiro está atrás da grade logo atrás do gerador." }
+  - { p: "O que é o roubo Strange Noises no GTA 6?", r: "É o roubo que aparece no mapa depois que você ouve barulho de bicho nos fundos da loja de bebidas e o atendente disfarça. Os fundos escondem contrabando de animais e dinheiro." }
+  - { p: "Quanto dinheiro tem na loja do papagaio?", r: "Mais de US$ 2.000: uns US$ 1.300 no esconderijo, uns US$ 900 no cofre e mais um pouco na máquina de contar dinheiro e no caixa." }
+---
+
+O dinheiro do papagaio fica na loja de bebidas **Three Sheets**, a mesma onde a vizinha Shirley manda o Jason buscar rum. Nos fundos há um esquema de contrabando de animais, com **mais de US$ 2.000** espalhados. A melhor parte está num esconderijo que só o **papagaio** entrega. Dois canais mostraram o mesmo roubo: TheProfessional e vassillios16.
+
+## Como o roubo aparece
+
+1. Vá até a loja de bebidas. Se você aceitou a missão da Shirley (veja [a vizinha e o rum](../casa-do-jason-o-que-fazer-gta-6/)), é lá que você busca a garrafa.
+2. Na loja, você ouve **barulho de bicho** nos fundos. O atendente disfarça e diz que é o canal de animais na TV.
+3. Depois disso o local aparece no mapa como roubo com o nome **"Strange Noises"** (barulhos estranhos): o atendente parece distraído com algo nos fundos.
+
+Não precisa fazer a missão da Shirley. O vassillios16 foi direto, logo depois do prólogo. Se a loja não aparecer, procure as lojas de bebidas no [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/).
+
+## Como entrar
+
+- Pare o carro no **beco** ao lado da loja.
+- Suba na **caçamba de lixo** (ou pule o **portão de tela**) para cair na área dos fundos.
+- Lá estão **uns 4 homens**. Eles pegam facão; um deles pode ter arma.
+- O TheProfessional recomenda **nocautear todos na mão**. Tiro chama a polícia, e sem ela você pode saquear com calma.
+
+## O que pegar
+
+| Onde | Quanto |
+|---|---|
+| Esconderijo atrás do gerador | Uns US$ 1.300 a 1.400 |
+| Cofre da sala dos fundos | Uns US$ 900 |
+| Máquina de contar dinheiro | Uns US$ 200 |
+| Caixa da loja (na frente) | Uns US$ 200 |
+| Corpos dos capangas | Trocados |
+
+O **cofre** não tem senha: gire o **analógico direito** até a tranca ceder, como nos outros cofres do começo do jogo.
+
+## O papagaio e o esconderijo
+
+Nos fundos há um **papagaio** que fala o tempo todo de "dinheiro" e "esconderijo".
+
+1. Fale com ele.
+2. Pergunte onde está o dinheiro. Ele repete: **"gerador, gerador"**.
+3. Vá até o gerador, mas **não mexa nele**. Abra a **grade** que fica logo atrás.
+4. Ali está o maço de dinheiro.
+
+O vassillios16 achou o esconderijo sem falar com o papagaio, porque ele fica num canto dos fundos. Se não achar de primeira, converse com o bicho. No fim, dá até para agradecer o papagaio.
+
+## Na saída
+
+A polícia costuma vir. Os dois canais fugiram de carro sem dificuldade. Leve o dinheiro para casa, porque [morrer zera a carteira](../dinheiro-ao-morrer-guardar-em-casa-gta-6/). Para mais roubos do começo, veja [como ganhar dinheiro no GTA 6](../como-ganhar-dinheiro-gta-6/) e o [galpão com US$ 10 mil](../galpao-dinheiro-fuzil-inicio-gta-6/).

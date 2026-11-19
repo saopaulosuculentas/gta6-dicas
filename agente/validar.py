@@ -17,7 +17,7 @@ IMG = RAIZ / "public" / "img"
 CATEGORIAS = {"codigos", "easter-eggs", "segredos-e-locais", "dinheiro", "dicas", "guias"}
 PS5 = {"cima", "baixo", "esquerda", "direita", "x", "circulo", "quadrado", "triangulo", "l1", "l2", "r1", "r2", "l3", "r3"}
 XBOX = {"cima", "baixo", "esquerda", "direita", "a", "b", "x", "y", "lb", "lt", "rb", "rt", "ls", "rs"}
-PROIBIDO = re.compile(r"mod menu|trainer|gerador de dinheiro|money generator|hack\b|crack|conta modded|modded account|free download|"
+PROIBIDO = re.compile(r"mod menu|trainer|gerador de dinheiro|money generator|\bhack(?:s|ear|eado|er)?\b|crack|conta modded|modded account|free download|"
                       r"vende-?se conta|aimbot|cheat engine|download gr[áa]tis", re.I)
 ONLINE = re.compile(r"gta online|modo online|multiplayer", re.I)
 
