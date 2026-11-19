@@ -8,11 +8,16 @@ plataformas: [ps5, xbox]
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=cQxDHrld-QU", titulo: "GTA 6 - Explorando o FUNDO DO MAR pela primeira vez", minuto: "29:55", data: "2026-11-18T13:25:43-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
+  - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=xv9kuTgZrM4", titulo: "GTA 6 Secret Jet Ski Dog Location - How To Find Dog Island (Free Money)", minuto: "1:00", data: "2026-11-18T20:35:39-03:00" }
+  - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "7:30", data: "2026-11-19T05:47:12-03:00" }
+  - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:40", data: "2026-11-18T22:01:31-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-18T17:29:00-03:00"
+atualizado_em: "2026-11-19T08:21:00-03:00"
 historico:
+  - { data: "2026-11-19T08:21:00-03:00", nota: "Novos jeitos: ilha dos cachorros (US$ 1.218), meteoritos para vender e colecionáveis na loja de penhores." }
   - { data: "2026-11-18T17:29:00-03:00", nota: "Guia publicado, em verificação. Gameplay do Gameplayrj e código do TechTudo." }
 perguntas:
+  - { p: "Dá para vender coisas no GTA 6?", r: "Dá. Colecionáveis e meteoritos podem ser vendidos numa loja de penhores, e os meteoritos também no marketplace do celular." }
   - { p: "Como ganhar dinheiro rápido no GTA 6?", r: "No começo, o dinheiro vem de missões, de pagamentos de personagens, de roubos a loja com cofre e de operações ilegais marcadas no mapa. O código de US$ 250 mil só libera depois de zerar a história." }
   - { p: "Tem dinheiro infinito no GTA 6?", r: "Até agora não apareceu nenhum jeito confirmado de dinheiro infinito. O código de dinheiro dá US$ 250 mil por vez e só funciona depois de concluir a história." }
   - { p: "Dá para ganhar dinheiro real jogando GTA 6?", r: "Não. O GTA 6 não tem modo online no lançamento e o dinheiro do jogo não vale nada fora dele. Site que promete dinheiro do GTA 6 em troca do seu login é golpe." }
@@ -37,6 +42,15 @@ No mapa do jogo há uma aba de **Roubos**, com a lista de **Alvos**. Ali aparece
 ### Caixa de correio
 
 Um personagem da história deixa dinheiro na caixa de correio da casa do Jason. Vale passar lá depois das primeiras missões. Veja [tudo que dá para fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/).
+
+### A ilha dos cachorros (cerca de US$ 1.200)
+Fique nadando sem barco no meio de Gambit Bay até um cachorro aparecer de jet ski. Ele leva você a uma ilha, e um dos cachorros desenterra dinheiro: **US$ 1.218** no vídeo do ZoneX. O passo a passo está em [cachorro do jet ski](../cachorro-jet-ski-ilha-dos-cachorros-gta-6/).
+
+### Meteoritos
+Meteoritos podem ser vendidos no marketplace do celular ou numa loja de penhores. O ZacCoxTV achou um embaixo da cama da casa do ufólogo e outro numa cratera no alto do Mount Kaga. Veja a [lista de easter eggs](../easter-eggs-gta-6-lista/).
+
+### Colecionáveis
+Segundo o T5G, as figurinhas e revistas que você coleciona ficam guardadas numa caixa na casa do Jason. Quando precisar de dinheiro, leve até uma loja de penhores e venda.
 
 ### O código de US$ 250 mil
 

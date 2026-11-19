@@ -6,18 +6,22 @@ categoria: easter-eggs
 status: confirmado
 plataformas: [ps5, xbox]
 fontes:
+  - { tipo: youtube, canal: "JFM", url: "https://www.youtube.com/watch?v=QeE2hEYhHT8", titulo: "GTA 6 - The SECRET Sasquatch Quest That Unlocks a UNIQUE Sniper Rifle", minuto: "0:13", data: "2026-11-19T00:43:20-03:00" }
+  - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", titulo: "GTA 6 - BIGFOOT Easter Egg Secret Scene (LOCATION)", minuto: "1:20", data: "2026-11-18T13:57:55-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=mhgv0kj-BFw", titulo: "Que criatura é essa??? O PRIMEIRO EASTER EGG DO GTA VI", minuto: "13:11", data: "2026-11-18T16:25:53-03:00" }
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=3Uz64TZrEEY", titulo: "EASTER EGG do PÉ GRANDE no GTA 6! EVENTO ALEATÓRIO ACIDENTE AÉREO!", minuto: "3:59", data: "2026-11-18T16:29:51-03:00" }
 descoberto_em: "2026-11-18T17:10:00-03:00"
-atualizado_em: "2026-11-18T17:21:00-03:00"
+atualizado_em: "2026-11-19T08:21:00-03:00"
 historico:
+  - { data: "2026-11-19T08:21:00-03:00", nota: "A figura é uma efígie do Skunk Ape e começa uma missão secreta (JFM, T5G e ZacCoxTV). Link para o passo a passo da missão." }
   - { data: "2026-11-18T17:10:00-03:00", nota: "Publicado como confirmado: a mesma figura aparece em dois canais diferentes (Punish e Gameplayrj)." }
   - { data: "2026-11-18T17:21:00-03:00", nota: "Terceira fonte (SanInPlay), que encontrou a figura à noite. Incluído que ela aparece de dia e de noite." }
 perguntas:
   - { p: "Tem pé grande no GTA 6?", r: "Tem uma criatura que os jogadores chamam de pé grande: uma figura humana feita de tronco e cipó, escondida no mangue de Grassrivers. Ela aparece em vídeos de três canais diferentes." }
   - { p: "Onde fica o pé grande do GTA 6?", r: "Em Grassrivers, no meio do mangue, longe das estradas asfaltadas. Os dois vídeos mostram o mesmo tipo de mata, mas o ponto exato ainda não foi marcado num mapa público." }
-  - { p: "O que acontece quando você examina o pé grande?", r: "A tela fica turva, escurece e o Jason apaga. Ele acorda reclamando de dor e o jogo continua." }
+  - { p: "O que acontece quando você examina o pé grande?", r: "A tela fica turva, escurece e o Jason apaga. É o começo de uma missão secreta do Skunk Ape, que dá um rifle sniper camuflado." }
+  - { p: "O pé grande do GTA 6 é o Skunk Ape?", r: "Sim. A figura de madeira é uma efígie, e a criatura peluda que anda pelos pântanos de Grassrivers é o Skunk Ape, chamado de Mr. Mangrove na missão." }
 ---
 
 O GTA 6 já tem o seu "pé grande". No mangue de Grassrivers, a região de pântano do mapa, existe uma figura com forma de gente feita de tronco, cipó e amarras de corda, com flores em volta. Três canais diferentes chegaram até ela no mesmo dia: o Punish e os brasileiros Gameplayrj e SanInPlay. Ao examinar a figura, o personagem apaga.
@@ -47,9 +51,11 @@ Ao examinar, a tela fica turva e roxa, depois escurece por completo. O Jason apa
 
 No caso do Gameplayrj, a droga que ele tinha recolhido na mata antes de achar a figura não estava mais com ele depois que acordou. Ainda não dá para dizer se isso sempre acontece.
 
-## É o pé grande mesmo?
+## É o pé grande mesmo? Sim: é o Skunk Ape
 
-Os jogadores chamam de pé grande porque a figura tem forma de gente e aparece no meio do mato, mas ela não é peluda: parece feita de madeira e planta. O SanInPlay lembrou do skunk ape, a versão do pé grande nas lendas da Flórida, estado que inspira Leonida. É uma boa hipótese, mas a Rockstar não explicou nada.
+A figura de madeira não é o bicho: é uma **efígie**, um tipo de altar que a criatura deixa pelo mato. A criatura de verdade é o **Skunk Ape**, a versão do pé grande nas lendas da Flórida, e ela é peluda. O T5G e o ZacCoxTV viram o Skunk Ape comendo um cervo na estrada de Grassrivers, e o T5G achou placas pelo mapa avisando que ele anda pela região. O SanInPlay já tinha levantado essa hipótese.
+
+E o apagão não é o fim: é o começo de uma **missão secreta** que termina com um rifle sniper camuflado. O passo a passo está em [missão do Skunk Ape no GTA 6](../missao-skunk-ape-rifle-sniper-gta-6/).
 
 ## Cuidado com os bichos
 
@@ -58,6 +64,5 @@ Grassrivers é cheio de animal. No mesmo vídeo aparecem jacarés brigando, um u
 ## O que ainda não se sabe
 
 - Se a figura aparece sempre no mesmo lugar ou em pontos diferentes.
-- Se apagar perto dela tem alguma consequência além do susto.
 
-Veja também [o que tem no fim do mapa do GTA 6](../fim-do-mapa-gta-6/) e a [lista de easter eggs](../../easter-eggs/).
+Veja também a [missão do Skunk Ape](../missao-skunk-ape-rifle-sniper-gta-6/), [o que tem no fim do mapa do GTA 6](../fim-do-mapa-gta-6/) e a [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).

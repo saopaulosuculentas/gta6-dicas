@@ -9,11 +9,14 @@ fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=chge7GrCNc0", titulo: "GTA 6 - O INÍCIO do gameplay do Davy Jones", minuto: "2:05", data: "2026-11-18T10:00:40-03:00" }
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "4:00", data: "2026-11-18T12:29:11-03:00" }
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=JexsYvhix14", titulo: "GTA 6: SOBREVOANDO SOBRE VICE CITY!", minuto: "2:15", data: "2026-11-18T12:07:20-03:00" }
+  - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "3:16", data: "2026-11-19T05:47:12-03:00" }
 descoberto_em: "2026-11-18T18:18:00-03:00"
-atualizado_em: "2026-11-18T18:18:00-03:00"
+atualizado_em: "2026-11-19T08:21:00-03:00"
 historico:
+  - { data: "2026-11-19T08:21:00-03:00", nota: "Acrescentados: seta do carro no direcional e empurrar carro parado (ZacCoxTV)." }
   - { data: "2026-11-18T18:18:00-03:00", nota: "Publicada como confirmada, com base em gameplay do Gameplayrj, do Gigaton Games e do SanInPlay." }
 perguntas:
+  - { p: "Como dar seta no carro no GTA 6?", r: "Dirigindo, aperte o direcional para a esquerda ou para a direita. Segundo o ZacCoxTV, é a primeira vez que um GTA tem seta." }
   - { p: "Como correr no GTA 6?", r: "No controle padrão, clicando o analógico esquerdo (L3 no PS5, LS no Xbox). O próprio jogo avisa isso na primeira tela e deixa trocar nas configurações." }
   - { p: "Como abrir o mapa no GTA 6?", r: "No Xbox, pelo botão de visualização (o botão pequeno da esquerda). Ele não troca mais a câmera, como no GTA 5." }
   - { p: "Como se curar no GTA 6?", r: "Comendo ou usando itens de cura do inventário. Na live do Gameplayrj, o jogo pediu para segurar LB e apertar X no Xbox (L1 e quadrado no PS5)." }
@@ -53,6 +56,11 @@ Uma das novidades mais úteis: **segure o direcional para baixo** e aparece a li
 ## Curar e comer
 
 Vida não volta sozinha toda. O personagem pega itens de cura pelo caminho (na live apareceu "+ Zombix" ao recolher um) e come para recuperar vida, segurando o botão do inventário e apertando o de usar. Dormir em casa também recupera vida e energia.
+
+## Seta e empurrar o carro
+
+- **Seta:** pela primeira vez num GTA, o carro tem seta. Dirigindo, aperte o direcional para a esquerda ou para a direita. Mostrado pelo ZacCoxTV.
+- **Empurrar:** se o carro atolar ou ficar sem gasolina, desça, vá para trás dele e ande na direção do carro. O personagem começa a empurrar.
 
 ## Helicóptero
 

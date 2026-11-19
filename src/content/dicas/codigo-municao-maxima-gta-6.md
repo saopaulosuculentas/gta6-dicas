@@ -12,6 +12,7 @@ efeito: "Recarrega a munição de todas as armas até o máximo."
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "2:04", data: "2026-11-18T16:35:15-03:00" }
 descoberto_em: "2026-11-18T16:16:00-03:00"
 atualizado_em: "2026-11-19T08:14:00-03:00"
 historico:
