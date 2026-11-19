@@ -10,8 +10,9 @@ fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T14:40:00-03:00"
+atualizado_em: "2026-11-19T14:50:00-03:00"
 historico:
+  - { data: "2026-11-19T14:50:00-03:00", nota: "Added Kotaku's tip about using focus to track down shouting and side quests." }
   - { data: "2026-11-19T14:40:00-03:00", nota: "Published as unverified: controls from two Kotaku guides by the same writer." }
 perguntas:
   - { p: "How do you flip your car back over in GTA 6?", r: "Walk up to the side of the flipped car and click the left stick. Your character braces against it; hold Square (X on Xbox) to push. It fails if the car is too heavy, you run out of stamina or you're on a steep slope." }
@@ -57,6 +58,10 @@ More in [how to lose the police](../gta-6-how-to-lose-the-police/).
 - **RydeMe:** call a driver, get in, hold the **left trigger** on the driver and choose to go straight to your destination for **$100**. It's the game's fast travel.
 - **Waink:** hold **Up on the D-pad** to scan a car and check it for an **advanced tracker**. See [how to steal cars](../gta-6-how-to-steal-cars/).
 - **Reminders:** this phone tab tells you who to call or text back, and it often opens new story moments.
+
+## Hear shouting? Use focus
+
+If you hear shouting, sirens or a loud argument, click **both sticks** to turn on focus and find the source. It's often a random event or a side quest, from a drug deal gone wrong to a man looking for his wife who vanished after a night out.
 
 ## Small things with a bonus
 

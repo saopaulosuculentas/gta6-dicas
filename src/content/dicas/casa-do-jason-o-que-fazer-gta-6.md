@@ -12,9 +12,11 @@ fontes:
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=TFAeNK8vEu4", titulo: "GTA 6: CONHECENDO A CASA DO JASON e TODOS os seus DETALHES!", minuto: "1:10", data: "2026-11-18T10:34:53-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", titulo: "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!", minuto: "5:33", data: "2026-11-18T16:56:29-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "4:49", data: "2026-11-18T21:00:37-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "0:12", data: "2026-11-18T23:01:21-03:00" }
 descoberto_em: "2026-11-18T17:09:00-03:00"
-atualizado_em: "2026-11-19T11:52:00-03:00"
+atualizado_em: "2026-11-19T14:50:00-03:00"
 historico:
+  - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: barra de proteína da cozinha encurta o tempo entre treinos." }
   - { data: "2026-11-19T11:52:00-03:00", nota: "RageGamingVideos: missão da vizinha Shirley (rum dá foco permanente), alimentar a cobra uma vez por dia dá foco, treinos têm tempo de espera." }
   - { data: "2026-11-19T08:47:00-03:00", nota: "Terceiro canal (BelotoPlays): esconderijo embaixo do piso para guardar dinheiro e itens, dormir para salvar, pesca no deck, caiaque, bicicleta, agachamento e levantamento terra, valores da caixa de correio." }
   - { data: "2026-11-18T17:09:00-03:00", nota: "Dica publicada, em verificação. Fonte: live do Gameplayrj." }
@@ -63,7 +65,7 @@ No quintal há aparelhos de musculação:
 - **Halteres, levantamento terra e agachamento:** no agachamento é preciso apertar no tempo certo; se errar, o personagem pode se machucar, avisa o BelotoPlays. O peso vai aumentando conforme você treina (ele chegou a 45 libras).
 - **Saco de pancada:** no andar de baixo, apertando quadrado. Treina o fôlego.
 
-Cada série aumenta o treino de força. O personagem cansa e precisa esperar a energia voltar antes da próxima. No celular, o aplicativo de fitness mostra nível de treino, massa muscular, gordura corporal e equilíbrio de calorias. Ou seja, comer também conta.
+Cada série aumenta o treino de força. O personagem cansa e precisa esperar a energia voltar antes da próxima. No celular, o aplicativo de fitness mostra nível de treino, massa muscular, gordura corporal e equilíbrio de calorias. Ou seja, comer também conta. O Thalera conta que uma **barra de proteína** na cozinha encurta bem o tempo de espera para treinar de novo.
 
 ## Pintar e arrumar a casa
 

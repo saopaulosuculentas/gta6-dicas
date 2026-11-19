@@ -9,9 +9,11 @@ fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
   - { tipo: youtube, canal: "HadesPlays", url: "https://www.youtube.com/watch?v=J64pz2pQCn8", titulo: "7 COISAS que GTA 6 NÃO TE CONTA e que da pra FAZER", minuto: "3:25", data: "2026-11-19T11:30:37-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "1:09", data: "2026-11-18T23:01:21-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T14:40:00-03:00"
+atualizado_em: "2026-11-19T14:50:00-03:00"
 historico:
+  - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: Joey conserta o carro de graça (em verificação) e foco para achar missões secundárias, que o Kotaku também descreve." }
   - { data: "2026-11-19T14:40:00-03:00", nota: "Publicada como confirmada: seta, menu do carro e roupa no porta-malas aparecem no Kotaku e no HadesPlays; virar carro e sentar vêm do Kotaku." }
 perguntas:
   - { p: "Como desvirar o carro no GTA 6?", r: "Encoste na lateral do carro virado e aperte o analógico esquerdo (L3). O personagem põe as mãos no carro; segure quadrado ou X para empurrar. Não funciona se o carro for pesado demais, se faltar fôlego ou em ladeira forte." }
@@ -63,7 +65,12 @@ Mais em [como fugir da polícia](../como-fugir-da-policia-gta-6/).
 - **Scooter Bros:** chama o seu carro até você, conserta e tira do pátio da polícia, mas cobra por cada uso. A versão **Premium** custa **US$ 12.500** e dá **3 usos grátis por dia** do jogo.
 - **RydeMe:** chame um motorista, entre no carro, segure **L2** mirando nele e escolha ir direto ao destino por **US$ 100**. É a viagem rápida do jogo.
 - **Waink It:** segure o **direcional para cima** para escanear um carro e ver se tem **rastreador**. Veja [como roubar carro](../como-roubar-carro-gta-6/).
+- **Joey, o mecânico:** o Thalera diz que nunca paga conserto. Ele vai em **contatos** no celular e liga para o **Joey**, que entrega o carro consertado na sua frente **de graça**. É um canal só, então ainda está em verificação: se cobrar no seu jogo, use o posto.
 - **Lembretes:** a aba de lembretes do celular avisa quem ligar e quem responder. Muitas vezes abre conversa e missão nova.
+
+## Ouviu briga ou conversa? Use o foco
+
+Se você ouvir gritos, sirene ou uma conversa sem ter falado com ninguém, aperte **os dois analógicos** para ligar o foco e ver de onde vem o som. Quase sempre é um personagem com **missão secundária**: o Kotaku e o Thalera citam a mesma, de um homem procurando a esposa que sumiu depois de uma noite de festa. Essas missões dão um dinheiro a mais e rendem boas risadas.
 
 ## Detalhes que dão bônus
 

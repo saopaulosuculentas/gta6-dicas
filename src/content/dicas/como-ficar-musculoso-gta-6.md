@@ -13,9 +13,11 @@ fontes:
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", titulo: "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!", minuto: "7:53", data: "2026-11-18T16:56:29-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=I4t3oYrytWQ", titulo: "GTA 6 - EXPLORANDO a casa do JASON", minuto: "2:40", data: "2026-11-18T11:40:38-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "7:58", data: "2026-11-18T21:00:37-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "0:12", data: "2026-11-18T23:01:21-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T11:52:00-03:00"
+atualizado_em: "2026-11-19T14:50:00-03:00"
 historico:
+  - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: barra de proteína reduz o tempo de espera entre treinos; rotina diária na casa do Jason." }
   - { data: "2026-11-19T11:52:00-03:00", nota: "RageGamingVideos: treino tem tempo de espera, conta separado para Jason e Lucia, e nadar conta como cárdio." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada como confirmada: a academia e o app de fitness aparecem em vídeos do Canal do Nego, do BelotoPlays e do Gameplayrj. Tela do app e afiliação da academia conferidas nos quadros." }
 perguntas:
@@ -69,8 +71,9 @@ Ele também mostra a **janela de treino**, o tempo em que o treino ainda está v
 3. **Cuidado com o peso.** No agachamento e no supino, errar o tempo falha a série ou machuca. O peso aumenta conforme você treina (o BelotoPlays chegou a 45 libras no agachamento).
 4. **Respeite o tempo de espera.** O RageGamingVideos explica que cada treino só vale de novo depois que um cronômetro zera. Para subir rápido, faça **um treino de força, um de cárdio e um de foco a cada vez que o tempo zerar**.
 5. **Treine com os dois personagens.** O progresso é separado: o que o Jason treina não conta para a Lucia.
-6. **Cárdio de graça:** qualquer **natação** conta como cárdio. Basta entrar no mar e nadar.
-7. **Treinar também libera um código.** O [código de colete](../codigo-colete-gta-6/) é liberado ao completar 100 treinos.
+6. **Barra de proteína corta a espera.** Segundo o Thalera, comer uma barra de proteína na cozinha da casa do Jason faz o tempo para treinar de novo cair bem mais rápido. A rotina dele: acordar, fazer 3 treinos no deck, bater no saco de pancada (fôlego), alimentar a cobra e arremessar no basquete (foco), e repetir no dia seguinte.
+7. **Cárdio de graça:** qualquer **natação** conta como cárdio. Basta entrar no mar e nadar.
+8. **Treinar também libera um código.** O [código de colete](../codigo-colete-gta-6/) é liberado ao completar 100 treinos.
 
 ## O que ainda não se sabe
 

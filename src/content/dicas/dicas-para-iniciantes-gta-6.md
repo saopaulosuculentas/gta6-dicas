@@ -11,9 +11,11 @@ fontes:
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=wBVbxswlJ4A", titulo: "GTA 6 - 10 Tips & Tricks I Wish I Knew SOONER! (Beginner Guide)", minuto: "0:37", data: "2026-11-18T16:04:42-03:00" }
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:00", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "1:45", data: "2026-11-18T15:45:05-03:00" }
+  - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "0:52", data: "2026-11-18T23:01:21-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-19T14:50:00-03:00"
 historico:
+  - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: consertar a casa inteira antes de buscar a Lucia dá um aumento grande no relacionamento." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Guia publicado a partir das dicas do DPJ, do WiLLiSGaming e do Ikoma Games. Guardar dinheiro em casa aparece nos três." }
 perguntas:
   - { p: "O que fazer primeiro no GTA 6?", r: "Ajuste as configurações (corrida e mapa no botão de visualização), avance a história até liberar as ferramentas e guarde sempre o dinheiro no esconderijo de casa." }
@@ -57,7 +59,7 @@ Mais sobre os botões em [controles do GTA 6](../controles-gta-6-o-que-mudou/).
 ## Tempo e relacionamento
 
 14. **Passe o tempo na cama.** Vá até a cama de casa para pular horas, útil para missões com horário ou para fugir da noite.
-15. **Relacionamento com a Lucia.** É opcional: ela continua sua parceira de qualquer jeito. Mas, se quiser melhorar a relação, atenda as ligações dela, arrume a casa (escada, cerca, varanda, pintura do quarto) e leve um dinheiro para pagar uma cerveja quando for buscá-la.
+15. **Relacionamento com a Lucia.** É opcional: ela continua sua parceira de qualquer jeito. Mas, se quiser melhorar a relação, atenda as ligações dela, arrume a casa (escada, cerca, varanda, pintura do quarto) e leve um dinheiro para pagar uma cerveja quando for buscá-la. O Thalera dá a ordem certa: quando chegar a ligação avisando que a Lucia pode ser buscada na cadeia, **conserte a casa inteira antes de ir**. Ela chega, vê a casa arrumada e o relacionamento já começa bem mais alto.
 
 ## Edição Ultimate
 
