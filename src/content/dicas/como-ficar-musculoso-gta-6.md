@@ -19,9 +19,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "4:18", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "4:16", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "4:10", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=o0SPFLsPQS8", titulo: "TESTANDO O NOVO CELULAR DO GTA 6! APP SECRETO PRA ROUBAR CARROS, WHATSAPP E REDE SOCIAL!", minuto: "6:44", data: "2026-11-19T12:23:05-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T16:16:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "BelotoPlays também abriu o app de fitness: força, cárdio e foco com descrição de cada um, musculatura, gordura corporal e equilíbrio calórico." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: treino completo com 3 exercícios e 3 dias seguidos (MrDalekJD), aparelho trava depois da série e teto diário de força (Arekkz), montar o saco de pancada, repetições e peso no deck (Thalera), pós-treino. Repetições e peso agora mostram as duas versões: 10 na academia (Canal do Nego) e 3 no deck (Thalera); cuidado com o peso (BelotoPlays) e peso máximo (Thalera)." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: barra de proteína reduz o tempo de espera entre treinos; rotina diária na casa do Jason." }
   - { data: "2026-11-19T11:52:00-03:00", nota: "RageGamingVideos: treino tem tempo de espera, conta separado para Jason e Lucia, e nadar conta como cárdio." }
@@ -91,6 +93,8 @@ No celular, o app de fitness mostra o estado do personagem (no vídeo, "Saudáve
 - **Foco.**
 
 Ele também mostra a **janela de treino**, o tempo em que o treino ainda está valendo. No vídeo do Gameplayrj, o app trazia ainda **massa muscular, gordura corporal e equilíbrio de calorias**. Ou seja, o que o personagem come também entra na conta. O GamingBolt recomenda abrir o app para ver em qual das três barras você está mais fraco e treinar aquilo.
+
+O BelotoPlays abriu o mesmo app e mostrou que cada item tem uma **descrição** explicando o que mede. O foco dele estava no nível 1, e o app marcava musculatura alta, gordura corporal baixa e o equilíbrio calórico, que ele entendeu como um aviso para manter o peso. Segundo ele, o que você faz com o Jason e com a Lucia conta ali, principalmente para força e cárdio.
 
 ## Pós-treino: o que comer
 

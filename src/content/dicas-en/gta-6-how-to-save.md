@@ -3,7 +3,7 @@ titulo: "How to Save in GTA 6: Manual Saves, 15 Slots and Why Saving Gets Disabl
 titulo_seo: "How to Save Your Game in GTA 6"
 resumo: "In GTA 6 you save from the main menu: pick Game, then Save Game. There are 15 manual save slots. Using a cheat disables saving until you quit the game."
 categoria: dicas
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "como-salvar-o-jogo-gta-6"
 imagens:
@@ -11,19 +11,22 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/", titulo: "Here's how to save your game in GTA 6", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-save/", titulo: "GTA 6: How to save your game", data: "2026-11-18T21:00:00-03:00" }
+  - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=gcC0XGLDO30", titulo: "GTA 6 Beginner’s Guide Everything You Need To Know (No Timewasting)", minuto: "0:13", data: "2026-11-18T19:13:06-03:00" }
+  - { tipo: youtube, canal: "Vice City Dispatch", url: "https://www.youtube.com/watch?v=in0rg1FNcGA", titulo: "15 Ways to Make Money in GTA 6, Ranked Worst to Best", minuto: "9:04", data: "2026-11-18T16:59:54-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:24:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmed: ZoneX also mentions the 15 manual save slots. Added: finished missions can't be replayed, only reloaded from a manual save (ZoneX; Vice City Dispatch says the same)." }
   - { data: "2026-11-19T16:24:00-03:00", nota: "GamesRadar+: no in-game quit option, the 16th autosave slot and restarting missions from the menu." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. Source: PC Gamer." }
 perguntas:
   - { p: "How do you quit GTA 6?", r: "There is no quit option in the game. Save, go back to the PS5 or Xbox home screen and close the game from there." }
   - { p: "How do you save in GTA 6?", r: "Open the main menu, choose Game, then Save Game, and pick one of the 15 slots." }
-  - { p: "How many save slots does GTA 6 have?", r: "15 manual save slots, according to PC Gamer." }
+  - { p: "How many save slots does GTA 6 have?", r: "15 manual save slots, according to PC Gamer and ZoneX, plus a separate slot for the autosave." }
   - { p: "Why can't I save in GTA 6?", r: "If you used a cheat, saving is disabled until you quit the game. Quit without saving and load back in." }
 ---
 
-GTA 6 has manual saving, so you choose when to create a checkpoint. The quickest way is the **main menu**: choose **Game** and then **Save Game**. There are **15 manual save slots**, according to PC Gamer.
+GTA 6 has manual saving, so you choose when to create a checkpoint. The quickest way is the **main menu**: choose **Game** and then **Save Game**. There are **15 manual save slots**, according to PC Gamer and ZoneX.
 
 ## How to save
 
@@ -36,6 +39,12 @@ You load an older save from the same menu.
 ## Tip: one save per chapter
 
 PC Gamer suggests keeping **a save at the start of each chapter**. With 15 slots you have room to go back to any point in the story and try a mission a different way.
+
+## There's no mission replay
+
+Unlike GTA 5, GTA 6 **won't let you replay a mission** once it's done. According to ZoneX, the only way back in is to load a manual save from before it, so he saves **before every mission** and **before any big story choice**. Vice City Dispatch, which pieces its videos together from reviews, makes the same point: finished missions don't come back, so you can't earn their payout twice.
+
+That's separate from restarting the mission you're currently playing, which you can still do from the menu (see below).
 
 Saving often also protects your money: [the cash on you is lost if you die](../gta-6-lose-money-when-you-die/), so stash it and save.
 

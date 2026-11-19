@@ -13,9 +13,11 @@ fontes:
   - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "2:10", data: "2026-11-18T15:36:34-03:00" }
   - { tipo: youtube, canal: "Vice City Dispatch", url: "https://www.youtube.com/watch?v=in0rg1FNcGA", titulo: "15 Ways to Make Money in GTA 6, Ranked Worst to Best", minuto: "0:13", data: "2026-11-18T16:59:54-03:00" }
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:00", data: "2026-11-18T21:36:13-03:00" }
+  - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=Hd3QiIsF8Vc", titulo: "How To Deposit Money in GTA 6! (Store Cash Into Your Bank Account)", minuto: "1:07", data: "2026-11-19T07:11:21-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Conferido nos quadros do vídeo sem fala do Mr Lawrence: a tela Your Account do caixa (Deposit, Withdraw e Transactions), os botões e os dois saldos no canto da tela." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Confirmada: o MrBossFTW mostra a conta BuckMe (serve aos dois personagens, não se perde ao morrer ou ser preso, limite de depósito que sobe com a história) e o Mr Lawrence e o Vice City Dispatch repetem o limite de US$ 20 mil na mão. Perda ao morrer e meta de poupança agora mostram as duas versões (US$ 5.000 do WiLLiSGaming e metas maiores citadas pelo Vice City Dispatch)." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Publicada em verificação: guia do PC Gamer. A tela de depósito do caixa eletrônico aparece no quadro do vídeo do Mr Lawrence." }
 perguntas:
@@ -58,6 +60,15 @@ Só não faça isso num **carro que não é seu**: se perder o carro, perde a ca
 3. Chegue perto e interaja com o caixa.
 4. Escolha depositar.
 
+### O que aparece na tela do caixa
+
+O Mr Lawrence gravou um depósito sem narrar nada, então a informação está toda na imagem. No mapa, ao passar o cursor pelo ícone, aparece o nome **ATM**, e dá para marcar o caixa como destino com **X** (no PS5). Ele usou um caixa em Key Lento, preso na parede de um prédio de madeira verde.
+
+- **A tela se chama Your Account** e mostra o saldo da conta no alto, à direita.
+- **As opções são três:** **Deposit** (depositar), **Withdraw** (sacar) e **Transactions** (ver as transações), mais **Exit** para sair. No vídeo, com o saldo em US$ 0, a opção de sacar aparecia apagada.
+- **Os botões no PS5:** **X** escolhe, **bolinha** sai e **R2** dá zoom na tela.
+- **Dois saldos no canto da tela:** em cima fica o dinheiro da conta, ao lado de um ícone com a letra "b" do BuckMe; embaixo, o dinheiro vivo que você carrega. Assim dá para conferir na hora se o depósito entrou.
+
 Ter conta também **libera algumas armas** para compra. O PC Gamer cita ainda uma **poupança que rende juros**, mas não explica como ela funciona.
 
 ## A conta BuckMe
@@ -77,7 +88,7 @@ Os canais ainda não batem sobre quanto a história pede para guardar:
 - **US$ 5.000:** o WiLLiSGaming conta que, no começo, o jogo pede para juntar US$ 5.000 no BuckMe, e que a história só segue depois disso. É a versão que aparece em [como ganhar dinheiro no GTA 6](../como-ganhar-dinheiro-gta-6/).
 - **Metas por capítulo:** o Vice City Dispatch, que monta os vídeos com trechos de reviews, diz que o BuckMe põe uma meta de poupança em cada capítulo e dá uma recompensa a quem bate. Segundo uma review citada por ele, a poupança da família começa em US$ 100.000, passa para US$ 500.000, e o que entra nela não pode ser sacado.
 
-As duas podem valer juntas, com os valores maiores em capítulos mais à frente, mas nenhum vídeo mostrou essas metas maiores na tela. Por enquanto, siga a meta que o seu jogo pedir.
+As duas podem valer juntas, com os valores maiores em capítulos mais à frente, mas nenhum vídeo mostrou essas metas maiores na tela. Por enquanto, siga a meta que o seu jogo pedir. E repare que o caixa eletrônico tem a opção de sacar: se a trava de saque citada pelo Vice City Dispatch existir, ela vale para essa poupança da família, não para a conta comum.
 
 ## Não deposite tudo
 

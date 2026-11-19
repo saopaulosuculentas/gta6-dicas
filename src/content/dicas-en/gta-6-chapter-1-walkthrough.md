@@ -3,16 +3,19 @@ titulo: "GTA 6 Chapter 1 Walkthrough: The First 7 Missions Step by Step"
 titulo_seo: "GTA 6 Chapter 1 Walkthrough: Missions Step by Step"
 resumo: "A step-by-step guide to GTA 6 Chapter 1, from Prologue to Unwanted Attention: the goal of each mission, the controls the game teaches and how to avoid failing."
 categoria: guias
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "detonado-capitulo-1-gta-6"
 imagens:
   - { arquivo: "detonado-capitulo-1-gta-6/barco-gone-fishing.webp", legenda: "Jason on the boat at the start of Gone Fishing, his first mission in Chapter 1.", canal: "LaazrGaming", url: "https://www.youtube.com/watch?v=_wSP3w6NjBk", minuto: "2:30" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/", titulo: "GTA 6 Chapter 1 Walkthrough", data: "2026-11-19T09:23:30-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "34:08", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "4:46", data: "2026-11-19T04:20:15-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmed through Lab Fees: Bombastic plays the boutique rent job, gets the acid and opens the safe with 0420; Musty Sky opens Brian's lockup with 7700." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: based on GamesRadar+'s walkthrough of Chapter 1 missions 1 to 7. Their guide is still in progress." }
 perguntas:
   - { p: "What is the first mission in GTA 6?", r: "Prologue, with Lucia in prison. The flashback chase always ends with her getting caught, so don't waste time trying to escape." }
@@ -21,7 +24,7 @@ perguntas:
   - { p: "Is it worth repairing Jason's house in GTA 6?", r: "Yes. It's optional, but GamesRadar+ says it improves your relationship with Lucia later on." }
 ---
 
-GTA 6's Chapter 1 opens with Lucia behind bars, then hands you Jason in the Leonida Keys and starts stacking up missions fast. Below is the goal of each of the **first 7 missions**, from Prologue to Unwanted Attention, plus the controls the game teaches and what to watch out for. It's built on GamesRadar+'s walkthrough, which is still being written and currently ends at mission 7.
+GTA 6's Chapter 1 opens with Lucia behind bars, then hands you Jason in the Leonida Keys and starts stacking up missions fast. Below is the goal of each of the **first 7 missions**, from Prologue to Unwanted Attention, plus the controls the game teaches and what to watch out for. It's built on GamesRadar+'s walkthrough, which is still being written and currently ends at mission 7. The Lab Fees codes match what Bombastic and Musty Sky showed in their own playthroughs.
 
 Controls are listed as **PS5 / Xbox**.
 
@@ -90,6 +93,8 @@ GamesRadar+ counts the house as part of Gear Up. None of it is required, but it 
 - When he pulls a baseball bat, take it with **Triangle / Y**. Leave his face alone and he hands over the code before running off.
 - The safe is in the back: code **0420**. Use Focus (**L3 + R3**) to find items, and empty the register on your way out.
 - Brian wants the goods in his lockup. The door code is **7700**. Drop everything in the box and collect your pay from Jason's mailbox later.
+
+**How it went for Bombastic:** he tried talking first. The clerk claimed he had no rent money, and only after Jason got aggressive did he offer the acid instead and give up the code **0420**. The safe was in the back room, and the register only had a few dollars in it. Musty Sky uses the same **7700** to open Brian's lockup when he drops off stolen goods.
 
 More codes are on our [GTA 6 safe codes](../gta-6-safe-codes/) page, and selling stolen goods is covered in [fence locations](../gta-6-fence-locations/).
 

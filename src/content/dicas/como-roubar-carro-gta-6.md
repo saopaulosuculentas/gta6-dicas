@@ -14,15 +14,21 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "0:49", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "27:43", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "6:19", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:37", data: "2026-11-19T14:00:35-03:00" }
+  - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=o0SPFLsPQS8", titulo: "TESTANDO O NOVO CELULAR DO GTA 6! APP SECRETO PRA ROUBAR CARROS, WHATSAPP E REDE SOCIAL!", minuto: "3:02", data: "2026-11-19T12:23:05-03:00" }
+  - { tipo: youtube, canal: "CH4P4X", url: "https://www.youtube.com/watch?v=0Fb550QZKRw", titulo: "ACHEI O ECLIPSE SECRETO DO PAUL WALKER NO GTA 6!", minuto: "3:13", data: "2026-11-19T15:34:54-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "3:34", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=gcC0XGLDO30", titulo: "GTA 6 Beginner’s Guide Everything You Need To Know (No Timewasting)", minuto: "3:52", data: "2026-11-18T19:13:06-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Rastreador mostra as duas versões: para o PC Gamer o comum só impede modificar o carro; para o GameSpot ele também impede o registro até você conhecer quem tira, e depois qualquer Pay 'n' Spray tira. Novos: o que mais o Waink It mostra e que ele só escaneia carro parado ou devagar (BelotoPlays), e o aviso de que carro do seu bairro não pode ser roubado (CH4P4X, Bombastic e ZoneX)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmada: MrDalekJD, KhrazeGaming e Thalera mostram o Waink It, o alarme, a ligação direta e as ferramentas que a história libera. Novos: registro só a partir do capítulo 2, depois da missão Moses (MrDalekJD); monster truck que não coube na Pay 'n' Spray (GamingBolt); alarme sem testemunha que não chamou a polícia e o Waink It como catálogo (Thalera)." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada em verificação. Fonte: dois guias do PC Gamer (contam como uma fonte)." }
 perguntas:
   - { p: "Como roubar carro sem chave no GTA 6?", r: "Com o clonador de chave, que você ganha no capítulo 3, na missão 16, Steal the Zorruso for Randy. Antes disso, carro sem chave não pega na ligação direta." }
   - { p: "Como pegar o slim jim no GTA 6?", r: "Ele vem no capítulo 2, na quinta missão, chamada Moses. O mecânico Moses dá a ferramenta e ensina a usar." }
-  - { p: "Como tirar o rastreador do carro no GTA 6?", r: "O rastreador avançado avisa a polícia. Para ele não mandar sinal, dirija rápido; se diminuir, ele apita e você tem poucos segundos para acelerar de novo." }
+  - { p: "Como tirar o rastreador do carro no GTA 6?", r: "Segundo o GameSpot, só mais adiante na história, quando você conhece quem tira rastreador; a partir daí qualquer Pay 'n' Spray tira. Até lá, com rastreador avançado, dirija rápido: se diminuir, ele apita e você tem poucos segundos para acelerar." }
   - { p: "Como ficar com um carro roubado no GTA 6?", r: "Registrando o carro numa Pay 'n' Spray. Isso só libera no capítulo 2, depois da missão Moses; no capítulo 1 você fica com o carro inicial. O app Waink It mostra quanto custa o registro." }
 ---
 
@@ -40,7 +46,19 @@ Como usar, pelo vídeo do Thalera:
 
 Cada carro analisado entra numa coleção, separada por tipo: na tela do Thalera apareciam picapes 8 de 17, SUVs 7 de 23 e sedãs 7 de 29. Ele recomenda escanear tudo quando passar por um estacionamento.
 
+O BelotoPlays mostrou mais coisas na ficha do carro e um limite do app:
+
+- **Carro parado ou devagar.** O Waink It só lê carro estacionado ou andando bem devagar. Carro passando rápido na rua escapa antes de terminar a leitura, e o app perde o alvo.
+- **Mais dados na tela:** o tipo de carro (picape, por exemplo), quantos **assentos** ele tem, quantos itens cabem no **porta-malas** (numa picape eram 6 espaços, para armas, joias e outras coisas), o **estado** do carro e a **oficina especialista** dele, como "especialista em off-road" ou em "donks".
+- **Na prática:** uma picape que pedia clonador e tinha alarme e rastreador avançado ele descartou na hora. Já um carro mais velho, só trancado, com alarme simples e sem rastreador, ele achou fácil de roubar.
+
+O GameSpot lembra que a mesma ficha traz o **valor de venda** e o **custo para registrar** o carro.
+
 O KhrazeGaming avisa que, no começo, sobram poucos carros fáceis: muitos pedem **slim jim** ou **clonador de chave**, e o Waink It mostra qual ferramenta cada um exige. Os que dá para roubar só quebrando o vidro são, na maioria, os modelos mais velhos.
+
+## Carro do seu bairro não dá para roubar
+
+No bairro da sua casa, os carros mostram o aviso **"Veículos na sua vizinhança não podem ser roubados"**. O CH4P4X e o Bombastic viram esse aviso ao chegar perto de um carro para roubar, e o ZoneX também fala dele. Não perca tempo ali: vá para mais longe de casa e escolha outro carro.
 
 ## O básico: quebrar o vidro e fazer ligação direta
 
@@ -76,8 +94,12 @@ Para clonar: pare do lado da porta, aperte interagir, escolha **Clonar chave** e
 
 ## Rastreadores
 
-- **Rastreador comum:** não chama a polícia. Só impede de modificar o carro na oficina até você registrar o carro como seu.
-- **Rastreador avançado:** avisa a polícia e mostra onde você está. Para ele não mandar sinal, **dirija rápido**. Se diminuir, ele começa a apitar e você tem poucos segundos para acelerar.
+- **Rastreador comum:** não chama a polícia. Para o PC Gamer, ele só impede de modificar o carro na oficina até você registrar o carro como seu. O GameSpot diz outra coisa: carro com rastreador comum **também não pode ser registrado** até você conhecer, na história, quem tira o rastreador.
+- **Rastreador avançado:** avisa a polícia e mostra onde você está. Segundo o GameSpot, ele manda sinal de tempos em tempos quando você se afasta do lugar onde pegou o carro. Para ele não mandar sinal, **dirija rápido**. Se diminuir, um medidor no canto da tela começa a encher e você tem poucos segundos para acelerar.
+
+### Como tirar o rastreador
+
+Segundo o GameSpot, ao longo da história você conhece personagens que tiram os dois tipos de rastreador. Depois que eles topam ajudar, **qualquer Pay 'n' Spray** tira o rastreador do carro. Até lá, nem os receptadores nem a Pay 'n' Spray compram carro com rastreador. O vídeo não diz em que missão isso libera.
 
 O Thalera resume de um jeito mais simples: alarme chama a polícia, rastreador entrega onde você está. O PC Gamer separa os dois tipos, e é o rastreador avançado que avisa a polícia. Na prática, o Thalera procura um carro sem alarme ou, pelo menos, sem rastreador. Para o MrDalekJD, carro com rastreador avançado até serve para sair correndo do local, mas, se a ideia é sumir por um tempo, escolha outro.
 
@@ -87,11 +109,11 @@ O Thalera resume de um jeito mais simples: alarme chama a polícia, rastreador e
 - **O registro libera no capítulo 2**, depois da missão principal **Moses**, em Port Gellhorn.
 - **Onde:** leve o carro a uma **Pay 'n' Spray**. O GamingBolt avisa que nem todo veículo passa: um monster truck que ele achou explorando não coube na oficina e não pôde ser registrado.
 
-Há uma dúvida sobre rastreador e registro. O MrDalekJD diz que, depois de liberado, dá para registrar os carros que **não têm rastreador**. O PC Gamer diz que o rastreador comum só impede de modificar o carro até você registrar. Ainda não ficou claro se carro com rastreador pode ser registrado. Na dúvida, escolha um carro sem rastreador para ficar.
+Rastreador e registro ainda têm duas versões. O MrDalekJD diz que, depois de liberado, dá para registrar os carros que **não têm rastreador**, e o GameSpot vai na mesma linha: carro com rastreador, comum ou avançado, só é registrado depois que você conhece quem tira o rastreador. Já o PC Gamer diz que o rastreador comum só impede de modificar o carro até você registrar. Na dúvida, escolha um carro sem rastreador para ficar.
 
 ## Vender ou ficar com o carro
 
-- **Pay 'n' Spray:** vende carro roubado, com limite de **3 por dia**. Também é onde você **registra** o carro para ficar com ele, a partir do capítulo 2.
+- **Pay 'n' Spray:** vende carro roubado, com limite de **3 por dia**. Também é onde você **registra** o carro para ficar com ele, a partir do capítulo 2. Segundo o GameSpot, carro com rastreador não é aceito até mais adiante na história.
 - **Moses** (capítulo 2): compra carros mais velhos e discretos, e costuma dizer onde estão os que ele procura. Depois de uma venda, demora um tempo para aceitar outra.
 - **Randy** (capítulo 3): paga mais, mas só quer carros caros e chamativos.
 - **Guardar:** numa garagem comprada pelo app de imóveis do celular (uma vaga por garagem) ou nas vagas da frente da sua casa.

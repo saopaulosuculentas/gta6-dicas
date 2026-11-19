@@ -14,15 +14,19 @@ fontes:
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "9:28", data: "2026-11-19T07:27:23-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "0:49", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "6:19", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:37", data: "2026-11-19T14:00:35-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "3:34", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=gcC0XGLDO30", titulo: "GTA 6 Beginner’s Guide Everything You Need To Know (No Timewasting)", minuto: "3:52", data: "2026-11-18T19:13:06-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Trackers now show both versions: PC Gamer says a standard tracker only blocks mods, while GameSpot says it also blocks registration until you meet whoever removes trackers, after which any Pay 'n' Spray can do it. Added the warning that cars in your own neighborhood can't be stolen (Bombastic and ZoneX)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmed: MrDalekJD and KhrazeGaming show Waink It, alarms, trackers and the story-locked tools. Added when registration unlocks (chapter 2, after the mission Moses, per MrDalekJD) and GamingBolt's monster truck that wouldn't fit in the Pay 'n' Spray." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. Source: two PC Gamer guides (count as one source)." }
 perguntas:
   - { p: "How do you steal a keyless car in GTA 6?", r: "With the key cloner, which you get in chapter 3, mission 16, Steal the Zorruso for Randy. Before that, keyless cars can't be hotwired." }
   - { p: "How do you get the slim jim in GTA 6?", r: "It comes in chapter 2, in the fifth mission, Moses. The mechanic Moses gives you the tool and shows you how to use it." }
-  - { p: "How do you beat a car tracker in GTA 6?", r: "An advanced tracker alerts the police. Drive fast enough that it can't send a signal; if you slow down it beeps and you have a few seconds to speed up." }
+  - { p: "How do you beat a car tracker in GTA 6?", r: "According to GameSpot, you'll meet people later in the story who remove trackers, and after that any Pay 'n' Spray can pull one. Until then, drive fast with an advanced tracker: slow down and it beeps, giving you a few seconds to speed up." }
   - { p: "How do you keep a stolen car in GTA 6?", r: "Register it at a Pay 'n' Spray. That unlocks in chapter 2, after the story mission Moses; in chapter 1 you're stuck with the starter car. The Waink It app shows how much registration costs." }
 ---
 
@@ -33,6 +37,12 @@ Stealing a car in GTA 6 isn't just smashing a window and driving off anymore. Al
 The **Waink It** app tells you what you're dealing with before you touch the car. MrDalekJD checks every car with it before he takes it: the app shows whether it's **locked**, **alarmed** or fitted with a **tracker**, which is exactly what decides whether the police end up on your tail.
 
 KhrazeGaming warns that the pool of easy cars is small early on. Lots of them need a **slim jim** or a **key cloner**, and Waink It tells you which tool each one calls for. The cars you can still just smash and hotwire are mostly older models.
+
+GameSpot adds that the same scan shows the car's **sale value** and what it costs to **register** it as yours.
+
+## You can't steal cars in your own neighborhood
+
+Near home, some cars come up with a warning that **vehicles in your neighborhood can't be stolen**. Bombastic got that message when he walked up to a car to take it, and ZoneX mentions it too. Don't waste time there: drive a bit farther from home and pick another target.
 
 ## The basics: smash and hotwire
 
@@ -62,8 +72,12 @@ To clone a key: stand by the door, press interact, pick **Clone Key** and use th
 
 ## Trackers
 
-- **Standard tracker:** doesn't call the cops. It just stops you modifying the car at a mod shop until you register it.
-- **Advanced tracker:** alerts the police and pinpoints you. Keep your speed up so it can't send a signal. Slow down and it starts beeping, and you have a few seconds to speed up again.
+- **Standard tracker:** doesn't call the cops. PC Gamer says it just stops you modifying the car at a mod shop until you register it. GameSpot says otherwise: a car with a standard tracker **can't be registered at all** until you meet, in the story, someone willing to remove it.
+- **Advanced tracker:** alerts the police and pinpoints you. According to GameSpot, it pings the cops every so often once you get too far from where you took the car. Keep your speed up so it can't send a signal. Slow down and a meter in the corner starts filling, and you have a few seconds to speed up again.
+
+### Getting a tracker removed
+
+GameSpot explains that you meet characters who can remove both kinds of tracker as the story goes on. Once they've agreed to help, **any Pay 'n' Spray** can take the tracker off. Until then, neither fences nor Pay 'n' Spray will buy a car that still has one. The video doesn't say which mission unlocks this.
 
 In MrDalekJD's view, an advanced tracker is no problem for a short dash away from the scene, but pick another car if you plan to stay hidden for a while.
 
@@ -73,11 +87,11 @@ In MrDalekJD's view, an advanced tracker is no problem for a short dash away fro
 - **Registration unlocks in chapter 2**, after the main story mission **Moses** in Port Gellhorn.
 - **Where:** drive the car into a **Pay 'n' Spray**. GamingBolt warns that not everything fits: a monster truck they found while exploring was too big to get inside, so it couldn't be registered.
 
-Trackers and registration are still a bit unclear. MrDalekJD says that once it unlocks you can register cars that **don't have a tracker**. PC Gamer says a standard tracker only stops you modifying the car until it's registered. Until someone tests it properly, pick a car without a tracker if you want to keep it.
+Trackers and registration still come in two versions. MrDalekJD says that once it unlocks you can register cars that **don't have a tracker**, and GameSpot backs that up: a car with either kind of tracker can only be registered after you've met whoever removes them. PC Gamer, on the other hand, says a standard tracker only stops you modifying the car until it's registered. Until someone tests it properly, pick a car without a tracker if you want to keep it.
 
 ## Sell it or keep it
 
-- **Pay 'n' Spray:** sells stolen cars, with a limit of **3 per day**. It's also where you **register** a car to make it yours, from chapter 2 on.
+- **Pay 'n' Spray:** sells stolen cars, with a limit of **3 per day**. It's also where you **register** a car to make it yours, from chapter 2 on. According to GameSpot, it won't take a car that still has a tracker until later in the story.
 - **Moses** (chapter 2): buys older, low-profile cars and often tells you where the ones he wants are. After a sale he needs a while before taking another.
 - **Randy** (chapter 3): pays more, but only wants flashy, expensive cars.
 - **Storage:** a garage bought through the real estate app on your phone (one car per garage), or the parking spots outside your safehouse. See [every garage and price](../gta-6-garage-locations-prices/).

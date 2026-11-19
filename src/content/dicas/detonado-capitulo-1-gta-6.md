@@ -3,15 +3,18 @@ titulo: "Detonado do capítulo 1 do GTA 6: as 7 primeiras missões passo a passo
 titulo_seo: "Detonado do capítulo 1 do GTA 6: missões passo a passo"
 resumo: "Passo a passo do capítulo 1 do GTA 6, da Prologue até Unwanted Attention: o objetivo de cada missão, os botões que o jogo ensina e as dicas para não falhar."
 categoria: guias
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "detonado-capitulo-1-gta-6/barco-gone-fishing.webp", legenda: "Jason no barco no começo da missão Gone Fishing, a primeira dele no capítulo 1.", canal: "LaazrGaming", url: "https://www.youtube.com/watch?v=_wSP3w6NjBk", minuto: "2:30" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/", titulo: "GTA 6 Chapter 1 Walkthrough", data: "2026-11-19T09:23:30-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "34:08", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "4:46", data: "2026-11-19T04:20:15-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmada pela Lab Fees: o Bombastic jogou a cobrança na boutique, recebeu o ácido e abriu o cofre com 0420; o Musty Sky abre o depósito do Brian com 7700." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: detonado da GamesRadar+ das missões 1 a 7 do capítulo 1. O guia deles ainda está em andamento." }
 perguntas:
   - { p: "Qual é a primeira missão do GTA 6?", r: "A Prologue, com a Lucia na prisão. A fuga do flashback sempre termina com ela presa, então não adianta insistir." }
@@ -20,7 +23,7 @@ perguntas:
   - { p: "Vale consertar a casa do Jason no GTA 6?", r: "Vale. É opcional, mas a GamesRadar+ diz que melhora a relação com a Lucia mais para a frente." }
 ---
 
-O capítulo 1 do GTA 6 começa com a Lucia na prisão e passa para o Jason em Leonida Keys, com uma missão nova a cada passo. Abaixo está o objetivo de cada uma das **7 primeiras missões**, da Prologue até Unwanted Attention, com os botões que o jogo ensina e o que fazer para não falhar. O detonado é baseado no guia da GamesRadar+, que ainda está sendo escrito e por enquanto para na missão 7.
+O capítulo 1 do GTA 6 começa com a Lucia na prisão e passa para o Jason em Leonida Keys, com uma missão nova a cada passo. Abaixo está o objetivo de cada uma das **7 primeiras missões**, da Prologue até Unwanted Attention, com os botões que o jogo ensina e o que fazer para não falhar. O detonado é baseado no guia da GamesRadar+, que ainda está sendo escrito e por enquanto para na missão 7. As senhas da missão Lab Fees batem com o que o Bombastic e o Musty Sky mostraram jogando.
 
 Os nomes de missões, carros e armas estão em inglês, como saíram no site. No jogo em português eles podem aparecer traduzidos. Os botões vêm no formato **PS5 / Xbox**.
 
@@ -91,6 +94,8 @@ Tem mais coisa para fazer lá, como malhar e trocar de roupa. Veja tudo em [o qu
 - Quando ele puxar o taco de beisebol, tome com **triângulo / Y**. Sem bater no rosto dele, ele entrega a senha e foge.
 - O cofre fica nos fundos: senha **0420**. Use o Focus (**L3 + R3**) para achar os itens e passe no caixa da loja para pegar um troco.
 - O Brian manda guardar a mercadoria no depósito dele. A porta abre com **7700**. Deixe tudo na caixa e depois busque o pagamento na caixa de correio do Jason.
+
+**Como foi no vídeo do Bombastic:** ele tentou primeiro na conversa. O atendente disse que não tinha o dinheiro do aluguel, e só depois da ameaça ofereceu o ácido no lugar e passou a senha **0420**. O cofre ficava na sala dos fundos, e o caixa da loja tinha poucos dólares. O Musty Sky usa o mesmo **7700** para abrir o depósito do Brian quando vai entregar mercadoria.
 
 Mais senhas estão na página da [senha do cofre](../senha-do-cofre-gta-6/).
 

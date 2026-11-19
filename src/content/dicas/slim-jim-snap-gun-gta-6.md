@@ -10,9 +10,11 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-slim-jim/", titulo: "How to get the slim jim in GTA 6", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/", titulo: "How to get the snap gun in GTA 6", data: "2026-11-18T15:29:10-03:00" }
+  - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "1:14", data: "2026-11-19T14:00:35-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T16:08:00-03:00"
+atualizado_em: "2026-11-19T18:04:00-03:00"
 historico:
+  - { data: "2026-11-19T18:04:00-03:00", nota: "Entrou o vídeo do GameSpot: o Moses entrega o slim jim no capítulo 2, e ele é o único jeito de abrir carro velho estacionado sem alarme. A snap gun segue só com o PC Gamer, por isso a página continua em verificação." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Publicada em verificação: dois guias do PC Gamer (contam como uma fonte). A opção do slim jim aparece no quadro do vídeo do The Useful Stranger." }
 perguntas:
   - { p: "Em que missão ganha o slim jim no GTA 6?", r: "Na missão Moses, do capítulo 2, logo depois de Girls' Trip. Quem entrega a ferramenta é o próprio Moses." }
@@ -38,6 +40,12 @@ Os nomes das missões e das ferramentas estão em inglês, como saíram no site 
 
 O Moses entrega o slim jim na missão que leva o nome dele, **Moses**, no capítulo 2. Ela vem logo depois de **Girls' Trip**, a missão em que a Lucia vai às compras e faz uma amiga.
 
+O GameSpot mostra a mesma coisa em vídeo: no capítulo 2 você conhece o Moses, e depois das apresentações ele entrega o slim jim e ensina a usar.
+
+### Antes do slim jim
+
+Segundo o GameSpot, no **capítulo 1** o único jeito de entrar num carro trancado é **quebrar o vidro e fazer ligação direta**. Quebrar o vidro dispara o alarme, então faça a ligação direta rápido e saia dali. O alarme desliga depois de um tempo, mas até lá as pessoas em volta ficam desconfiadas.
+
 ### Como usar
 
 1. Chegue na porta do carro.
@@ -46,8 +54,9 @@ O Moses entrega o slim jim na missão que leva o nome dele, **Moses**, no capít
 
 ### O que ele faz e o que não faz
 
+- **Abre carro velho sem disparar o alarme.** Segundo o GameSpot, é o único jeito de entrar num carro mais antigo estacionado sem fazer o alarme tocar. Com ele, você entra em silêncio em qualquer carro que não exija o clonador de chave.
 - **Abre o porta-malas sem alarme.** Vale olhar: dá para achar armas, drogas ou dinheiro lá dentro.
-- **Não liga carro sem chave.** Ele só destranca. Alguns carros pegam na ligação direta depois de destrancados, mas os **sem chave** precisam do **clonador de chave**.
+- **Não liga carro sem chave.** Ele só destranca. Alguns carros pegam na ligação direta depois de destrancados, mas os **sem chave** precisam do **clonador de chave**. O GameSpot conta que o clonador chega no capítulo 3, com o Randy, e que os carros abertos com ele nem precisam de ligação direta.
 
 ## Snap gun
 
