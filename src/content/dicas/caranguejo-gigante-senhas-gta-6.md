@@ -10,10 +10,10 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "Gator Keys", url: "https://www.youtube.com/watch?v=ZNm1TzCimAM", titulo: "The MONSTER CRAB Mystery SOLVED? in GTA VI...", minuto: "0:25", data: "2026-11-18T20:22:22-03:00" }
   - { tipo: youtube, canal: "Nobreza Games", url: "https://www.youtube.com/watch?v=tzH_eA9vqPA", titulo: "7 SEGREDOS E EASTER EGGS no GTA 6", minuto: "4:18", data: "2026-11-19T12:03:32-03:00" }
-descoberto_em: "2026-11-19T16:24:00-03:00"
-atualizado_em: "2026-11-19T16:24:00-03:00"
+descoberto_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T16:20:00-03:00"
 historico:
-  - { data: "2026-11-19T16:24:00-03:00", nota: "Publicada como confirmada: Gator Keys resolveu o mistério inteiro e o Nobreza Games mostrou a mesma senha e o mesmo cofre." }
+  - { data: "2026-11-19T16:20:00-03:00", nota: "Publicada como confirmada: Gator Keys resolveu o mistério inteiro e o Nobreza Games mostrou a mesma senha e o mesmo cofre." }
 perguntas:
   - { p: "Qual a senha do computador do caranguejo no GTA 6?", r: "CLEAVES. As opções de senha aparecem depois que você olha as palavras entalhadas na madeira do quarto; a certa é Cleaves." }
   - { p: "Qual o código do cofre do laboratório do caranguejo?", r: "00072. O bilhete diz que o código é o \"sucesso em dobro\": o caranguejo que deu certo é o 36, e 36 vezes 2 dá 72." }

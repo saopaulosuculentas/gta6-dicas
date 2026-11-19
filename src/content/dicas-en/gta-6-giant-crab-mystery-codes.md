@@ -10,10 +10,10 @@ imagens:
   - { arquivo: "caranguejo-gigante-gta-6/computador-senha.webp", legenda: "The lab computer unlocked: the grocery list and the note with the safe code hint.", canal: "Gator Keys", url: "https://www.youtube.com/watch?v=ZNm1TzCimAM", minuto: "0:58" }
 fontes:
   - { tipo: youtube, canal: "Gator Keys", url: "https://www.youtube.com/watch?v=ZNm1TzCimAM", titulo: "The MONSTER CRAB Mystery SOLVED? in GTA VI...", minuto: "0:25", data: "2026-11-18T20:22:22-03:00" }
-descoberto_em: "2026-11-19T16:24:00-03:00"
-atualizado_em: "2026-11-19T16:24:00-03:00"
+descoberto_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T16:20:00-03:00"
 historico:
-  - { data: "2026-11-19T16:24:00-03:00", nota: "Published as unverified: full solution from Gator Keys." }
+  - { data: "2026-11-19T16:20:00-03:00", nota: "Published as unverified: full solution from Gator Keys." }
 perguntas:
   - { p: "What is the crab computer password in GTA 6?", r: "CLEAVES. The password options appear after you look at the words carved into the wood in the bedroom; Cleaves is the right one." }
   - { p: "What is the crab lab safe code in GTA 6?", r: "00072. The note says the code is \"double success\": the crab that worked was number 36, and 36 times 2 is 72." }

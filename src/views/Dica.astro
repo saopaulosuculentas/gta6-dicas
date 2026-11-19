@@ -56,8 +56,13 @@ const jsonld = [
     inLanguage: en ? 'en' : 'pt-BR',
     mainEntityOfPage: endereco,
     ...(capa ? { image: new URL(u(`/img/${capa.arquivo}`), Astro.site).href } : {}),
-    author: { '@type': 'Organization', name: SITE.nome },
-    publisher: { '@type': 'Organization', name: SITE.nome },
+    author: { '@type': 'Organization', name: SITE.nome, url: new URL(u(PAGINAS.sobre[lang]), Astro.site).href },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.nome,
+      url: new URL(u(PAGINAS.sobre[lang]), Astro.site).href,
+      logo: { '@type': 'ImageObject', url: new URL(u('/logo-512.png'), Astro.site).href, width: 512, height: 512 },
+    },
   },
   {
     '@context': 'https://schema.org',

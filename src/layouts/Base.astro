@@ -29,7 +29,7 @@ const organizacao = {
   '@type': 'Organization',
   name: SITE.nome,
   url: new URL(u('/'), Astro.site).href,
-  logo: new URL(u('/favicon.svg'), Astro.site).href,
+  logo: { '@type': 'ImageObject', url: new URL(u('/logo-512.png'), Astro.site).href, width: 512, height: 512 },
 };
 const canonica = new URL(Astro.url.pathname, Astro.site).href;
 const abs = (p: string) => new URL(p, Astro.site).href;
@@ -56,7 +56,11 @@ const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
     <title>{tituloPagina}</title>
     <meta name="description" content={descricao} />
     <link rel="canonical" href={canonica} />
-    {(!INDEXAR || noindex) && <meta name="robots" content="noindex, nofollow" />}
+    {
+      !INDEXAR || noindex
+        ? <meta name="robots" content="noindex, nofollow" />
+        : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    }
     <meta name="theme-color" content="#0d0916" />
     <meta property="og:type" content={tipo} />
     <meta property="og:site_name" content={SITE.nome} />
@@ -77,7 +81,7 @@ const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
     {SITE.googleVerificacao && <meta name="google-site-verification" content={SITE.googleVerificacao} />}
     {SITE.bingVerificacao && <meta name="msvalidate.01" content={SITE.bingVerificacao} />}
     <link rel="icon" type="image/svg+xml" href={u('/favicon.svg')} />
-    <link rel="alternate" type="application/rss+xml" title={SITE.nome} href={u('/rss.xml')} />
+    <link rel="alternate" type="application/rss+xml" title={lang === 'en' ? `${SITE.nome} (English)` : SITE.nome} href={u(lang === 'en' ? '/en/rss.xml' : '/rss.xml')} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

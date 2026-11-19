@@ -52,4 +52,4 @@ The body count still wasn't small. The endgame stats show **321 enemies and 58 c
 
 ## Checking your profile
 
-In the image above, the profile sits at the top of Jason's page in the **Jason & Lucia** menu. To get to know both leads better, see the rest of our guides, starting with the [beginner tips](../gta-6-beginner-tips/).
+In the image above, the profile sits at the top of Jason's page in the **Jason & Lucia** menu. For more on how the game works early on, see the [beginner tips](../gta-6-beginner-tips/).
