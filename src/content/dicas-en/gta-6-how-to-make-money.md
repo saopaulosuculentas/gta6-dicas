@@ -14,9 +14,12 @@ fontes:
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=pRLPb15hIyA", titulo: "EASY GTA 6 MONEY LOCATION! $3200 in 30 minutes (Early Game treasure hunt)", minuto: "8:10", data: "2026-11-18T18:49:35-03:00" }
   - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=xv9kuTgZrM4", titulo: "GTA 6 Secret Jet Ski Dog Location - How To Find Dog Island (Free Money)", minuto: "1:00", data: "2026-11-18T20:35:39-03:00" }
   - { tipo: youtube, canal: "LoDj1c", url: "https://www.youtube.com/watch?v=KrLUtGZw7lQ", titulo: "HOW TO MAKE MONEY FAST IN GTA 6! (Secret Location to EARN QUICK MONEY)", minuto: "2:14", data: "2026-11-19T00:47:30-03:00" }
+  - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "0:52", data: "2026-11-19T02:29:35-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T11:56:00-03:00"
 historico:
+  - { data: "2026-11-19T11:56:00-03:00", nota: "Added DPJ (loot warehouse in South Vice-Dale County) and RageGamingVideos (shark and cargo random event east of Key Lento). Linked the fence guide." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Guide published from PC Gamer, WiLLiSGaming, JoblessGarrett, ZoneX and LoDj1c." }
 perguntas:
   - { p: "What is the fastest way to make money in GTA 6?", r: "Early on, Kenton's shipwreck dives and Dog Island. Later, according to PC Gamer, robbing other criminals mid-heist, selling stolen cars and the Ambrosia Raceway demolition derby, which pays up to $6,300 a win." }
@@ -59,7 +62,13 @@ Donnie loses packages that show up on your map. Pick them up and bring them to *
 Check the mailbox at Jason's house after main missions. There's often cash waiting, usually with a text from Donnie letting you know.
 
 ### RV lockboxes and trading cards
-Some RVs out in the wild have lockboxes, and the code is usually written on the wall. WiLLiSGaming says they almost always have good loot, like a rare **sports trading card**. Cards sell at pawn shops: LoDj1c got **$6,000** for one at the **Hamlet** pawn shop.
+Some RVs out in the wild have lockboxes, and the code is usually written on the wall. WiLLiSGaming says they almost always have good loot, like a rare **sports trading card**. Cards sell at pawn shops: LoDj1c got **$6,000** for one at the **Hamlet** pawn shop. He found that card in a safe inside a building in South Vice-Dale County, near Jason's place, along with cash and cargo worth about $10,000 in total.
+
+### The loot warehouse near Hamlet
+DPJ showed the same kind of warehouse in South Vice-Dale County, near Hamlet, with everyone inside already dead: **no fight needed**. He found a bag with **$4,800**, drugs in the back of a truck, a **Duke 5.56 assault rifle** and the safe with the card (rotate the right stick to open it). Bring a car: your bags fill up fast and you can stash the rest in the trunk. The cash comes as **marked bills**, which you have to take to a [fence](../gta-6-fence-locations/).
+
+### Random events at sea
+Stop when something weird happens. RageGamingVideos saw an explosion off the coast **east of Key Lento**, found a shark attacking a man, killed it with the speargun from the scuba kit and picked up beeping packages from the water: about **$2,000** worth of drugs to sell.
 
 ### Gang hideouts
 King Fishers gang bases are packed with contraband that sells well, and WiLLiSGaming found a unique rifle at one. Bring an empty bag and come prepared: he fought about 30 enemies.
@@ -70,6 +79,8 @@ King Fishers gang bases are packed with contraband that sells well, and WiLLiSGa
 Listen for sirens, alarms, gunshots and screams. When you see a bank job, jewelry store heist or armored car robbery in progress, take down the crooks running off and **grab their bags**. Then get out fast, because their heat becomes yours. With Jason and Lucia together you can carry more bags.
 
 ### Sell stolen cars
+All stolen goods (drugs, jewelry, marked bills) turn into cash at a fence. See [GTA 6 fence locations](../gta-6-fence-locations/).
+
 In chapter 2 you meet **Moses**, a mechanic who buys older, low-profile cars and often tells you where the ones he wants are. In chapter 3, **Randy** pays more for flashy, expensive cars. See [how to steal cars in GTA 6](../gta-6-how-to-steal-cars/).
 
 ### Demolition derby at Ambrosia Raceway

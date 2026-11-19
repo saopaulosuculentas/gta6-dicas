@@ -7,29 +7,33 @@ status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - {arquivo: "ovo-de-pascoa-torre-de-radio-gta-6/subida-torre.webp", legenda: "A subida da torre de rádio mais alta do jogo leva uns seis minutos.", canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", minuto: "0:20"}
+  - { arquivo: "ovo-de-pascoa-torre-de-radio-gta-6/ninho-topo.webp", legenda: "O ninho no topo da torre, com o ovo e o aviso para pegar.", canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=Mj_beVHUJE4", minuto: "4:22" }
 fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "0:07", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "12:52", data: "2026-11-19T05:47:12-03:00" }
+  - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=Mj_beVHUJE4", titulo: "FIRST GTA 6 EASTER EGG FOUND: ITS A LITERAL EASTER EGG!", minuto: "0:12", data: "2026-11-19T00:50:41-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T08:21:00-03:00"
+atualizado_em: "2026-11-19T11:58:00-03:00"
 historico:
   - { data: "2026-11-19T08:21:00-03:00", nota: "Publicada como confirmada: o ovo na torre aparece em vídeos do T5G e do ZacCoxTV e no Kotaku." }
+  - { data: "2026-11-19T11:58:00-03:00", nota: "Fonte do MrDalekJD acrescentada: local perto de Hamlet, dica do paraquedas e como jogar o ovo para a cena aparecer." }
 perguntas:
-  - { p: "Onde fica o ovo de Páscoa do GTA 6?", r: "No ninho do alto da torre de rádio mais alta do jogo. O T5G mostra a torre na região de Vice-Dale County, ao sul." }
-  - { p: "O que acontece se jogar o ovo da torre no GTA 6?", r: "Uma cena curta e inesperada começa. Também dá para guardar o ovo no inventário em vez de jogar." }
-  - { p: "Quanto tempo leva para subir a torre do GTA 6?", r: "Uns seis minutos de escalada sem parar, segundo o T5G e o ZacCoxTV." }
+  - { p: "Onde fica o ovo de Páscoa do GTA 6?", r: "No ninho do alto da torre de rádio mais alta do jogo, no sul de Vice-Dale County, ao lado de Hamlet. O T5G e o MrDalekJD mostram a mesma torre." }
+  - { p: "O que acontece se jogar o ovo da torre no GTA 6?", r: "Uma cena curta e inesperada começa. Jogue alto, por cima do parapeito: o MrDalekJD conta que num arremesso fraco a cena não apareceu." }
+  - { p: "Quanto tempo leva para subir a torre do GTA 6?", r: "De seis a quinze minutos de escada. O T5G e o ZacCoxTV levaram uns seis; o MrDalekJD fala em 10 a 15 minutos subindo com calma." }
 ---
 
 O GTA 6 tem um ovo de Páscoa de verdade, literalmente. No alto da **torre de rádio mais alta do jogo** existe um ninho de pássaro com um ovo colorido. Você pode guardar o ovo no inventário ou jogar lá de cima, e jogar libera uma **cena secreta**.
 
-O T5G e o ZacCoxTV mostraram o ovo em vídeo, e o Kotaku registrou a descoberta de um jogador no Twitter logo no dia do lançamento.
+O T5G, o ZacCoxTV e o MrDalekJD mostraram o ovo em vídeo, e o Kotaku registrou a descoberta de um jogador no Twitter logo no dia do lançamento.
 
 ## Onde fica
 
-- **A torre:** a torre de rádio mais alta do mapa. No vídeo do T5G ela fica no sul de **Vice-Dale County** (o nome aparece só na fala do vídeo; confira no seu mapa).
+- **A torre:** a torre de rádio mais alta do mapa, no sul de **Vice-Dale County**, logo ao lado do bairro de **Hamlet**. No mapa ela aparece como um objeto em 3D, e de perto dá para ver a torre de longe.
 - **Como entrar:** pule a cerca da base da torre.
-- **A subida:** são **uns seis minutos de escada** sem parar até o topo. O ninho fica lá em cima.
+- **A subida:** só escada, uma atrás da outra. O T5G levou **uns seis minutos**; o MrDalekJD fala em **10 a 15 minutos** indo devagar. No caminho há plataformas a um terço, na metade e a dois terços da subida, que servem de ponto de descanso.
+- **De helicóptero:** dá para pousar no topo, mas o MrDalekJD avisa que é arriscado. A escada é o jeito seguro.
 
 Há várias torres de rádio altas pelo mapa. O T5G conta que em outra delas você encontra um personagem tentando escalar, uma referência aos streamers que sobem torres em jogos.
 
@@ -37,7 +41,7 @@ Há várias torres de rádio altas pelo mapa. O T5G conta que em outra delas voc
 
 1. Pegue o ovo no ninho.
 2. Escolha: **guardar no inventário** ou **arremessar** lá de cima.
-3. Se arremessar, começa uma cena curta. Não vamos contar o que acontece para não estragar a surpresa, mas vale a subida.
+3. Se arremessar, mire **alto, por cima do parapeito**. O MrDalekJD jogou fraco na primeira vez e a cena não começou. No arremesso alto, começa uma cena curta. Não vamos contar o que acontece para não estragar a surpresa, mas vale a subida.
 
 ## Por que é um easter egg
 
@@ -45,6 +49,8 @@ O ZacCoxTV lembra que o GTA Vice City tinha um ovo de Páscoa de chocolate escon
 
 ## Cuidado
 
-Cair da torre mata. Suba com calma e não pule para descer, a não ser que tenha paraquedas.
+Cair da torre mata, e cair no meio do caminho obriga a subir tudo de novo. Ande devagar na hora de passar de uma escada para a outra, sem correr.
+
+Antes de subir, deixe o [paraquedas](../paraquedas-gta-6-onde-pegar/) equipado nos itens. Ele salva se você escorregar e é o jeito mais rápido de descer depois.
 
 Mais segredos na [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).

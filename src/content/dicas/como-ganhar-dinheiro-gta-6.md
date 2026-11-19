@@ -18,9 +18,12 @@ fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:47", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "LoDj1c", url: "https://www.youtube.com/watch?v=KrLUtGZw7lQ", titulo: "HOW TO MAKE MONEY FAST IN GTA 6! (Secret Location to EARN QUICK MONEY)", minuto: "2:14", data: "2026-11-19T00:47:30-03:00" }
   - { tipo: youtube, canal: "AlmightyDen", url: "https://www.youtube.com/watch?v=7V7zR22ZCW8", titulo: "GTA 6 – How to Find SECRET WEAPON and MONEY in HAMLET!", minuto: "0:13", data: "2026-11-18T20:00:16-03:00" }
+  - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=e1M1b9f6zcY", titulo: "GTA 6 - How to Get RICH EARLY! (Secret Loot Location - Cash & Weapons)", minuto: "0:52", data: "2026-11-19T02:29:35-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:00", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-19T11:56:00-03:00"
 historico:
+  - { data: "2026-11-19T11:56:00-03:00", nota: "DPJ mostrou o mesmo prédio com cofre e figurinha ao sul de Vice-Dale County (bolsa de US$ 4.800, fuzil); RageGamingVideos achou tubarão e carga de uns US$ 2.000 num evento a leste de Key Lento. Link para os receptadores." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados: aviso do WiLLiSGaming de que o dinheiro do capítulo 1 zera, meta de US$ 5.000 do BuckMe, mergulho com o Kenton, pacotes do Donnie, cofres de trailer, bases de gangue e figurinha vendida por US$ 6.000." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Acrescentados os jeitos que mais rendem depois do capítulo 2, segundo o PC Gamer: roubar outros criminosos, vender carros, derby de demolição, caça e roubos pelos fundos." }
   - { data: "2026-11-19T08:30:00-03:00", nota: "Confirmado: caixa de correio vista por Gameplayrj e Ikoma Games. Acrescentados cobrança de aluguel, corridas, ataques de gangue, naufrágio, guardar dinheiro em casa e tabela de valores." }
@@ -101,7 +104,7 @@ Cada corrida paga uns **US$ 1.500 a US$ 1.900** para o primeiro lugar, segundo o
 
 ### Eventos aleatórios: avião e barco com carga
 
-Aviões caem e barcos naufragam pelo mapa, sem aviso e sem marcação no mapa. No local há **carga ilegal** e às vezes **armas**: o Ikoma Games pegou escopetas e ficou com a van que estava ali. Num naufrágio perto de uma ilha ele juntou uns **US$ 2.500**. Cuidado: traficantes aparecem para pegar a carga, a polícia vem logo depois, e no naufrágio havia um tubarão. Veja [o avião caindo](../aviao-caindo-evento-aleatorio-gta-6/).
+Aviões caem e barcos naufragam pelo mapa, sem aviso e sem marcação no mapa. No local há **carga ilegal** e às vezes **armas**: o Ikoma Games pegou escopetas e ficou com a van que estava ali. Num naufrágio perto de uma ilha ele juntou uns **US$ 2.500**. O RageGamingVideos viu uma explosão no mar **a leste de Key Lento**, chegou lá e encontrou um tubarão atacando um homem. Depois de matar o tubarão com o arpão do kit de mergulho, pegou pacotes que apitavam na água: uns **US$ 2.000** em droga para vender. Cuidado: traficantes aparecem para pegar a carga, a polícia vem logo depois, e no naufrágio havia um tubarão. Veja [o avião caindo](../aviao-caindo-evento-aleatorio-gta-6/).
 
 ### Derby de demolição no Ambrosia Raceway
 
@@ -112,6 +115,8 @@ Segundo o PC Gamer, é o jeito mais fácil de ganhar corrida para quem dirige ma
 O melhor conselho do PC Gamer: preste atenção em **sirene, alarme, tiro e grito**. Quando vir um assalto a banco, a joalheria ou um carro-forte acontecendo, derrube os criminosos que estão fugindo e **pegue as bolsas** deles. Rende de US$ 1.000 a US$ 15.000. Depois saia rápido, porque a polícia que estava atrás deles passa a vir atrás de você. Com Jason e Lucia juntos, dá para carregar mais bolsas.
 
 ### Vender carro roubado
+
+Toda carga roubada (droga, joia, dinheiro marcado) vira dinheiro num receptador. Veja [onde vender itens roubados](../onde-vender-itens-roubados-gta-6/).
 
 No capítulo 2 você conhece o mecânico **Moses**, que compra carros mais velhos e discretos e costuma dizer onde estão os que ele quer. No capítulo 3 aparece o **Randy**, que paga mais por carros caros. Veja [como roubar carro no GTA 6](../como-roubar-carro-gta-6/).
 
@@ -146,6 +151,8 @@ Tudo o que você pegar de ilegal pelo mapa pode ser vendido no **depósito do Br
 ### Cofres de trailer e figurinhas raras
 
 Alguns trailers no meio do mato têm um **cofrinho**, e a senha costuma estar **escrita na parede**. Segundo o WiLLiSGaming, quase sempre tem algo bom dentro, como uma **figurinha de esporte** rara. Figurinhas valem dinheiro na loja de penhores: o LoDj1c vendeu uma por **US$ 6.000** na loja de penhores de **Hamlet**. Ele achou a figurinha num cofre de um prédio ao sul de Vice-Dale County, perto da casa do Jason, onde também havia dinheiro e carga para vender, somando uns US$ 10.000.
+
+O DPJ mostrou o mesmo tipo de galpão ao sul de Vice-Dale County, perto de Hamlet, já com os ocupantes mortos no chão: **sem tiroteio**. Lá dentro ele achou uma bolsa com **US$ 4.800**, droga na traseira de um caminhão, um **fuzil Duke 5.56** e o cofre com a figurinha (gire o analógico direito para abrir). Leve um carro: as bolsas enchem rápido e você guarda o resto no porta-malas. O dinheiro vem como **dinheiro marcado**, que precisa ir a um [receptador](../onde-vender-itens-roubados-gta-6/).
 
 ### Bases de gangue (King Fishers)
 

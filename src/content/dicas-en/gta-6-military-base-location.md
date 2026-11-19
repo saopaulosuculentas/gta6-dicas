@@ -11,9 +11,11 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/", titulo: "GTA 6 military base location: How to get into Mile Zero Air Station", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "2:38", data: "2026-11-18T22:01:31-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "8:50", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T11:54:00-03:00"
 historico:
+  - { data: "2026-11-19T11:54:00-03:00", nota: "Third source (RageGamingVideos): highway exit to the ramp, row of jets, tanks and APCs, and the permanent tracker on military vehicles." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: PC Gamer and T5G both show the way in over the ramp." }
 perguntas:
   - { p: "Where is the military base in GTA 6?", r: "It's Mile Zero Air Station, on Goose Key in Mariana County, in the southwest corner of the map. It's close to Jason's first house in Key Lento." }
@@ -47,6 +49,12 @@ T5G points out it's the same idea as the classic ramp into the military base in 
 | Botticher Buzzard | Attack helicopter |
 | Mammoth Patriot | Truck |
 | Botticher 015A | Plane |
+
+## Can you keep the jet or the tank?
+
+Not for good. RageGamingVideos points out that **military vehicles have permanent trackers**: you can take one out and have fun, but you can't keep it as your own. He also shows the quickest route: take the highway exit on the east side of the base, turn right right after it, and the ramp points you straight over the fence. Inside, the **jets sit in a row**, the **tanks** are further in, and there are **APCs** around the corner.
+
+Make an **extra save before you go in**. With GTA 6's criminal profile system, causing chaos on base can follow you, and the save lets you take it back.
 
 ## Expect a fight
 

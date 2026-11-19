@@ -11,9 +11,11 @@ fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=I4t3oYrytWQ", titulo: "GTA 6 - EXPLORANDO a casa do JASON", minuto: "2:40", data: "2026-11-18T11:40:38-03:00" }
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=TFAeNK8vEu4", titulo: "GTA 6: CONHECENDO A CASA DO JASON e TODOS os seus DETALHES!", minuto: "1:10", data: "2026-11-18T10:34:53-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", titulo: "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!", minuto: "5:33", data: "2026-11-18T16:56:29-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "4:49", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-18T17:09:00-03:00"
-atualizado_em: "2026-11-19T08:47:00-03:00"
+atualizado_em: "2026-11-19T11:52:00-03:00"
 historico:
+  - { data: "2026-11-19T11:52:00-03:00", nota: "RageGamingVideos: missão da vizinha Shirley (rum dá foco permanente), alimentar a cobra uma vez por dia dá foco, treinos têm tempo de espera." }
   - { data: "2026-11-19T08:47:00-03:00", nota: "Terceiro canal (BelotoPlays): esconderijo embaixo do piso para guardar dinheiro e itens, dormir para salvar, pesca no deck, caiaque, bicicleta, agachamento e levantamento terra, valores da caixa de correio." }
   - { data: "2026-11-18T17:09:00-03:00", nota: "Dica publicada, em verificação. Fonte: live do Gameplayrj." }
   - { data: "2026-11-18T17:21:00-03:00", nota: "Confirmada por um segundo canal (SanInPlay). Incluído o guarda-roupa." }
@@ -92,7 +94,7 @@ Dá para salvar trajes próprios e colocar até cinco no porta-malas do carro (n
 
 ## Outras coisas para fazer
 
-- **Alimentar a cobra de estimação**, que se chama Dolores. Ela come um ratinho.
+- **Alimentar a cobra de estimação**, que se chama Dolores. Ela come um ratinho. Segundo o RageGamingVideos, alimentar a cobra **uma vez por dia** aumenta o foco.
 - **Ligar a TV** e trocar de canal, **ouvir rádio** e **ligar o ventilador**.
 - **Espelho do banheiro:** mudar barba e cabelo. Na live, só o corte raspado estava liberado.
 - **Tomar banho.**
@@ -100,8 +102,18 @@ Dá para salvar trajes próprios e colocar até cinco no porta-malas do carro (n
 - **Caixa de correio:** o Gameplayrj achou dinheiro deixado por um personagem da história. No vídeo do BelotoPlays apareceram US$ 120 do Brian e US$ 20 do Don. Os pagamentos crescem com as missões do Brian, como mostramos em [como ganhar dinheiro](../como-ganhar-dinheiro-gta-6/).
 - **Ler o caderno e os livros** página por página.
 
+## A vizinha Shirley e o rum
+
+Na esquina da casa do Jason mora a vizinha **Shirley**. No começo da história, quando você passa de carro, ela grita com você. Se parar e falar com ela, a Shirley pede para você **buscar rum**:
+
+1. Pare e fale com a Shirley.
+2. Vá à loja de bebidas e compre o rum. Atrás da loja há uma atividade paralela, se quiser fazer também.
+3. Leve o rum de volta para ela.
+
+A recompensa é um **aumento permanente de foco**, segundo o RageGamingVideos. É a prova de que quase tudo no jogo dá algum prêmio: vale parar quando alguém chama você na rua.
+
 ## O que ainda falta conferir
 
-Os números de foco (+3% no livro, +2% por cesta) apareceram na live do Gameplayrj. Ainda não sabemos quanto tempo dura o foco extra, nem se há limite de livros por dia. Quando algum canal mostrar, a página é atualizada.
+Os números de foco (+3% no livro, +2% por cesta) apareceram na live do Gameplayrj. Ainda não sabemos quanto tempo dura o foco extra, nem se há limite de livros por dia. O RageGamingVideos conta que os treinos de força, cárdio e foco têm um **tempo de espera** entre uma vez e outra, e que cada personagem tem o seu. Quando algum canal mostrar, a página é atualizada.
 
 Veja também [personagens do GTA 6](../personagens-gta-6/) e [que horas o GTA 6 libera](../gta-6-horario-de-lancamento-brasil/).

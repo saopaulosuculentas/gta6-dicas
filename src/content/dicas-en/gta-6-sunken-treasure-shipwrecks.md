@@ -11,9 +11,11 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:47", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=pRLPb15hIyA", titulo: "EASY GTA 6 MONEY LOCATION! $3200 in 30 minutes (Early Game treasure hunt)", minuto: "3:50", data: "2026-11-18T18:49:35-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:44", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-19T11:56:00-03:00"
 historico:
+  - { data: "2026-11-19T11:56:00-03:00", nota: "Third source (RageGamingVideos): the first wreck paid about $1,400, Kenton hands you a scuba suit for your own boat, and a shark plus cargo random event east of Key Lento." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: WiLLiSGaming and JoblessGarrett both showed Kenton's shipwrecks and how much they pay." }
 perguntas:
   - { p: "How do you find sunken treasure in GTA 6?", r: "Do Kenton's diving side jobs. He texts you shipwreck locations; dive with the gear he gives you and use the metal detector." }
@@ -41,6 +43,7 @@ Diving shipwrecks is one of the most fun ways to make money early in GTA 6. The 
 
 - One round of JoblessGarrett's treasure sold for **$2,600**.
 - On the way he also found contraband floating at sea and sold it for **$1,600** at Brian's lockup.
+- RageGamingVideos cleared the first wreck marked on the map with just the metal detector and sold the haul for about **$1,400**, very quickly.
 - According to WiLLiSGaming, **the more dives you do, the more Kenton pays** and the more locations he sends. Whenever he calls, go.
 
 ## Watch out

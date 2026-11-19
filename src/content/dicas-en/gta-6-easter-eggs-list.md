@@ -59,7 +59,7 @@ See [the alien lab](../gta-6-alien-lab-code-2314/).
 
 - **GTA 4.** A book at Jason's house, "Lethal by Design", is the memoir of a Liberty City bodyguard who skipped the day Niko Bellic took out his crew. Unverified: ZacCoxTV.
 - **Vice City.** In the Keys, an iguana wanders around wearing Tommy Vercetti's shirt. Unverified: ZacCoxTV.
-- **San Andreas.** Lil' Probe Inn bumper stickers on cars and a UFO-obsessed house just like San Andreas', with a meteorite under the bed you can sell. Unverified: ZacCoxTV.
+- **San Andreas.** Lil' Probe Inn bumper stickers on cars and a [UFO-obsessed house just like San Andreas'](../gta-6-ufo-house-easter-egg/) in Bellville, with a meteorite under the bed you can sell. Unverified: ZacCoxTV.
 - **The Epsilon mystery.** A truck with the Epsilon eye and a QR code. For now the code just leads to Rockstar's website. Unverified: T5G.
 - **Race'n'Chase.** A post on the in-game social feed complains that "Race and Chase 7" got delayed again. Race'n'Chase was the original name of the first GTA, so the joke is about the wait for GTA 6 itself. Unverified: T5G.
 

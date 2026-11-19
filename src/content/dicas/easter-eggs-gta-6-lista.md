@@ -59,7 +59,7 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 - **GTA 4.** Um livro na casa do Jason, "Lethal by Design", é a memória de um guarda-costas de Liberty City que escapou do ataque do Niko Bellic. Em verificação: ZacCoxTV.
 - **Vice City.** Nos Keys, uma iguana anda por aí com a camisa do Tommy Vercetti. Em verificação: ZacCoxTV.
-- **San Andreas.** Adesivos "Lil' Probe Inn" pelos carros e uma casa de ufólogo igual à do San Andreas, com um meteorito embaixo da cama que dá para vender. Em verificação: ZacCoxTV.
+- **San Andreas.** Adesivos "Lil' Probe Inn" pelos carros e uma [casa de ufólogo igual à do San Andreas](../casa-do-ovni-san-andreas-gta-6/), em Bellville, com um meteorito embaixo da cama que dá para vender. Em verificação: ZacCoxTV.
 - **Mistério Epsilon.** Um caminhão com o olho do culto Epsilon e um QR code. Por enquanto o código leva só ao site da Rockstar. Em verificação: T5G.
 - **Race'n'Chase.** No celular, um post reclama que o jogo "Race and Chase 7" atrasou de novo. Race'n'Chase era o nome original do primeiro GTA, e a piada é com a espera pelo próprio GTA 6. Em verificação: T5G.
 

@@ -10,9 +10,11 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:47", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=pRLPb15hIyA", titulo: "EASY GTA 6 MONEY LOCATION! $3200 in 30 minutes (Early Game treasure hunt)", minuto: "3:50", data: "2026-11-18T18:49:35-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "6:44", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-19T11:56:00-03:00"
 historico:
+  - { data: "2026-11-19T11:56:00-03:00", nota: "Terceira fonte (RageGamingVideos): primeiro naufrágio rendeu cerca de US$ 1.400; o Kenton dá roupa de mergulho para usar no seu barco; tubarão e carga num evento aleatório a leste de Key Lento." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Publicada como confirmada: WiLLiSGaming e JoblessGarrett mostraram os naufrágios do Kenton e quanto rende." }
 perguntas:
   - { p: "Como achar tesouro no fundo do mar no GTA 6?", r: "Faça as missões de mergulho do Kenton. Ele manda os locais dos naufrágios pelo celular; mergulhe com o equipamento que ele dá e use o detector de metal." }
@@ -27,6 +29,7 @@ Mergulhar em naufrágios é um dos jeitos mais divertidos de fazer dinheiro no c
 1. Logo no começo da história, você conhece o Kenton numa missão. Ela ensina a mergulhar e a procurar tesouro num naufrágio.
 2. Mais tarde, o Kenton **liga de novo** oferecendo um trabalho extra: ele conhece mais naufrágios.
 3. Aceite. Ele manda os **locais pelo celular** e dá o equipamento de mergulho.
+4. A loja do Kenton fica marcada no mapa. Dá para usar o **barco dele**, no cais ao lado da loja, que já tem roupa de mergulho. Se você tiver barco próprio, o Kenton também **dá uma roupa de mergulho** para você usar nele, segundo o RageGamingVideos.
 
 ## Como mergulhar e achar os tesouros
 
@@ -40,11 +43,12 @@ Mergulhar em naufrágios é um dos jeitos mais divertidos de fazer dinheiro no c
 
 - Uma rodada de tesouros do JoblessGarrett foi vendida por **US$ 2.600**.
 - No caminho ele ainda achou carga ilegal boiando e vendeu por **US$ 1.600** no depósito do Brian.
+- O RageGamingVideos limpou o primeiro naufrágio marcado no mapa só com o detector de metal e vendeu tudo por cerca de **US$ 1.400**, bem rápido.
 - Segundo o WiLLiSGaming, **quanto mais mergulhos você faz, mais o Kenton paga** e mais locais ele manda. Sempre que ele ligar, vá.
 
 ## Cuidados
 
-- **Tubarão.** O JoblessGarrett foi atacado por um tubarão-tigre e quase morreu. Fique pouco tempo na água e saia se ele aparecer.
+- **Tubarão.** O JoblessGarrett foi atacado por um tubarão-tigre e quase morreu. Fique pouco tempo na água e saia se ele aparecer. O kit de mergulho vem com um **arpão**: o RageGamingVideos matou um tubarão com ele.
 - **Fiscal.** Num dos naufrágios, um barco passou avisando que procurar tesouro sem permissão é ilegal e que os objetos precisam ser entregues ao órgão de arqueologia. O JoblessGarrett ignorou e vendeu tudo normalmente.
 - **Guarde o dinheiro.** Se você morrer ou for preso com o dinheiro na carteira, perde tudo. Veja [perder dinheiro ao morrer](../dinheiro-ao-morrer-guardar-em-casa-gta-6/).
 

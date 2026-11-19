@@ -10,9 +10,11 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/", titulo: "GTA 6 military base location: How to get into Mile Zero Air Station", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "2:38", data: "2026-11-18T22:01:31-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "8:50", data: "2026-11-18T21:00:37-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T08:51:00-03:00"
+atualizado_em: "2026-11-19T11:54:00-03:00"
 historico:
+  - { data: "2026-11-19T11:54:00-03:00", nota: "Terceira fonte (RageGamingVideos): saída da rodovia até a rampa, fileira de jatos, tanques e blindados, e o rastreador permanente dos veículos militares." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada como confirmada: o PC Gamer e o T5G mostram a entrada pela rampa." }
 perguntas:
   - { p: "Onde fica a base militar do GTA 6?", r: "É a Mile Zero Air Station, em Goose Key, no condado de Mariana, no canto sudoeste do mapa. Fica perto da primeira casa do Jason, em Key Lento." }
@@ -46,6 +48,12 @@ O T5G lembra que é a mesma ideia da rampa clássica do GTA 5 para entrar na bas
 | Botticher Buzzard | Helicóptero de ataque |
 | Mammoth Patriot | Caminhão |
 | Botticher 015A | Avião |
+
+## Dá para ficar com o jato ou o tanque?
+
+Não para sempre. O RageGamingVideos avisa que **veículos militares têm rastreador permanente**: dá para pegar e se divertir, mas não dá para guardar como seu. Ele também mostra o caminho mais curto: saia da rodovia no lado leste da base, vire à direita logo depois da saída e a rampa já aponta por cima da cerca. Lá dentro os **jatos ficam enfileirados**, os **tanques** ficam mais adiante e há **blindados** virando a esquina.
+
+Faça um **save extra antes de entrar**. Com o sistema de ficha criminal do GTA 6, a bagunça na base pode pesar depois, e o save deixa você voltar atrás.
 
 ## Prepare-se para a polícia
 
