@@ -8,11 +8,12 @@ plataformas: [ps5]
 fontes:
   - { tipo: site, canal: "Fascinamos (Instagram)", url: "https://www.instagram.com/p/Df4y892Eeg7/", titulo: "Esses são os códigos de trapaça do GTA 6", data: "2026-11-18T13:00:00-03:00" }
 descoberto_em: "2026-11-19T01:01:00-03:00"
-atualizado_em: "2026-11-19T01:01:00-03:00"
+atualizado_em: "2026-11-19T08:14:00-03:00"
 historico:
+  - { data: "2026-11-19T08:14:00-03:00", nota: "Os códigos de verdade do GTA 6 foram publicados pelo GamesRadar+ e pelo PC Gamer, e nenhum bate com a lista das redes." }
   - { data: "2026-11-19T01:01:00-03:00", nota: "Página criada com a lista que circula nas redes. Nenhum código foi visto funcionando ainda." }
 perguntas:
-  - { p: "A lista de códigos do GTA 6 do Instagram é verdadeira?", r: "Não dá para confiar. Ninguém mostrou esses códigos funcionando no GTA 6, a própria página que publicou a lista avisa que eles não foram confirmados, e várias sequências são códigos do GTA 5 e do GTA San Andreas com botões trocados." }
+  - { p: "A lista de códigos do GTA 6 do Instagram é verdadeira?", r: "Não. Os códigos de verdade do GTA 6 já saíram e são outros: usam só o direcional. Ninguém mostrou esses códigos funcionando no GTA 6, a própria página que publicou a lista avisa que eles não foram confirmados, e várias sequências são códigos do GTA 5 e do GTA San Andreas com botões trocados." }
   - { p: "Tem código de jetpack no GTA 6?", r: "Não há nenhum confirmado. O código de jetpack que aparece nas listas é parecido com o do GTA San Andreas (esquerda, direita, L1, L2, R1, R2, cima, baixo, esquerda, direita)." }
   - { p: "Tem código de tanque no GTA 6?", r: "Nenhum confirmado até agora. A sequência que circula não foi vista funcionando em nenhum vídeo." }
   - { p: "Os códigos do GTA 5 funcionam no GTA 6?", r: "Não há nenhuma prova disso. Os códigos de cada GTA são diferentes, e os poucos códigos do GTA 6 divulgados até agora usam outro jeito de digitar, pelo celular do personagem." }
@@ -74,8 +75,10 @@ Para quem chegou aqui procurando a lista, ela está abaixo. **Nenhum foi testado
 | 27 | Super pulo | esquerda, esquerda, triângulo, triângulo, esquerda, círculo, R1, R2 | Não confirmado |
 | 28 | Nitro | esquerda, esquerda, L1, R1, círculo, L1, direita, direita, L1 | Não confirmado |
 
-## E os códigos que já apareceram para o GTA 6?
+## E os códigos de verdade do GTA 6?
 
-Os poucos códigos do GTA 6 divulgados até agora são bem diferentes desta lista: são digitados no **celular do personagem**, segurando L1 e R1, e só liberam em certas partes da história. Estão todos na nossa [lista de códigos do GTA 6](../../codigos/), cada um com o selo da situação, e o passo a passo está em [como usar os códigos do GTA 6](../codigos-gta-6-como-usar/).
+Já saíram, e são bem diferentes desta lista. O GTA 6 tem 61 códigos, digitados no **celular do personagem** segurando L1 e R1, usando **só o direcional**. E nenhum funciona antes de zerar a história. O GamesRadar+ e o PC Gamer jogaram até liberar e publicaram as sequências.
 
-Assim que alguém mostrar em vídeo um código desta lista funcionando de verdade no GTA 6, ele ganha página própria e esta tabela é atualizada.
+Compare: o código de dinheiro de verdade é cima, direita, baixo, esquerda, cima, esquerda, baixo, direita, e ele dá US$ 250 mil. Na lista das redes, o "dinheiro" usa R1, R2, L1, R2 e triângulo, sequência que não existe no GTA 6.
+
+Veja [todos os códigos do GTA 6, com a sequência e o desafio de cada um](../todos-os-codigos-gta-6-lista-completa/), e [como usar os códigos](../codigos-gta-6-como-usar/).
