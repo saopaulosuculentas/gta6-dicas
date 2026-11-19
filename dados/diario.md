@@ -10,3 +10,4 @@ Uma linha por rodada: quando rodou e o que mudou no site.
 - **18/11/2026 17:29** · 18 dicas no ar · 13 vídeos lidos · pagina de dinheiro (Gameplayrj + TechTudo); contato publico; SEO de titulos
 - **18/11/2026 18:19** · 21 dicas no ar · 18 vídeos lidos · 3 paginas novas: policia, controles, aviao caindo; 5 videos lidos (Gameplayrj, SanInPlay, Gigaton)
 - **19/11/2026 08:24** · 36 dicas no ar · 28 vídeos lidos · codigos confirmados (6) + 8 codigos novos + lista dos 61; 5 paginas novas: easter eggs, cachorro do jet ski, ovo da torre, laboratorio 2314, missao do Skunk Ape; 10 videos lidos + GamesRadar, PC Gamer, Kotaku
+- **19/11/2026 08:31** · 37 dicas no ar · 29 vídeos lidos · video indicado pelo Luan (Ikoma Games): pagina de dinheiro confirmada e ampliada, aviao caindo confirmado, pagina nova sobre perder dinheiro ao morrer; agente agora busca dicas praticas

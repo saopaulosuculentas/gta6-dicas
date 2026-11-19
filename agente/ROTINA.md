@@ -57,6 +57,8 @@ Para cada dica que aparecer num vídeo, pergunte:
 - É do GTA 6, do modo história, e a pessoa mostrou acontecendo (não é "dizem que")?
 - Dá para dizer exatamente como repetir (botões, local, passos)?
 
+**Dicas práticas também valem** (pedido do Luan em 19/11/2026): como ganhar dinheiro no começo, o que fazer primeiro, como não perder dinheiro, erros comuns, quanto paga cada atividade. Se o canal mostrou acontecendo na tela (valor que aparece, menu, resultado), a dica entra, com o valor conferido no quadro. Agrupe na página do assunto (ex.: `como-ganhar-dinheiro-gta-6`) e crie página própria quando a dica responder sozinha a uma busca (ex.: "perde dinheiro ao morrer").
+
 Se o detalhe está na tela e não na fala (sequência de botões, ponto no mapa), tire quadros:
 ```
 python agente/quadros.py ID_DO_VIDEO 4:12
