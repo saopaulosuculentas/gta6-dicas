@@ -17,9 +17,11 @@ fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:54", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
+  - { tipo: youtube, canal: "Ashy", url: "https://www.youtube.com/watch?v=Z7u4Th3Qajc", titulo: "GTA 6 New UNLIMITED MONEY FARM! (Do This Now!)", minuto: "0:17", data: "2026-11-18T20:14:44-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-19T16:36:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Added Ashy's repeat sales to Moses near Watkins Auto Parts: a tracker-free car on the corner, the slim jim out of sight of the gang members, $670 and about $700 paid straight into the bank account, the delivery cap, and selling as Lucia. Ashy's payouts now sit next to PC Gamer's range." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Published as confirmed: where to sell and payouts from PC Gamer; registration locked until Chapter 2 per MrDalekJD; Pay 'n' Spray and the monster truck from GamingBolt; registration cost and new plates from DPJ; impound from Kotaku and BennyCentral; Moses' garage from GameSpot." }
 perguntas:
   - { p: "How do you sell cars in GTA 6?", r: "Take a stolen car to a Pay 'n' Spray, which takes up to 3 a day, or sell it to Moses (Chapter 2) or Randy (Chapter 3). The Waink It app tells you which of the two wants it." }
@@ -51,9 +53,27 @@ You get the **Waink It** app in Chapter 1, during Unwanted Attention, when Cal i
 
 How to get into each kind of car, and when the slim jim and key cloner unlock, is in [how to steal cars](../gta-6-how-to-steal-cars/).
 
+## Selling to Moses again and again
+
+Ashy shows a simple loop for selling several cars to Moses without leaving his block. It's just the normal sale, repeated:
+
+1. **Unlock Moses.** He shows up in Chapter 2, in the mission Moses. Ashy needed roughly 10 hours of play to get there.
+2. **Head to his shop.** The sign on screen reads **Watkins Auto Parts**, owned by Moses "Mo" Watkins.
+3. **Check the corner by the shop.** Ashy says there's almost always a car parked there.
+4. **Scan it with Waink It.** Look at what it's worth and whether it has a tracker. Only a **car with no tracker** will do.
+5. **Pop the driver's door with the slim jim.** Gang members hang around that spot, so get in without them seeing you. More on the tool in our [slim jim and snap gun guide](../gta-6-slim-jim-snap-gun/).
+6. **Deliver it to Moses.** He pays by **transfer straight into your bank account**, not in cash.
+7. Walk back to the corner and go again.
+
+**There's a cap.** After a few deliveries Moses stops taking cars. Play another mission and he opens up again.
+
+Ashy plays as **Lucia** here, so this isn't a Jason-only thing.
+
 ## How much you make
 
 PC Gamer's money guide puts stolen cars at anywhere from $1,000 to $20,000 each, depending on the model and the buyer. In Chapter 2, a decent car for Moses usually brings in **one to a few thousand dollars**. PC Gamer calls it the best quick profit at that stage for little risk: it beats most smash-and-grabs you'll be doing then, and Moses pays better than the Chapter 2 goods fence. The rest of the fences are listed in our [fence locations guide](../gta-6-fence-locations/).
+
+Ashy got less than that: **$670** for one car and **about $700** for another, both everyday cars from the corner by the shop. The price depends on the car, and Waink It tells you what it's worth before you drive it over.
 
 ## Keeping a car: registration
 

@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "5:15", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "10:58", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "10:59", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=h3mdnYnFEjY", titulo: "GTA 6 - How to FISH! (Complete Fishing Guide & Tips)", minuto: "1:16", data: "2026-11-19T00:21:48-03:00" }
 descoberto_em: "2026-11-19T16:49:00-03:00"
-atualizado_em: "2026-11-19T16:49:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Entraram, pelo DPJ, os 3 modos de recolher a linha (Configurações > Jogabilidade > Pesca), o motivo de os canais ensinarem botões diferentes para atrair o peixe, a vibração na fisgada, como ler as bolhas na briga e a escolha de guardar ou devolver o peixe." }
   - { data: "2026-11-19T16:49:00-03:00", nota: "Publicada confirmada: técnica de pesca pelo KhrazeGaming, Arekkz e Thalera; foco pelo BennyCentral; caça e venda para o Bret pelo PC Gamer; pontos no índice, troféus e código Fisheye pelo GamesRadar+ e pelo PC Gamer." }
 perguntas:
   - { p: "Como pescar no GTA 6?", r: "Pegue a vara no píer atrás da casa do Jason, use o foco (L3 + R3) para ver os peixes, segure R2 para lançar, atraia o peixe e aperte R2 para fisgar. Deixe ele cansar antes de recolher." }
@@ -43,13 +45,34 @@ Os nomes de comandos, troféus e códigos estão em inglês, como saíram nos gu
 1. Pegue a vara e vá até a beira da água.
 2. Aperte **L3 + R3** (o foco) para ver as **manchas dos peixes** na água. Onde tem mancha, tem peixe.
 3. Escolha um ponto com a visão livre. O Thalera evita ficar perto do barco.
-4. **Segure R2** para lançar. Quanto mais tempo segura, mais longe vai a isca.
-5. Para atrair o peixe, **segure L2** e mexa **de leve o analógico direito**, puxando a linha devagar.
-6. Sentiu o peixe beliscar? Aperte **R2 na hora** para fisgar.
+4. **Segure R2** para lançar. Quanto mais tempo segura, mais longe vai a isca. O DPJ segura **L2** primeiro e só depois segura R2 (LT e RT no Xbox).
+5. Para atrair o peixe, **segure L2** e mexa **de leve o analógico direito**, puxando a linha devagar. O DPJ faz diferente: aperta **quadrado** (X no Xbox). Isso depende do modo de recolher a linha, explicado logo abaixo.
+6. Sentiu o peixe beliscar? Aperte **R2 na hora** para fisgar. Segundo o DPJ, o sinal é o **controle vibrar**.
 7. **Não recolha a linha ainda.** Deixe o peixe se debater até cansar. Se ele puxar para um lado, puxe a vara para o lado contrário.
 8. Quando ele acalmar, recolha o mais rápido que puder. Se ele voltar a brigar, repita o passo 7.
+9. Perto do barco, o personagem tira o peixe da água e você escolhe entre **guardar** ou **devolver ao mar**, segundo o DPJ.
 
-Os passos 2 a 5 vêm do Arekkz e do Thalera; do 5 ao 8, do KhrazeGaming. Na tela aparecem os comandos Hook Fish (R2), Lure Fish, Reset Cast e Grip (L2).
+Os passos 2 a 5 vêm do Arekkz e do Thalera; do 5 ao 8, do KhrazeGaming; os detalhes do DPJ estão marcados com o nome dele. Na tela aparecem os comandos Hook Fish (R2), Lure Fish, Reset Cast e Grip (L2). No vídeo do DPJ, o mesmo Grip aparece como LT, o gatilho esquerdo do Xbox.
+
+## Modo de recolher a linha: muda o botão
+
+O jogo deixa você escolher como recolher a linha. Segundo o DPJ, a opção fica em **Pausa > Configurações > Jogabilidade > Pesca**, no fim da lista. São 3 modos:
+
+1. **Girar** o analógico direito.
+2. **Botão:** segurar ou apertar várias vezes **quadrado** (X no Xbox).
+3. **Puxar** o analógico direito.
+
+O DPJ recomenda o modo 2. Ele não diz qual deles vem marcado de fábrica.
+
+É por isso que os canais ensinam botões diferentes para atrair o peixe. Os passos acima, do Arekkz e do Thalera, usam o analógico direito, que bate com um dos modos de analógico. O DPJ usa o modo de botão e por isso aperta quadrado. Se o analógico não fizer nada no seu jogo, confira essa opção.
+
+## Como ler a briga com o peixe
+
+O DPJ mostra o que olhar depois de fisgar:
+
+- **Tem bolhas na água e a linha está puxando:** o peixe está brigando. Incline o **analógico esquerdo** para o lado oposto ao que ele puxa. Se ele puxa para longe de você, puxe o analógico para baixo.
+- **As bolhas sumiram:** é a hora de recolher, com o botão do seu modo. Pare quando as bolhas voltarem e volte a segurar o peixe com o analógico esquerdo.
+- Repita até o peixe chegar perto do barco. Aí vem a escolha do passo 9: guardar ou devolver.
 
 ## O que a pesca dá
 

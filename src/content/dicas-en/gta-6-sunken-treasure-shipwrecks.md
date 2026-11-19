@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "NoobBlox", url: "https://www.youtube.com/watch?v=PyTGgOUpOK8", titulo: "ALL 7 TREASURE LOCATIONS In Nuestra Senora De La Noche! GTA 6 Guide", minuto: "0:48", data: "2026-11-18T21:39:04-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "6:41", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:05", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "Garrett Lindsay", url: "https://www.youtube.com/watch?v=NSW62zhBv6Y", titulo: "How to Get Scuba Gear in GTA 6 (Location & Diving Guide)", minuto: "0:46", data: "2026-11-19T07:36:29-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Added Garrett Lindsay's underwater controls and HUD: DIVE R1 to go down, SURFACE X to come up, the oxygen bar in the top-left corner and the flashlight on the scuba gear. The pier where he found the gear is left out because the location wasn't readable." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Added the mission Island Dreams and its $400 payout (KultZ, GameSpot), the Arras Bullhead speargun, how to follow the detector, GameSpot's list of 6 wrecks, NoobBlox's 7 treasures at Nuestra Señora de la Noche, KhrazeGaming's per-treasure and per-coin prices and the autopilot button." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Third source (RageGamingVideos): the first wreck paid about $1,400, Kenton hands you a scuba suit for your own boat, and a shark plus cargo random event east of Key Lento." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: WiLLiSGaming and JoblessGarrett both showed Kenton's shipwrecks and how much they pay." }
@@ -39,6 +41,20 @@ Diving shipwrecks is one of the most fun ways to make money early in GTA 6. The 
 3. In the same mission you get **scuba gear** and two tools: the **Arras Bullhead** speargun and the **metal detector**, according to GameSpot.
 4. Later, Kenton **calls you again** with more wrecks. He texts you the locations; you collect everything, bring it back and get paid. After a while he offers a fresh batch. KhrazeGaming notes these spots show up on the map with a **purple icon** and count toward an achievement.
 5. Kenton's shop is marked on the map, and you can take **his boat** from the dock next to it. If you own another boat, GameSpot says Kenton has the scuba gear, speargun and detector delivered **to that boat**. RageGamingVideos also got a scuba suit to use on his own boat.
+
+## Underwater controls and HUD
+
+Garrett Lindsay's video shows what diving looks like on PS5:
+
+- **Going down:** the prompt reads **DIVE R1**, so R1 takes you deeper.
+- **Coming up:** the prompt reads **SURFACE X**, so X brings you back to the surface.
+- **Oxygen:** your air bar sits in the **top-left corner**. Glance at it before you swim into a wreck.
+- **Flashlight:** the scuba gear comes with one.
+- **Wildlife:** seals swim past in his footage, and he warns that sharks are around too.
+
+He only shows the PS5 version. On Xbox the buttons should sit in the same spots on the pad (RB and A).
+
+Garrett found the gear highlighted in white on a pier while exploring the map, and picked it up with **Triangle**. The name of the spot isn't clear in the video. His own video description ties the gear to Kenton's diving activities and the mission Island Dreams, so it's most likely the same kit Kenton gives you.
 
 ## How to use the metal detector
 
@@ -80,7 +96,7 @@ GameSpot says the list may grow. KhrazeGaming also found plenty of dive spots sc
 
 ## Watch out
 
-- **Sharks.** JoblessGarrett got attacked by a tiger shark and nearly died, and BennyCentral warns about them too. Don't stay in the water longer than you need to. GameSpot says the **Arras Bullhead** doesn't hold much ammo, but it's your only defense down there. RageGamingVideos killed a shark with it.
+- **Sharks.** JoblessGarrett got attacked by a tiger shark and nearly died, and BennyCentral and Garrett Lindsay warn about them too. Don't stay in the water longer than you need to. GameSpot says the **Arras Bullhead** doesn't hold much ammo, but it's your only defense down there. RageGamingVideos killed a shark with it.
 - **The warden.** At one wreck, a boat pulled up to warn that searching shipwrecks without a recovery permit is illegal and that finds must be reported. JoblessGarrett ignored it and sold everything anyway.
 - **Stash your cash.** If you die or get busted with the money on you, you lose it. See [do you lose money when you die](../gta-6-lose-money-when-you-die/).
 

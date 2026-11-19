@@ -12,7 +12,7 @@ fontes:
   - { tipo: youtube, canal: "PowerPyx", url: "https://www.youtube.com/watch?v=hW5O_aLj-lY", titulo: "GTA 6 - Retail Therapy Trophy Guide / Achievement Guide", minuto: "0:03", data: "2026-11-18T22:38:07-03:00" }
   - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:58", data: "2026-11-18T15:36:34-03:00" }
   - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "5:09", data: "2026-11-19T04:20:15-03:00" }
-  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/", titulo: "GTA 6 achievement list: Every challenge and collectible milestone", data: "2026-11-18T08:30:04-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/", titulo: "Complete GTA 6 Trophy and Achievement list", data: "2026-11-18T10:45:15-03:00" }
 descoberto_em: "2026-11-19T18:13:00-03:00"
 atualizado_em: "2026-11-19T18:13:00-03:00"
 historico:
@@ -24,7 +24,7 @@ perguntas:
   - { p: "Quais lojas o PowerPyx usou para o troféu?", r: "Três joalherias vizinhas: Covgari, Blanc & Giroux e Roval Jewelry. No caminho entre elas, o jogo mostra o nome do bairro Decor District." }
 ---
 
-Para pegar o troféu **Retail Therapy** no GTA 6, roube **3 lojas seguidas** com o **Jason e a Lucia juntos**, sem perder o nível de procurado entre um roubo e outro. É um troféu de bronze que vale 20 G no Xbox, segundo a [lista de troféus](../trofeus-conquistas-gta-6/) do PC Gamer.
+Para pegar o troféu **Retail Therapy** no GTA 6, roube **3 lojas seguidas** com o **Jason e a Lucia juntos**, sem perder o nível de procurado entre um roubo e outro. É um troféu de bronze que vale 20 G no Xbox, segundo a [lista de troféus](../trofeus-conquistas-gta-6/) da GamesRadar+.
 
 Os nomes do troféu, das lojas e dos comandos estão em inglês, como apareceram nos vídeos. No jogo em português eles podem aparecer traduzidos.
 
@@ -40,7 +40,7 @@ Só a partir do **capítulo 2**. O vídeo do PowerPyx traz escrito na tela que �
 
 ## A rota do PowerPyx: 3 joalherias vizinhas
 
-O vídeo do PowerPyx não tem narração, só o som do jogo. O que dá para tirar dele é o que aparece escrito na tela. Ele escolheu **três joalherias perto uma da outra**, e o mapa mostra a mesma ficha para as três:
+O vídeo do PowerPyx não tem narração, só o som do jogo. O que dá para tirar dele é o que aparece escrito na tela. Ele escolheu **três joalherias perto uma da outra**, e o mapa mostra quase a mesma ficha para as três:
 
 | Ordem | Loja | O que o mapa diz |
 |---|---|---|

@@ -16,9 +16,11 @@ fontes:
   - { tipo: youtube, canal: "NoobBlox", url: "https://www.youtube.com/watch?v=PyTGgOUpOK8", titulo: "ALL 7 TREASURE LOCATIONS In Nuestra Senora De La Noche! GTA 6 Guide", minuto: "0:48", data: "2026-11-18T21:39:04-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "6:41", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:05", data: "2026-11-19T00:06:06-03:00" }
+  - { tipo: youtube, canal: "Garrett Lindsay", url: "https://www.youtube.com/watch?v=NSW62zhBv6Y", titulo: "How to Get Scuba Gear in GTA 6 (Location & Diving Guide)", minuto: "0:46", data: "2026-11-19T07:36:29-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Entraram os comandos e a tela do mergulho pelo Garrett Lindsay: DIVE R1 para descer, SURFACE X para subir, barra de oxigênio no canto superior esquerdo e lanterna no equipamento. O local do píer onde ele achou o equipamento ficou de fora porque não deu para ler." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram a missão Island Dreams e o pagamento de US$ 400 (KultZ, GameSpot), o arpão Arras Bullhead, como seguir o detector, a lista de 6 naufrágios do GameSpot, os 7 tesouros do Nuestra Señora de la Noche (NoobBlox), os valores por tesouro e moeda do KhrazeGaming e o botão do piloto automático." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Terceira fonte (RageGamingVideos): primeiro naufrágio rendeu cerca de US$ 1.400; o Kenton dá roupa de mergulho para usar no seu barco; tubarão e carga num evento aleatório a leste de Key Lento." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Publicada como confirmada: WiLLiSGaming e JoblessGarrett mostraram os naufrágios do Kenton e quanto rende." }
@@ -38,6 +40,20 @@ Mergulhar em naufrágios é um dos jeitos mais divertidos de fazer dinheiro no c
 3. Na mesma missão você ganha a **roupa de mergulho** e duas ferramentas: o arpão **Arras Bullhead** e o **detector de metal**, segundo o GameSpot.
 4. Depois, o Kenton **liga de novo** com mais naufrágios. Ele manda os locais pelo celular; você junta tudo, entrega para ele e recebe. Com o tempo, ele oferece uma nova leva de locais. O KhrazeGaming conta que esses pontos aparecem no mapa com um **ícone roxo** e somam para um troféu.
 5. A loja do Kenton fica marcada no mapa. Dá para usar o **barco dele**, no cais ao lado da loja. Se você tiver outro barco, o Kenton manda entregar a roupa, o arpão e o detector **nesse barco**, segundo o GameSpot. O RageGamingVideos também ganhou a roupa de mergulho para usar no barco próprio.
+
+## Comandos e tela embaixo d'água
+
+O Garrett Lindsay mostra como é o mergulho no PS5:
+
+- **Descer:** a tela mostra **DIVE R1**, ou seja, R1 leva você para o fundo.
+- **Subir:** a tela mostra **SURFACE X**, ou seja, X volta para a superfície.
+- **Oxigênio:** a barra fica no **canto superior esquerdo**. Olhe para ela antes de entrar no navio.
+- **Lanterna:** o equipamento de mergulho tem lanterna.
+- **Bichos:** no vídeo aparecem focas, e ele avisa que também tem tubarão.
+
+O vídeo só mostra o PS5. No Xbox, os botões devem ficar na mesma posição do controle (RB e A).
+
+O Garrett achou o equipamento destacado em branco num píer, andando pelo mapa, e pegou com **triângulo**. O nome do lugar não ficou claro no vídeo. A descrição do próprio vídeo liga esse equipamento às atividades de mergulho do Kenton, incluindo a missão Island Dreams, então deve ser o mesmo que o Kenton dá.
 
 ## Como usar o detector de metal
 
@@ -79,7 +95,7 @@ O próprio GameSpot diz que a lista ainda pode crescer. O KhrazeGaming também v
 
 ## Cuidados
 
-- **Tubarão.** O JoblessGarrett foi atacado por um tubarão-tigre e quase morreu, e o BennyCentral também avisa dos tubarões. Fique pouco tempo na água e saia se ele aparecer. O arpão **Arras Bullhead** tem pouca munição, mas é a sua única defesa no fundo do mar, segundo o GameSpot. O RageGamingVideos matou um tubarão com ele.
+- **Tubarão.** O JoblessGarrett foi atacado por um tubarão-tigre e quase morreu, e o BennyCentral e o Garrett Lindsay também avisam dos tubarões. Fique pouco tempo na água e saia se ele aparecer. O arpão **Arras Bullhead** tem pouca munição, mas é a sua única defesa no fundo do mar, segundo o GameSpot. O RageGamingVideos matou um tubarão com ele.
 - **Fiscal.** Num dos naufrágios, um barco passou avisando que procurar tesouro sem permissão é ilegal e que os objetos precisam ser entregues ao órgão de arqueologia. O JoblessGarrett ignorou e vendeu tudo normalmente.
 - **Guarde o dinheiro.** Se você morrer ou for preso com o dinheiro na carteira, perde tudo. Veja [perder dinheiro ao morrer](../dinheiro-ao-morrer-guardar-em-casa-gta-6/).
 

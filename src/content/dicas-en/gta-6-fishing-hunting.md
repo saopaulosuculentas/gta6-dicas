@@ -18,9 +18,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "5:15", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "10:59", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "4:46", data: "2026-11-19T08:00:31-03:00" }
+  - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=h3mdnYnFEjY", titulo: "GTA 6 - How to FISH! (Complete Fishing Guide & Tips)", minuto: "1:16", data: "2026-11-19T00:21:48-03:00" }
 descoberto_em: "2026-11-19T16:49:00-03:00"
-atualizado_em: "2026-11-19T16:49:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Added from DPJ: the 3 reel modes (Settings > Gameplay > Fishing), why channels use different buttons to lure fish, the rumble when a fish bites, reading the bubbles during the fight, and the keep or release choice." }
   - { data: "2026-11-19T16:49:00-03:00", nota: "Published as confirmed: fishing technique from KhrazeGaming and Arekkz; focus gains from BennyCentral and GamingBolt; hunting and selling to Bret from PC Gamer; index tabs, trophies and the Fisheye cheat from GamesRadar+ and PC Gamer." }
 perguntas:
   - { p: "How do you fish in GTA 6?", r: "Grab a rod from the dock behind Jason's house, use focus (L3 + R3) to spot fish, cast, slowly reel to lure one in and press R2 to hook it. Let it tire out before you reel it in." }
@@ -41,13 +43,34 @@ You can **fish and hunt** in GTA 6. Fishing starts with the **rods on the dock b
 
 1. Grab a rod and walk to the edge of the water.
 2. Press **L3 + R3** (focus) to highlight the fish, so you know where to cast. Arekkz uses this every time.
-3. Cast your line toward the fish.
-4. **Reel in slowly** to lure a fish toward the bait.
-5. The moment you feel a nibble, press **R2** to hook it.
+3. Cast your line toward the fish. DPJ holds **L2** first, then holds **R2** to cast (LT and RT on Xbox). The longer you hold R2, the farther the bait flies.
+4. **Reel in slowly** to lure a fish toward the bait. The button for this depends on your reel mode, covered below.
+5. The moment you feel a nibble, press **R2** to hook it. DPJ says the cue is the **controller rumbling**.
 6. **Don't reel yet.** Let the fish thrash until it wears itself out. If it pulls one way, pull your rod the opposite way.
 7. Once it calms down, reel in as fast as you can. If it starts fighting again, repeat step 6.
+8. Near the boat, your character lifts the fish out of the water and you choose whether to **keep it** or **throw it back**, per DPJ.
 
-Steps 4 to 7 are KhrazeGaming's method, which he compares to the fishing in Monster Hunter. His footage shows the on-screen prompts: Hook Fish (R2), Lure Fish, Reset Cast and Grip (L2).
+Steps 4 to 7 are KhrazeGaming's method, which he compares to the fishing in Monster Hunter. His footage shows the on-screen prompts: Hook Fish (R2), Lure Fish, Reset Cast and Grip (L2). In DPJ's video the same Grip prompt shows up on LT, the Xbox left trigger.
+
+## Pick your reel mode
+
+There's a setting just for how you reel in. DPJ found it under **Pause > Settings > Gameplay > Fishing**, at the bottom of the list. You get 3 options:
+
+1. **Rotate** the right stick.
+2. **Button:** hold or tap **Square** (X on Xbox).
+3. **Pull** the right stick.
+
+DPJ recommends option 2. He doesn't say which one is selected by default.
+
+That's why guides disagree on how to lure a fish. Some creators hold L2 and gently move the right stick, which matches one of the stick modes, while DPJ is on the button mode and taps Square instead. If the stick does nothing in your game, check this setting.
+
+## Reading the fight
+
+DPJ breaks down what to watch once a fish is on the line:
+
+- **Bubbles on the water and the line pulling:** the fish is fighting. Tilt the **left stick** away from the direction it's pulling. If it's swimming away from you, pull the stick down.
+- **Bubbles gone:** that's your window to reel in, using whatever input your reel mode uses. Stop when the bubbles come back and go back to steering with the left stick.
+- Keep going until the fish is next to the boat. Then you get the keep or release choice from step 8.
 
 ## What fishing gets you
 

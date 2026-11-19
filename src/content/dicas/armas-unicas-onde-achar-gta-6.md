@@ -19,8 +19,9 @@ fontes:
   - { tipo: youtube, canal: "OutlawGarry", url: "https://www.youtube.com/watch?v=--Z00PnQy3g", titulo: "FREE LEGENDARY SNIPER RIFLE in GTA 6! Secret Weapon!", minuto: "1:51", data: "2026-11-19T13:18:05-03:00" }
   - { tipo: youtube, canal: "YOUNG DIRK", url: "https://www.youtube.com/watch?v=HYgYjWxjkws", titulo: "How To Make $10,000 in 3 Minutes in GTA 6! + Legendary Weapon Location!", minuto: "2:53", data: "2026-11-18T23:13:38-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-19T17:03:00-03:00"
+atualizado_em: "2026-11-19T18:18:00-03:00"
 historico:
+  - { data: "2026-11-19T18:18:00-03:00", nota: "Corrigido o local do ferro-velho (mapa do vídeo: oeste de Vice City, SR-120) e o nome da arma: Conspiracist Type 9." }
   - { data: "2026-11-19T17:03:00-03:00", nota: "Virou confirmada: WiLLiSGaming e YOUNG DIRK também mostram que a arma única fica com você. Entraram o Black Eagle M306, as armas da cabana do pântano, a Cockroach Extreme, a submetralhadora do ferro-velho, o Manatee Motel (OutlawGarry) e o ícone amarelo no mapa." }
   - { data: "2026-11-19T16:18:00-03:00", nota: "Publicada em verificação: cada local foi mostrado por um canal (KhrazeGaming, DPJ, BennyCentral, Arekkz Gaming e Milo)." }
 perguntas:
@@ -91,9 +92,9 @@ Segundo o WiLLiSGaming, as duas ficam em Vice City, na área de Vice-Dale (ele d
 
 A carabina é única. O lança-granadas não é: se você morrer com ele, perde.
 
-## Submetralhadora do ferro-velho (Mariana County)
+## Submetralhadora Conspiracist Type 9 (ferro-velho)
 
-O WiLLiSGaming achou uma pistola-metralhadora única num **ferro-velho em Mariana County**. O nome saiu confuso no áudio, por isso não o escrevemos aqui. Ele recomenda ir no **capítulo 2**, quando a história já leva você para aquela região.
+O WiLLiSGaming achou a **Conspiracist Type 9**, uma submetralhadora única, num **ferro-velho a oeste de Vice City**, na SR-120, perto da Omega Pkwy, com o Buckskin Swamp a oeste. Na fala ele diz "Mariana County", mas o mapa mostrado no vídeo põe o ferro-velho entre Kelly County e Vice-Dale County. O nome da arma aparece na tela. O mesmo ferro-velho tem um [lança-foguetes](../lanca-foguetes-onde-achar-gta-6/). Ele recomenda ir no **capítulo 2**, quando a história já leva você para aquela região.
 
 1. Pule a cerca do ferro-velho.
 2. Procure um **trailer cheio de antenas**.

@@ -16,9 +16,11 @@ fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:54", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
+  - { tipo: youtube, canal: "Ashy", url: "https://www.youtube.com/watch?v=Z7u4Th3Qajc", titulo: "GTA 6 New UNLIMITED MONEY FARM! (Do This Now!)", minuto: "0:17", data: "2026-11-18T20:14:44-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-19T16:36:00-03:00"
+atualizado_em: "2026-11-19T18:16:00-03:00"
 historico:
+  - { data: "2026-11-19T18:16:00-03:00", nota: "Entrou a venda em série para o Moses perto da oficina Watkins Auto Parts, pelo Ashy: carro sem rastreador na esquina, slim jim longe dos membros de gangue, pagamento de US$ 670 e cerca de US$ 700 na conta do banco, limite de entregas e venda com a Lucia. Os valores do Ashy aparecem ao lado da faixa do PC Gamer." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Publicada confirmada: onde vender e quanto rende pelo PC Gamer; registro só no capítulo 2 pelo MrDalekJD; Pay 'n' Spray e o monster truck pelo GamingBolt; preço do registro e troca de placa pelo DPJ; pátio da polícia pelo Kotaku e pelo BennyCentral; garagem do Moses pelo GameSpot." }
 perguntas:
   - { p: "Como vender carro no GTA 6?", r: "Leve o carro roubado a uma Pay 'n' Spray, que aceita até 3 por dia, ou venda para o Moses (capítulo 2) ou o Randy (capítulo 3). O app Waink It diz para qual dos dois o carro serve." }
@@ -52,9 +54,27 @@ O app **Waink It** chega no capítulo 1, na missão Unwanted Attention, instalad
 
 Como roubar cada tipo de carro, e quando você ganha o slim jim e o clonador de chave, está em [como roubar carro](../como-roubar-carro-gta-6/).
 
+## Vender um carro atrás do outro para o Moses
+
+O Ashy mostra um jeito de vender vários carros para o Moses sem sair de perto da oficina. É a venda normal do jogo, só que repetida:
+
+1. **Libere o Moses.** Ele entra no capítulo 2, na missão Moses. O Ashy levou cerca de 10 horas de jogo para chegar lá.
+2. **Vá até a oficina dele.** Na tela ela aparece como **Watkins Auto Parts**, do Moses "Mo" Watkins.
+3. **Olhe a esquina da oficina.** Segundo o Ashy, quase sempre tem um carro parado ali.
+4. **Escaneie com o Waink It.** Veja quanto o carro vale e se tem rastreador. Só serve **carro sem rastreador**.
+5. **Abra com o slim jim** pela porta do motorista. Tem membros de gangue por perto: entre sem que eles vejam. Mais sobre a ferramenta em [slim jim e snap gun](../slim-jim-snap-gun-gta-6/).
+6. **Entregue ao Moses.** O pagamento cai por **transferência direto na conta do banco**, e não em dinheiro na mão.
+7. Volte à esquina e repita.
+
+**Tem limite.** Depois de algumas entregas, o Moses para de aceitar. Faça outra missão e a venda libera de novo.
+
+O Ashy joga com a **Lucia**, então dá para vender com ela também, não só com o Jason.
+
 ## Quanto rende
 
 O guia de dinheiro do PC Gamer põe o roubo de carro entre US$ 1.000 e US$ 20.000 por carro, dependendo do modelo e de quem compra. No capítulo 2, um carro bom para o Moses costuma render **de mil a alguns milhares de dólares**. Para o PC Gamer, é o jeito mais rápido de lucrar nessa fase, com pouco risco: rende mais que a maioria dos roubos rápidos dessa fase e o Moses paga melhor que o receptador de mercadoria do capítulo 2. Os outros receptadores estão em [onde vender itens roubados](../onde-vender-itens-roubados-gta-6/).
+
+O Ashy recebeu menos: **US$ 670** por um carro e **cerca de US$ 700** por outro, os dois carros simples pegos na esquina da oficina. O valor muda com o carro, e o Waink It mostra quanto ele vale antes de você levar.
 
 ## Ficar com o carro: o registro
 

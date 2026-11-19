@@ -20,8 +20,9 @@ fontes:
   - { tipo: youtube, canal: "OutlawGarry", url: "https://www.youtube.com/watch?v=--Z00PnQy3g", titulo: "FREE LEGENDARY SNIPER RIFLE in GTA 6! Secret Weapon!", minuto: "1:51", data: "2026-11-19T13:18:05-03:00" }
   - { tipo: youtube, canal: "YOUNG DIRK", url: "https://www.youtube.com/watch?v=HYgYjWxjkws", titulo: "How To Make $10,000 in 3 Minutes in GTA 6! + Legendary Weapon Location!", minuto: "2:53", data: "2026-11-18T23:13:38-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-19T17:03:00-03:00"
+atualizado_em: "2026-11-19T18:18:00-03:00"
 historico:
+  - { data: "2026-11-19T18:18:00-03:00", nota: "Fixed the junkyard location (the video map shows it west of Vice City, on SR-120) and named the gun: Conspiracist Type 9." }
   - { data: "2026-11-19T17:03:00-03:00", nota: "Now confirmed: WiLLiSGaming and YOUNG DIRK also show that unique weapons stay with you. Added the Black Eagle M306, the swamp cabin guns, the Cockroach Extreme, the junkyard SMG, the Manatee Motel (OutlawGarry) and the yellow map icon." }
   - { data: "2026-11-19T16:18:00-03:00", nota: "Published as unverified: each location comes from one channel (KhrazeGaming, DPJ, BennyCentral, Arekkz Gaming and Milo)." }
 perguntas:
@@ -92,9 +93,9 @@ WiLLiSGaming found both in Vice City, in the Vice-Dale area (he calls it "Dale C
 
 The carbine is unique. The grenade launcher isn't, so you lose it if you die.
 
-## Junkyard SMG (Mariana County)
+## Conspiracist Type 9 SMG (junkyard)
 
-WiLLiSGaming found a unique machine pistol in a **junkyard in Mariana County**. The name was hard to make out in the audio, so we're leaving it out. He suggests waiting until **Chapter 2**, when the story takes you to that area anyway.
+WiLLiSGaming found the **Conspiracist Type 9**, a unique SMG, in a **junkyard west of Vice City**, on SR-120 near Omega Pkwy, with Buckskin Swamp to the west. He says "Mariana County" out loud, but the map in his video puts the junkyard between Kelly County and Vice-Dale County. The weapon's name shows on screen. The same junkyard has a [rocket launcher](../gta-6-rocket-launcher-location/). He suggests waiting until **Chapter 2**, when the story takes you to that area anyway.
 
 1. Jump the junkyard fence.
 2. Look for an **RV covered in antennas**.

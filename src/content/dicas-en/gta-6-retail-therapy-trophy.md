@@ -13,7 +13,7 @@ fontes:
   - { tipo: youtube, canal: "PowerPyx", url: "https://www.youtube.com/watch?v=hW5O_aLj-lY", titulo: "GTA 6 - Retail Therapy Trophy Guide / Achievement Guide", minuto: "0:03", data: "2026-11-18T22:38:07-03:00" }
   - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:58", data: "2026-11-18T15:36:34-03:00" }
   - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "5:09", data: "2026-11-19T04:20:15-03:00" }
-  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/", titulo: "GTA 6 achievement list: Every challenge and collectible milestone", data: "2026-11-18T08:30:04-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/", titulo: "Complete GTA 6 Trophy and Achievement list", data: "2026-11-18T10:45:15-03:00" }
 descoberto_em: "2026-11-19T18:13:00-03:00"
 atualizado_em: "2026-11-19T18:13:00-03:00"
 historico:
@@ -25,7 +25,7 @@ perguntas:
   - { p: "Which stores did PowerPyx rob for the trophy?", r: "Three jewelry stores close together: Covgari, Blanc & Giroux and Roval Jewelry. On the way between them, the game names the area as the Decor District." }
 ---
 
-To unlock the **Retail Therapy** trophy in GTA 6, rob **3 shops back to back** with **Jason and Lucia together**, and don't let the Wanted Level drop between robberies. It's a bronze trophy worth 20G on Xbox, according to PC Gamer's [trophy list](../gta-6-trophies-achievements-list/).
+To unlock the **Retail Therapy** trophy in GTA 6, rob **3 shops back to back** with **Jason and Lucia together**, and don't let the Wanted Level drop between robberies. It's a bronze trophy worth 20G on Xbox, according to the GamesRadar+ [trophy list](../gta-6-trophies-achievements-list/).
 
 ## When you can do it
 
