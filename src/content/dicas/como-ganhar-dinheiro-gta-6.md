@@ -13,9 +13,9 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:40", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "0:28", data: "2026-11-18T15:45:05-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T08:40:00-03:00"
+atualizado_em: "2026-11-19T08:30:00-03:00"
 historico:
-  - { data: "2026-11-19T08:40:00-03:00", nota: "Confirmado: caixa de correio vista por Gameplayrj e Ikoma Games. Acrescentados cobrança de aluguel, corridas, ataques de gangue, naufrágio, guardar dinheiro em casa e tabela de valores." }
+  - { data: "2026-11-19T08:30:00-03:00", nota: "Confirmado: caixa de correio vista por Gameplayrj e Ikoma Games. Acrescentados cobrança de aluguel, corridas, ataques de gangue, naufrágio, guardar dinheiro em casa e tabela de valores." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Novos jeitos: ilha dos cachorros (US$ 1.218), meteoritos para vender e colecionáveis na loja de penhores." }
   - { data: "2026-11-18T17:29:00-03:00", nota: "Guia publicado, em verificação. Gameplay do Gameplayrj e código do TechTudo." }
 perguntas:

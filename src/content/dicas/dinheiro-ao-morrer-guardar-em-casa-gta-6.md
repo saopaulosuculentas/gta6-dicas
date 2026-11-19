@@ -7,10 +7,10 @@ status: em-verificacao
 plataformas: [ps5, xbox]
 fontes:
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "1:45", data: "2026-11-18T15:45:05-03:00" }
-descoberto_em: "2026-11-19T08:40:00-03:00"
-atualizado_em: "2026-11-19T08:40:00-03:00"
+descoberto_em: "2026-11-19T08:30:00-03:00"
+atualizado_em: "2026-11-19T08:30:00-03:00"
 historico:
-  - { data: "2026-11-19T08:40:00-03:00", nota: "Publicada em verificação: o Ikoma Games morreu com US$ 1.500 na carteira e voltou com zero. Os dois saldos (carteira e casa) foram conferidos no quadro do vídeo." }
+  - { data: "2026-11-19T08:30:00-03:00", nota: "Publicada em verificação: o Ikoma Games morreu com US$ 1.500 na carteira e voltou com zero. Os dois saldos (carteira e casa) foram conferidos no quadro do vídeo." }
 perguntas:
   - { p: "Perde dinheiro quando morre no GTA 6?", r: "Perde. O dinheiro da carteira zera quando você morre. O que está guardado no estoque da casa continua lá." }
   - { p: "Como guardar dinheiro no GTA 6?", r: "Vá até a sua casa e guarde o dinheiro no estoque do quarto. O saldo guardado aparece na tela com um ícone de casinha, abaixo do dinheiro da carteira." }

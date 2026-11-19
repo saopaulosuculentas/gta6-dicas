@@ -10,9 +10,9 @@ fontes:
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "7:03", data: "2026-11-18T12:29:11-03:00" }
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "4:30", data: "2026-11-18T15:45:05-03:00" }
 descoberto_em: "2026-11-18T18:17:00-03:00"
-atualizado_em: "2026-11-19T08:40:00-03:00"
+atualizado_em: "2026-11-19T08:30:00-03:00"
 historico:
-  - { data: "2026-11-19T08:40:00-03:00", nota: "Confirmado: o Ikoma Games também chegou ao local de um avião caído, com sobrevivente, carga e armas. Acrescentado o naufrágio de barco." }
+  - { data: "2026-11-19T08:30:00-03:00", nota: "Confirmado: o Ikoma Games também chegou ao local de um avião caído, com sobrevivente, carga e armas. Acrescentado o naufrágio de barco." }
   - { data: "2026-11-18T18:17:00-03:00", nota: "Publicada em verificação: o SanInPlay mostrou o local do acidente de perto e o Gigaton Games viu uma queda de longe." }
 perguntas:
   - { p: "Avião cai sozinho no GTA 6?", r: "Sim. Três canais viram aviões caírem durante o jogo livre, sem fazer parte de missão. Por isso é tratado como evento aleatório." }
