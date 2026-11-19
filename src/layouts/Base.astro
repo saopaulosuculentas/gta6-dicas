@@ -72,6 +72,19 @@ const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jso
         <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseId}`} crossorigin="anonymous" />
       )
     }
+    {
+      SITE.analyticsId && !import.meta.env.DEV && (
+        <>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.analyticsId}`} />
+          <script is:inline define:vars={{ gaId: SITE.analyticsId }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', gaId);
+          </script>
+        </>
+      )
+    }
     {blocos.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
   </head>
   <body>
