@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://macetesgta6.com.br/sitemap-index.xml
+Sitemap: https://macetesgta6.com.br/news-sitemap.xml
