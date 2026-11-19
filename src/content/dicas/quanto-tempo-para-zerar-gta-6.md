@@ -29,6 +29,8 @@ perguntas:
 
 Zerar a história do GTA 6 leva **de 45 a 90 horas**, dependendo de quanto você para no caminho. Com todas as missões opcionais, conte **de 80 a 100 horas**. Para achar tudo e fazer todas as atividades, **mais de 200 horas**. Esses números vêm de quem já terminou o jogo para as reviews e da estimativa do GamesRadar+.
 
+Os nomes de lugares e missões estão em inglês, como saíram nos sites. No jogo em português eles podem aparecer traduzidos.
+
 ## Quanto cada um levou
 
 | Quem jogou | Horas | O que fez |

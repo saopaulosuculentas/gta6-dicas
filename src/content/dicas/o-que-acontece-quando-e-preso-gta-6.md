@@ -1,7 +1,7 @@
 ---
 titulo: "O que acontece quando você é preso no GTA 6: o que perde e o que fica"
 titulo_seo: "O que acontece quando você é preso no GTA 6"
-resumo: "Ser preso no GTA 6 custa o dinheiro da carteira e as armas pegas do chão, e o carro pessoal vai para o pátio. Banco, esconderijo de casa e armas compradas ficam a salvo."
+resumo: "Ser preso no GTA 6 custa o dinheiro da carteira e as armas pegas do chão. Se você estava no carro pessoal, ele vai para o pátio. Banco, esconderijo de casa e armas compradas ficam a salvo."
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
@@ -60,12 +60,12 @@ Nenhum dos guias e vídeos que lemos mostra o personagem **cumprindo pena**. No 
 
 Duas coisas são certas:
 
-- **O jogo salva sozinho.** Segundo o GamesRadar+, o espaço de salvamento automático grava quando você é preso, morre ou passa por um evento grande. Veja [como salvar o jogo](../como-salvar-o-jogo-gta-6/).
+- **O jogo salva sozinho.** Segundo o GamesRadar+, o espaço de salvamento automático grava quando você é preso, morre ou passa por um evento grande do mundo aberto.
 - **No prólogo, a prisão é obrigatória.** Na missão Prologue, a fuga da Lucia com 2 estrelas sempre termina em Busted, porque faz parte da história, como mostra o GamesRadar+.
 
 ## Como evitar ser preso
 
-- **Converse com o policial.** O Kotaku ensina que, com 1 estrela, dá para apagar o nível de procurado falando com o policial: segure o **L2** (LT no Xbox) para focar nele, sem arma na mão, e escolha a opção de **acalmar**. Escolher provocar piora tudo.
+- **Converse com o policial.** O Kotaku ensina que, com 1 estrela, dá para apagar o nível de procurado falando com o policial: segure o **L2** (LT no Xbox) para focar nele, sem arma na mão, e escolha a opção de **acalmar**. A outra opção do menu é provocar.
 - **Taser derruba.** No vídeo do Dan Allen Gaming, o choque de taser deixa o Jason no chão e o jogo mostra o botão de levantar. Logo depois os policiais o renderam.
 - **Guarde o dinheiro antes.** Passe no caixa eletrônico ou em casa antes de um roubo.
 - **Fuja do jeito certo.** Troque de roupa, de carro e saia da área de busca. O passo a passo está em [como fugir da polícia](../como-fugir-da-policia-gta-6/).

@@ -26,6 +26,8 @@ No GTA 6, o **Jason Duval** é feito pelo ator **Dylan Rourke** e a **Lucia Cami
 
 O jogo **não é dublado em português**: as vozes são as originais, em inglês, e o que vem em português do Brasil são os menus e as legendas. Veja [o GTA 6 é dublado em português?](../gta-6-dublado-em-portugues/).
 
+Os nomes de personagens e de menus estão em inglês, como saíram nos créditos e no site. No jogo em português alguns podem aparecer traduzidos.
+
 ## Os protagonistas
 
 **Dylan Rourke (Jason).** Segundo o GamesRadar+, ele já apareceu em séries como Grey's Anatomy, 9-1-1: Lone Star, Station 19 e Modern Family. Depois do lançamento, postou uma mensagem agradecendo os anos de trabalho com a equipe da Rockstar e se despediu com um "até mais em Leonida".

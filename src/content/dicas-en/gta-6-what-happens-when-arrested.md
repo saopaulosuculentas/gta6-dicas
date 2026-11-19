@@ -1,7 +1,7 @@
 ---
 titulo: "What Happens When You Get Arrested in GTA 6: What You Lose and Keep"
 titulo_seo: "What Happens When You Get Arrested in GTA 6"
-resumo: "Getting busted in GTA 6 costs you your pocket cash and any guns you picked up, and your personal car gets impounded. Banked money, your home stash and guns you bought are safe."
+resumo: "Getting busted in GTA 6 costs you your pocket cash and any guns you picked up, and your personal car gets impounded if you were in it. Banked money, your home stash and guns you bought are safe."
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
@@ -64,7 +64,7 @@ Two things are clear:
 
 ## How to avoid getting busted
 
-- **Talk your way out.** Kotaku explains that a one-star wanted level can be cleared by talking to the cop: hold the **left trigger** to focus on them with no gun out and choose to **defuse**. Choosing to provoke makes things worse.
+- **Talk your way out.** Kotaku explains that a one-star wanted level can be cleared by talking to the cop: hold the **left trigger** to focus on them with no gun out and choose to **defuse**. The other option on that menu is to provoke them.
 - **Tasers put you down.** In Dan Allen Gaming's video, a taser hit drops Jason and the game shows a prompt to get up. The cops pinned him moments later.
 - **Bank first.** Hit an ATM or your stash before a robbery.
 - **Escape properly.** Change clothes, swap cars and get out of the search area. The full method is in [how to lose the police](../gta-6-how-to-lose-the-police/).

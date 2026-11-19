@@ -21,9 +21,14 @@ fontes:
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "31:19", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "2:01:02", data: "2026-11-19T11:39:01-03:00" }
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "4:09", data: "2026-11-18T18:18:15-03:00" }
+  - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "1:36", data: "2026-11-19T14:01:31-03:00" }
+  - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "2:16", data: "2026-11-18T22:00:14-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "30:59", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "CH4P4X", url: "https://www.youtube.com/watch?v=0Fb550QZKRw", titulo: "ACHEI O ECLIPSE SECRETO DO PAUL WALKER NO GTA 6!", minuto: "17:11", data: "2026-11-19T15:34:54-03:00" }
 descoberto_em: "2026-11-18T18:18:00-03:00"
-atualizado_em: "2026-11-19T16:16:00-03:00"
+atualizado_em: "2026-11-19T17:01:00-03:00"
 historico:
+  - { data: "2026-11-19T17:01:00-03:00", nota: "Primeira pessoa corrigida: não há opção no menu (MrDalekJD e CH4P4X), mas pegar o celular dirigindo leva a câmera para primeira pessoa (StevieWunderKid, MrBossFTW e Bombastic). Novos: luneta com L2 e R3, trocar ombro e arma mirando, cor do marcador de acerto (MrBossFTW; o amarelo também no Bombastic), Zombix e adrenalina na roda de armas, briga sem arma e buzina (MrBossFTW)." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: zoom da câmera em 3 distâncias (KhrazeGaming e NorZZa), altura da câmera, sem modo em primeira pessoa (MrDalekJD), intensidade do sangue (Milo) e minimapa dinâmico (NorZZa). Botões do PS5 conferidos: bolinha para agachar, R1 para cobertura e L1 para o inventário (Thalera e Combo Infinito)." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Acrescentados: seta do carro no direcional e empurrar carro parado (ZacCoxTV)." }
   - { data: "2026-11-18T18:18:00-03:00", nota: "Publicada como confirmada, com base em gameplay do Gameplayrj, do Gigaton Games e do SanInPlay." }
@@ -80,15 +85,42 @@ O BennyCentral acrescenta que, enquanto você segura, o tempo do jogo fica mais 
 
 - **Zoom em 3 distâncias:** segundo o KhrazeGaming, segure o direcional para baixo e aperte quadrado (X no Xbox) para alternar entre câmera no ombro, no meio e longe. O NorZZa mostrou o mesmo ajuste numerado de 1 a 3. Vale separado para quando você está a pé e para cada veículo.
 - **Altura e velocidade:** nas configurações de câmera, há opções separadas para a pé e dirigindo. Dá para mudar a velocidade com que a câmera gira e a altura dela, de baixa a alta. O NorZZa avisa que a diferença de altura é pequena.
-- **Primeira pessoa:** o MrDalekJD avisa que o GTA 6 **não tem modo em primeira pessoa**. A opção mais parecida é a altura da câmera. Ele conta que algumas miras ópticas colocadas na arma deixam a mira em primeira pessoa, mas a explicação do botão ficou confusa, então ainda não damos o comando aqui. Fora a mira, tudo continua em terceira pessoa.
+- **Primeira pessoa:** o GTA 6 **não tem opção de câmera em primeira pessoa**. O MrDalekJD avisa isso, e o CH4P4X confirma jogando. A opção mais parecida no menu é a altura da câmera. Mesmo assim, há dois momentos em que a visão vai para primeira pessoa:
+  - **Celular na mão dirigindo.** Pegue o celular com o carro andando e a câmera passa para dentro do carro. O StevieWunderKid usa esse truque para ver o painel por dentro: velocímetro, conta-giros, marcha, temperatura e gasolina mexem de verdade. O MrBossFTW e o Bombastic mostraram o mesmo. O MrBossFTW avisa que a estrada fica fora de foco e você dirige pior, e o CH4P4X reclama que o celular tampa quase metade da tela.
+  - **Mira com luneta.** O MrDalekJD conta que algumas miras ópticas deixam a mira em primeira pessoa. O comando está na seção de mira logo abaixo.
+
+## Mira e briga
+
+- **Luneta:** com uma arma que tenha luneta, segure **L2** (LT no Xbox) para mirar e clique **R3** (RS) para trocar a visão da mira. Quem mostrou foi o MrBossFTW.
+- **Trocar de ombro:** mirando, aperte o direcional para a **esquerda** e a câmera passa para o outro ombro.
+- **Trocar de arma sem abrir a roda:** mirando, aperte **triângulo** (Y).
+- **Briga sem arma:** fora de combate, **quadrado** (X) dá um tapa ou um empurrão. Se a pessoa ficar mais agressiva, o mesmo botão vira soco ou chute. Durante a briga, **R2** (RT) agarra, e R2 de novo arremessa.
+
+### A cor do marcador de acerto
+
+O marcador que aparece quando a bala acerta muda de cor, segundo o MrBossFTW:
+
+| Cor | O que quer dizer |
+|---|---|
+| Branco | Acertou, mas o alvo continua de pé. |
+| Amarelo | Incapacitou: a pessoa não ameaça mais, mas está viva. |
+| Vermelho | Matou ou feriu de morte. |
+
+O Bombastic mostrou o amarelo num policial que caiu segurando o braço e saiu se arrastando. Vale prestar atenção, porque derrubar sem matar puxa o seu [perfil criminal](../perfil-criminal-honra-gta-6/) para o lado profissional, e matar puxa para o violento, explica o MrBossFTW.
 
 ## Curar e comer
 
 Vida não volta sozinha toda. O personagem pega itens de cura pelo caminho (na live apareceu "+ Zombix" ao recolher um) e come para recuperar vida, segurando o botão do inventário e apertando o de usar. Dormir em casa também recupera vida e energia.
 
-## Seta e empurrar o carro
+No meio de um tiroteio, a cura sai pela roda de armas:
+
+- **Zombix:** segure **L1** (LB) e aperte **quadrado** (X). Segundo o MrBossFTW, você carrega até 5, e eles curam mais quando a vida está baixa.
+- **Adrenalina:** com a roda aberta, **triângulo** (Y) usa a seringa. Ela enche as três barras do personagem (vida, fôlego e foco) acima do máximo na hora, o que ajuda a voltar para a briga ou a fugir.
+
+## Seta, buzina e empurrar o carro
 
 - **Seta:** pela primeira vez num GTA, o carro tem seta. Dirigindo, aperte o direcional para a esquerda ou para a direita. Mostrado pelo ZacCoxTV.
+- **Buzina:** dirigindo, clique o **analógico esquerdo** (L3). Segundo o MrBossFTW, insistir na buzina pode fazer o carro da frente sair, ou deixar o motorista bravo a ponto de descer para brigar.
 - **Empurrar:** se o carro atolar ou ficar sem gasolina, desça, vá para trás dele e ande na direção do carro. O personagem começa a empurrar.
 
 ## Helicóptero

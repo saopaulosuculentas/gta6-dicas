@@ -16,9 +16,11 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "9:10", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "3:44", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "NorZZa", url: "https://www.youtube.com/watch?v=Q6Zzn6VfaLA", titulo: "Change These Setting Before You Play Grand Theft Auto 6! | GTA6 Beginner's Guide & Tips", minuto: "7:54", data: "2026-11-19T01:00:18-03:00" }
+  - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "7:52", data: "2026-11-19T14:01:31-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-19T17:01:00-03:00"
 historico:
+  - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: $5 tolls (free in a stolen or borrowed car), scaring off attack dogs by shooting the ground, pet snacks at store counters, rooftop entrances and holding Square to shove a heavy car." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Now confirmed: MrDalekJD, BennyCentral and KhrazeGaming show car flipping, the car menu and trunk outfits. Added autopilot, Paradise Taxi, Joey's free repairs, door colors in focus, fuel, fast swimming, whistling, headphones and the door-check move. Flipping and the taxi skip button show both versions." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Added Kotaku's tip about using focus to track down shouting and side quests." }
   - { data: "2026-11-19T14:40:00-03:00", nota: "Published as unverified: controls from two Kotaku guides by the same writer." }
@@ -40,6 +42,8 @@ In GTA 5 you just wiggled the stick. In GTA 6 it's muscle:
 3. Press **Square** until it's back on its wheels. KhrazeGaming tapped it repeatedly.
 
 That's how MrDalekJD, BennyCentral and KhrazeGaming did it, with no other button first. Kotaku describes it a little differently: lean on the car, click the **left stick (L3)**, then **hold Square**. If one way doesn't work for you, try the other.
+
+MrBossFTW combines the two: start by walking into the car, and if it's too heavy, **hold Square** to charge up a stronger shove. Still stuck? Try the other side, or ram it with another car.
 
 It won't work if the car is **too heavy**, you run out of **stamina**, or you're on a **steep slope**. The same move lets you **push a car that's out of gas** and shove a **boat or jet ski** off the sand into the water. It saves you a towing fee, and it's handy mid-chase, because the police block the app that brings your car to you.
 
@@ -78,6 +82,10 @@ The button to skip depends on who you ask: Kotaku holds the left trigger to focu
 
 Cars run out of gas now. MrDalekJD says a full tank lasts about **20 to 30 minutes** of driving, which goes faster than you'd think when you're exploring. Keep an eye on the gauge and fill up before a long trip so you don't run dry in the middle of a chase. See [how to refuel and repair your car](../gta-6-refuel-repair-car/).
 
+## Tolls cost $5, unless the car isn't yours
+
+Leonida's highways have toll booths. According to MrBossFTW, each one costs **$5**, but you **don't pay** if you're driving a **stolen car** or a friend's vehicle. On a long run with several booths, that adds up.
+
 ## Listen to the radio on foot
 
 Buy **headphones** at an electronics store. NorZZa found them at **Zeke's Electronics** in **Hamlet**, north of the Keys, which also sells phone cases. With headphones on, hold **Left on the D-pad** on foot to play music or podcasts while you walk around.
@@ -103,6 +111,12 @@ More in [how to lose the police](../gta-6-how-to-lose-the-police/).
 
 - **Hear shouting?** If you hear shouting, sirens or a loud argument, turn on focus to find the source. It's often a random event or a side quest, from a drug deal gone wrong to a man looking for his wife who vanished after a night out. That's how BennyCentral found a crashed plane full of loot.
 - **Doors:** in focus, a **white door** means you can go in and a **red door** is **alarmed**, according to MrDalekJD. Kotaku also says alarmed doors glow red. On a job, look for another way in.
+
+## Rooftops, guard dogs and pet snacks
+
+- **Go in from above.** MrBossFTW points out that a lot of places have more than one way in, including open ceiling hatches. If you want to slip into an enemy compound unseen, try the roof.
+- **Attack dogs:** if someone sets a dog on you and you'd rather not hurt it, fire at the ground near it. The shot scares it off.
+- **Pet snacks:** the cashier at convenience and grocery stores sells them. Feed them to friendly animals or toss one to distract a guard dog.
 
 ## Swim faster
 

@@ -20,9 +20,11 @@ fontes:
   - { tipo: youtube, canal: "NorZZa", url: "https://www.youtube.com/watch?v=Q6Zzn6VfaLA", titulo: "Change These Setting Before You Play Grand Theft Auto 6! | GTA6 Beginner's Guide & Tips", minuto: "7:54", data: "2026-11-19T01:00:18-03:00" }
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "10:09", data: "2026-11-18T18:18:15-03:00" }
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "7:30", data: "2026-11-19T11:39:01-03:00" }
+  - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "7:52", data: "2026-11-19T14:01:31-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-19T17:01:00-03:00"
 historico:
+  - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: pedágio de US$ 5 (de graça com carro roubado ou de amigo), espantar cão de ataque atirando no chão, petisco de animal no caixa das lojas, entrada pelo telhado e segurar quadrado para empurrar carro pesado." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram piloto automático, Paradise Taxi e RydeMe, portas no foco, gasolina, nado rápido, assobio, Snapmatic, veículo cinza, catálogo do Waink It e conversa com L2 (MrDalekJD, BennyCentral, KhrazeGaming, GamingBolt, NorZZa, Thalera, CKX). Joey confirmado por 3 canais. Desvirar carro, porta na cara e botão de pular a viagem mostram as duas versões." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: Joey conserta o carro de graça (em verificação) e foco para achar missões secundárias, que o Kotaku também descreve." }
   - { data: "2026-11-19T14:40:00-03:00", nota: "Publicada como confirmada: seta, menu do carro e roupa no porta-malas aparecem no Kotaku e no HadesPlays; virar carro e sentar vêm do Kotaku." }
@@ -44,6 +46,8 @@ No GTA 5 bastava balançar o analógico. No GTA 6 é com força bruta:
 3. Aperte **quadrado** até o carro voltar para as rodas. O KhrazeGaming apertou várias vezes seguidas.
 
 Foi assim que o MrDalekJD, o BennyCentral e o KhrazeGaming fizeram, sem apertar outro botão antes. O Kotaku descreve um jeito um pouco diferente: encostado no carro, aperte o **analógico esquerdo (L3)** e depois **segure quadrado**. Se um jeito não funcionar no seu jogo, tente o outro.
+
+O MrBossFTW junta as duas ideias: comece empurrando andando contra o carro e, se ele for pesado, **segure quadrado** para carregar um empurrão mais forte. Se ainda assim não virar, tente pelo outro lado ou bata com outro carro nele.
 
 Não funciona se o carro for **pesado demais**, se acabar o **fôlego** ou numa **ladeira forte**. O mesmo comando serve para **empurrar carro sem gasolina** e para jogar um **barco ou jet ski** da areia para a água. Você não precisa pagar reboque, e isso é útil numa fuga: com a polícia atrás de você, o app de chamar o carro fica bloqueado.
 
@@ -89,6 +93,10 @@ O KhrazeGaming diz que outros serviços de táxi liberam mais para a frente na h
 
 Passo a passo em [como abastecer e consertar o carro](../como-abastecer-consertar-carro-gta-6/).
 
+## Pedágio: US$ 5, de graça com carro roubado
+
+As estradas de Leonida têm pedágio. Segundo o MrBossFTW, cada um custa **US$ 5**, mas quem passa com **carro roubado** ou com o carro de um amigo **não paga**. Numa viagem longa com várias cabines, pegar outro carro economiza uns trocados.
+
 ## Achar o carro que você largou
 
 O último veículo que você usou ou roubou (carro, moto, barco ou avião) fica marcado no mapa com um ícone **cinza**, com informações sobre ele. Assim dá para achar de novo depois de largar. O seu carro próprio tem outro ícone. Quem mostrou foi o Thalera.
@@ -122,6 +130,12 @@ Mais em [como fugir da polícia](../como-fugir-da-policia-gta-6/).
 - **Ouviu briga, grito ou sirene?** Ligue o foco para ver de onde vem o som. Quase sempre é um evento ou um personagem com **missão secundária**: o Kotaku e o Thalera citam a mesma, de um homem procurando a esposa que sumiu depois de uma noite de festa. Essas missões dão um dinheiro a mais. Foi assim que o BennyCentral achou um [avião caído](../aviao-caindo-evento-aleatorio-gta-6/) cheio de coisa para pegar.
 - **Gente falando:** quando aparece a fala de alguém na legenda, o foco mostra as ondas de som e quem está falando. Segundo o Thalera, pode ser missão.
 - **Portas:** no foco, **porta branca** dá para entrar e **porta vermelha** tem **alarme**, segundo o MrDalekJD. O Kotaku também avisa que as portas ligadas ao alarme ficam vermelhas. Num roubo, procure outro caminho.
+
+## Telhado, cão de guarda e petisco
+
+- **Entre por cima.** Segundo o MrBossFTW, muitos lugares têm mais de uma entrada, inclusive escotilhas abertas no teto. Para invadir um esconderijo inimigo sem ser visto, vale subir no telhado e entrar por ali.
+- **Cão de ataque:** se soltarem um cachorro em você e você não quiser machucar o bicho, atire no chão perto dele. O tiro assusta e ele vai embora.
+- **Petisco de animal:** o caixa das lojas de conveniência e dos mercados vende petisco. Dá para dar aos animais mansos ou jogar para distrair cachorro de guarda.
 
 ## Prédios que dá para entrar
 

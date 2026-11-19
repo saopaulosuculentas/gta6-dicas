@@ -17,9 +17,13 @@ fontes:
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "6:44", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "5:05", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "3:07", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "14:03", data: "2026-11-19T14:01:31-03:00" }
+  - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:33", data: "2026-11-18T15:36:34-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "27:39", data: "2026-11-18T15:17:20-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T17:01:00-03:00"
 historico:
+  - { data: "2026-11-19T17:01:00-03:00", nota: "Added the 5 wanted star states and search zone colors (MrBossFTW), slapping the phone out of a witness's hand (MrBossFTW), the $200 respray price (Mr Lawrence) and the fact that you can't start a mission while wanted (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Added: cops off the minimap, witnesses and cameras (MrDalekJD); heat icons for CCTV, a visible weapon and both characters (GamingBolt, MrDalekJD); hollow stars (KhrazeGaming); long guns scaring people into calling the cops (KhrazeGaming, GamingBolt); spare outfits in the trunk (BennyCentral, KultZ)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: GameSpot and DPJ both explain that the police track your look and car, and how to change them." }
 perguntas:
@@ -37,9 +41,15 @@ According to GameSpot, when someone sees you commit a crime the police get calle
 
 That's GTA 6's **heat** system. The police put out your description over the radio, for example "white male in his 30s, driving a yellow Ganado", and it shows up on the heat map.
 
+MrBossFTW frames the colors a little differently: the zone stays **blue** while you haven't been tied to the crime, and turns **red** once the police have heat icons on you. Either way, it's centered on the spot where the crime happened.
+
 ## The cops aren't on your minimap
 
-If you're used to GTA 5, this one hurts: patrol cars **no longer show up on the minimap**, so you can't just steer around them. According to MrDalekJD, the police now track you down through **witnesses and cameras**. Before you do something shady, look around: how many people can see you, and is there a camera on that building? The fewer eyes on you, the less the cops have to work with.
+If you're used to GTA 5, this one hurts: patrol cars **no longer show up on the minimap**, so you can't just steer around them. According to MrDalekJD, the police now track you down through **witnesses and cameras**. Before you do something shady, look around: how many people can see you, and is there a camera on that building? The fewer eyes on you, the less the cops have to work with. Mr Lawrence makes the same point: with no patrol cars on the radar, every getaway gets a bit harder.
+
+## Slap the phone out of their hand
+
+According to MrBossFTW, if someone you've upset pulls out their phone to call the police, you can walk up and press **Square** (X on Xbox). Your character slaps the phone away and the call never goes through. It stops working once a crowd has seen you, since somebody will dial before you can reach everyone.
 
 ## The heat icons: what the police know
 
@@ -54,9 +64,21 @@ Next to your wanted stars you get a row of icons showing what the police have on
 | CCTV footage | Destroy the recording at the scene. GamingBolt warns the alarm will go off sooner or later. |
 | Both of you did it | Split Jason and Lucia up. MrDalekJD says this icon shows up later in the game. |
 
-## Hollow stars
+## What the star colors mean
 
-Pay attention to how your stars look. According to KhrazeGaming, when they're **hollow** (just an outline, red or white), the police **don't have your description**. You can even hang around in the search area, as long as you don't do anything suspicious.
+Your wanted stars change color and shape depending on what the police know. MrBossFTW breaks down all five:
+
+| Stars | What it means |
+|---|---|
+| White outline | The police know a crime happened, but not that it was you. |
+| Solid white | They know it was you and they can see you. You're being chased. |
+| Gray | They know it was you but lost sight of you. They're still searching, so get out of the search zone. |
+| Red outline | A crime happened in the area you're in, but you no longer match the description. They won't recognize you right away, though they're on alert. |
+| Solid red | They know you committed a crime in this area. They've lost you for now, but nearby cops are looking for someone who matches how you look right now. |
+
+### Hollow stars
+
+KhrazeGaming lands on the same reading: when the stars are **hollow** (just an outline, red or white), the police **don't have your description**. You can even hang around in the search area, as long as you don't do anything suspicious.
 
 He showed it after a store robbery. He'd parked behind the building where nobody saw, so the cops only had his face and his outfit. At his trunk he swapped outfits and took off his sunglasses and cap, both icons disappeared, and he could walk back into the red zone without anyone bothering him.
 
@@ -73,7 +95,7 @@ KhrazeGaming turns this into a trick before a robbery: he walks around with a lo
 
 1. **Get out of the search circle** and stay out until your heat fades.
 2. **Check the icons** next to your stars to see what they have on you.
-3. **Change the car:** take it to a **Pay 'n' Spray** and pick **Respray** in a different color. According to MrDalekJD, a fresh paint job is enough for patrol cars to drive by without noticing you.
+3. **Change the car:** take it to a **Pay 'n' Spray** and pick **Respray** in a different color. According to MrDalekJD, a fresh paint job is enough for patrol cars to drive by without noticing you. Mr Lawrence says a respray costs **$200**, which can wipe out most of a small store robbery's take. Swapping cars costs nothing.
 4. **Change your outfit:** a clothing store or Ammu-Nation works, sunglasses and hats included.
 5. **Change your face:** get a haircut at a salon or a tattoo. GamingBolt also suggests a mask.
 6. **On the spot:** hold **L1 (LB on Xbox) and press R1 (RB)** to take off pieces like your hat or change how you wear them, DPJ showed. MrDalekJD uses the same shortcut.
@@ -82,6 +104,10 @@ KhrazeGaming turns this into a trick before a robbery: he walks around with a lo
 MrDalekJD's habit: put on sunglasses and a cap before you do anything dodgy. That way you always have something to take off when you need to vanish.
 
 When they lose your description, you'll hear the radio say they lost sight of you.
+
+## You can't start a mission while wanted
+
+In Bombastic's video, the game told him he couldn't start a mission with the cops on his tail. If a mission marker is nearby, lose them first and then head over.
 
 ## Keep spare outfits in your trunk
 

@@ -20,9 +20,13 @@ fontes:
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "3:07", data: "2026-11-19T02:20:57-03:00" }
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "13:58", data: "2026-11-18T18:18:15-03:00" }
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "21:18", data: "2026-11-19T11:39:01-03:00" }
+  - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "14:03", data: "2026-11-19T14:01:31-03:00" }
+  - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:33", data: "2026-11-18T15:36:34-03:00" }
+  - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "27:39", data: "2026-11-18T15:17:20-03:00" }
 descoberto_em: "2026-11-18T18:05:00-03:00"
-atualizado_em: "2026-11-19T16:20:00-03:00"
+atualizado_em: "2026-11-19T17:01:00-03:00"
 historico:
+  - { data: "2026-11-19T17:01:00-03:00", nota: "Acrescentados os 5 tipos de estrela e a cor da área de busca (MrBossFTW), o tapa no celular de quem vai chamar a polícia (MrBossFTW), a repintura por US$ 200 (Mr Lawrence) e o aviso de que não dá para começar missão procurado (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Acrescentados: polícia fora do minimapa, testemunhas e câmeras (MrDalekJD); ícones de câmera, arma à mostra e dupla (GamingBolt); estrelas vazadas (KhrazeGaming); arma longa na mão assusta e faz chamarem a polícia (KhrazeGaming, GamingBolt, CKX e Combo Infinito); teste do Thalera neutralizando rosto e traje; menus de trajes no guarda-roupa e no porta-malas; loja fechada depois de confusão (CKX)." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados o círculo azul e vermelho de busca, trocar a cor do carro na Pay n Spray, corte de cabelo e tatuagem, tirar peças de roupa com L1 e R1, e os rastreadores amarelo e vermelho (GameSpot e DPJ)." }
   - { data: "2026-11-18T18:05:00-03:00", nota: "Publicada como confirmada: o sistema de pressão aparece nos vídeos do Gameplayrj e do Gigaton Games." }
@@ -44,7 +48,11 @@ No GTA 6, fugir da polícia não termina quando as sirenes somem. A polícia con
 
 ## A polícia não aparece no minimapa
 
-Quem vem do GTA 5 estranha: as viaturas **não aparecem mais no minimapa**, então não dá para desviar delas olhando o radar. Segundo o MrDalekJD, a polícia agora te encontra por **testemunhas e câmeras**. Antes de cometer um crime, olhe em volta: quantas pessoas estão por perto e se tem câmera no prédio. Quanto menos gente vir, menos pistas a polícia tem.
+Quem vem do GTA 5 estranha: as viaturas **não aparecem mais no minimapa**, então não dá para desviar delas olhando o radar. Segundo o MrDalekJD, a polícia agora te encontra por **testemunhas e câmeras**. Antes de cometer um crime, olhe em volta: quantas pessoas estão por perto e se tem câmera no prédio. Quanto menos gente vir, menos pistas a polícia tem. O Mr Lawrence dá o mesmo aviso: sem as viaturas no radar, a fuga fica mais difícil.
+
+## Tire o celular da mão de quem vai ligar
+
+Segundo o MrBossFTW, quando alguém que você irritou pega o celular para chamar a polícia, dá para chegar perto e apertar **quadrado** (X no Xbox). O personagem dá um tapa, o celular cai e a ligação não acontece. Só não adianta quando muita gente viu: alguém acaba ligando antes de você alcançar todo mundo.
 
 ## Reconhecimento: o que a polícia sabe de você
 
@@ -71,9 +79,21 @@ O Thalera roubou um carro na frente de várias pessoas para mostrar o sistema. N
 
 A área de busca continuou marcada no mapa, mas sem nenhum ícone: a polícia seguia procurando ali, só que sem saber quem procurar.
 
-## Estrelas vazadas
+## As cores das estrelas
 
-Repare no desenho das estrelas. Segundo o KhrazeGaming, quando elas aparecem **vazadas** (só o contorno, em vermelho ou em branco), a polícia **não tem a sua descrição**. Dá até para continuar na área, desde que você não faça nada suspeito.
+As estrelas do GTA 6 mudam de cor e de desenho conforme o que a polícia sabe. O MrBossFTW explicou os cinco jeitos que elas aparecem:
+
+| Estrela | O que quer dizer |
+|---|---|
+| Só o contorno, branco | A polícia sabe que houve um crime, mas não sabe que foi você. |
+| Branca cheia | Sabem que foi você e estão te vendo. É perseguição. |
+| Cinza | Sabem que foi você, mas te perderam de vista. Continuam procurando, então saia da área de busca. |
+| Só o contorno, vermelho | Houve um crime na área onde você está, mas você não bate mais com a descrição. Não te reconhecem de cara, só que estão atentos. |
+| Vermelha cheia | Sabem que você cometeu o crime nessa área. Te perderam por enquanto, mas os policiais por perto procuram alguém com a sua descrição atual. |
+
+### Estrelas vazadas
+
+O KhrazeGaming chega à mesma conta: quando as estrelas aparecem **vazadas** (só o contorno, em vermelho ou em branco), a polícia **não tem a sua descrição**. Dá até para continuar na área, desde que você não faça nada suspeito.
 
 Ele mostrou isso num roubo de loja. Deixou o carro atrás do prédio, onde ninguém viu, então a polícia ficou só com o rosto e a roupa dele. No porta-malas, ele trocou de traje e tirou óculos e boné. Os dois ícones sumiram, e ele pôde voltar para a área marcada de vermelho sem ser incomodado.
 
@@ -91,9 +111,11 @@ O KhrazeGaming usa esse susto a favor antes de um roubo: anda com a arma longa p
 
 Segundo o GameSpot, quando alguém vê você cometendo um crime, a polícia é chamada. No mapa aparece primeiro um **círculo azul pequeno**: a área onde os policiais vão procurar. Se eles te encontram, o círculo fica **vermelho e maior**. A polícia passa no rádio a sua descrição, por exemplo "homem branco de uns 30 anos, num carro amarelo", e isso aparece no mapa.
 
+O MrBossFTW explica a cor de outro jeito: a área fica **azul** enquanto você não foi ligado ao crime e **vermelha** quando a polícia já tem ícones de reconhecimento seus. Ela sempre começa no ponto onde o crime aconteceu.
+
 ## Mude o visual para a polícia não te reconhecer
 
-- **Carro:** leve a uma **Pay 'n' Spray** e escolha **Repintar** com outra cor. Segundo o MrDalekJD, com a cor nova a viatura passa direto por você.
+- **Carro:** leve a uma **Pay 'n' Spray** e escolha **Repintar** com outra cor. Segundo o MrDalekJD, com a cor nova a viatura passa direto por você. A repintura custa **US$ 200**, segundo o Mr Lawrence. Depois de um roubo de loja pequeno, isso pode levar quase todo o lucro, e trocar de carro sai de graça.
 - **Roupa:** troque de traje numa loja de roupa, de sapato ou na Ammu-Nation. Loja de conveniência vende boné e óculos, mostrou o Thalera.
 - **Rosto:** corte o cabelo no salão ou faça uma tatuagem. O GamingBolt também sugere usar máscara.
 - **Na hora:** segure **L1 (LB no Xbox) e aperte R1 (RB)** para tirar peças, como o boné, ou mudar o jeito de usar, mostrou o DPJ. O MrDalekJD confirma o atalho.
@@ -127,6 +149,10 @@ Carro roubado continua roubado até você registrar. Veja [como roubar carro no 
 5. Coloque ou tire óculos e boné.
 6. Guarde a arma e, se estiver com a Lucia, separe a dupla.
 7. Espere a pressão baixar antes de voltar à região.
+
+## Procurado não começa missão
+
+No vídeo do Bombastic, o jogo avisou que não dá para começar uma missão enquanto a polícia está atrás de você. Se o ponto da missão estiver perto, despiste primeiro e só depois vá até lá.
 
 ## Cuidado ao pegar carro na rua
 
