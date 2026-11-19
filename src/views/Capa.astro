@@ -117,12 +117,9 @@ const alternativa = { pt: u(PAGINAS.inicio.pt), en: u(PAGINAS.inicio.en) };
             <div class="secao__cabeca">
               <h2 id="s-emalta">{en ? 'Trending now' : 'Em alta agora'}</h2>
             </div>
-            <div class="guias">
-              {emAlta.map((g, i) => (
-                <a class="guia" href={linkDica(g)}>
-                  <i aria-hidden="true">{String(i + 1).padStart(2, '0')}</i>
-                  <span><b>{g.data.titulo}</b><small>{g.data.resumo}</small></span>
-                </a>
+            <div class="grade">
+              {emAlta.slice(0, 6).map((d) => (
+                <Cartao dica={d} />
               ))}
             </div>
           </section>
