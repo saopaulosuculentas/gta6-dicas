@@ -5,6 +5,9 @@ resumo: "No GTA 6, se você ficar nadando sem barco no meio de Gambit Bay, um ca
 categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "cachorro-jet-ski-ilha-dos-cachorros-gta-6/cachorro-jet-ski.webp", legenda: "O cachorro de colete e óculos chega de jet ski enquanto o Jason nada em Gambit Bay.", canal: "ZoneX", url: "https://www.youtube.com/watch?v=xv9kuTgZrM4", minuto: "0:30"}
+  - {arquivo: "cachorro-jet-ski-ilha-dos-cachorros-gta-6/dinheiro-ilha.webp", legenda: "Na ilha, o cachorro desenterra o dinheiro: + US$ 1.218 na tela.", canal: "ZoneX", url: "https://www.youtube.com/watch?v=xv9kuTgZrM4", minuto: "1:08"}
 fontes:
   - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=xv9kuTgZrM4", titulo: "GTA 6 Secret Jet Ski Dog Location - How To Find Dog Island (Free Money)", minuto: "0:11", data: "2026-11-18T20:35:39-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:25", data: "2026-11-19T05:47:12-03:00" }

@@ -1,0 +1,32 @@
+---
+import Pagina from '../../layouts/Pagina.astro';
+import { SITE } from '../../../site.config.mjs';
+import { u } from '../../lib/util';
+---
+
+<Pagina titulo="Terms of use" descricao={`Terms of use for ${SITE.nome}.`} alternativa={{ pt: u('/termos/') }}>
+  <p>Last updated: November 19, 2026.</p>
+
+  <h2>What the site offers</h2>
+  <p>Information about GTA 6: cheats, easter eggs, secrets and tips. The content is free and meant for story mode.</p>
+
+  <h2>Use at your own discretion</h2>
+  <p>
+    We check every tip before publishing and show the source, but the game gets updates and a tip may stop working. In GTA 6, using a cheat turns
+    off trophies, achievements and saving until you quit. Save your game before trying anything.
+  </p>
+  <p>We do not publish or support cheating online. It can get your account banned by Rockstar.</p>
+
+  <h2>Rights</h2>
+  <p>
+    The text on this site is ours. You may quote an excerpt with a link back to the page. Embedded videos belong to their creators and play
+    straight from YouTube. Images taken from gameplay videos are credited to the creator and removed on request. Grand Theft Auto, GTA and
+    related names are trademarks of Take-Two Interactive and Rockstar Games, with which we have no affiliation.
+  </p>
+
+  <h2>Ads and links</h2>
+  <p>The site shows ads and may contain affiliate links, always labeled. We are not responsible for the content of third-party sites.</p>
+
+  <h2>Changes</h2>
+  <p>These terms may be updated. The date at the top shows the current version.</p>
+</Pagina>

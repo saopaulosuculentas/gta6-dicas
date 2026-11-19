@@ -2,26 +2,29 @@
 // Coluna lateral: anúncio, atalhos de seção, afiliados e anúncio alto.
 import Anuncio from './Anuncio.astro';
 import { SITE, CATEGORIAS } from '../../site.config.mjs';
-import { u, todasDicas } from '../lib/util';
-const dicas = await todasDicas();
+import { u, todasDicas, langDaUrl } from '../lib/util';
+import { T, nomeCategoria, slugCategoria, prefixo, type Categoria } from '../lib/i18n';
+const lang = langDaUrl(Astro.url.pathname);
+const t = T[lang];
+const dicas = await todasDicas(lang);
 const conta = (slug: string) => dicas.filter((d) => d.data.categoria === slug).length;
 ---
 
 <aside class="lateral">
   <Anuncio formato="retangulo" />
   <div class="caixa">
-    <h2>Seções</h2>
+    <h2>{t.secoes}</h2>
     <ul class="lista-trilhas">
-      {Object.entries(CATEGORIAS).map(([slug, c]) => <li><a href={u(`/${slug}/`)}>{c.nome} <span>{conta(slug)}</span></a></li>)}
+      {(Object.keys(CATEGORIAS) as Categoria[]).map((c) => <li><a href={u(`${prefixo(lang)}/${slugCategoria(c, lang)}/`)}>{nomeCategoria(c, lang)} <span>{conta(c)}</span></a></li>)}
     </ul>
   </div>
   <div class="caixa">
-    <h2>Como ler o selo</h2>
-    <p><strong style="color: var(--menta)">Confirmado:</strong> a mesma dica apareceu funcionando em 2 ou mais canais diferentes, ou veio da própria Rockstar.</p>
-    <p><strong style="color: var(--ambar)">Em verificação:</strong> por enquanto só uma fonte mostrou. Pode mudar.</p>
+    <h2>{t.lerSelo}</h2>
+    <p><strong style="color: var(--menta)">{t.confirmado}:</strong> {t.seloConf}</p>
+    <p><strong style="color: var(--ambar)">{t.emVerificacao}:</strong> {t.seloVerif}</p>
   </div>
   {
-    SITE.afiliados.length > 0 && (
+    SITE.afiliados.length > 0 && lang === 'pt' && (
       <div class="caixa">
         <h2>Para jogar melhor</h2>
         <ul class="afiliados">

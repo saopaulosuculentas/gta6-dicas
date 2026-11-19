@@ -1,19 +1,21 @@
 ---
 // Desenha a sequência de botões de um código, no padrão do PS5 ou do Xbox.
+import { langDaUrl } from '../lib/util';
+const ingles = langDaUrl(Astro.url.pathname) === 'en';
 interface Props { console: 'ps5' | 'xbox'; seq: readonly string[] }
 const { console: qual, seq } = Astro.props;
 
 const SETAS: Record<string, [string, string]> = {
-  cima: ['Cima', 'M9 3 3.5 10h3.7v5h3.6v-5h3.7z'],
-  baixo: ['Baixo', 'M9 15 3.5 8h3.7V3h3.6v5h3.7z'],
-  esquerda: ['Esquerda', 'M3 9l7-5.5v3.7h5v3.6h-5v3.7z'],
-  direita: ['Direita', 'M15 9 8 3.5v3.7H3v3.6h5v3.7z'],
+  cima: [ingles ? 'Up' : 'Cima', 'M9 3 3.5 10h3.7v5h3.6v-5h3.7z'],
+  baixo: [ingles ? 'Down' : 'Baixo', 'M9 15 3.5 8h3.7V3h3.6v5h3.7z'],
+  esquerda: [ingles ? 'Left' : 'Esquerda', 'M3 9l7-5.5v3.7h5v3.6h-5v3.7z'],
+  direita: [ingles ? 'Right' : 'Direita', 'M15 9 8 3.5v3.7H3v3.6h5v3.7z'],
 };
 const FORMAS: Record<string, [string, string, string]> = {
-  triangulo: ['Triângulo', 'bt--tri', '<path d="M9 3 15.5 14.5h-13z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/>'],
-  circulo: ['Círculo', 'bt--cir', '<circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
+  triangulo: [ingles ? 'Triangle' : 'Triângulo', 'bt--tri', '<path d="M9 3 15.5 14.5h-13z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/>'],
+  circulo: [ingles ? 'Circle' : 'Círculo', 'bt--cir', '<circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
   x: ['X', 'bt--xis', '<path d="M4 4l10 10M14 4 4 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>'],
-  quadrado: ['Quadrado', 'bt--qua', '<rect x="3.5" y="3.5" width="11" height="11" rx="1" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
+  quadrado: [ingles ? 'Square' : 'Quadrado', 'bt--qua', '<rect x="3.5" y="3.5" width="11" height="11" rx="1" fill="none" stroke="currentColor" stroke-width="1.9"/>'],
 };
 const LETRAS_XBOX: Record<string, string> = { a: 'bt--a', b: 'bt--b', x: 'bt--xx', y: 'bt--y' };
 
@@ -26,7 +28,7 @@ const pecas = seq.map((b) => {
 const falado = pecas.map((p) => p.nome).join(', ');
 ---
 
-<ol class="botoes" aria-label={`Sequência no ${qual === 'ps5' ? 'PS5' : 'Xbox'}: ${falado}`}>
+<ol class="botoes" aria-label={`${ingles ? `${qual === 'ps5' ? 'PS5' : 'Xbox'} sequence` : `Sequência no ${qual === 'ps5' ? 'PS5' : 'Xbox'}`}: ${falado}`}>
   {
     pecas.map((p) => (
       <li class={`bt ${p.classe}`} title={p.nome}>

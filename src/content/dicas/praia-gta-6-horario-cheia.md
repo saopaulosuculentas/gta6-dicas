@@ -5,6 +5,8 @@ resumo: "As praias do GTA 6 mudam com o horário. Perto da meia-noite ficam vazi
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/vice-city-3.webp", legenda: "Praia cheia em Vice City, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: youtube, canal: "Adams Kong", url: "https://www.youtube.com/watch?v=TvaIoe9CtA4", titulo: "COMO FUNCIONAM AS PRAIAS DO GTA 6? O REALISMO É ABSURDO!", minuto: "0:42", data: "2026-11-18T16:00:32-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"

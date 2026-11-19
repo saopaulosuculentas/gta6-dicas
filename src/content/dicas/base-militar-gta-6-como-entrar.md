@@ -5,6 +5,8 @@ resumo: "A base militar do GTA 6 é a Mile Zero Air Station, em Goose Key, no su
 categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "base-militar-gta-6-como-entrar/rampa.webp", legenda: "O monte de terra encostado na cerca da base: é a rampa do salto acrobático.", canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", minuto: "2:50"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/", titulo: "GTA 6 military base location: How to get into Mile Zero Air Station", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "2:38", data: "2026-11-18T22:01:31-03:00" }

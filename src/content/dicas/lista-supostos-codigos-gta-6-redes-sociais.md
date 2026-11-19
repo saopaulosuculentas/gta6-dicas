@@ -5,6 +5,8 @@ resumo: "Uma lista com 28 supostos códigos do GTA 6 (armas, vida, tanque, jetpa
 categoria: guias
 status: em-verificacao
 plataformas: [ps5]
+imagens:
+  - {arquivo: "oficial/vice-city-2.webp", legenda: "Vice City, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "Fascinamos (Instagram)", url: "https://www.instagram.com/p/Df4y892Eeg7/", titulo: "Esses são os códigos de trapaça do GTA 6", data: "2026-11-18T13:00:00-03:00" }
 descoberto_em: "2026-11-19T01:01:00-03:00"

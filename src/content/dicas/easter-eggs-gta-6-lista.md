@@ -5,6 +5,9 @@ resumo: "Os easter eggs do GTA 6 já encontrados: pé grande (Skunk Ape), ovo na
 categoria: easter-eggs
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/vice-city-1.webp", legenda: "O letreiro de Vice City, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
+  - {arquivo: "easter-eggs-gta-6-lista/predio-dexter.webp", legenda: "O prédio do apartamento do Dexter, em Bay Harbor. O kit fica no telhado.", canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", minuto: "1:42"}
 fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "0:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:00", data: "2026-11-19T05:47:12-03:00" }

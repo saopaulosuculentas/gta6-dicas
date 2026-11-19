@@ -5,6 +5,9 @@ resumo: "O pé grande do GTA 6 é o começo de uma missão secreta. Depois de ap
 categoria: segredos-e-locais
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "pe-grande-grassrivers-gta-6/efigie.webp", legenda: "A efígie no mato de Grassrivers, que começa a missão do Skunk Ape.", canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", minuto: "1:22"}
+  - {arquivo: "oficial/grassrivers.webp", legenda: "Grassrivers, os pântanos onde vive o Skunk Ape, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: youtube, canal: "JFM", url: "https://www.youtube.com/watch?v=QeE2hEYhHT8", titulo: "GTA 6 - The SECRET Sasquatch Quest That Unlocks a UNIQUE Sniper Rifle", minuto: "0:13", data: "2026-11-19T00:43:20-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }

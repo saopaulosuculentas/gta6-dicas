@@ -5,6 +5,8 @@ resumo: "No começo do GTA 6, o dinheiro rápido vem de ataques de gangue (US$ 2
 categoria: dinheiro
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "como-ganhar-dinheiro-gta-6/bolsa-de-espolios.webp", legenda: "Vendendo a bolsa de espólios de um ataque de gangue: + US$ 2.130.", canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", minuto: "10:02"}
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=cQxDHrld-QU", titulo: "GTA 6 - Explorando o FUNDO DO MAR pela primeira vez", minuto: "29:55", data: "2026-11-18T13:25:43-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }

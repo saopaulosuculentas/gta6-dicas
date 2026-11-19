@@ -5,6 +5,8 @@ resumo: "O aeroporto do GTA 6 é o Vice City International, no oeste de Vice-Dal
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "como-invadir-aeroporto-roubar-aviao-gta-6/aeroporto.webp", legenda: "Entrando de carro na pista do Vice City International Airport.", canal: "Polex GTA 6", url: "https://www.youtube.com/watch?v=kNvijCpb7NQ", minuto: "0:45"}
 fontes:
   - { tipo: youtube, canal: "Polex GTA 6", url: "https://www.youtube.com/watch?v=kNvijCpb7NQ", titulo: "COMO É INVADIR O AEROPORTO NO GTA 6", minuto: "0:28", data: "2026-11-18T16:32:46-03:00" }
   - { tipo: youtube, canal: "Saimon Oliveira", url: "https://www.youtube.com/watch?v=UDPN3O_eopw", titulo: "COMO ROUBAR UM AVIÃO NO GTA 6! (PASSO A PASSO)", minuto: "0:14", data: "2026-11-18T16:45:25-03:00" }

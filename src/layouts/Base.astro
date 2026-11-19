@@ -1,7 +1,8 @@
 ---
 import '../styles/global.css';
 import { SITE, INDEXAR, CATEGORIAS } from '../../site.config.mjs';
-import { u, todasDicas, ultimaRodada, videosLidos, dataHora } from '../lib/util';
+import { u, todasDicas, ultimaRodada, videosLidos, dataHora, langDaUrl } from '../lib/util';
+import { T, PAGINAS, nomeCategoria, slugCategoria, prefixo, type Categoria } from '../lib/i18n';
 
 interface Props {
   titulo?: string;
@@ -11,12 +12,18 @@ interface Props {
   tipo?: 'website' | 'article';
   jsonld?: Record<string, unknown> | Record<string, unknown>[];
   noindex?: boolean;
+  /** endereços da mesma página na outra língua (já com u()). Sem a outra versão, o seletor leva para a capa. */
+  alternativa?: { pt?: string; en?: string };
+  /** imagem de capa da página (já com u()); sem ela usa a imagem padrão do site */
+  imagem?: string;
 }
-const { titulo, tituloSeo, descricao = SITE.descricao, tipo = 'website', jsonld, noindex = false } = Astro.props;
+const lang = langDaUrl(Astro.url.pathname);
+const t = T[lang];
+const { titulo, tituloSeo, descricao = lang === 'en' ? 'GTA 6 cheats, easter eggs, secrets and money tips for PS5 and Xbox, checked against gameplay videos before going live.' : SITE.descricao, tipo = 'website', jsonld, noindex = false, alternativa = {}, imagem: imagemPagina } = Astro.props;
 const tituloBase = tituloSeo ?? titulo;
 // o nome do site só entra no título quando cabe (o Google corta por volta de 60 letras)
-const tituloPagina = tituloBase ? (tituloBase.length <= 42 ? `${tituloBase} | ${SITE.nome}` : tituloBase) : 'Códigos e macetes do GTA 6 para PS5 e Xbox | Macetes GTA 6';
-const imagem = new URL(u('/og.png'), Astro.site).href;
+const tituloPagina = tituloBase ? (tituloBase.length <= 42 ? `${tituloBase} | ${SITE.nome}` : tituloBase) : t.tituloPadrao;
+const imagem = new URL(imagemPagina ?? u('/og.png'), Astro.site).href;
 const organizacao = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
@@ -25,16 +32,24 @@ const organizacao = {
   logo: new URL(u('/favicon.svg'), Astro.site).href,
 };
 const canonica = new URL(Astro.url.pathname, Astro.site).href;
-const dicas = await todasDicas();
+const abs = (p: string) => new URL(p, Astro.site).href;
+// versões da página: a atual e, se existir, a da outra língua
+const versoes: { pt?: string; en?: string } = { ...alternativa, [lang]: Astro.url.pathname };
+const outra = lang === 'en' ? 'pt' : 'en';
+const linkOutra = versoes[outra] ?? u(PAGINAS.inicio[outra]);
+const dicas = await todasDicas(lang);
 const confirmadas = dicas.filter((d) => d.data.status === 'confirmado').length;
 const caminho = Astro.url.pathname;
 const ativo = (p: string) => (caminho.startsWith(u(p)) ? 'page' : undefined);
 const temExemplo = dicas.some((d) => d.id.startsWith('exemplos/'));
 const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jsonld]) : [])];
+const cats = Object.keys(CATEGORIAS) as Categoria[];
+const linkCat = (c: Categoria) => u(`${prefixo(lang)}/${slugCategoria(c, lang)}/`);
+const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
 ---
 
 <!doctype html>
-<html lang="pt-BR">
+<html lang={t.htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,15 +63,17 @@ const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jso
     <meta property="og:title" content={titulo ?? SITE.nome} />
     <meta property="og:description" content={descricao} />
     <meta property="og:url" content={canonica} />
-    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:locale" content={t.ogLocale} />
     <meta property="og:image" content={imagem} />
     <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image:height" content={imagemPagina ? '675' : '630'} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={titulo ?? SITE.nome} />
     <meta name="twitter:description" content={descricao} />
     <meta name="twitter:image" content={imagem} />
-    <link rel="alternate" hreflang="pt-BR" href={canonica} />
+    {versoes.pt && <link rel="alternate" hreflang="pt-BR" href={abs(versoes.pt)} />}
+    {versoes.en && <link rel="alternate" hreflang="en" href={abs(versoes.en)} />}
+    {versoes.pt && versoes.en && <link rel="alternate" hreflang="x-default" href={abs(versoes.en)} />}
     {SITE.googleVerificacao && <meta name="google-site-verification" content={SITE.googleVerificacao} />}
     {SITE.bingVerificacao && <meta name="msvalidate.01" content={SITE.bingVerificacao} />}
     <link rel="icon" type="image/svg+xml" href={u('/favicon.svg')} />
@@ -97,24 +114,27 @@ const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jso
     }
     <header class="topo">
       <div class="miolo">
-        <a class="marca" href={u('/')} aria-label={`${SITE.nome}, página inicial`}>
+        <a class="marca" href={pag('inicio')} aria-label={`${SITE.nome}, ${lang === 'en' ? 'home page' : 'página inicial'}`}>
           <span class="marca__letreiro">Macetes</span>
           <span class="marca__tag">GTA 6</span>
         </a>
-        <nav class="menu" aria-label="Seções">
-          {Object.entries(CATEGORIAS).map(([slug, c]) => <a href={u(`/${slug}/`)} aria-current={ativo(`/${slug}/`)}>{c.nome}</a>)}
-          <a href={u('/novidades/')} aria-current={ativo('/novidades/')}>Novidades</a>
+        <nav class="menu" aria-label={t.secoes}>
+          {cats.map((c) => <a href={linkCat(c)} aria-current={ativo(`${prefixo(lang)}/${slugCategoria(c, lang)}/`)}>{nomeCategoria(c, lang)}</a>)}
+          <a href={pag('novidades')} aria-current={ativo(PAGINAS.novidades[lang])}>{t.novidades}</a>
+          <a class="idioma" href={linkOutra} hreflang={outra === 'en' ? 'en' : 'pt-BR'} lang={outra === 'en' ? 'en' : 'pt-BR'} aria-label={t.idioma}>
+            <span aria-hidden="true">{lang === 'pt' ? 'PT' : 'EN'}</span> | <b>{outra === 'en' ? 'EN' : 'PT'}</b>
+          </a>
         </nav>
       </div>
       <div class="faixa">
         <div class="miolo">
           <span>
             <i class="pisca"></i>
-            {ultimaRodada ? <>Última checagem: <strong>{dataHora(ultimaRodada)}</strong></> : <>Agente de checagem: <strong>começa no lançamento, 19/11</strong></>}
+            {ultimaRodada ? <>{t.ultimaChecagem}: <strong>{dataHora(ultimaRodada, lang)}</strong></> : <>{t.agenteComeca}: <strong>{t.agenteComecaTxt}</strong></>}
           </span>
-          <span><strong>{dicas.length}</strong> {dicas.length === 1 ? 'dica no ar' : 'dicas no ar'}</span>
-          <span><strong>{confirmadas}</strong> {confirmadas === 1 ? 'confirmada' : 'confirmadas'}</span>
-          {videosLidos > 0 && <span><strong>{videosLidos}</strong> vídeos e lives lidos</span>}
+          <span><strong>{dicas.length}</strong> {dicas.length === 1 ? t.dicaNoAr : t.dicasNoAr}</span>
+          <span><strong>{confirmadas}</strong> {confirmadas === 1 ? t.confirmada : t.confirmadas}</span>
+          {videosLidos > 0 && <span><strong>{videosLidos}</strong> {t.videosLidos}</span>}
         </div>
       </div>
     </header>
@@ -125,45 +145,44 @@ const blocos = [organizacao, ...(jsonld ? (Array.isArray(jsonld) ? jsonld : [jso
       <div class="miolo">
         <div>
           <h2>{SITE.nome}</h2>
-          <p>
-            Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.
-          </p>
-          <p>
-            Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.
-          </p>
+          <p>{t.rodapeSobre}</p>
+          <p>{t.rodapeMarca}</p>
         </div>
         <div>
-          <h2>Seções</h2>
+          <h2>{t.secoes}</h2>
           <ul>
-            {Object.entries(CATEGORIAS).map(([slug, c]) => <li><a href={u(`/${slug}/`)}>{c.nome}</a></li>)}
-            <li><a href={u('/novidades/')}>Novidades</a></li>
-            {SITE.canalCortes && <li><a href={SITE.canalCortes} target="_blank" rel="noopener">Nosso canal de cortes</a></li>}
+            {cats.map((c) => <li><a href={linkCat(c)}>{nomeCategoria(c, lang)}</a></li>)}
+            <li><a href={pag('novidades')}>{t.novidades}</a></li>
+            {SITE.canalCortes && lang === 'pt' && <li><a href={SITE.canalCortes} target="_blank" rel="noopener">{t.canalCortes}</a></li>}
           </ul>
         </div>
         <div>
-          <h2>O site</h2>
+          <h2>{t.oSite}</h2>
           <ul>
-            <li><a href={u('/como-verificamos/')}>Como verificamos</a></li>
-            <li><a href={u('/sobre/')}>Sobre</a></li>
-            <li><a href={u('/contato/')}>Contato</a></li>
-            <li><a href={u('/politica-de-privacidade/')}>Política de privacidade</a></li>
-            <li><a href={u('/termos/')}>Termos de uso</a></li>
+            <li><a href={pag('verificamos')}>{t.comoVerificamos}</a></li>
+            <li><a href={pag('sobre')}>{t.sobre}</a></li>
+            <li><a href={pag('contato')}>{t.contato}</a></li>
+            <li><a href={pag('privacidade')}>{t.privacidade}</a></li>
+            <li><a href={pag('termos')}>{t.termos}</a></li>
+            <li><a href={linkOutra} hreflang={outra === 'en' ? 'en' : 'pt-BR'}>{t.outraLingua}</a></li>
           </ul>
         </div>
       </div>
       <div class="rodape__fim">
-        <div class="miolo">© {new Date().getFullYear()} {SITE.nome}. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div>
+        <div class="miolo">© {new Date().getFullYear()} {SITE.nome}. {t.rodapeFim}</div>
       </div>
     </footer>
 
-    <script is:inline>
-      // "há 2 h" nos horários marcados com data-relativo
+    <script is:inline define:vars={{ ingles: lang === 'en' }}>
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
       (function () {
         var agora = Date.now();
         document.querySelectorAll('time[data-relativo]').forEach(function (t) {
           var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
           if (isNaN(min) || min < 0) return;
-          var txt = min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
           if (txt) { t.title = t.textContent; t.textContent = txt; }
         });
       })();

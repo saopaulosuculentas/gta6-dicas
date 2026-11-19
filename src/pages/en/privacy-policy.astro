@@ -1,0 +1,54 @@
+---
+import Pagina from '../../layouts/Pagina.astro';
+import { SITE } from '../../../site.config.mjs';
+import { u } from '../../lib/util';
+---
+
+<Pagina titulo="Privacy policy" descricao={`What data ${SITE.nome} uses, why, and how you control it.`} alternativa={{ pt: u('/politica-de-privacidade/') }}>
+  <p>Last updated: November 19, 2026.</p>
+
+  <h2>What the site collects on its own</h2>
+  <p>
+    Nothing that identifies you. There are no accounts, comments or forms. The only thing we store on your device is your console choice (PS5
+    or Xbox) in the cheats table, and it never leaves your browser.
+  </p>
+
+  <h2>Google ads</h2>
+  <p>
+    The site shows ads through Google AdSense. Google and its partners use cookies and identifiers to show ads based on your visits to this and
+    other sites, and to measure how those ads perform.
+  </p>
+  <ul>
+    <li>You can turn off personalized ads at <a href="https://adssettings.google.com" target="_blank" rel="noopener">adssettings.google.com</a>.</li>
+    <li>Learn how Google uses data from partner sites at <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">policies.google.com/technologies/partner-sites</a>.</li>
+  </ul>
+
+  <h2>Visit statistics (Google Analytics)</h2>
+  <p>
+    We use Google Analytics to count how many people visit the site, which pages are read most and where visits come from (search, social media,
+    direct). It uses cookies and receives data such as device type, browser and approximate region. We do not use this data to identify anyone.
+    You can block it with the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics opt-out add-on</a>
+    or in your browser's cookie settings.
+  </p>
+
+  <h2>YouTube videos</h2>
+  <p>
+    Videos only load when you click to watch, and they use YouTube's privacy-enhanced mode (youtube-nocookie.com). From that click on, YouTube's
+    privacy rules apply.
+  </p>
+
+  <h2>Fonts and hosting</h2>
+  <p>
+    Fonts come from Google Fonts and pages are delivered by a hosting service. Like any website, these services receive your device's IP address
+    in order to deliver the content.
+  </p>
+
+  <h2>Your rights</h2>
+  <p>
+    You can ask for information about, correction of, or deletion of any personal data we hold about you. Since the site stores no personal data,
+    in practice this applies to messages you send through the <a href={u('/en/contact/')}>contact page</a>.
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>If anything changes, this page is updated and the date at the top changes too.</p>
+</Pagina>

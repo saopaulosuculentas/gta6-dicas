@@ -5,6 +5,8 @@ resumo: "Sim: no GTA 6, quando você morre, o dinheiro da carteira zera. O que e
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "dinheiro-ao-morrer-guardar-em-casa-gta-6/saldos.webp", legenda: "Os dois saldos no canto da tela: US$ 500 na carteira e US$ 3.189 guardados em casa.", canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", minuto: "1:35"}
 fontes:
   - { tipo: youtube, canal: "Ikoma Games", url: "https://www.youtube.com/watch?v=fHX_Xw1NZjI", titulo: "GTA 6: Como Ganhar DINHEIRO RÁPIDO no Começo (7 Dicas)", minuto: "1:45", data: "2026-11-18T15:45:05-03:00" }
 descoberto_em: "2026-11-19T08:30:00-03:00"

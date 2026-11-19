@@ -1,0 +1,48 @@
+---
+import Pagina from '../../layouts/Pagina.astro';
+import { SITE } from '../../../site.config.mjs';
+import { u } from '../../lib/util';
+---
+
+<Pagina titulo="How we verify" descricao={`How ${SITE.nome} finds, checks and publishes GTA 6 cheats, easter eggs and secrets.`} alternativa={{ pt: u('/como-verificamos/') }}>
+  <p>
+    The internet is full of "GTA 6 cheats" that don't work. Our rule is simple: only what someone has shown working in the game gets published,
+    and you always see who showed it.
+  </p>
+
+  <h2>Where the tips come from</h2>
+  <p>
+    We follow GTA 6 videos and streams on YouTube several times a day. An AI program reads the transcripts, picks out the parts about cheats,
+    secrets, easter eggs and money, and when a detail only appears on screen (a button sequence, a spot on the map) it checks the frame at that
+    moment.
+  </p>
+  <p>
+    We also follow what Rockstar Games publishes and the articles of major gaming outlets. An official source counts on its own. A press article
+    counts as one source and needs a second one before the tip gets the confirmed badge.
+  </p>
+  <p>
+    The English pages use English-language sources: the video embedded on each page, at the exact timestamp, is in English. The text is written
+    from scratch by us, and credit for the find goes to whoever found it.
+  </p>
+
+  <h2>What each badge means</h2>
+  <ul>
+    <li><strong>Confirmed:</strong> the same information showed up in at least two independent sources (channels or major outlets), or came from Rockstar Games itself.</li>
+    <li><strong>Unverified:</strong> only one source has shown it so far. We publish so you don't miss out, but it may still change.</li>
+  </ul>
+  <p>If an unverified tip turns out to be false, it comes down. If a confirmed tip changes after a game update, the page is corrected and the change is logged in its history.</p>
+
+  <h2>What we never publish</h2>
+  <ul>
+    <li>Rumors, "leaks" and cheat lists published before launch.</li>
+    <li>Hacks, paid mods and anything that gives an advantage online.</li>
+    <li>"Money generators" and sites that ask for your account login. Those are scams.</li>
+    <li>Codes we couldn't read with certainty. No guessing.</li>
+  </ul>
+
+  <h2>Images</h2>
+  <p>
+    Some pages show a frame from the gameplay video they are based on, with the creator credited and a link to the video at that moment. We only
+    use the game image, never the creator's face or logo. If you are the creator and want it removed, <a href={u('/en/contact/')}>contact us</a>.
+  </p>
+</Pagina>

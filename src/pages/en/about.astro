@@ -1,0 +1,27 @@
+---
+import Pagina from '../../layouts/Pagina.astro';
+import { SITE } from '../../../site.config.mjs';
+import { u } from '../../lib/util';
+---
+
+<Pagina titulo="About" descricao={`What ${SITE.nome} is, who runs it and how the site pays for itself.`} alternativa={{ pt: u('/sobre/') }}>
+  <p>
+    {SITE.nome} is an independent fan site with a single topic: GTA 6 cheats, easter eggs, secrets and tips, written plainly and without filler.
+    It started in Brazilian Portuguese, and this English edition covers the same finds for English-speaking players.
+  </p>
+  <h2>Why this site exists</h2>
+  <p>
+    GTA 6 discoveries are spread across hundreds of videos, streams and articles. We pull them into one place, show exactly where each one came
+    from, and keep what has been confirmed separate from what only one source has shown so far.
+  </p>
+  <h2>How the site pays for itself</h2>
+  <p>
+    The site is free and supported by ads. Ads are labeled and never decide what we publish. If we ever use affiliate links, they will be marked.
+  </p>
+  <h2>Not affiliated with Rockstar</h2>
+  <p>
+    This is a fan site. We have no connection to Rockstar Games or Take-Two Interactive. Grand Theft Auto, GTA and the names in the game are
+    trademarks of their owners.
+  </p>
+  <p>See also <a href={u('/en/how-we-verify/')}>how we verify each tip</a>.</p>
+</Pagina>

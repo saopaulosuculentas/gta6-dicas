@@ -11,8 +11,8 @@ Rode todos os comandos de dentro de `C:\Users\luanp\gta6-dicas`.
 3. **Código só com certeza.** Legenda automática erra nome de botão. Antes de publicar uma sequência, confira no quadro do vídeo (`quadros.py`). Se não deu para ler com certeza na fala nem no quadro, a dica não sai.
 4. **Fora de cogitação:** hack, trainer, mod pago, trapaça ou vantagem no modo online, "gerador de dinheiro", site que pede login, download de qualquer coisa. Isso derruba o AdSense.
 5. **Texto próprio.** Nunca copie a fala do vídeo. Explique com as suas palavras e dê o crédito ao canal, com o link no minuto certo.
-6. **Nenhuma imagem de vídeo no site.** Os quadros servem só para você conferir.
-7. **Não mexa** em `site.config.mjs`, `src/pages`, `src/components`, `src/layouts`, nos scripts nem nesta rotina. Seu território é `src/content/dicas/*.md`, `agente/canais.json` e os arquivos de `dados/`.
+6. **Imagem de vídeo só com as regras** (decisão do Luan em 19/11/2026): só a imagem do jogo, sem rosto, câmera, logo, marca d'água ou nome do canal (recorte com `--corte`); no máximo 3 por dica; sempre com legenda e crédito (canal, link, minuto). Se um criador pedir, a imagem sai na hora. Imagens oficiais da Rockstar ficam em `public/img/oficial/` e podem ser usadas em qualquer dica, com crédito "Rockstar Games".
+7. **Não mexa** em `site.config.mjs`, `src/pages`, `src/components`, `src/layouts`, nos scripts nem nesta rotina. Seu território é `src/content/dicas/*.md`, `src/content/dicas-en/*.md`, `public/img/<dica>/`, `agente/canais.json` e os arquivos de `dados/`.
 8. Nunca toque em `src/content/dicas/exemplos/`.
 
 ## Passo a passo
@@ -136,6 +136,25 @@ Como escrever o texto:
 - Pense em quem digitou a pergunta no Google: o título diz exatamente o que a página responde, a primeira frase já responde, e o `resumo` (que vira a descrição no Google) repete a resposta em uma linha.
 - Ligue as páginas entre si: se a dica cita outra dica ou guia do site, ponha o link relativo, que funciona em qualquer endereço: `[texto](../nome-do-arquivo/)` para outra dica e `[texto](../../codigos/)` para uma seção.
 - Não prometa o que o vídeo não mostrou. Se algo ficou incerto, diga que ficou incerto.
+
+### 4b. Imagem da dica
+Toda dica nova ganha pelo menos uma imagem (a primeira vira a capa da página e do cartão):
+```
+python agente/quadros.py ID_DO_VIDEO 4:12        # olhe os quadros
+python agente/imagem.py agente/quadros/ID/4-12_02.jpg nome-da-dica nome-curto --corte X,Y,L,A
+```
+Escolha um quadro que mostre o que a dica diz (o local, o item, o resultado na tela). Se tiver câmera do streamer ou marca, recorte. No cabeçalho:
+`imagens:` e a linha `  - { arquivo: "nome-da-dica/nome-curto.webp", legenda: "o que aparece", canal: "Canal", url: "https://www.youtube.com/watch?v=...", minuto: "4:12" }`.
+Sem quadro bom, use uma imagem oficial: `{ arquivo: "oficial/vice-city-1.webp", legenda: "...", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }`.
+
+### 4c. Versão em inglês
+O site tem versão em inglês em `/en/` (pasta `src/content/dicas-en/`). Para cada dica nova que tenha **fonte em inglês** (vídeo de canal que fala inglês ou site da lista `imprensa` em inglês), escreva também a versão em inglês:
+- Nome do arquivo em inglês, no jeito que o americano busca: `gta-6-jet-ski-dog-location.md`.
+- Campo `pt: "nome-da-dica-em-portugues"` liga as duas versões.
+- **Só fontes em inglês** na versão em inglês. O vídeo da página precisa ser em inglês. Se a dica só tem fonte brasileira, ela não ganha versão em inglês até aparecer fonte em inglês.
+- Texto escrito em inglês, do zero (não traduza frase a frase). Título e `titulo_seo` com as palavras que se buscam em inglês ("GTA 6 cheats", "location", "how to").
+- Links entre páginas em inglês: `[text](../outra-dica-en/)` e `[text](../../cheats/)`.
+- As mesmas regras de selo, fontes e proibições valem.
 
 ### 5. Canais de confiança
 Quando um canal tiver 2 dicas que viraram `confirmado`, acrescente-o em `agente/canais.json` com `"confianca": "alta"`. Se um canal publicou algo que se mostrou falso, tire-o de lá.

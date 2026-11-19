@@ -453,3 +453,41 @@ h1, h2, h3 { font-family: var(--f-titulo); font-weight: 800; line-height: 0.95; 
 .texto th { text-align: left; font-family: var(--f-titulo); font-size: 1.15rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ambar); padding: 8px 12px; border-bottom: 2px solid var(--linha); }
 .texto td { padding: 9px 12px; border-bottom: 1px dashed var(--linha); vertical-align: top; }
 .texto tr:last-child td { border-bottom: 0; }
+
+/* ---------- seletor de idioma ---------- */
+.menu a.idioma { margin-left: 6px; border: 1px solid var(--linha); color: var(--nevoa); font-size: 0.78rem; letter-spacing: 0.06em; }
+.menu a.idioma b { color: var(--ambar); font-weight: 700; }
+.menu a.idioma:hover { border-color: var(--ambar); }
+
+/* ---------- imagens do jogo (quadros de vídeo com crédito) ---------- */
+.figura { margin: 22px 0; border-radius: var(--raio); overflow: hidden; border: 1px solid var(--linha); background: var(--placa); }
+.figura img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.figura figcaption { padding: 10px 14px 12px; font-size: 0.88rem; color: #cfc8da; line-height: 1.45; }
+.figura figcaption span { display: block; margin-top: 4px; font-size: 0.76rem; color: var(--nevoa); }
+.figura figcaption a { color: var(--ambar); }
+.figura--capa { margin-top: 6px; }
+
+/* imagem no topo dos cartões */
+.cartao__img { margin: -18px -18px 4px; aspect-ratio: 16 / 9; overflow: hidden; border-radius: var(--raio) var(--raio) 0 0; background: var(--placa-2); }
+.cartao__img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.35s ease; }
+.cartao:hover .cartao__img img { transform: scale(1.04); }
+
+/* ---------- carrossel de imagens oficiais (capa) ---------- */
+.carrossel { margin-top: 8px; margin-bottom: 8px; }
+.carrossel__trilho { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; border-radius: var(--raio); border: 1px solid var(--linha); }
+.carrossel__trilho::-webkit-scrollbar { display: none; }
+.carrossel__item { position: relative; flex: 0 0 100%; scroll-snap-align: start; aspect-ratio: 21 / 9; overflow: hidden; display: block; color: var(--papel); text-decoration: none; }
+.carrossel__item img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.6s ease; }
+.carrossel__item:hover img { transform: scale(1.03); }
+.carrossel__texto { position: absolute; left: 0; right: 0; bottom: 0; padding: 48px 22px 18px; background: linear-gradient(to top, rgba(13, 9, 22, 0.92), rgba(13, 9, 22, 0)); display: flex; flex-direction: column; gap: 2px; }
+.carrossel__texto small { font-family: var(--f-titulo); font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ambar); font-size: 0.9rem; }
+.carrossel__texto b { font-family: var(--f-titulo); font-weight: 700; font-size: clamp(1.4rem, 3.2vw, 2.3rem); line-height: 1.02; }
+.carrossel__controles { display: flex; align-items: center; justify-content: center; gap: 14px; margin-top: 10px; }
+.carrossel__controles button { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--linha); background: var(--placa); color: var(--papel); font-size: 1.3rem; line-height: 1; cursor: pointer; }
+.carrossel__controles button:hover { border-color: var(--rosa); }
+.carrossel__pontos { display: flex; gap: 6px; }
+.carrossel__pontos span { width: 7px; height: 7px; border-radius: 50%; background: var(--linha); transition: background 0.2s, width 0.2s; }
+.carrossel__pontos span.ativo { background: var(--por-do-sol); width: 20px; border-radius: 4px; }
+.carrossel__credito { text-align: center; margin: 6px 0 0; font-size: 0.72rem; color: var(--nevoa); }
+@media (max-width: 640px) { .carrossel__item { aspect-ratio: 16 / 10; } .carrossel__texto { padding: 36px 14px 12px; } }
+html[lang='en'] .anuncio::before { content: 'Advertisement'; }

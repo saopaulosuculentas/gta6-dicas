@@ -17,10 +17,8 @@ const fonte = z.object({
   data: z.coerce.date(),
 });
 
-const dicas = defineCollection({
-  // As dicas da pasta exemplos/ só aparecem no modo de teste (npm run dev). Nunca vão ao ar.
-  loader: glob({ pattern: import.meta.env.DEV ? '**/*.md' : ['**/*.md', '!exemplos/**'], base: './src/content/dicas' }),
-  schema: z
+const esquema = (_lang: 'pt' | 'en') =>
+  z
     .object({
       titulo: z.string().min(10).max(95),
       // título que aparece no Google (até 60 letras). Vazio = usa o título da página.
@@ -47,6 +45,13 @@ const dicas = defineCollection({
       perguntas: z.array(z.object({ p: z.string().min(8), r: z.string().min(20) })).default([]),
       // cortes curtos do nosso canal que mostram a dica (links do YouTube)
       cortes: z.array(z.object({ url: z.string().url(), titulo: z.string(), canal: z.string().optional() })).default([]),
+      // quadros do vídeo (só imagem do jogo, sem rosto nem marca do criador), com crédito. Arquivo em public/img/.
+      imagens: z
+        .array(z.object({ arquivo: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+\.(webp|jpg)$/), legenda: z.string().min(10), canal: z.string(), url: z.string().url(), minuto: z.string().regex(/^(\d{1,2}:)?\d{1,2}:\d{2}$/).optional() }))
+        .max(3)
+        .default([]),
+      // só nas dicas em inglês: nome do arquivo da versão em português (liga as duas versões para o Google)
+      pt: z.string().optional(),
     })
     .refine(
       (d) => {
@@ -59,7 +64,18 @@ const dicas = defineCollection({
     )
     .refine((d) => d.categoria !== 'codigos' || d.codigo, {
       message: 'dica da categoria "codigos" precisa do campo "codigo"',
-    }),
+    });
+
+const dicas = defineCollection({
+  // As dicas da pasta exemplos/ só aparecem no modo de teste (npm run dev). Nunca vão ao ar.
+  loader: glob({ pattern: import.meta.env.DEV ? '**/*.md' : ['**/*.md', '!exemplos/**'], base: './src/content/dicas' }),
+  schema: esquema('pt'),
 });
 
-export const collections = { dicas };
+// Versão em inglês: texto escrito em inglês, com fontes em inglês. Campo "pt" aponta a versão em português.
+const dicasEn = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/dicas-en' }),
+  schema: esquema('en'),
+});
+
+export const collections = { dicas, dicasEn };

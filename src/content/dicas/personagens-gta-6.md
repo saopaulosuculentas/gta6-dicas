@@ -5,6 +5,8 @@ resumo: "Jason Duval e Lucia Caminos são os protagonistas do GTA 6. A Rockstar 
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/lucia.webp", legenda: "Lucia Caminos, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/only-in-leonida", titulo: "Página oficial do GTA VI: personagens e lugares", data: "2026-11-18T16:00:00-03:00" }
 descoberto_em: "2026-11-18T16:06:00-03:00"

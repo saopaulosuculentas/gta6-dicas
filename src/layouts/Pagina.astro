@@ -1,13 +1,16 @@
 ---
 import Base from './Base.astro';
-import { u } from '../lib/util';
-interface Props { titulo: string; descricao: string }
-const { titulo, descricao } = Astro.props;
+import { u, langDaUrl } from '../lib/util';
+import { T, PAGINAS } from '../lib/i18n';
+interface Props { titulo: string; descricao: string; alternativa?: { pt?: string; en?: string } }
+const { titulo, descricao, alternativa } = Astro.props;
+const lang = langDaUrl(Astro.url.pathname);
+const t = T[lang];
 ---
 
-<Base titulo={titulo} descricao={descricao}>
+<Base titulo={titulo} descricao={descricao} alternativa={alternativa}>
   <header class="cabeca-pagina miolo">
-    <nav class="trilho" aria-label="Você está em"><a href={u('/')}>Início</a> <span>/</span> <span>{titulo}</span></nav>
+    <nav class="trilho" aria-label={t.voceEsta}><a href={u(PAGINAS.inicio[lang])}>{t.inicio}</a> <span>/</span> <span>{titulo}</span></nav>
     <h1>{titulo}</h1>
   </header>
   <main class="miolo texto" style="padding-bottom: 40px"><slot /></main>

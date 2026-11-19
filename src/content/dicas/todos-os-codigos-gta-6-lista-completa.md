@@ -5,6 +5,8 @@ resumo: "O GTA 6 tem 61 códigos (cheats) para PS5 e Xbox: dinheiro, munição, 
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason e Lucia, os protagonistas do GTA 6, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }

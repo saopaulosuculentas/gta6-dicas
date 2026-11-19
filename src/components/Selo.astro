@@ -1,7 +1,10 @@
 ---
+import { langDaUrl } from '../lib/util';
+import { T } from '../lib/i18n';
 interface Props { status: 'confirmado' | 'em-verificacao'; canais?: number }
 const { status, canais } = Astro.props;
-const extra = canais ? ` · ${canais} ${canais > 1 ? 'fontes' : 'fonte'}` : '';
+const t = T[langDaUrl(Astro.url.pathname)];
+const extra = canais ? ` · ${canais} ${canais > 1 ? t.fontes : t.fonte}` : '';
 ---
 
 <span class={`selo selo--${status}`}>
@@ -9,10 +12,10 @@ const extra = canais ? ` · ${canais} ${canais > 1 ? 'fontes' : 'fonte'}` : '';
     status === 'confirmado' ? (
       <>
         <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" /></svg>
-        Confirmado{extra}
+        {t.confirmado}{extra}
       </>
     ) : (
-      <>Em verificação{extra}</>
+      <>{t.emVerificacao}{extra}</>
     )
   }
 </span>

@@ -5,6 +5,8 @@ resumo: "No GTA 6 há hidroaviões e um helicóptero sem ninguém tomando conta 
 categoria: segredos-e-locais
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/leonida-keys.webp", legenda: "Os Leonida Keys, região da casa do Jason, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/", titulo: "GTA 6: Where to find your first plane and helicopter right away", data: "2026-11-18T19:51:00-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"

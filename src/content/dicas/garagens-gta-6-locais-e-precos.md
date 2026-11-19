@@ -5,6 +5,8 @@ resumo: "O GTA 6 tem 10 garagens. Duas são de graça pela história e as outras
 categoria: guias
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, onde fica uma das garagens de graça, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }

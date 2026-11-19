@@ -5,6 +5,8 @@ resumo: "No GTA 6 roubar carro mudou: vários carros têm alarme, os sem chave n
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/jason.webp", legenda: "Jason numa moto em Leonida, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-clone-keys/", titulo: "How to clone keys in GTA 6", data: "2026-11-18T15:21:00-03:00" }

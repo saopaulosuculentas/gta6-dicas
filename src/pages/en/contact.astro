@@ -1,0 +1,16 @@
+---
+import Pagina from '../../layouts/Pagina.astro';
+import { SITE } from '../../../site.config.mjs';
+import { u } from '../../lib/util';
+---
+
+<Pagina titulo="Contact" descricao={`Get in touch with ${SITE.nome}: corrections, tip suggestions and requests from creators.`} alternativa={{ pt: u('/contato/') }}>
+  <p>Write to us when:</p>
+  <ul>
+    <li>a tip is wrong or stops working after a game update;</li>
+    <li>you found a cheat, easter egg or secret that is not here yet (send the video);</li>
+    <li>you are the creator of a video or image we credit and want to change the credit or have it removed.</li>
+  </ul>
+  {SITE.emailContato && <p>Email: <a href={`mailto:${SITE.emailContato}`}>{SITE.emailContato}</a></p>}
+  <p>Corrections and requests from creators are answered first. Removal requests are handled within 24 hours.</p>
+</Pagina>

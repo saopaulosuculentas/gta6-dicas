@@ -5,6 +5,8 @@ resumo: "No mangue de Grassrivers existe uma figura de tronco e cipó que os jog
 categoria: easter-eggs
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "pe-grande-grassrivers-gta-6/efigie.webp", legenda: "A efígie de tronco e cipó no mangue de Grassrivers. Ao examinar, o Jason apaga.", canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", minuto: "1:22"}
 fontes:
   - { tipo: youtube, canal: "JFM", url: "https://www.youtube.com/watch?v=QeE2hEYhHT8", titulo: "GTA 6 - The SECRET Sasquatch Quest That Unlocks a UNIQUE Sniper Rifle", minuto: "0:13", data: "2026-11-19T00:43:20-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }

@@ -5,6 +5,8 @@ resumo: "No GTA 6 o paraquedas é comprado uma vez na Ammu-Nation que vende roup
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/mount-kalaga.webp", legenda: "Mount Kalaga, onde há um paraquedas no pico mais alto, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-parachute-how-to-get/", titulo: "Parachute locations in GTA 6: Where to buy one", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "Polex GTA 6", url: "https://www.youtube.com/watch?v=kNvijCpb7NQ", titulo: "COMO É INVADIR O AEROPORTO NO GTA 6", minuto: "7:35", data: "2026-11-18T16:32:46-03:00" }

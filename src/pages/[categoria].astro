@@ -1,102 +1,12 @@
 ---
-import Base from '../layouts/Base.astro';
-import Cartao from '../components/Cartao.astro';
-import Anuncio from '../components/Anuncio.astro';
-import Lateral from '../components/Lateral.astro';
-import TabelaCodigos from '../components/TabelaCodigos.astro';
-import SemCodigos from '../components/SemCodigos.astro';
+import Categoria from '../views/Categoria.astro';
 import { CATEGORIAS } from '../../site.config.mjs';
-import { u, todasDicas, linkDica } from '../lib/util';
+import type { Categoria as Cat } from '../lib/i18n';
 
 export function getStaticPaths() {
   return Object.keys(CATEGORIAS).map((categoria) => ({ params: { categoria } }));
 }
-const { categoria } = Astro.params as { categoria: keyof typeof CATEGORIAS };
-const c = CATEGORIAS[categoria];
-const dicas = (await todasDicas()).filter((d) => d.data.categoria === categoria);
-const ehCodigos = categoria === 'codigos';
-
-const jsonld = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Início', item: new URL(u('/'), Astro.site).href },
-      { '@type': 'ListItem', position: 2, name: c.nome, item: new URL(u(`/${categoria}/`), Astro.site).href },
-    ],
-  },
-  ...(dicas.length
-    ? [{
-        '@context': 'https://schema.org',
-        '@type': 'ItemList',
-        name: c.titulo,
-        itemListElement: dicas.map((d, i) => ({ '@type': 'ListItem', position: i + 1, name: d.data.titulo, url: new URL(linkDica(d), Astro.site).href })),
-      }]
-    : []),
-];
+const { categoria } = Astro.params as { categoria: Cat };
 ---
 
-<Base titulo={c.titulo} descricao={c.descricao} jsonld={jsonld}>
-  <header class="cabeca-pagina miolo">
-    <nav class="trilho" aria-label="Você está em"><a href={u('/')}>Início</a> <span>/</span> <span>{c.nome}</span></nav>
-    <h1>{c.titulo}</h1>
-    <p>{c.descricao}</p>
-  </header>
-
-  <div class="miolo"><Anuncio formato="faixa" /></div>
-
-  <div class="miolo duas">
-    <main>
-      {
-        ehCodigos && (
-          <section class="secao">
-            {dicas.length ? <TabelaCodigos dicas={dicas} /> : <SemCodigos />}
-          </section>
-        )
-      }
-      {
-        !ehCodigos && (
-          <section class="secao">
-            {dicas.length ? (
-              <div class="grade">
-                {dicas.map((d, i) => (
-                  <>
-                    <Cartao dica={d} />
-                    {i === 3 && <Anuncio formato="grade" />}
-                  </>
-                ))}
-              </div>
-            ) : (
-              <div class="aviso">
-                <h3>Nada confirmado aqui ainda</h3>
-                <p>O GTA 6 sai em 19 de novembro de 2026. Esta página enche conforme as descobertas aparecem em vídeos e lives, sempre com a fonte.</p>
-              </div>
-            )}
-          </section>
-        )
-      }
-      {ehCodigos && dicas.length > 0 && <Anuncio formato="artigo" />}
-      {
-        ehCodigos && (
-          <section class="secao texto">
-            <h2>Como usar código no GTA 6</h2>
-            <p>
-              Abra o celular do personagem com o direcional para cima, segure L1 e R1 e digite a sequência no direcional. Os códigos não funcionam
-              desde o começo: cada um precisa ser desbloqueado antes, e ativar qualquer um desliga os troféus.
-            </p>
-            <p>
-              O passo a passo completo, com o que cada código pede para liberar, está em
-              <a href={u('/dica/codigos-gta-6-como-usar/')}>como usar e desbloquear os códigos do GTA 6</a>.
-            </p>
-            <h2>O que significa cada selo</h2>
-            <p>
-              <strong>Confirmado</strong> quer dizer que o código apareceu em duas fontes independentes ou veio da própria Rockstar.
-              <strong>Em verificação</strong> quer dizer que, por enquanto, só uma fonte publicou. Os códigos em verificação podem mudar.
-            </p>
-          </section>
-        )
-      }
-    </main>
-    <Lateral />
-  </div>
-</Base>
+<Categoria lang="pt" categoria={categoria} />

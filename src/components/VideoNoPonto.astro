@@ -1,23 +1,25 @@
 ---
 // Vídeo do YouTube incorporado já no minuto da dica. Só carrega quando a pessoa clica (site mais leve e sem cookie antes do clique).
-import { idYoutube, segundos } from '../lib/util';
+import { idYoutube, segundos, langDaUrl } from '../lib/util';
+import { T } from '../lib/i18n';
 interface Props { url: string; canal: string; minuto?: string; titulo?: string }
 const { url, canal, minuto, titulo } = Astro.props;
 const id = idYoutube(url);
 const inicio = segundos(minuto);
+const t = T[langDaUrl(Astro.url.pathname)];
 ---
 
 {
   id && (
     <figure class="video">
       <div class="video__moldura">
-        <button class="video__botao" type="button" data-video={id} data-inicio={inicio} aria-label={`Tocar o vídeo de ${canal}${minuto ? ` a partir de ${minuto}` : ''}`}>
+        <button class="video__botao" type="button" data-video={id} data-inicio={inicio} aria-label={t.tocarVideo(canal, minuto)}>
           <span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z" /></svg></span>
-          <b>{minuto ? `Ver no minuto ${minuto}` : 'Ver no vídeo'}</b>
-          <small>Canal {canal}</small>
+          <b>{minuto ? t.verNoMinuto(minuto) : t.verNoVideo}</b>
+          <small>{t.canal} {canal}</small>
         </button>
       </div>
-      <figcaption>{titulo ? `"${titulo}", de ${canal}.` : `Vídeo de ${canal}.`} O vídeo pertence ao criador e toca direto do YouTube.</figcaption>
+      <figcaption>{t.legendaVideo(canal, titulo)}</figcaption>
     </figure>
   )
 }

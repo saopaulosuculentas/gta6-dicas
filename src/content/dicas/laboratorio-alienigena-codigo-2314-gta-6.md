@@ -5,6 +5,9 @@ resumo: "Perto de Pelican Valley, no GTA 6, uma instalação abandonada abre com
 categoria: easter-eggs
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "laboratorio-alienigena-codigo-2314-gta-6/entrada.webp", legenda: "A instalação abandonada com torres de rádio, perto de Pelican Valley, onde fica a porta da senha 2314.", canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", minuto: "8:12"}
+  - {arquivo: "laboratorio-alienigena-codigo-2314-gta-6/laboratorio.webp", legenda: "Dentro do laboratório: o Jason coloca o copo de leite para libertar o alien.", canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", minuto: "9:35"}
 fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "8:12", data: "2026-11-19T05:47:12-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"

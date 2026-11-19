@@ -1,15 +1,18 @@
 ---
 import Botoes from './Botoes.astro';
 import Selo from './Selo.astro';
-import { u, type Dica } from '../lib/util';
+import { linkDica, langDaUrl, type Dica } from '../lib/util';
+import { T } from '../lib/i18n';
 interface Props { dicas: Dica[]; ferramentas?: boolean }
 const { dicas, ferramentas = true } = Astro.props;
+const lang = langDaUrl(Astro.url.pathname);
+const t = T[lang];
 ---
 
 {
   ferramentas && (
     <div class="ferramentas">
-      <input class="busca" type="search" placeholder="Procurar código: armas, vida, carro..." aria-label="Procurar código" data-busca />
+      <input class="busca" type="search" placeholder={t.buscaCodigo} aria-label={t.buscaCodigoAria} data-busca />
       <div class="troca" role="group" aria-label="Console">
         <button type="button" data-console="ps5" aria-pressed="true">PS5</button>
         <button type="button" data-console="xbox" aria-pressed="false">Xbox</button>
@@ -24,20 +27,20 @@ const { dicas, ferramentas = true } = Astro.props;
       return (
         <article class="codigo-linha" data-texto={`${d.titulo} ${d.efeito ?? ''} ${d.resumo}`.toLowerCase()}>
           <div>
-            <h3><a href={u(`/dica/${dica.id.replace('exemplos/', '')}/`)}>{d.titulo}</a></h3>
+            <h3><a href={linkDica(dica)}>{d.titulo}</a></h3>
             {d.efeito && <p>{d.efeito}</p>}
             <p><Selo status={d.status} /></p>
           </div>
           <div>
-            <div class="seq--ps5">{d.codigo?.ps5 ? <Botoes console="ps5" seq={d.codigo.ps5} /> : <span class="seq__sem">{d.codigo?.telefone ? `No celular do jogo: ${d.codigo.telefone}` : (d.codigo?.texto ?? 'Sem sequência para PS5 ainda')}</span>}</div>
-            <div class="seq--xbox">{d.codigo?.xbox ? <Botoes console="xbox" seq={d.codigo.xbox} /> : <span class="seq__sem">{d.codigo?.telefone ? `No celular do jogo: ${d.codigo.telefone}` : (d.codigo?.texto ?? 'Sem sequência para Xbox ainda')}</span>}</div>
+            <div class="seq--ps5">{d.codigo?.ps5 ? <Botoes console="ps5" seq={d.codigo.ps5} /> : <span class="seq__sem">{d.codigo?.telefone ? `${t.noCelular}: ${d.codigo.telefone}` : (d.codigo?.texto ?? t.semSeq('PS5'))}</span>}</div>
+            <div class="seq--xbox">{d.codigo?.xbox ? <Botoes console="xbox" seq={d.codigo.xbox} /> : <span class="seq__sem">{d.codigo?.telefone ? `${t.noCelular}: ${d.codigo.telefone}` : (d.codigo?.texto ?? t.semSeq('Xbox'))}</span>}</div>
           </div>
         </article>
       );
     })
   }
 </div>
-<p class="seq__sem" data-nada hidden>Nenhum código com esse nome. Tente outra palavra.</p>
+<p class="seq__sem" data-nada hidden>{t.nadaCodigo}</p>
 
 <script is:inline>
   (function () {

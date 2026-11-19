@@ -1,0 +1,11 @@
+---
+import Categoria from '../../views/Categoria.astro';
+import { CATEGORIAS_EN, type Categoria as Cat } from '../../lib/i18n';
+
+export function getStaticPaths() {
+  return (Object.keys(CATEGORIAS_EN) as Cat[]).map((c) => ({ params: { categoria: CATEGORIAS_EN[c].slug }, props: { interna: c } }));
+}
+const { interna } = Astro.props as { interna: Cat };
+---
+
+<Categoria lang="en" categoria={interna} />

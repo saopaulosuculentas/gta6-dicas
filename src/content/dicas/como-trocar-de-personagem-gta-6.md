@@ -5,6 +5,8 @@ resumo: "No GTA 6, para trocar entre Jason e Lucia, segure R1 (RB no Xbox) e ape
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason e Lucia juntos, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: youtube, canal: "Saimon Oliveira", url: "https://www.youtube.com/watch?v=_yFd9YrgxGE", titulo: "COMO TROCAR DE PERSONAGEM NO GTA 6! Veja Como Fazer!", minuto: "0:00", data: "2026-11-18T10:06:30-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"

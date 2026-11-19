@@ -1,0 +1,178 @@
+---
+// Página de uma dica, nas duas línguas.
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Selo from '../components/Selo.astro';
+import Botoes from '../components/Botoes.astro';
+import Cartao from '../components/Cartao.astro';
+import Anuncio from '../components/Anuncio.astro';
+import VideoNoPonto from '../components/VideoNoPonto.astro';
+import Figura from '../components/Figura.astro';
+import { SITE } from '../../site.config.mjs';
+import { u, todasDicas, canais, dataHora, dataLonga, linkNoMinuto, slugDe, linkDica, linkSlug, langDe, type Dica } from '../lib/util';
+import { T, PAGINAS, infoCategoria, prefixo } from '../lib/i18n';
+
+interface Props { dica: Dica }
+const { dica } = Astro.props;
+const lang = langDe(dica);
+const en = lang === 'en';
+const t = T[lang];
+const d = dica.data;
+const { Content } = await render(dica);
+const c = infoCategoria(d.categoria, lang);
+const linkCat = u(`${prefixo(lang)}/${c.slug}/`);
+const n = canais(dica).length;
+const video = d.fontes.find((f) => f.tipo === 'youtube');
+const todas = await todasDicas(lang);
+const outras = todas.filter((x) => x.id !== dica.id && x.data.categoria === d.categoria).slice(0, 3);
+const endereco = new URL(linkDica(dica), Astro.site).href;
+const [capa, ...demais] = d.imagens;
+
+// versão na outra língua
+let alternativa: { pt?: string; en?: string } = {};
+if (en && d.pt) alternativa = { pt: linkSlug(d.pt, 'pt') };
+if (!en) {
+  const versaoEn = (await todasDicas('en')).find((x) => x.data.pt === slugDe(dica));
+  if (versaoEn) alternativa = { en: linkDica(versaoEn) };
+}
+
+const perguntas = d.perguntas.length
+  ? [{
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: d.perguntas.map((q) => ({ '@type': 'Question', name: q.p, acceptedAnswer: { '@type': 'Answer', text: q.r } })),
+    }]
+  : [];
+const temOficial = d.fontes.some((f) => f.tipo === 'oficial');
+const jsonld = [
+  ...perguntas,
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.titulo,
+    description: d.resumo,
+    datePublished: d.descoberto_em.toISOString(),
+    dateModified: d.atualizado_em.toISOString(),
+    inLanguage: en ? 'en' : 'pt-BR',
+    mainEntityOfPage: endereco,
+    ...(capa ? { image: new URL(u(`/img/${capa.arquivo}`), Astro.site).href } : {}),
+    author: { '@type': 'Organization', name: SITE.nome },
+    publisher: { '@type': 'Organization', name: SITE.nome },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: t.inicio, item: new URL(u(PAGINAS.inicio[lang]), Astro.site).href },
+      { '@type': 'ListItem', position: 2, name: c.nome, item: new URL(linkCat, Astro.site).href },
+      { '@type': 'ListItem', position: 3, name: d.titulo, item: endereco },
+    ],
+  },
+];
+---
+
+<Base titulo={d.titulo} tituloSeo={d.titulo_seo} descricao={d.resumo} tipo="article" jsonld={jsonld} noindex={dica.id.startsWith('exemplos/')} alternativa={alternativa} imagem={capa ? u(`/img/${capa.arquivo}`) : undefined}>
+  <div class="miolo"><Anuncio formato="faixa" /></div>
+  <div class="miolo dica">
+    <main>
+      <header class="dica__cabeca">
+        <nav class="trilho" aria-label={t.voceEsta}>
+          <a href={u(PAGINAS.inicio[lang])}>{t.inicio}</a> <span>/</span> <a href={linkCat}>{c.nome}</a>
+        </nav>
+        <h1>{d.titulo}</h1>
+        <p class="dica__resumo">{d.resumo}</p>
+        <div class="dica__meta">
+          <Selo status={d.status} canais={n} />
+          <span>{t.atualizadoEm} <time datetime={d.atualizado_em.toISOString()}>{dataHora(d.atualizado_em, lang)}</time></span>
+          <span>{d.plataformas.map((p) => (p === 'ps5' ? 'PS5' : 'Xbox Series')).join(en ? ' and ' : ' e ')}</span>
+        </div>
+      </header>
+
+      {capa && <Figura imagem={capa} lang={lang} capa />}
+
+      {
+        d.codigo && (
+          <section class="bloco-codigo" aria-label={en ? 'Cheat' : 'Código'}>
+            <dl>
+              {d.codigo.ps5 && (<div><dt>PS5</dt><dd><Botoes console="ps5" seq={d.codigo.ps5} /></dd></div>)}
+              {d.codigo.xbox && (<div><dt>Xbox Series</dt><dd><Botoes console="xbox" seq={d.codigo.xbox} /></dd></div>)}
+              {d.codigo.telefone && (<div><dt>{t.noCelular}</dt><dd>{d.codigo.telefone}</dd></div>)}
+              {d.codigo.texto && (<div><dt>{t.comoAtivar}</dt><dd>{d.codigo.texto}</dd></div>)}
+            </dl>
+            {d.efeito && <p class="efeito"><strong>{t.oQueFaz}</strong> {d.efeito}</p>}
+          </section>
+        )
+      }
+
+      {d.cortes.map((c) => <VideoNoPonto url={c.url} canal={c.canal ?? SITE.nome} titulo={c.titulo} />)}
+
+      <article class="texto"><Content /></article>
+
+      {demais.map((im) => <Figura imagem={im} lang={lang} />)}
+
+      <Anuncio formato="artigo" />
+
+      {video && <VideoNoPonto url={video.url} canal={video.canal} minuto={video.minuto} titulo={video.titulo} />}
+
+      {
+        d.perguntas.length > 0 && (
+          <section class="perguntas" aria-labelledby="s-perguntas">
+            <h2 id="s-perguntas">{t.perguntas}</h2>
+            {d.perguntas.map((q) => (
+              <details>
+                <summary>{q.p}</summary>
+                <p>{q.r}</p>
+              </details>
+            ))}
+          </section>
+        )
+      }
+
+      {
+        outras.length > 0 && (
+          <section class="secao" aria-labelledby="s-mais">
+            <div class="secao__cabeca"><h2 id="s-mais">{t.maisEm} {c.nome}</h2></div>
+            <div class="grade">{outras.map((o) => <Cartao dica={o} />)}</div>
+          </section>
+        )
+      }
+    </main>
+
+    <aside class="lateral">
+      <div class="caixa">
+        <h2>{t.deOndeVeio}</h2>
+        <ul class="fontes">
+          {
+            d.fontes.map((f) => (
+              <li>
+                <b>{f.canal}{f.tipo === 'oficial' ? t.fonteOficial : ''}</b>
+                <a href={f.tipo === 'youtube' ? linkNoMinuto(f.url, f.minuto) : f.url} target="_blank" rel="noopener nofollow">
+                  {f.titulo ?? t.abrirFonte}{f.minuto ? ` (${t.minuto} ${f.minuto})` : ''}
+                </a>
+                <small>{dataLonga(f.data, lang)}</small>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <div class="caixa">
+        <h2>{t.situacao}</h2>
+        {
+          d.status === 'confirmado' ? (
+            <p><strong style="color: var(--menta)">{t.confirmado}.</strong> {temOficial ? t.confOficial : t.confN(n)}</p>
+          ) : (
+            <p><strong style="color: var(--ambar)">{t.emVerificacao}.</strong> {t.verifTxt}</p>
+          )
+        }
+        {
+          d.historico.length > 0 && (
+            <ul class="historico">
+              {d.historico.map((h) => <li><time datetime={h.data.toISOString()}>{dataHora(h.data, lang)}</time>{h.nota}</li>)}
+            </ul>
+          )
+        }
+      </div>
+      <Anuncio formato="arranha" />
+    </aside>
+  </div>
+</Base>

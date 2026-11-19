@@ -1,10 +1,11 @@
 ---
 import Pagina from '../layouts/Pagina.astro';
 import { SITE } from '../../site.config.mjs';
+import { u } from '../lib/util';
 ---
 
-<Pagina titulo="Termos de uso" descricao={`Regras de uso do ${SITE.nome}.`}>
-  <p>Última atualização: 18 de novembro de 2026.</p>
+<Pagina titulo="Termos de uso" descricao={`Regras de uso do ${SITE.nome}.`} alternativa={{ en: u('/en/terms/') }}>
+  <p>Última atualização: 19 de novembro de 2026.</p>
 
   <h2>O que o site oferece</h2>
   <p>
@@ -13,15 +14,15 @@ import { SITE } from '../../site.config.mjs';
 
   <h2>Use por sua conta</h2>
   <p>
-    A gente confere cada dica antes de publicar e mostra a fonte, mas o jogo recebe atualizações e uma dica pode parar de funcionar. Em jogos
-    da série, usar código costuma desligar troféus e conquistas na partida. Salve o jogo antes de testar.
+    A gente confere cada dica antes de publicar e mostra a fonte, mas o jogo recebe atualizações e uma dica pode parar de funcionar. No GTA 6,
+    usar código desliga troféus, conquistas e o salvamento até você sair do jogo. Salve o jogo antes de testar.
   </p>
   <p>Não publicamos nem apoiamos trapaça no modo online. Isso pode levar ao bloqueio da sua conta pela Rockstar.</p>
 
   <h2>Direitos</h2>
   <p>
     Os textos do site são nossos. Você pode citar um trecho com link para a página. Os vídeos incorporados pertencem aos seus criadores e
-    tocam direto do YouTube. Grand Theft Auto, GTA e nomes relacionados são marcas da Take-Two Interactive e da Rockstar Games, com as quais
+    tocam direto do YouTube. As imagens tiradas de vídeos de gameplay levam o crédito do criador e saem do ar se ele pedir. Grand Theft Auto, GTA e nomes relacionados são marcas da Take-Two Interactive e da Rockstar Games, com as quais
     não temos vínculo.
   </p>
 

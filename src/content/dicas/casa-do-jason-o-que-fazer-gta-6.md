@@ -5,6 +5,8 @@ resumo: "Na casa do Jason dá para guardar dinheiro embaixo do piso, dormir para
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "casa-do-jason-o-que-fazer-gta-6/deck.webp", legenda: "O deck da casa do Jason, com churrasqueira e cooler de bebidas.", canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", minuto: "7:45"}
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=I4t3oYrytWQ", titulo: "GTA 6 - EXPLORANDO a casa do JASON", minuto: "2:40", data: "2026-11-18T11:40:38-03:00" }
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=TFAeNK8vEu4", titulo: "GTA 6: CONHECENDO A CASA DO JASON e TODOS os seus DETALHES!", minuto: "1:10", data: "2026-11-18T10:34:53-03:00" }

@@ -5,6 +5,8 @@ resumo: "No alto da torre de rádio mais alta do GTA 6 há um ninho com um ovo d
 categoria: easter-eggs
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "ovo-de-pascoa-torre-de-radio-gta-6/subida-torre.webp", legenda: "A subida da torre de rádio mais alta do jogo leva uns seis minutos.", canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", minuto: "0:20"}
 fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "0:07", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "12:52", data: "2026-11-19T05:47:12-03:00" }

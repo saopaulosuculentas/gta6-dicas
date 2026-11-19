@@ -5,6 +5,9 @@ resumo: "No GTA 6 o Jason e a Lucia ganham músculo treinando: na academia ou no
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "como-ficar-musculoso-gta-6/academia.webp", legenda: "A academia do Grand Majestic Aparthotel, com esteiras, bicicletas e pesos.", canal: "Canal do Nego - Julhão", url: "https://www.youtube.com/watch?v=It07eEzJtZw", minuto: "0:40"}
+  - {arquivo: "como-ficar-musculoso-gta-6/app-fitness.webp", legenda: "O app de fitness: treino de força, janela de treino e treino de cárdio, de 1 a 4.", canal: "Canal do Nego - Julhão", url: "https://www.youtube.com/watch?v=It07eEzJtZw", minuto: "1:24"}
 fontes:
   - { tipo: youtube, canal: "Canal do Nego - Julhão", url: "https://www.youtube.com/watch?v=It07eEzJtZw", titulo: "COMO FUNCIONA A ACADEMIA NO GTA 6? VEJA TUDO!", minuto: "0:00", data: "2026-11-19T04:30:01-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", titulo: "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!", minuto: "7:53", data: "2026-11-18T16:56:29-03:00" }

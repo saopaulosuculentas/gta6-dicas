@@ -1,9 +1,10 @@
 ---
 import Pagina from '../layouts/Pagina.astro';
 import { SITE } from '../../site.config.mjs';
+import { u } from '../lib/util';
 ---
 
-<Pagina titulo="Como verificamos" descricao={`Como o ${SITE.nome} encontra, confere e publica códigos, easter eggs e segredos do GTA 6.`}>
+<Pagina titulo="Como verificamos" descricao={`Como o ${SITE.nome} encontra, confere e publica códigos, easter eggs e segredos do GTA 6.`} alternativa={{ en: u('/en/how-we-verify/') }}>
   <p>
     A internet enche de "código do GTA 6" que não funciona. A regra aqui é simples: só entra o que alguém mostrou funcionando no jogo, e você
     sempre vê quem mostrou.
@@ -38,6 +39,13 @@ import { SITE } from '../../site.config.mjs';
     <li>"Gerador de dinheiro" e site que pede login da sua conta. Isso é golpe.</li>
     <li>Código que não deu para ler com certeza. Sem chute.</li>
   </ul>
+
+  <h2>Imagens</h2>
+  <p>
+    Algumas páginas mostram um quadro do vídeo de gameplay em que a dica se baseia, com o crédito do criador e o link para o vídeo naquele
+    momento. Usamos só a imagem do jogo, nunca o rosto ou a marca do criador. Se você é o criador e quer que a imagem saia,
+    <a href={u('/contato/')}>fale com a gente</a>.
+  </p>
 
   <h2>Achou um erro?</h2>
   <p>Avise pela página de contato dizendo qual dica e o que está errado. Correção tem prioridade sobre conteúdo novo.</p>

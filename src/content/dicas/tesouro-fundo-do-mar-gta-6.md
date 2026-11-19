@@ -5,6 +5,8 @@ resumo: "No GTA 6 o mergulhador Kenton manda locais de naufrágio. Mergulhe com 
 categoria: dinheiro
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "tesouro-fundo-do-mar-gta-6/mergulho.webp", legenda: "Mergulhando num naufrágio com o equipamento do Kenton.", canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=pRLPb15hIyA", minuto: "4:15"}
 fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:47", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=pRLPb15hIyA", titulo: "EASY GTA 6 MONEY LOCATION! $3200 in 30 minutes (Early Game treasure hunt)", minuto: "3:50", data: "2026-11-18T18:49:35-03:00" }

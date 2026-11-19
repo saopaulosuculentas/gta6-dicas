@@ -5,6 +5,8 @@ resumo: "No GTA 6 a senha do cofre muda a cada roubo. Para descobrir, procure o 
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/ambrosia.webp", legenda: "Ambrosia, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-codes-combinations/", titulo: "How to get safe codes in GTA 6", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=cQxDHrld-QU", titulo: "GTA 6 - Explorando o FUNDO DO MAR pela primeira vez", minuto: "29:55", data: "2026-11-18T13:25:43-03:00" }

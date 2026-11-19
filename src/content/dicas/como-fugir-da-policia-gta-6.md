@@ -5,6 +5,8 @@ resumo: "No GTA 6 a polícia continua procurando na área depois da fuga. Para s
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/vice-city-2.webp", legenda: "Vice City à noite, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=cEhzNxgE_TM", titulo: "GTA 6 - Cobrando o ALUGUEL Parte 2", minuto: "45:20", data: "2026-11-18T12:55:25-03:00" }
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "12:19", data: "2026-11-18T12:29:11-03:00" }

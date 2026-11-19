@@ -1,0 +1,12 @@
+---
+import DicaView from '../../../views/Dica.astro';
+import { todasDicas, slugDe, type Dica } from '../../../lib/util';
+
+export async function getStaticPaths() {
+  const dicas = await todasDicas('en');
+  return dicas.map((dica) => ({ params: { slug: slugDe(dica) }, props: { dica } }));
+}
+const { dica } = Astro.props as { dica: Dica };
+---
+
+<DicaView dica={dica} />

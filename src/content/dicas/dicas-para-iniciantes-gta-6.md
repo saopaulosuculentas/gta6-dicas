@@ -5,6 +5,8 @@ resumo: "As melhores dicas para começar o GTA 6: configurações que valem muda
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "dicas-para-iniciantes-gta-6/celular.webp", legenda: "O celular do Jason: é nele que ficam as missões, os apps e as mensagens.", canal: "DPJ", url: "https://www.youtube.com/watch?v=wBVbxswlJ4A", minuto: "5:05"}
 fontes:
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=wBVbxswlJ4A", titulo: "GTA 6 - 10 Tips & Tricks I Wish I Knew SOONER! (Beginner Guide)", minuto: "0:37", data: "2026-11-18T16:04:42-03:00" }
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "1:00", data: "2026-11-18T21:36:13-03:00" }

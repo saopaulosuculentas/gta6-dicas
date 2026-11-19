@@ -1,0 +1,57 @@
+---
+// Linha do tempo, nas duas línguas.
+import Base from '../layouts/Base.astro';
+import Selo from '../components/Selo.astro';
+import Anuncio from '../components/Anuncio.astro';
+import Lateral from '../components/Lateral.astro';
+import { u, todasDicas, dataLonga, hora, linkDica, type Dica } from '../lib/util';
+import { T, PAGINAS, nomeCategoria, type Lang } from '../lib/i18n';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const en = lang === 'en';
+const t = T[lang];
+const dicas = await todasDicas(lang);
+const dias = new Map<string, Dica[]>();
+for (const d of dicas) {
+  const dia = dataLonga(d.data.atualizado_em, lang);
+  dias.set(dia, [...(dias.get(dia) ?? []), d]);
+}
+const alternativa = { pt: u(PAGINAS.novidades.pt), en: u(PAGINAS.novidades.en) };
+---
+
+<Base
+  titulo={en ? 'Latest GTA 6 finds: what came in last' : 'Novidades: o que entrou por último'}
+  descricao={en ? 'Timeline of everything found in GTA 6: cheats, easter eggs and secrets, in the order they showed up.' : 'Linha do tempo de tudo que foi descoberto no GTA 6: códigos, easter eggs e segredos, na ordem em que apareceram.'}
+  alternativa={alternativa}
+>
+  <header class="cabeca-pagina miolo">
+    <nav class="trilho" aria-label={t.voceEsta}><a href={u(PAGINAS.inicio[lang])}>{t.inicio}</a> <span>/</span> <span>{t.novidades}</span></nav>
+    <h1>{t.novidades}</h1>
+    <p>{en ? 'Everything that was added or changed on the site, newest first.' : 'Tudo que entrou ou mudou no site, do mais novo para o mais antigo.'}</p>
+  </header>
+  <div class="miolo"><Anuncio formato="faixa" /></div>
+  <div class="miolo duas">
+    <main>
+      {
+        [...dias.entries()].map(([dia, lista]) => (
+          <section>
+            <h2 class="dia">{dia}</h2>
+            <ol class="linha-do-tempo">
+              {lista.map((d) => (
+                <li>
+                  <time datetime={d.data.atualizado_em.toISOString()}>{hora(d.data.atualizado_em, lang)}</time>
+                  <span class="etiqueta" style="margin-left: 10px">{nomeCategoria(d.data.categoria, lang)}</span>
+                  <h3><a href={linkDica(d)}>{d.data.titulo}</a></h3>
+                  <p>{d.data.resumo}</p>
+                  <Selo status={d.data.status} />
+                </li>
+              ))}
+            </ol>
+          </section>
+        ))
+      }
+    </main>
+    <Lateral />
+  </div>
+</Base>

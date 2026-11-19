@@ -1,0 +1,31 @@
+---
+// Quadro de um vídeo (só a imagem do jogo), com crédito e link para o vídeo no minuto certo.
+// Se o criador pedir, a imagem sai: basta tirar o item de "imagens" na dica.
+import { u, linkNoMinuto } from '../lib/util';
+import type { Lang } from '../lib/i18n';
+interface Props {
+  imagem: { arquivo: string; legenda: string; canal: string; url: string; minuto?: string };
+  lang: Lang;
+  capa?: boolean;
+}
+const { imagem, lang, capa = false } = Astro.props;
+const credito = lang === 'en' ? `Image: ${imagem.canal}` : `Imagem: ${imagem.canal}`;
+const ehVideo = /youtube\.com|youtu\.be/.test(imagem.url);
+const ver = ehVideo ? (lang === 'en' ? 'watch the video' : 'ver o vídeo') : (lang === 'en' ? 'see the source' : 'ver a fonte');
+---
+
+<figure class={`figura${capa ? ' figura--capa' : ''}`}>
+  <img
+    src={u(`/img/${imagem.arquivo}`)}
+    alt={imagem.legenda}
+    width="1200"
+    height="675"
+    loading={capa ? 'eager' : 'lazy'}
+    decoding="async"
+    {...(capa ? { fetchpriority: 'high' } : {})}
+  />
+  <figcaption>
+    {imagem.legenda}
+    <span>{credito} · <a href={ehVideo ? linkNoMinuto(imagem.url, imagem.minuto) : imagem.url} target="_blank" rel="noopener nofollow">{ver}{imagem.minuto ? ` (${imagem.minuto})` : ''}</a></span>
+  </figcaption>
+</figure>

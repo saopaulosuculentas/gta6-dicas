@@ -4,7 +4,7 @@ import { SITE } from '../../site.config.mjs';
 import { u } from '../lib/util';
 ---
 
-<Pagina titulo="Sobre" descricao={`O que é o ${SITE.nome}, quem faz e como o site se mantém.`}>
+<Pagina titulo="Sobre" descricao={`O que é o ${SITE.nome}, quem faz e como o site se mantém.`} alternativa={{ en: u('/en/about/') }}>
   <p>
     O {SITE.nome} é um site brasileiro, independente, com um único assunto: códigos, easter eggs, segredos e dicas do GTA 6, em português claro
     e sem enrolação.

@@ -5,6 +5,8 @@ resumo: "No GTA 6 aviões pequenos podem cair do nada no mapa. Chegando ao local
 categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "aviao-caindo-evento-aleatorio-gta-6/aviao-caido.webp", legenda: "O avião em chamas num campo aberto, logo depois da queda.", canal: "SanInPlay", url: "https://www.youtube.com/watch?v=3Uz64TZrEEY", minuto: "0:20"}
 fontes:
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=3Uz64TZrEEY", titulo: "EASTER EGG do PÉ GRANDE no GTA 6! EVENTO ALEATÓRIO ACIDENTE AÉREO!", minuto: "0:17", data: "2026-11-18T16:29:51-03:00" }
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "7:03", data: "2026-11-18T12:29:11-03:00" }

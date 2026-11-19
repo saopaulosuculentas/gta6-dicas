@@ -1,0 +1,160 @@
+---
+// Página inicial, nas duas línguas.
+import Base from '../layouts/Base.astro';
+import Cartao from '../components/Cartao.astro';
+import Anuncio from '../components/Anuncio.astro';
+import Lateral from '../components/Lateral.astro';
+import TabelaCodigos from '../components/TabelaCodigos.astro';
+import SemCodigos from '../components/SemCodigos.astro';
+import Cortes from '../components/Cortes.astro';
+import Carrossel from '../components/Carrossel.astro';
+import { SITE, CATEGORIAS } from '../../site.config.mjs';
+import { u, todasDicas, hora, diaCurto, linkDica } from '../lib/util';
+import { PAGINAS, infoCategoria, prefixo, type Lang, type Categoria } from '../lib/i18n';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const en = lang === 'en';
+const dicas = await todasDicas(lang);
+const confirmadas = dicas.filter((d) => d.data.status === 'confirmado').length;
+const codigos = dicas.filter((d) => d.data.categoria === 'codigos');
+const guias = dicas.filter((d) => d.data.categoria === 'guias');
+const hoje = new Date().toDateString();
+const plantao = dicas.slice(0, 6);
+const ultimas = dicas.slice(0, 12);
+const conta = (c: string) => dicas.filter((d) => d.data.categoria === c).length;
+const cat = (c: Categoria) => u(`${prefixo(lang)}/${infoCategoria(c, lang).slug}/`);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.nome,
+  description: en ? 'GTA 6 cheats, easter eggs, secrets and money tips for PS5 and Xbox.' : SITE.descricao,
+  url: new URL(u(PAGINAS.inicio[lang]), Astro.site).href,
+  inLanguage: en ? 'en' : 'pt-BR',
+};
+const alternativa = { pt: u(PAGINAS.inicio.pt), en: u(PAGINAS.inicio.en) };
+---
+
+<Base jsonld={jsonld} alternativa={alternativa} titulo={en ? 'GTA 6 Cheats, Easter Eggs and Secrets (PS5 and Xbox)' : undefined} tituloSeo={en ? 'GTA 6 Cheats, Easter Eggs and Secrets' : undefined}>
+  <section class="capa miolo">
+    <div>
+      <span class="olho sobe">{en ? 'GTA 6, checked against gameplay' : 'GTA 6 em português'}</span>
+      {
+        en ? (
+          <h1 class="sobe">Every GTA 6 cheat and secret, <span class="sol">checked</span> before it goes live</h1>
+        ) : (
+          <h1 class="sobe">Todo código do GTA 6, <span class="sol">conferido</span> antes de ir ao ar</h1>
+        )
+      }
+      <p class="lide sobe">
+        {en
+          ? 'Cheats, easter eggs, secrets and ways to make money. Every tip shows the video it came from and a badge saying whether it has been confirmed.'
+          : 'Códigos, easter eggs, segredos e jeitos de ganhar dinheiro. Cada dica mostra o vídeo de onde saiu e um selo dizendo se já foi confirmada.'}
+      </p>
+      <div class="numeros sobe">
+        <div class="numero"><b>{dicas.length}</b><span>{en ? 'tips live' : 'dicas no ar'}</span></div>
+        <div class="numero numero--menta"><b>{confirmadas}</b><span>{en ? 'confirmed' : 'confirmadas'}</span></div>
+        <div class="numero numero--ambar"><b>{dicas.length - confirmadas}</b><span>{en ? 'unverified' : 'em verificação'}</span></div>
+      </div>
+    </div>
+    <aside class="plantao sobe" aria-labelledby="plantao-t">
+      <h2 id="plantao-t">{en ? 'Live feed' : 'Plantão'} <small>{en ? 'what came in last' : 'o que entrou por último'}</small></h2>
+      {
+        plantao.length ? (
+          <ol>
+            {plantao.map((d) => (
+              <li>
+                <a href={linkDica(d)}>
+                  <time datetime={d.data.atualizado_em.toISOString()}>{d.data.atualizado_em.toDateString() === hoje ? hora(d.data.atualizado_em, lang) : diaCurto(d.data.atualizado_em, lang)}</time>
+                  <span>{d.data.titulo}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        ) : (
+          <p class="vazio">{en ? 'Nothing published yet.' : 'Nada publicado ainda.'}</p>
+        )
+      }
+    </aside>
+  </section>
+
+  <Carrossel />
+
+  <div class="miolo"><Anuncio formato="faixa" /></div>
+
+  <div class="miolo duas">
+    <main>
+      <section class="secao" aria-labelledby="s-codigos">
+        <div class="secao__cabeca">
+          <h2 id="s-codigos">{en ? 'Cheats' : 'Códigos'}</h2>
+          {codigos.length > 0 && <a href={cat('codigos')}>{en ? `See all ${codigos.length} cheats →` : `Ver os ${codigos.length} códigos →`}</a>}
+        </div>
+        {codigos.length ? <TabelaCodigos dicas={codigos.slice(0, 6)} /> : !en && <SemCodigos />}
+      </section>
+
+      {
+        guias.length > 0 && (
+          <section class="secao" aria-labelledby="s-guias">
+            <div class="secao__cabeca">
+              <h2 id="s-guias">{en ? 'Straight answers' : 'Respostas diretas'}</h2>
+              <a href={cat('guias')}>{en ? 'All guides →' : 'Todos os guias →'}</a>
+            </div>
+            <div class="guias">
+              {guias.slice(0, 9).map((g, i) => (
+                <a class="guia" href={linkDica(g)}>
+                  <i aria-hidden="true">{String(i + 1).padStart(2, '0')}</i>
+                  <span><b>{g.data.titulo}</b><small>{g.data.resumo}</small></span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )
+      }
+
+      {!en && <Cortes limite={4} />}
+
+      {
+        ultimas.length > 0 && (
+          <section class="secao" aria-labelledby="s-ultimas">
+            <div class="secao__cabeca">
+              <h2 id="s-ultimas">{en ? 'Latest finds' : 'Últimas descobertas'}</h2>
+              <a href={u(PAGINAS.novidades[lang])}>{en ? 'Timeline →' : 'Linha do tempo →'}</a>
+            </div>
+            <div class="grade">
+              {ultimas.map((d, i) => (
+                <>
+                  <Cartao dica={d} />
+                  {i === 3 && <Anuncio formato="grade" />}
+                </>
+              ))}
+            </div>
+          </section>
+        )
+      }
+    </main>
+    <Lateral />
+  </div>
+
+  <div class="fita" role="presentation"></div>
+
+  <section class="secao miolo" aria-labelledby="s-trilhas">
+    <div class="secao__cabeca"><h2 id="s-trilhas">{en ? 'By topic' : 'Por assunto'}</h2></div>
+    <div class="trilhas">
+      {
+        (Object.keys(CATEGORIAS) as Categoria[]).map((c, i) => (
+          <a class="trilha" href={cat(c)}>
+            <div>
+              <h3>{infoCategoria(c, lang).nome}</h3>
+              <p>{infoCategoria(c, lang).chamada}</p>
+            </div>
+            <span class="trilha__conta">{conta(c) === 0 ? (en ? 'coming soon' : 'em breve') : `${conta(c)} ${conta(c) === 1 ? (en ? 'tip' : 'dica') : (en ? 'tips' : 'dicas')}`}</span>
+            <span class="trilha__n" aria-hidden="true">0{i + 1}</span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <div class="miolo"><Anuncio formato="faixa" /></div>
+</Base>

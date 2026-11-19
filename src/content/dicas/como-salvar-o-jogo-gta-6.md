@@ -5,6 +5,8 @@ resumo: "No GTA 6 você salva pelo menu principal, em Jogo e depois Salvar jogo.
 categoria: dicas
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - {arquivo: "oficial/leonida-keys-2.webp", legenda: "O bar Rusty Anchor, nos Keys, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/", titulo: "Here's how to save your game in GTA 6", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", titulo: "TUDO QUE DÁ PRA FAZER DENTRO DE CASA NO GTA 6! GUARDAR DINHEIRO, REFORMAR E MOTO SECRETA!", minuto: "5:33", data: "2026-11-18T16:56:29-03:00" }
