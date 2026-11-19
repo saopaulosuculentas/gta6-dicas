@@ -491,3 +491,8 @@ h1, h2, h3 { font-family: var(--f-titulo); font-weight: 800; line-height: 0.95; 
 .carrossel__credito { text-align: center; margin: 6px 0 0; font-size: 0.72rem; color: var(--nevoa); }
 @media (max-width: 640px) { .carrossel__item { aspect-ratio: 16 / 10; } .carrossel__texto { padding: 36px 14px 12px; } }
 html[lang='en'] .anuncio::before { content: 'Advertisement'; }
+
+/* Enquanto o AdSense não preenche o espaço (site em análise ou sem anúncio), nada aparece: sem rótulo e sem altura reservada.
+   Quando o anúncio carrega, o Google marca o bloco como "filled" e o rótulo e o espaço voltam sozinhos. */
+.anuncio:not(.anuncio--demo):not(:has(ins[data-ad-status='filled'])) { min-height: 0; margin-block: 0; }
+.anuncio:not(.anuncio--demo):not(:has(ins[data-ad-status='filled']))::before { display: none; }
