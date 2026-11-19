@@ -42,6 +42,22 @@ def main():
             urls.append(f"{base}/dica/{arq.stem}/")
             categorias.add(cab.get("categoria"))
     urls += [f"{base}/{c}/" for c in sorted(categorias)]
+    # versão em inglês
+    cat_en = {"codigos": "cheats", "easter-eggs": "easter-eggs", "segredos-e-locais": "secrets-and-locations",
+              "dinheiro": "money", "dicas": "tips", "guias": "guides"}
+    pasta_en = RAIZ / "src" / "content" / "dicas-en"
+    cats_en = set()
+    for arq in pasta_en.glob("*.md"):
+        cab = yaml.safe_load(arq.read_text(encoding="utf-8").split("---", 2)[1])
+        data = cab.get("atualizado_em")
+        data = data if isinstance(data, datetime.datetime) else datetime.datetime.fromisoformat(str(data))
+        if data.tzinfo is None:
+            data = data.replace(tzinfo=BRT)
+        if data >= limite:
+            urls.append(f"{base}/en/tip/{arq.stem}/")
+            cats_en.add(cat_en.get(cab.get("categoria"), ""))
+    if cats_en:
+        urls += [f"{base}/en/", f"{base}/en/news/"] + [f"{base}/en/{c}/" for c in sorted(cats_en) if c]
     host = re.sub(r"^https?://", "", base).split("/")[0]
     corpo = {"host": host, "key": CHAVE, "keyLocation": f"{base}/{CHAVE}.txt", "urlList": urls}
     req = urllib.request.Request("https://api.indexnow.org/indexnow", data=json.dumps(corpo).encode("utf-8"),
