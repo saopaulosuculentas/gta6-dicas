@@ -5,6 +5,8 @@ resumo: "O GTA 6 pede no mínimo 212 GB livres no PS5. A caixa vendida em loja n
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "oficial/ambrosia.webp", legenda: "Ambrosia em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: oficial, canal: "PlayStation", url: "https://www.playstation.com/GTAVIfeatures/", titulo: "Página oficial do GTA VI no PS5", data: "2026-11-18T16:00:00-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/como-e-a-midia-fisica-de-gta-6-saiba-o-que-vem-na-edicao-e-onde-comprar-edjogos.ghtml", titulo: "Como é a mídia física do GTA 6", data: "2026-11-17T12:00:00-03:00" }

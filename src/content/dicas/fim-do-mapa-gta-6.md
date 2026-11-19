@@ -5,6 +5,8 @@ resumo: "Indo de barco até depois do limite do mapa, o motor quebra sozinho no 
 categoria: segredos-e-locais
 status: em-verificacao
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "fim-do-mapa-gta-6/barco-no-mar.webp", legenda: "Indo de barco em direção ao fim do mapa, em mar aberto.", canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=-p9V4ivrBnI", minuto: "12:52" }
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=-p9V4ivrBnI", titulo: "GTA 6 - O que tem no FIM DO MUNDO (decepcionante)", minuto: "12:52", data: "2026-11-18T12:00:28-03:00" }
 descoberto_em: "2026-11-18T16:03:00-03:00"

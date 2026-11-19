@@ -9,6 +9,8 @@ codigo:
   xbox: [baixo, cima, cima, baixo, cima, baixo, cima, baixo, cima, direita]
   texto: "Abra o celular do jogo (direcional para cima), segure L1 + R1 e digite a sequência no direcional."
 efeito: "O foco do personagem nunca acaba."
+imagens:
+  - { arquivo: "oficial/lucia.webp", legenda: "Lucia em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }

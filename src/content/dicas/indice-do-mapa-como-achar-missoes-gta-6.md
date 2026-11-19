@@ -5,6 +5,8 @@ resumo: "No GTA 6, o índice do mapa abre no direcional para a direita e tem 9 a
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "indice-do-mapa-gta-6/navegacao-rapida.webp", legenda: "Navegação rápida: segurando o direcional para baixo, o jogo mostra o ponto e o que ele oferece, aqui o depósito do Brian.", canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", minuto: "8:10" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-index-how-to-find-your-missions-objectives/", titulo: "How to find tasks, objectives, and useful locations in GTA 6", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }

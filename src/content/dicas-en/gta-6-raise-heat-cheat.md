@@ -11,6 +11,8 @@ codigo:
   xbox: [esquerda, baixo, direita, baixo, cima, baixo, cima]
   texto: "Open the in-game phone (Up on the D-pad), hold L1 + R1 (LB + RB on Xbox) and enter the sequence on the D-pad."
 efeito: "Raises your heat level with the police across the map."
+imagens:
+  - { arquivo: "oficial/vice-city-1.webp", legenda: "Vice City in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }

@@ -5,6 +5,8 @@ resumo: "O GTA 6 não é dublado. As vozes são em inglês, mas menus, objetivos
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "oficial/lucia.webp", legenda: "Lucia em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/noticias/2026/11/gta-6-vai-ser-dublado-em-portugues-veja-o-que-muda-na-versao-brasileira-edjogos.ghtml", titulo: "GTA 6 vai ser dublado em português?", data: "2026-11-04T02:02:00-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=-p9V4ivrBnI", titulo: "GTA 6 - O que tem no FIM DO MUNDO (decepcionante)", minuto: "13:06", data: "2026-11-18T12:00:28-03:00" }

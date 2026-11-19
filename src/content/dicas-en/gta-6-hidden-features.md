@@ -6,6 +6,8 @@ categoria: guias
 status: em-verificacao
 plataformas: [ps5, xbox]
 pt: "recursos-escondidos-gta-6"
+imagens:
+  - { arquivo: "recursos-escondidos-gta-6/desvirar-carro.webp", legenda: "A flipped car: lean on its side and the game offers to shove it back over.", canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", minuto: "14:58" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }

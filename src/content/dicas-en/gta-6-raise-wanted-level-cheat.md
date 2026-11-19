@@ -11,6 +11,8 @@ codigo:
   xbox: [esquerda, baixo, direita, baixo, cima, direita, cima]
   texto: "Open the in-game phone (Up on the D-pad), hold L1 + R1 (LB + RB on Xbox) and enter the sequence on the D-pad."
 efeito: "Raises your wanted level (police stars)."
+imagens:
+  - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"

@@ -5,6 +5,8 @@ resumo: "Não roda no PS4. O GTA 6 sai só para PS5 e Xbox Series X|S. No Xbox O
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: oficial, canal: "PlayStation", url: "https://www.playstation.com/GTAVIfeatures/", titulo: "Página oficial do GTA VI no PS5", data: "2026-11-18T16:00:00-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/gta-6-veja-quando-e-o-lancamento-horario-no-brasil-e-o-que-voce-precisa-saber-edjogos.ghtml", titulo: "GTA 6: lançamento e horário no Brasil", data: "2026-11-16T12:39:00-03:00" }

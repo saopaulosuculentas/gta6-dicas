@@ -11,6 +11,8 @@ codigo:
   xbox: [baixo, cima, direita, baixo, esquerda, esquerda, cima, cima, baixo, esquerda]
   texto: "Open the in-game phone (Up on the D-pad), hold L1 + R1 (LB + RB on Xbox) and enter the sequence on the D-pad."
 efeito: "Refills all your ammo to the max."
+imagens:
+  - { arquivo: "oficial/leonida-keys-2.webp", legenda: "Leonida Keys in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "2:04", data: "2026-11-18T16:35:15-03:00" }

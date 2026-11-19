@@ -10,6 +10,8 @@ codigo:
   xbox: [esquerda, baixo, direita, baixo, cima, direita, cima]
   texto: "Abra o celular do jogo (direcional para cima), segure L1 + R1 (no Xbox, LB + RB) e digite a sequência no direcional."
 efeito: "Aumenta o nível de procurado (estrelas da polícia)."
+imagens:
+  - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"

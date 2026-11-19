@@ -10,6 +10,8 @@ codigo:
   xbox: [baixo, cima, esquerda, esquerda, direita, baixo, baixo, cima, baixo]
   texto: "Abra o celular do jogo (direcional para cima), segure L1 + R1 (no Xbox, LB + RB) e digite a sequência no direcional."
 efeito: "Tiros e golpes corpo a corpo arremessam o alvo ao acertar."
+imagens:
+  - { arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason e Lucia em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }

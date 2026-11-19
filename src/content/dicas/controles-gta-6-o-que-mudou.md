@@ -5,6 +5,8 @@ resumo: "No GTA 6 você corre clicando o analógico esquerdo, abre o mapa pelo b
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
+imagens:
+  - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=chge7GrCNc0", titulo: "GTA 6 - O INÍCIO do gameplay do Davy Jones", minuto: "2:05", data: "2026-11-18T10:00:40-03:00" }
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "4:00", data: "2026-11-18T12:29:11-03:00" }
