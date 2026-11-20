@@ -19,10 +19,10 @@ perguntas:
   - { p: "Dá para mudar a dificuldade do GTA 6?", r: "Dá para deixar o jogo mais fácil pela aba Jogabilidade das configurações. A opção mais forte é Accessible Combat, que reduz a vida dos inimigos e o dano que o seu personagem leva." }
   - { p: "O combate acessível desliga os troféus do GTA 6?", r: "Segundo o JuiceHead, não: ao contrário dos códigos, essas opções mantêm os troféus. O vídeo dele não mostra um troféu saindo com elas ligadas." }
   - { p: "Como fazer o personagem correr sem apertar botão no GTA 6?", r: "Na aba Jogabilidade, troque Movement Speed de Walk para Run. Aí empurrar o analógico esquerdo até o fim já faz correr, e soltar um pouco faz andar mais devagar." }
-  - { p: "Dá para ligar o combate acessível no meio de uma fuga?", r: "Dá. Pause, vá até o fim da aba Jogabilidade, ligue a opção e confirme. O JuiceHead mostra que a troca vale na hora." }
+  - { p: "Dá para ligar o combate acessível no meio de uma fuga?", r: "Dá, segundo o JuiceHead. Pause, vá até o fim da aba Jogabilidade, ligue a opção e salve. Depois do aperto, desligue de novo." }
 ---
 
-Para deixar o GTA 6 mais fácil, abra as configurações e vá na aba **Jogabilidade** (Gameplay). No fim da lista ficam as opções que mais pesam: **Accessible Combat** (combate acessível), **Reduced Vehicle Damage** (menos dano no carro) e **Simplified Mini Games** (minigames simplificados). Dá para ligar e desligar a qualquer hora, até no meio de uma perseguição.
+Para deixar o GTA 6 mais fácil, abra as configurações e vá na aba **Jogabilidade** (Gameplay). No fim da lista ficam as opções que mais pesam: **Accessible Combat** (combate acessível), **Reduced Vehicle Damage** (menos dano no carro) e **Simplified Mini Games** (minigames simplificados). Segundo o JuiceHead, dá para ligar e desligar a qualquer hora, até no meio de uma perseguição.
 
 Quem mostrou foi o JuiceHead, jogando no Xbox. Os nomes estão em inglês, como aparecem no vídeo; no jogo em português eles podem aparecer traduzidos.
 
@@ -35,7 +35,7 @@ Quem mostrou foi o JuiceHead, jogando no Xbox. Os nomes estão em inglês, como 
 | Simplified Mini Games | Simplifica os momentos de interação, como malhar, fazer ligação direta e jogar basquete. |
 | Auto Drive | Leva você sozinho até o destino. Veja o [piloto automático](../piloto-automatico-gta-6/). |
 
-Ao sair do menu, o jogo pergunta se quer salvar e avisa que as mudanças podem ter um grande impacto na experiência.
+Na hora de salvar, o jogo avisa que essas mudanças podem ter um grande impacto na experiência. Se você não salvar, tudo volta como estava.
 
 ## Combate acessível na prática
 
@@ -64,4 +64,4 @@ Logo abaixo ficam **Combat Movement Speed**, a mesma coisa durante o combate, e 
 
 ## Minigames simplificados e a academia
 
-Na academia, levantar peso pede apertar os gatilhos no tempo certo. Com **Simplified Mini Games** ligado, o JuiceHead mostra que essa parte de tempo some e malhar fica bem mais fácil. Vale para quem vai repetir o treino todo dia. Veja [como ficar musculoso](../como-ficar-musculoso-gta-6/).
+Na academia, levantar peso pede apertar os gatilhos no tempo certo. Com **Simplified Mini Games** ligado, essa parte de tempo some e malhar fica bem mais fácil, segundo o JuiceHead. Vale para quem vai repetir o treino todo dia. Veja [como ficar musculoso](../como-ficar-musculoso-gta-6/).

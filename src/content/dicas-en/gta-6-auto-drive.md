@@ -32,7 +32,7 @@ Two channels showed it working: JuiceHead on Xbox and Milo on PS5.
 
 1. **Set a destination** on the map first. Milo only got it to work with a waypoint already placed.
 2. Get in a car or boat and start driving.
-3. **Hold down on the D-pad** to open the vehicle's quick menu.
+3. **Hold down on the D-pad** to open the quick navigation menu, the same one you use to pick GPS targets.
 4. Pick the **cinematic camera**. The view switches to movie-style angles.
 5. **Enable Auto Drive** shows up in the bottom corner. Press **circle** (B on Xbox).
 6. The vehicle now drives itself. Press the same button, now labeled **Disable Auto Drive**, to take the wheel back. To leave the cinematic camera, the game tells you to **hold the D-pad**.

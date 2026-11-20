@@ -31,7 +31,7 @@ Quem mostrou foram dois canais, o JuiceHead (no Xbox) e o Milo (no PS5). Os nome
 
 1. **Marque um destino** no mapa. Sem destino, não tem para onde ir. O Milo só conseguiu com um ponto já marcado.
 2. Entre num carro ou barco e comece a dirigir.
-3. **Segure o direcional para baixo.** Abre o menu rápido do veículo.
+3. **Segure o direcional para baixo.** Abre o menu de navegação rápida, o mesmo que serve para escolher destinos no GPS.
 4. Escolha a **câmera cinematográfica**. A imagem muda para ângulos de filme.
 5. No canto de baixo aparece **Enable Auto Drive**. Aperte **bolinha** (B no Xbox).
 6. Pronto: o carro segue sozinho. Para retomar o volante, aperte o mesmo botão, que agora mostra **Disable Auto Drive**. Para sair da câmera de cinema, o jogo pede para **segurar o direcional**.
