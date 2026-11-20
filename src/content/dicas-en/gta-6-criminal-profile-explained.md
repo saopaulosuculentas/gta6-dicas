@@ -12,9 +12,13 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-criminal-profile-honor-system-explained/", data: "2026-11-18T08:06:01-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-six-stars/", data: "2026-11-18T15:00:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-criminal-profile-irredeemable-professional-psycho/", titulo: "What Affects Your Criminal Profile In GTA 6", data: "2026-11-19T15:07:13-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "7:09", data: "2026-11-19T19:17:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/", titulo: "Rockstar prepared \"several variations\" for GTA 6 story moments based on how you treat Lucia and Jason's relationship", data: "2026-11-19T21:45:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T10:22:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "Added JorRaptor's shortcut (hold D-pad Right to see your profile), what the demon icon's colors mean after each action, and aiming at the yellow marks to wound without killing. Rockstar told Game Informer (via GamesRadar+) the profile changes story scenes; whether it changes the ending is still unknown, per GameSpot." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Now confirmed: GameSpot describes the same five tiers and the permanent Irredeemable rank. Added that both characters start at Hardened, that traffic deaths count, which acts earn focus, and the split in the Psycho icon that warns you Irredeemable is close." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: levels and rules from PC Gamer's criminal profile guide. The profile line shows up in a frame from TheUntouchableWolf's video." }
 perguntas:
@@ -29,6 +33,8 @@ GTA 6's criminal profile is the system that tracks **how you treat people in the
 ## The five levels
 
 Every level comes with an emoji-style "face with horns" icon that appears on screen.
+
+JorRaptor explains how to read it. After you do something, a **demon icon often pops up on the right side of the screen**. A **yellow or orange** one means you were careful: few kills, or you got away without being spotted. A **purple** one means you went after civilians, cops and every enemy in sight. Those colors line up with the table below.
 
 | Level | Color | How you get there | Bonus |
 |---|---|---|---|
@@ -48,7 +54,7 @@ At **Professional** and **Hardened**, focus comes from non-lethal takedowns and 
 
 Across the first four levels, your profile moves up and down as you play. **Irredeemable** is different: once you hit it, **it stays**. Rockstar says it will have a lasting effect on Jason and Lucia, but nobody knows yet what that means.
 
-You do get a warning. GameSpot says a **split appears in the Psycho icon** right before you tip over into Irredeemable, so that's your cue to stop killing. GameSpot's advice is to avoid the rank altogether, since it changes your playthrough in a big and lasting way. If you're curious anyway, keep a **backup manual save** first, ideally once the story is done or nearly done. Here's [how saving works](../gta-6-how-to-save/).
+You do get a warning. GameSpot says a **split appears in the Psycho icon** right before you tip over into Irredeemable, so that's your cue to stop killing. GameSpot's advice is to avoid the rank altogether, since it changes your playthrough in a big and lasting way. If you're curious anyway, keep a **backup manual save** first, ideally once the story is done or nearly done. Here's [how saving works](../gta-6-how-to-save/). JorRaptor gives the same advice if you just want to cause chaos without thinking about your profile: save first, then load that save afterward.
 
 Keep the permanent rank in mind before chasing a [6 star wanted level](../gta-6-six-star-wanted-level/). Getting there means killing a lot of cops and soldiers, and PC Gamer warns that can hit your profile hard.
 
@@ -57,7 +63,7 @@ Keep the permanent rank in mind before chasing a [6 star wanted level](../gta-6-
 GameSpot lists what keeps you at the top tier:
 
 - **Stay hidden.** Finish missions without being detected where you can.
-- **Use non-lethal takedowns** instead of killing enemies.
+- **Use non-lethal takedowns** instead of killing enemies. JorRaptor shows one way to do it in a gunfight: with focus active, aim at the **yellow marks** that show up on an enemy. The shot hurts them badly without killing them.
 - **Don't kill civilians,** and that includes running people over by accident while driving.
 - **Defuse when offered.** Some missions give you a prompt to calm things down, which can lead to an outcome where nobody dies.
 - **Spare people who surrender** when the game gives you that choice. The [Arnold decision](../gta-6-kill-or-spare-arnold/) is one example of a spare prompt.
@@ -68,6 +74,17 @@ PC Gamer's writer finished the main story with both characters at Professional, 
 
 The body count still wasn't small. The endgame stats show **321 enemies and 58 cops killed**, against **461 enemies and 107 cops incapacitated**. There are also 98 animal kills on the record, and the writer suspects most were birds that refuse to get out of the way of vehicles.
 
+## Does your profile change the story or the ending?
+
+**No story spoilers:** this only covers what the profile affects, not what happens.
+
+- **Story scenes: yes.** Rockstar senior design director Luke Howard told Game Informer that a number of story scenes were recorded in different versions, depending on the couple's relationship and their criminal profile. GamesRadar+ reports the differences range from small details to bigger changes.
+- **The ending: unknown so far.** GameSpot says some players suspect the profile plays into the ending, but nothing confirms it. JorRaptor, for one, says in his video that it affects the endings, without showing it. What GameSpot does confirm is that the relationship and the couple's savings decide the ending.
+
+See what's known in [how many endings GTA 6 has](../gta-6-how-many-endings/), and how to raise the relationship in the [romance guide](../gta-6-romance-jason-lucia/).
+
 ## Checking your profile
 
-Open the menu and go to the **Jason & Lucia** tab, which GameSpot also points to. In the image above, the profile sits at the top of Jason's page there. For more on how the game works early on, see the [beginner tips](../gta-6-beginner-tips/).
+The quickest way, according to JorRaptor, is to **hold D-pad Right** while you play. Later on, it also shows up in the Jason & Lucia menu.
+
+For the menu, open it and go to the **Jason & Lucia** tab, which GameSpot also points to. In the image above, the profile sits at the top of Jason's page there. For more on how the game works early on, see the [beginner tips](../gta-6-beginner-tips/).

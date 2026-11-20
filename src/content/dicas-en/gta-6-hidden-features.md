@@ -8,6 +8,7 @@ plataformas: [ps5, xbox]
 pt: "recursos-escondidos-gta-6"
 imagens:
   - { arquivo: "recursos-escondidos-gta-6/desvirar-carro.webp", legenda: "A flipped car: lean on its side and the game offers to shove it back over.", canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", minuto: "14:58" }
+  - { arquivo: "recursos-escondidos-gta-6/fone-clef-earbuds.webp", legenda: "At Zeke's Gadgets, the Clef Earbuds cost $119 and come in 4 colors.", canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", minuto: "1:47" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
@@ -17,9 +18,14 @@ fontes:
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "3:44", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "NorZZa", url: "https://www.youtube.com/watch?v=Q6Zzn6VfaLA", titulo: "Change These Setting Before You Play Grand Theft Auto 6! | GTA6 Beginner's Guide & Tips", minuto: "7:54", data: "2026-11-19T01:00:18-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "7:52", data: "2026-11-19T14:01:31-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "1:45", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "3:18", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/", titulo: "GTA 6 fast travel: How to get around the map quickly", data: "2026-11-18T21:00:00-03:00" }
+  - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=eoeUJUSH_RE", titulo: "HOW TO FAST TRAVEL ANYWHERE IN GTA 6!", minuto: "1:47", data: "2026-11-19T06:10:04-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:06:00-03:00"
 historico:
+  - { data: "2026-11-20T11:06:00-03:00", nota: "Headphones: the store sign reads Zeke's Gadgets (the page said Zeke's Electronics, per NorZZa); Clef Earbuds for $119, toggled from your loadout, with audio kept separate from the car (JuiceHead). Double-tap Triangle when getting out to leave the engine and radio running (JuiceHead). Cop car sirens clear traffic (Milo). Travel: Paradise Taxi takes cash only, RydeMe bills BuckMe, BuckMe Premium knocks 20% off RydeMe, buses and trains let you skip too (GamesRadar+); a $268 cab from Vice City to Jason's house (Imack Studios). Linked the auto drive and fast travel guides." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: $5 tolls (free in a stolen or borrowed car), scaring off attack dogs by shooting the ground, pet snacks at store counters, rooftop entrances and holding Square to shove a heavy car." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Now confirmed: MrDalekJD, BennyCentral and KhrazeGaming show car flipping, the car menu and trunk outfits. Added autopilot, Paradise Taxi, Joey's free repairs, door colors in focus, fuel, fast swimming, whistling, headphones and the door-check move. Flipping and the taxi skip button show both versions." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Added Kotaku's tip about using focus to track down shouting and side quests." }
@@ -27,7 +33,7 @@ historico:
 perguntas:
   - { p: "How do you flip your car back over in GTA 6?", r: "Walk into the side of the flipped car and keep pushing until your character braces against it and a shove prompt appears, then press Square (X on Xbox). Kotaku clicks the left stick first and holds Square. It fails if the car is too heavy or you run out of stamina." }
   - { p: "How do you sit down in GTA 6?", r: "Hold Circle (B on Xbox) on foot. On grass or sand your character sits; elsewhere they rest on one foot, and near a wall they lean on it." }
-  - { p: "Is there fast travel in GTA 6?", r: "Sort of. Call a cab with Paradise Taxi or RydeMe, pick a destination and pay about $100 on top of the fare to skip the ride. In-game time still passes." }
+  - { p: "Is there fast travel in GTA 6?", r: "Sort of. Call a cab with Paradise Taxi or RydeMe, pick a destination and pay about $100 on top of the fare to skip the ride. Buses and trains let you skip the trip too. In-game time still passes." }
   - { p: "How do you use turn signals in GTA 6?", r: "While driving, tap Left or Right on the D-pad. Kotaku noticed other drivers seem to react to them." }
 ---
 
@@ -57,6 +63,11 @@ On foot, **hold Circle**. On grass or sand your character **sits down**; elsewhe
 - **The trunk closes itself:** no need to shut it by hand; it closes when you drive off.
 - **Turn signals:** tap **Left** or **Right** on the D-pad. Kotaku noticed NPC drivers seem to react.
 - **Door-check people:** MrDalekJD found that pressing **Square** while driving swings the passenger door open for a second or two. Time it right and it knocks riders off motorbikes and bicycles.
+- **Leave the engine running:** the car normally shuts off when you step out. JuiceHead's fix is to **double-tap Triangle** as you get out, which keeps the **engine and radio on**. Handy for photos of your car or for keeping the music going while you do something nearby.
+
+## Cop car sirens clear the road
+
+Drive a **police car** with the **siren on** and the traffic ahead pulls aside, along with people on the street. Milo tried it heading toward a group of pedestrians and they all stepped out of the way. It's a quick way across town without sitting in traffic. JuiceHead adds that even [auto drive](../gta-6-auto-drive/) moves more freely in a cop car with the siren going.
 
 ## Autopilot
 
@@ -68,6 +79,8 @@ On a long trip, your character can drive for you:
 
 You can **change the speed**, from crawling to as fast as the car goes. It works best on **boats**, where there's barely any traffic. On the road your character obeys the law, stopping at every red light and waiting for pedestrians.
 
+The full walkthrough, with the on-screen prompts, the three speeds and the Auto Drive setting, is in [how to use auto drive in GTA 6](../gta-6-auto-drive/).
+
 ## Fast travel by taxi
 
 There's no free fast travel, but a cab does the job. Early on the service is **Paradise Taxi**, which you'll find in your phone contacts. Kotaku used the **RydeMe** app instead.
@@ -76,7 +89,15 @@ There's no free fast travel, but a cab does the job. Early on the service is **P
 2. The ride has its own fare. KhrazeGaming paid **$350** for a long trip.
 3. To **skip the drive** and load straight in at the destination, pay about **$100** more. BennyCentral, KhrazeGaming and Kotaku all mention that price. In-game time still passes.
 
-The button to skip depends on who you ask: Kotaku holds the left trigger to focus on the driver and picks the fast travel option, while BennyCentral just gets the option after choosing a destination. KhrazeGaming says more taxi services unlock later in the story, and he uses the skip to reach places he's never been.
+The button to skip depends on who you ask: Kotaku holds the left trigger to focus on the driver and picks the fast travel option, while BennyCentral just gets the option after choosing a destination. GamesRadar+ spells it out: once you're in the car, focus on the driver with **L2** and ask to skip with **Triangle**, for the extra $100. KhrazeGaming says more taxi services unlock later in the story, and he uses the skip to reach places he's never been.
+
+GamesRadar+ adds a few details on each way to get around:
+
+- **Paradise Taxi:** you get the number during a Chapter 1 mission, and it sits in your phone contacts. It takes **cash only**, so carry some bills or hit an ATM first.
+- **RydeMe:** unlocks in **Chapter 2** and charges your **BuckMe** bank account rather than your wallet. In Chapter 3 you can sign up for **BuckMe Premium**, and one of its perks is **20% off** every RydeMe trip.
+- **Buses and trains:** they work too. Hold **down on the D-pad** to see nearby stops and stations, wait at the stop, board, pick a destination on the line and **hold Triangle** to skip the journey.
+
+For a sense of cost, Imack Studios set Jason's house as the destination from Vice City and Paradise Taxi wanted **$268** for the ride, which he couldn't cover at the time. Every option, with prices, is in [how to fast travel in GTA 6](../gta-6-fast-travel/).
 
 ## Fuel
 
@@ -89,6 +110,13 @@ Leonida's highways have toll booths. According to MrBossFTW, each one costs **$5
 ## Listen to the radio on foot
 
 Buy **headphones** at an electronics store. NorZZa found them at **Zeke's Electronics** in **Hamlet**, north of the Keys, which also sells phone cases. With headphones on, hold **Left on the D-pad** on foot to play music or podcasts while you walk around.
+
+JuiceHead bought his at a store in Hamlet whose sign on screen reads **Zeke's Gadgets**. NorZZa called it Zeke's Electronics; go by the name the game shows. JuiceHead says most other electronics stores carry them too. What the store screen shows:
+
+- **Model and price:** **Clef Earbuds**, **$119**, in **4 colors**.
+- **Turning them on and off:** after you buy them, a tip says they live in your loadout. Hold the **D-pad** and press **X** (A on Xbox) to switch them on or off.
+
+According to JuiceHead, the earbuds play separately from your car. Whatever you were listening to doesn't carry over when you get in, but a podcast picks up where you left off. He also notices a slight noise-canceling effect while they're in.
 
 ## Keep outfits in the trunk
 

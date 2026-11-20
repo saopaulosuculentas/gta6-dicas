@@ -13,9 +13,11 @@ fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/can-you-romance-mandy-in-gta-6/", titulo: "Can You Romance Mandy In GTA 6?", data: "2026-11-18T19:09:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/", titulo: "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story", data: "2026-11-19T10:44:00-03:00" }
   - { tipo: youtube, canal: "Apex Films", url: "https://www.youtube.com/watch?v=kB5MeJWLH_U", titulo: "Can You Romance Mandy in GTA 6? (And the Creepy Secret Inside Her Sink)", minuto: "0:51", data: "2026-11-19T15:00:30-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/", titulo: "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'", data: "2026-11-20T09:26:00-03:00" }
 descoberto_em: "2026-11-20T10:47:00-03:00"
-atualizado_em: "2026-11-20T10:47:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Sink section: added PC Gamer's take (the object looks like a finger and Mandy takes it from Jason), next to GameSpot and Apex Films." }
   - { data: "2026-11-20T10:47:00-03:00", nota: "Published as confirmed: no Mandy romance per GameSpot; Rockstar's stance via PC Gamer; the sink scene shown in Apex Films' video." }
 perguntas:
   - { p: "Can you cheat on Lucia in GTA 6?", r: "No. There's no option for Jason to get with anyone else. Rockstar says it doesn't fit the couple's story." }
@@ -56,6 +58,12 @@ Plenty of people are looking up the "sink scene" from Pipework. Apex Films' vide
 2. He crawls under the sink and uses a **wrench** to loosen the pipe. In that part of the video, the wrench prompt shows up on **RT**, an Xbox button. The PS5 buttons are on the Mandy mission page.
 3. Out of the pipe comes a **small object completely covered in grime**. Jason holds it up near his face and grimaces.
 
-The moment is quick and the object is so filthy that **you can't tell what it is**. GameSpot only calls it a curious item that was clogging the pipes. Nobody has confirmed what it actually is yet, so be wary of anyone who claims to know for sure.
+The moment is quick and the object is filthy. The sources don't agree on what it is:
+
+- **PC Gamer:** it looks like a **finger**, and Mandy grabs it out of Jason's hand right away and leaves with it. The article says this has made plenty of players suspicious of her.
+- **GameSpot:** it only calls it a curious item that was clogging the pipes.
+- **Apex Films:** in that part of the video, the object is caked in grime and hard to make out.
+
+Rockstar hasn't explained the scene. For now, the "finger" is PC Gamer's reading, not something the game confirms.
 
 The same video wanders around Mandy's yard and her green car looking for more clues, but doesn't show anything conclusive. For the whole mission with every button, see the [Chapter 1 walkthrough](../gta-6-chapter-1-walkthrough/).

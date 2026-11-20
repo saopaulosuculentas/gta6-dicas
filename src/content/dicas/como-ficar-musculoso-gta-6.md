@@ -20,9 +20,11 @@ fontes:
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "4:16", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "4:10", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=o0SPFLsPQS8", titulo: "TESTANDO O NOVO CELULAR DO GTA 6! APP SECRETO PRA ROUBAR CARROS, WHATSAPP E REDE SOCIAL!", minuto: "6:44", data: "2026-11-19T12:23:05-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "7:52", data: "2026-11-19T20:37:45-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T10:48:00-03:00"
 historico:
+  - { data: "2026-11-20T10:48:00-03:00", nota: "JuiceHead: a opção Simplified Mini Games, na aba Jogabilidade, tira o tempo certo dos gatilhos nos exercícios; e as barras de proteína do armário se repõem sozinhas. Link para a página de dificuldade." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "BelotoPlays também abriu o app de fitness: força, cárdio e foco com descrição de cada um, musculatura, gordura corporal e equilíbrio calórico." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: treino completo com 3 exercícios e 3 dias seguidos (MrDalekJD), aparelho trava depois da série e teto diário de força (Arekkz), montar o saco de pancada, repetições e peso no deck (Thalera), pós-treino. Repetições e peso agora mostram as duas versões: 10 na academia (Canal do Nego) e 3 no deck (Thalera); cuidado com o peso (BelotoPlays) e peso máximo (Thalera)." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: barra de proteína reduz o tempo de espera entre treinos; rotina diária na casa do Jason." }
@@ -105,6 +107,8 @@ O Thalera monta o pós-treino assim, na cozinha da casa do Jason:
 
 O Arekkz confirma que comida com proteína encurta o tempo de espera do treino. E o MrDalekJD lembra que comer ou beber algo em casa antes de sair dá um reforço no fôlego e no foco.
 
+Não precisa economizar a barra: segundo o JuiceHead, as **barras de proteína do armário se repõem sozinhas** com o tempo. Ele também cita o shake de proteína da geladeira como alternativa.
+
 ## Dicas para ganhar músculo mais rápido
 
 1. **Treine sempre**, não tudo num dia só: o jogo fala em treinar regularmente, e o app mede a janela de treino. O BennyCentral reforça que força e fôlego só sobem em certos intervalos, então vale treinar toda vez que der.
@@ -114,7 +118,7 @@ O Arekkz confirma que comida com proteína encurta o tempo de espera do treino. 
 5. **Treine com os dois personagens.** O progresso é separado: o que o Jason treina não conta para a Lucia.
 6. **Barra de proteína corta a espera.** Segundo o Thalera, comer uma barra de proteína na cozinha da casa do Jason faz o tempo para treinar de novo cair bem mais rápido. A rotina dele: acordar, fazer 3 treinos no deck, bater no saco de pancada (fôlego), alimentar a cobra e arremessar no basquete (foco), e repetir no dia seguinte.
 7. **Cárdio de graça:** qualquer **natação** conta como cárdio. Basta entrar no mar e nadar. O BennyCentral completa o fôlego correndo e nadando depois do saco de pancada.
-8. **Cansou de apertar botão?** O Thalera lembra que em Configurações, na parte de acessibilidade da aba Jogabilidade, há uma assistência para apertar botão que facilita o aperta-aperta da academia. Veja as [melhores configurações do GTA 6](../melhores-configuracoes-gta-6/).
+8. **Cansou de apertar botão?** O Thalera lembra que em Configurações, na parte de acessibilidade da aba Jogabilidade, há uma assistência para apertar botão que facilita o aperta-aperta da academia. Veja as [melhores configurações do GTA 6](../melhores-configuracoes-gta-6/). Na mesma aba Jogabilidade fica a opção **Simplified Mini Games** (minigames simplificados), que vem desligada. O texto do jogo diz que ela facilita exercícios, ligação direta e basquete. O JuiceHead explica que, nos pesos, ela tira a parte de acertar o tempo nos gatilhos ao levantar e baixar o peso, o que ajuda muito quem treina todo dia. Mais opções desse tipo estão em [modo fácil e dificuldade](../dificuldade-modo-facil-gta-6/).
 9. **Treinar também libera um código.** O [código de colete](../codigo-colete-gta-6/) é liberado ao completar 100 treinos.
 
 ## O que ainda não se sabe

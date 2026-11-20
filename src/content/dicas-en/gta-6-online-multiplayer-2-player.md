@@ -14,9 +14,12 @@ fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions", titulo: "Grand Theft Auto VI Platforms, Editions, and Versions", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "Live Updates On GTA 6: The Biggest Launch In Gaming History", data: "2026-11-18T12:40:07-03:00" }
   - { tipo: site, canal: "Windows Central", url: "https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review", titulo: "GTA 6 review: A bittersweet symphony of absolute excellence", data: "2026-11-18T08:00:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T16:55:00-03:00"
-atualizado_em: "2026-11-19T16:55:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Added what GTA+ costs once the free month ends ($7.99 / €7.99 / £6.99 a month), where to redeem the month, and a link to what the membership unlocks in story mode (GamesRadar+ and PC Gamer)." }
   - { data: "2026-11-19T16:55:00-03:00", nota: "Published as confirmed: PlayStation and Xbox both call GTA 6 a single-player experience; PlayStation lists 1 player and offline play." }
 perguntas:
   - { p: "Does GTA 6 have online?", r: "Not at launch. PlayStation and Xbox both describe GTA 6 as a single-player experience, and Rockstar hasn't announced an online mode or a date for one." }
@@ -44,6 +47,10 @@ Rockstar says GTA 6 supports Remote Play on PlayStation and Xbox. That only stre
 ## What about the GTA+ month?
 
 Digital purchases of either edition made before November 20, 2026 include **one month of GTA+**, Rockstar's membership. Rockstar lists it as part of the digital bonuses, and PlayStation notes the month rolls into a paid monthly subscription unless you cancel it in your account settings before the next payment date.
+
+- **What it costs afterward:** GamesRadar+ puts GTA+ at **$7.99 / €7.99 / £6.99 a month** on PS5 and Xbox Series X. PC Gamer quotes the same $7.99.
+- **Where to claim it:** GamesRadar+ says to open the pause menu and go to the **Store** tab. PC Gamer found it on the "store" page of the main menu.
+- **What it does in GTA 6:** even without a multiplayer mode, the membership adds a few story-mode perks, including an exclusive car with its own garage, free or cheaper rides, 10% more for cars you sell and some shop discounts. PC Gamer isn't impressed, calling it thin for a monthly bill. The full list is in [every GTA+ reward in GTA 6](../gta-6-gta-plus-rewards/).
 
 ## What this means for cheats
 

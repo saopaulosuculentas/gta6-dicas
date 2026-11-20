@@ -8,6 +8,7 @@ plataformas: [ps5, xbox]
 pt: "como-fugir-da-policia-gta-6"
 imagens:
   - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City at night, in an official GTA 6 image.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
+  - { arquivo: "como-personalizar-carro-gta-6/oficina-area-de-busca.webp", legenda: "Wanted and in a car the police know, you can't pull into a mod shop.", canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", minuto: "2:41:42" }
 fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-lose-the-police-in-gta-6/", titulo: "How To Lose The Police In GTA 6", data: "2026-11-19T08:55:00-03:00" }
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=wBVbxswlJ4A", titulo: "GTA 6 - 10 Tips & Tricks I Wish I Knew SOONER! (Beginner Guide)", minuto: "6:27", data: "2026-11-18T16:04:42-03:00" }
@@ -20,9 +21,13 @@ fontes:
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "14:03", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:33", data: "2026-11-18T15:36:34-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "27:39", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:58", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:38", data: "2026-11-19T20:37:45-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Running a red light in front of a cop did nothing (Milo). Mod shops turn away a known car inside a heat area, with the on-screen message (Elanip). A five-star escape by boat along the coast with Accessible Combat on (JuiceHead)." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Added the 5 wanted star states and search zone colors (MrBossFTW), slapping the phone out of a witness's hand (MrBossFTW), the $200 respray price (Mr Lawrence) and the fact that you can't start a mission while wanted (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Added: cops off the minimap, witnesses and cameras (MrDalekJD); heat icons for CCTV, a visible weapon and both characters (GamingBolt, MrDalekJD); hollow stars (KhrazeGaming); long guns scaring people into calling the cops (KhrazeGaming, GamingBolt); spare outfits in the trunk (BennyCentral, KultZ)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: GameSpot and DPJ both explain that the police track your look and car, and how to change them." }
@@ -108,6 +113,18 @@ When they lose your description, you'll hear the radio say they lost sight of yo
 ## You can't start a mission while wanted
 
 In Bombastic's video, the game told him he couldn't start a mission with the cops on his tail. If a mission marker is nearby, lose them first and then head over.
+
+## Mod shops won't take you either
+
+Tuning shops are off the table too. During Elanip's stream, with the police after him, he pulled up to a mod shop and the game turned him away: no entry inside a **heat area** while you're in a **known vehicle**. He headed to a Pay 'n' Spray instead. More on tuning in [how to customize your car](../gta-6-car-customization/).
+
+## Escape by boat
+
+With **five stars** right at the start of the game, JuiceHead got away by **stealing a boat** and following the **coastline** until the cops dropped off. He had **Accessible Combat** on, which cuts the damage you take, and soaked up a lot of shots with no armor. He says you can switch it on mid-chase from the bottom of the Gameplay settings, and that it doesn't turn off achievements. The details are in [how to make GTA 6 easier](../gta-6-difficulty-easy-mode-settings/).
+
+## Red lights won't get you a star
+
+Milo had seen on TikTok that cops chase you for any traffic violation, like running a red. He tried it right in front of a patrol car and the officer didn't react at all.
 
 ## Keep spare outfits in your trunk
 

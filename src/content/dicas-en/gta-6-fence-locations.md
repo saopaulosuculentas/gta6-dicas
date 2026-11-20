@@ -15,9 +15,12 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "4:30", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "DooDooPoo", url: "https://www.youtube.com/watch?v=cZLAIDMi4ak", titulo: "GTA 6 SECRET WAREHOUSE LOCATION - FREE $20K, RARE TRADING CARD & WEAPONS - GTA VI", minuto: "0:11", data: "2026-11-19T12:41:03-03:00" }
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=c3EZuDNC6Zc", titulo: "GTA 6 Gameplay: How to Pull Off the Perfect Robbery! (GTA 6 Money)", minuto: "6:50", data: "2026-11-18T17:00:35-03:00" }
+  - { tipo: youtube, canal: "FuriousFade", url: "https://www.youtube.com/watch?v=rPA0QpIjEHA", titulo: "FINDING HIDDEN STASHES WITH CRAZY LOOT IN GTA 6!", minuto: "36:20", data: "2026-11-19T18:46:12-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "1:01", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-19T16:22:00-03:00"
+atualizado_em: "2026-11-20T11:04:00-03:00"
 historico:
+  - { data: "2026-11-20T11:04:00-03:00", nota: "Added how to sell at Donnie's: bags go in the toolbox next to his trailer, the prompt shows your total up front ($11,600 in FuriousFade's video) and the cash lands in your mailbox. BennyCentral saw Donnie pay $800 more than Brian for the same bag." }
   - { data: "2026-11-19T16:22:00-03:00", nota: "Brian's lockup code 7700, shown by KhrazeGaming, DooDooPoo and JoblessGarrett." }
   - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmed with GamesRadar+: loot by robbery type, the Drop-offs tab in the index and mailbox payouts." }
   - { data: "2026-11-19T11:49:00-03:00", nota: "Published as unverified: fence list from PC Gamer; the marked bills prompt shows up in DPJ's video." }
@@ -65,6 +68,18 @@ Pocket cash is yours right away. Everything else has to go through a fence.
 ## Brian's lockup code
 
 Brian's lockup in South Key Lento has a **keypad** on the door. The code is **7700**: KhrazeGaming, DooDooPoo and JoblessGarrett all used the same one. The game remembers it for you after the first time. Inside, drop your bags in the container and choose to sell. DooDooPoo sold one full stash bag for **$10,000**.
+
+## How to sell at Donnie's
+
+Donnie is the second fence you get in Chapter 1, out of his trailer in Key Lento. FuriousFade brought two full bags from a warehouse and walked through it:
+
+1. Pull up near Donnie's trailer. Back the car in so the bags come out of the trunk easily.
+2. The bags go in the **old toolbox next to the trailer**. Donnie picks them up later.
+3. Before you confirm, the prompt already shows **how much you'll get**. In his video it read "Sell stash bags (+$11,600)" for drugs and marked bills together.
+4. You can't split it: FuriousFade noticed the game sells the drugs and the marked bills in one go.
+5. Soon after, Donnie texts you that the money is in your **mailbox**. Swing by home to collect it.
+
+**Donnie or Brian?** BennyCentral compared both on the map before selling a warehouse bag: Donnie's trailer paid **$800 more** than Brian's lockup for the same load, and the bag went for about $10,000. It's worth checking both prices before you pick, as covered in "How to sell" above. That warehouse is in [the early money warehouse](../gta-6-early-money-warehouse/).
 
 ## Cash now or cash later
 

@@ -17,9 +17,13 @@ fontes:
   - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:37", data: "2026-11-19T14:00:35-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "3:34", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "ZoneX", url: "https://www.youtube.com/watch?v=gcC0XGLDO30", titulo: "GTA 6 Beginner’s Guide Everything You Need To Know (No Timewasting)", minuto: "3:52", data: "2026-11-18T19:13:06-03:00" }
+  - { tipo: youtube, canal: "Typical Gamer", url: "https://www.youtube.com/watch?v=fwQa5kmCJIc", titulo: "1 Hour of GTA 6 Free Roam! Rare Cars & Planes (No Spoilers)", minuto: "38:50", data: "2026-11-20T00:37:49-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T10:58:00-03:00"
 historico:
+  - { data: "2026-11-20T10:58:00-03:00", nota: "Added Typical Gamer's walkthrough of the La Perle Pay 'n' Spray menu: repair, respray, register ($29,900 for a Progen Royal Ruby Emerus, matching Waink It) and sell. Added the GTA+ car-selling perks from GamesRadar+ and PC Gamer." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Trackers now show both versions: PC Gamer says a standard tracker only blocks mods, while GameSpot says it also blocks registration until you meet whoever removes trackers, after which any Pay 'n' Spray can do it. Added the warning that cars in your own neighborhood can't be stolen (Bombastic and ZoneX)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmed: MrDalekJD and KhrazeGaming show Waink It, alarms, trackers and the story-locked tools. Added when registration unlocks (chapter 2, after the mission Moses, per MrDalekJD) and GamingBolt's monster truck that wouldn't fit in the Pay 'n' Spray." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. Source: two PC Gamer guides (count as one source)." }
@@ -89,11 +93,27 @@ In MrDalekJD's view, an advanced tracker is no problem for a short dash away fro
 
 Trackers and registration still come in two versions. MrDalekJD says that once it unlocks you can register cars that **don't have a tracker**, and GameSpot backs that up: a car with either kind of tracker can only be registered after you've met whoever removes them. PC Gamer, on the other hand, says a standard tracker only stops you modifying the car until it's registered. Until someone tests it properly, pick a car without a tracker if you want to keep it.
 
+### What registering looks like at the La Perle Pay 'n' Spray
+
+Typical Gamer, about halfway through the story, drove a rare car into the **Pay 'n' Spray in La Perle** and went through the whole menu:
+
+- **Repair:** fixes engine and body damage.
+- **Respray:** a new paint job. Red cost him **$200**.
+- **Register:** swaps the plates and makes the car yours. For a **Progen Royal Ruby Emerus**, that was **$29,900**.
+- **Sell:** the same shop will buy the car from you.
+- **Stored Vehicles:** a second tab lists the cars you've already put away.
+
+The registration price matched what Waink It showed before he took the car. The Emerus card read: unlocked, security deactivated, no tracker, **$30,000 sell value** and **$29,900 to register**. On a car like that, keeping it costs almost as much as you'd get for selling it.
+
+He couldn't afford it in the end. He had $25,392 in the bank and $9,671 in cash, and the menu said he didn't have enough. On screen, the respray price carries both the bank icon and the cash icon, while the registration price only has the BuckMe bank icon. It looks like registration comes out of your bank balance only, though no source has tested that yet.
+
 ## Sell it or keep it
 
 - **Pay 'n' Spray:** sells stolen cars, with a limit of **3 per day**. It's also where you **register** a car to make it yours, from chapter 2 on. According to GameSpot, it won't take a car that still has a tracker until later in the story.
 - **Moses** (chapter 2): buys older, low-profile cars and often tells you where the ones he wants are. After a sale he needs a while before taking another.
 - **Randy** (chapter 3): pays more, but only wants flashy, expensive cars.
 - **Storage:** a garage bought through the real estate app on your phone (one car per garage), or the parking spots outside your safehouse. See [every garage and price](../gta-6-garage-locations-prices/).
+
+**With GTA+:** according to GamesRadar+ and PC Gamer, GTA+ members get **10% more** when they sell a car they own at a Pay 'n' Spray. GamesRadar+ adds that the cars that come with the Ultimate Edition **can't be sold** at all. The full list of perks is in [every GTA+ reward in GTA 6](../gta-6-gta-plus-rewards/).
 
 Waink It tells you if a car suits Moses or Randy. Selling cars is one of the best earners in chapter 2: see [how to make money fast](../gta-6-how-to-make-money/). To shake the cops after a theft, see [how to lose the police](../gta-6-how-to-lose-the-police/).

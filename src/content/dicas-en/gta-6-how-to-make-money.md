@@ -22,9 +22,13 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "5:10", data: "2026-11-19T01:53:46-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "3:48", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "1:21", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "9:00", data: "2026-11-20T02:40:14-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "13:22", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "6:31", data: "2026-11-19T19:17:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:25:00-03:00"
+atualizado_em: "2026-11-20T11:09:00-03:00"
 historico:
+  - { data: "2026-11-20T11:09:00-03:00", nota: "Added Gellhorn Raceway races paying up to $4,000 (MrRoflWaffles); the Southside trap house, map cards showing security and take value, the dye pack warning for banks and Donnie paying $800 more than Brian (BennyCentral); illegal operations coming back with less loot (JorRaptor). Linked the secret early items guide." }
   - { data: "2026-11-19T16:25:00-03:00", nota: "Added KultZ (Brian's Lab Fees job paying $600 to the mailbox, the King Fishers island raid for about $2,000, night store robberies), KhrazeGaming (about $1,000 from a register), Milo (boat blown up by a shark) and MrDalekJD (bank deposits at ATMs). Linked the parrot stash." }
   - { data: "2026-11-19T14:44:00-03:00", nota: "Linked the new warehouse walkthrough (GrandTheftIntel); added ImBones on mailbox rewards." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Added DPJ (loot warehouse in South Vice-Dale County) and RageGamingVideos (shark and cargo random event east of Key Lento). Linked the fence guide." }
@@ -33,9 +37,10 @@ perguntas:
   - { p: "What is the fastest way to make money in GTA 6?", r: "Early on, Kenton's shipwreck dives and Dog Island. Later, according to PC Gamer, robbing other criminals mid-heist, selling stolen cars and the Ambrosia Raceway demolition derby, which pays up to $6,300 a win." }
   - { p: "Does your money reset in GTA 6 chapter 2?", r: "According to WiLLiSGaming, yes: your cash goes back to zero when chapter 2 starts. Only the family savings, the $5,000 in the BuckMe app, carries over." }
   - { p: "Is there a money cheat in GTA 6?", r: "Yes, it gives $250,000, but it only works after you beat the story." }
+  - { p: "Can you race for money in GTA 6?", r: "Yes. MrRoflWaffles races at Gellhorn Raceway, marked with an icon on the map: renting a car costs about $500, a win pays up to $4,000 and each race takes about five minutes." }
 ---
 
-Money is tight at the start of GTA 6, and there's no shortcut: the [$250,000 money cheat](../gta-6-money-cheat/) only works after you beat the story. Until then, these are the methods players have shown working, with how much each one paid.
+Money is tight at the start of GTA 6, and there's no shortcut: the [$250,000 money cheat](../gta-6-money-cheat/) only works after you beat the story. Until then, these are the methods players have shown working, with how much each one paid. For a route of early stashes packed with cash and guns, see [GTA 6 secret early items](../gta-6-secret-early-items/).
 
 ## First: chapter 1 money resets
 
@@ -51,7 +56,10 @@ WiLLiSGaming, who already got past chapter 2, warns that **your cash goes back t
 | Robbing other criminals mid-escape | $1,000 to $15,000 | PC Gamer |
 | Demolition derby at Ambrosia Raceway | $3,800 to $6,300 per win | PC Gamer |
 | A rare trading card at a pawn shop | $6,000 | LoDj1c |
+| Red warehouse bag sold at Donnie's | about $10,000 ($800 more than at Brian's) | BennyCentral |
 | Kenton's shipwreck dives | up to $4,000 per dive | WiLLiSGaming, JoblessGarrett |
+| Gellhorn Raceway (win) | up to $4,000, minus about $500 to rent a car | MrRoflWaffles |
+| Southside trap house | over $3,000, plus a rifle | BennyCentral |
 | King Fishers island raid | about $2,000 | KultZ |
 | Dog Island | $1,218 | ZoneX |
 | Store register holdup (early game) | almost $600 to just over $1,000 | KultZ, KhrazeGaming |
@@ -80,6 +88,24 @@ Some RVs out in the wild have lockboxes, and the code is usually written on the 
 ### The loot warehouse near Hamlet
 DPJ showed the same kind of warehouse in South Vice-Dale County, near Hamlet, with everyone inside already dead: **no fight needed**. He found a bag with **$4,800**, drugs in the back of a truck, a **Duke 5.56 assault rifle** and the safe with the card (rotate the right stick to open it). Bring a car: your bags fill up fast and you can stash the rest in the trunk. The cash comes as **marked bills**, which you have to take to a [fence](../gta-6-fence-locations/). GrandTheftIntel hit the same warehouse and walked out with around $11,000 plus a card worth $6,000. Full walkthrough: [the early money warehouse](../gta-6-early-money-warehouse/).
 
+BennyCentral showed the same red warehouse and a way to squeeze more out of it: compare your fences on the map before you sell. **Donnie's** trailer was paying **$800 more** than Brian's lockup for the exact same bag, which came to about **$10,000**, plus the loose cash you grab on the way. The payment arrives in the mailbox outside your house.
+
+### Southside trap house
+BennyCentral rates this a **medium security** job and a quick earner. It's in **Southside**, Vice City, where the PTT Youngs gang grows weed and stashes stolen goods.
+
+1. Clear the yard first, then head inside.
+2. There's cash on the desk by the money counter, weed on the kitchen counter and in the grow room, pills in the bedroom and jewelry on a table.
+3. Don't leave without the **luxury watch** next to the kitchen sink.
+4. An assault rifle is lying on the bedroom floor.
+
+He made over **$3,000** in a couple of minutes. Benny doesn't say whether it needs the Ultimate Edition; that edition has a similar bonus, the PTT Youngin$ Compound, also in Southside. See [Ultimate Edition bonuses](../gta-6-ultimate-edition-bonuses/).
+
+### Read the map card first
+According to BennyCentral, hovering over a robbery spot on the map brings up a card with its **security level** and **take value**. A high security warehouse, for example, pays up to **$6,400**. Start with the low security ones and work your way up, and use your **binoculars** to tag enemies from a distance before going in. JorRaptor adds that these illegal operations run on a **cooldown**: after a while you can rob them again, but for **less loot** than the first time, so hitting them early means they come back sooner. When you leave, check the icon on the map to see whether you got every valuable.
+
+### Gellhorn Raceway
+If doing the same robberies over and over gets old, MrRoflWaffles suggests racing at **Gellhorn Raceway**, which has its own icon on the map. Renting a car costs around **$500**, a win pays up to **$4,000** and a race takes about five minutes. It's decent driving practice too.
+
 ### Random events at sea
 Stop when something weird happens. RageGamingVideos saw an explosion off the coast **east of Key Lento**, found a shark attacking a man, killed it with the speargun from the scuba kit and picked up beeping packages from the water: about **$2,000** worth of drugs to sell.
 
@@ -97,6 +123,9 @@ You can rob convenience stores from the very start. KhrazeGaming got about $1,00
 Shirley's rum errand leads to a liquor store with something hidden out back. The full walkthrough is in [the parrot money guide](../gta-6-parrot-money-strange-noises/).
 
 ## Later in the story (PC Gamer's list)
+
+### Hold off on banks early
+BennyCentral warns against robbing **banks and loan stores early on**. The cash can come with **dye packs**, and the jammer that deals with them doesn't unlock until later in the story, so you risk losing the haul.
 
 ### Rob the robbers
 Listen for sirens, alarms, gunshots and screams. When you see a bank job, jewelry store heist or armored car robbery in progress, take down the crooks running off and **grab their bags**. Then get out fast, because their heat becomes yours. With Jason and Lucia together you can carry more bags.

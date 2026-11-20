@@ -10,9 +10,11 @@ imagens:
   - { arquivo: "gta-6-continuar-jogando-depois-do-final/mundo-aberto.webp", legenda: "Free roaming in GTA 6's open world, which stays available after the ending.", canal: "DubStepZz", url: "https://www.youtube.com/watch?v=foYHrm5PYME", minuto: "6:00" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333", titulo: "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler", data: "2026-11-18T11:00:57-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "Added GameSpot: Rockstar confirmed there's more than one ending, the count is at least 4, and the best one needs a maxed relationship plus $2 million in savings. Linked the endings page. The rewind to before the final mission still rests on Kotaku alone, so the page stays unverified." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: how the game handles its ending, according to Kotaku, which has already played to the end." }
 perguntas:
   - { p: "Does GTA 6 end after the final mission?", r: "No. After the credits, the game takes you back to the moment before the finale and you carry on as Jason and Lucia." }
@@ -35,6 +37,10 @@ Yes, you can keep playing GTA 6 after the ending. Once the credits finish, the g
 The **final mission marker stays on the map**. Play the finale again and you may land on a different ending.
 
 GTA 6 has **more than one ending**, and which one you get comes down to your choices. Kotaku saw two of them and says they go in very different directions. We're keeping the details out of this page.
+
+Rockstar confirmed the multiple endings to GameSpot as well. GameSpot's own team saw two, and with other players' reports added in, it counts **at least 4**. The site says the best ending asks for two things: Jason and Lucia at the **top relationship level** and the couple's savings maxed out at **$2 million**. So before you replay the finale, it's worth raising the [relationship](../gta-6-romance-jason-lucia/) and banking more cash.
+
+For how many endings people have found so far and what drives each one, with no spoilers, see [how many endings GTA 6 has](../gta-6-how-many-endings/).
 
 ## What unlocks after the finale
 

@@ -49,7 +49,7 @@ Hide the menus before you shoot so you can see the whole frame. Leaving without 
 - **Effects:** exposure, contrast, shadows, saturation, tint, bloom and chromatic aberration.
 - **Lighting:** add light sources in up to **five slots**, with presets such as stage lights and camera flashes. Each light has its own intensity, range and beam angle, and you can switch it off to compare.
 - **Vehicle:** toggles your car's lights, such as the headlights and brake lights.
-- **Overlay:** turns gameplay effects on or off and adds a vignette, color isolation or a filter. GameSpot singles out three filters: **Cartoon Universe** (a light cel-shaded look), **Found Footage** (grainy and glitchy) and **Pixel Art** (an 8-bit look).
+- **Overlay:** turns gameplay effects on or off and adds a vignette, color isolation or a filter. GameSpot singles out three filters: **Cartoon Universe** (a light cel-shaded look), **Found Footage** (grainy and distorted, like a found-footage movie) and **Pixel Art** (an 8-bit look).
 
 ## Where the photos go
 

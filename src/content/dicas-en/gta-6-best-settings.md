@@ -14,9 +14,14 @@ fontes:
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "2:37", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "8:59", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "18:37", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "3:04", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "15:03", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "0:13", data: "2026-11-19T19:17:00-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "5:53", data: "2026-11-20T02:40:14-03:00" }
 descoberto_em: "2026-11-19T16:35:00-03:00"
-atualizado_em: "2026-11-19T16:35:00-03:00"
+atualizado_em: "2026-11-20T11:03:00-03:00"
 historico:
+  - { data: "2026-11-20T11:03:00-03:00", nota: "Added the assist options at the bottom of the Gameplay tab (Accessible Combat, Reduced Vehicle Damage, Simplified Mini Games, Auto Drive), Run as a movement speed pick, lock-on for players who keep missing, and the compass (JuiceHead, BennyCentral, JorRaptor, MrRoflWaffles). Linked the difficulty guide." }
   - { data: "2026-11-19T16:35:00-03:00", nota: "Published as confirmed: movement speed and progress notifications come from both NorZZa and BennyCentral, and the camera zoom shortcut from KhrazeGaming and NorZZa. Menu names checked in frames from NorZZa's video." }
 perguntas:
   - { p: "What is the best movement speed setting in GTA 6?", r: "Jog, according to BennyCentral: small stick movements walk and a full push jogs. NorZZa also puts Combat Movement Speed on Jog." }
@@ -42,6 +47,8 @@ In the **Gameplay** tab, under Movement, **Movement Speed** decides your top spe
 
 Sprint still works on top of any of them (click L3, or the button you mapped it to). BennyCentral uses **Jog** because it gives better control: small stick movements walk, and the edge of the stick jogs.
 
+JorRaptor and JuiceHead go one step further and pick **Run**. With it, a full push on the stick has you running without touching your stamina. It's not as quick as a real sprint, but you stop having to click the stick all the time. JuiceHead also confirms Walk is the default.
+
 Right below it are two more:
 
 - **Combat Movement Speed:** the same idea, only during fights. It has three options, and NorZZa picks **Jog** to reach cover and reposition faster.
@@ -57,7 +64,18 @@ At the top of the Gameplay tab, under Combat, **Targeting** has three modes:
 
 NorZZa thinks Partial is probably enough, and suggests lock-on if you struggle to aim with a controller. **Aim Assist Strength**, the next line down, lets you fine-tune it.
 
-GTA 6 has no difficulty setting. If gunfights still feel too hard, turn on **Accessible Combat**, further down the Gameplay list, which makes combat a little easier.
+In his newer tips video, BennyCentral goes straight for **Lock-on** if you're losing gunfights, since it makes landing shots far easier while you learn the game. JuiceHead points out that once you're on lock-on, you can also turn on snapping from one enemy to the next.
+
+## Assist options: GTA 6's easy mode
+
+GTA 6 has no difficulty setting, but the bottom of the Gameplay tab does the same job. JuiceHead shows four options there:
+
+- **Accessible Combat:** you take a lot less damage. MrRoflWaffles uses it so he stops dying mid-mission and losing the cash in his pockets, but warns it makes the game very easy. JuiceHead took on five stars right at the start with it switched on.
+- **Reduced Vehicle Damage:** JuiceHead crashed over and over and the car stayed in one piece.
+- **Simplified Mini Games:** BennyCentral says it makes hotwiring easier, and JorRaptor uses it for gym workouts. Benny keeps it off himself because he finds the normal mini games more fun.
+- **Auto Drive:** how to use it is in [how auto drive works in GTA 6](../gta-6-auto-drive/).
+
+What each one does, with the menus checked frame by frame, is in [how to make GTA 6 easier](../gta-6-difficulty-easy-mode-settings/).
 
 ## Auto-equip helmet
 
@@ -70,7 +88,7 @@ Another Gameplay option puts a helmet on every time you get on a bike and takes 
 
 ## Minimap and compass
 
-The UI tab lets you show the minimap, the compass, both or neither, and choose whether they stay on screen all the time or show up only when needed. NorZZa recommends the **dynamic** option at first: the screen stays clean while you explore, and pressing **down on the D-pad** brings them back along with your stats. NorZZa has both on for now but plans to drop the minimap later and keep only the compass, to watch the world instead of the GPS.
+The UI tab lets you show the minimap, the compass, both or neither, and choose whether they stay on screen all the time or show up only when needed. NorZZa recommends the **dynamic** option at first: the screen stays clean while you explore, and pressing **down on the D-pad** brings them back along with your stats. NorZZa has both on for now but plans to drop the minimap later and keep only the compass, to watch the world instead of the GPS. JorRaptor also keeps the **compass** on, because it makes it easier to find a car you parked nearby and to spot activities and icons around you.
 
 ## Units of measurement
 

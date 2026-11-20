@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "recursos-escondidos-gta-6/desvirar-carro.webp", legenda: "Carro virado: encostado na lateral, o jogo mostra a opção de empurrar (Shove).", canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", minuto: "14:58" }
+  - { arquivo: "recursos-escondidos-gta-6/fone-clef-earbuds.webp", legenda: "Na Zeke's Gadgets, o fone Clef Earbuds custa US$ 119 e vem em 4 cores.", canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", minuto: "1:47" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835", titulo: "Two Cool, Hidden Features GTA 6 Doesn't Explain: Flipping And Sitting", data: "2026-11-19T13:00:38-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
@@ -21,9 +22,14 @@ fontes:
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "10:09", data: "2026-11-18T18:18:15-03:00" }
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "7:30", data: "2026-11-19T11:39:01-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "7:52", data: "2026-11-19T14:01:31-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "1:45", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "3:18", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/", titulo: "GTA 6 fast travel: How to get around the map quickly", data: "2026-11-18T21:00:00-03:00" }
+  - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=eoeUJUSH_RE", titulo: "HOW TO FAST TRAVEL ANYWHERE IN GTA 6!", minuto: "1:47", data: "2026-11-19T06:10:04-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:06:00-03:00"
 historico:
+  - { data: "2026-11-20T11:06:00-03:00", nota: "Fone: na tela a loja é Zeke's Gadgets (a página dizia Zeke's Electronics, pelo NorZZa); Clef Earbuds por US$ 119, como ligar e desligar pelo inventário e áudio separado do carro (JuiceHead). Tocar duas vezes em triângulo ao sair mantém motor e rádio ligados (JuiceHead). Sirene da viatura abre caminho (Milo). Viagem: Paradise Taxi só aceita dinheiro vivo, RydeMe cobra do BuckMe, BuckMe Premium dá 20% no RydeMe, ônibus e trem também pulam a viagem (GamesRadar+); táxi de Vice City à casa do Jason por US$ 268 (Imack Studios). Links para as páginas de piloto automático e viagem rápida." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: pedágio de US$ 5 (de graça com carro roubado ou de amigo), espantar cão de ataque atirando no chão, petisco de animal no caixa das lojas, entrada pelo telhado e segurar quadrado para empurrar carro pesado." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram piloto automático, Paradise Taxi e RydeMe, portas no foco, gasolina, nado rápido, assobio, Snapmatic, veículo cinza, catálogo do Waink It e conversa com L2 (MrDalekJD, BennyCentral, KhrazeGaming, GamingBolt, NorZZa, Thalera, CKX). Joey confirmado por 3 canais. Desvirar carro, porta na cara e botão de pular a viagem mostram as duas versões." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: Joey conserta o carro de graça (em verificação) e foco para achar missões secundárias, que o Kotaku também descreve." }
@@ -31,7 +37,7 @@ historico:
 perguntas:
   - { p: "Como desvirar o carro no GTA 6?", r: "Encoste na lateral do carro virado e continue andando contra ele até o personagem pôr as mãos no carro. Aí aparece a opção de empurrar com quadrado (X no Xbox). O Kotaku aperta o analógico esquerdo (L3) antes e segura quadrado. Não funciona se o carro for pesado demais ou se faltar fôlego." }
   - { p: "Como sentar no GTA 6?", r: "A pé, segure bolinha (B no Xbox). Na grama ou na areia o personagem senta; em outros lugares ele descansa em pé, e perto de uma parede ele se encosta." }
-  - { p: "Como ouvir música andando a pé no GTA 6?", r: "Compre fones de ouvido na loja de eletrônicos, como a Zeke's Electronics, em Hamlet. Depois, segure o direcional para a esquerda para abrir o rádio e os podcasts, mesmo fora do carro." }
+  - { p: "Como ouvir música andando a pé no GTA 6?", r: "Compre o fone Clef Earbuds (US$ 119) numa loja de eletrônicos, como a Zeke's Gadgets, em Hamlet. Depois, segure o direcional para a esquerda para abrir o rádio e os podcasts, mesmo fora do carro." }
   - { p: "Como dar seta no GTA 6?", r: "Dirigindo, toque no direcional para a esquerda ou para a direita. Toque de novo para desligar. Segundo o Kotaku, os motoristas do jogo reagem à seta." }
 ---
 
@@ -61,6 +67,11 @@ A pé, **segure bolinha**. Na grama ou na areia o personagem **senta**; em outro
 - **Porta-malas fecha sozinho:** você não precisa fechar à mão; ele fecha quando você sai com o carro.
 - **Seta:** toque no direcional para a **esquerda** ou para a **direita**, e toque de novo para desligar. O Kotaku notou que os motoristas do jogo reagem, e o Thalera mostrou a seta funcionando.
 - **Porta na cara:** com o carro parado, aperte **quadrado** para abrir a porta com tudo e derrubar quem estiver passando, até ciclista. O MrDalekJD mostrou o mesmo botão com o carro **andando**: a porta do passageiro abre por um ou dois segundos e derruba quem está de moto ou bicicleta do lado. Vale testar dos dois jeitos.
+- **Sair com o motor ligado:** o carro desliga sozinho quando você desce. Para deixar o **motor e o rádio ligados**, toque **duas vezes em triângulo** ao sair, segundo o JuiceHead. Bom para tirar foto do carro ou continuar ouvindo a rádio enquanto faz alguma coisa do lado.
+
+## Sirene da viatura abre o trânsito
+
+Dirigindo uma **viatura** com a **sirene ligada**, os carros da frente e as pessoas na rua saem do caminho. O Milo testou com um grupo de pessoas à frente e todos foram para o canto. É um jeito de atravessar a cidade sem pegar trânsito. Segundo o JuiceHead, até o [piloto automático](../piloto-automatico-gta-6/) anda mais solto numa viatura com sirene.
 
 ## Piloto automático
 
@@ -72,6 +83,8 @@ Numa viagem longa, o personagem pode dirigir sozinho:
 
 Dá para **regular a velocidade**, do bem devagar ao mais rápido possível. Funciona melhor de **barco**, porque no mar quase não tem trânsito. Na rua o personagem segue a lei: para em todo sinal e espera pedestre passar.
 
+O passo a passo completo, com os botões conferidos na tela, as três velocidades e a opção Auto Drive das configurações, está em [piloto automático no GTA 6](../piloto-automatico-gta-6/).
+
 ## Viagem rápida: Paradise Taxi e RydeMe
 
 O jogo não tem viagem rápida de graça, mas o táxi faz esse papel. O Thalera mostrou dois apps no celular: **Paradise Taxi** (o MrDalekJD acha nos contatos do celular) e **RydeMe**.
@@ -80,9 +93,17 @@ O jogo não tem viagem rápida de graça, mas o táxi faz esse papel. O Thalera 
 2. A corrida tem preço próprio. O KhrazeGaming pagou **US$ 350** para cruzar o mapa.
 3. Para **pular o trajeto** e aparecer direto no destino, pague mais uns **US$ 100**. Esse valor aparece no BennyCentral, no KhrazeGaming, no CKX e no Kotaku. As horas do jogo passam do mesmo jeito.
 
-O botão de pular muda conforme a fonte: o Kotaku segura **L2** mirando no motorista e escolhe ir direto; o Thalera **segura triângulo** já sentado no carro. Dentro do carro também dá para puxar conversa ou **apressar o motorista por US$ 5**.
+O botão de pular muda conforme a fonte: o Kotaku segura **L2** mirando no motorista e escolhe ir direto; o Thalera **segura triângulo** já sentado no carro. O GamesRadar+ junta os dois: dentro do carro, mire no motorista com **L2** e peça para pular com **triângulo**, pagando os US$ 100 a mais. Dentro do carro também dá para puxar conversa ou **apressar o motorista por US$ 5**.
 
 O KhrazeGaming diz que outros serviços de táxi liberam mais para a frente na história. Ele também usa o táxi para chegar rápido a lugares onde nunca foi.
+
+O que o GamesRadar+ acrescenta sobre cada jeito de viajar:
+
+- **Paradise Taxi:** o número chega numa missão do capítulo 1 e fica nos contatos do celular. Só aceita **dinheiro vivo**, então tenha notas na carteira ou passe num caixa eletrônico antes.
+- **RydeMe:** libera no **capítulo 2** e cobra direto da conta **BuckMe**, não da carteira. No capítulo 3 dá para abrir a conta **BuckMe Premium**, que entre outras vantagens dá **20% de desconto** em toda corrida do RydeMe.
+- **Ônibus e trem:** também servem. Segure o **direcional para baixo** para ver os pontos e estações por perto, espere no ponto, embarque, escolha o destino na linha e **segure triângulo** para pular a viagem.
+
+Para ter ideia de preço, o Imack Studios marcou a casa do Jason saindo de Vice City e o Paradise Taxi cobrou **US$ 268** pela corrida. Ele não tinha o dinheiro na hora. Tudo sobre os três jeitos, com os preços, está em [viagem rápida no GTA 6](../viagem-rapida-gta-6/).
 
 ## Gasolina e posto
 
@@ -104,6 +125,13 @@ O último veículo que você usou ou roubou (carro, moto, barco ou avião) fica 
 ## Ouvir rádio andando a pé
 
 Compre **fones de ouvido** na loja de eletrônicos. Segundo o NorZZa, a primeira que você acha é a **Zeke's Electronics**, em **Hamlet**, ao norte de Key Lento, que também vende capinha de celular. Com o fone, **segure o direcional para a esquerda** a pé e escolha rádio ou podcast. Funciona andando, correndo, em qualquer lugar.
+
+O JuiceHead comprou o fone numa loja de Hamlet, e na tela dela o nome é **Zeke's Gadgets**. O NorZZa tinha chamado de Zeke's Electronics; vale o nome que aparece no jogo. Segundo ele, a maioria das outras lojas de eletrônicos também vende. O que a tela mostra:
+
+- **Modelo e preço:** **Clef Earbuds**, por **US$ 119**, em **4 cores**.
+- **Ligar e desligar:** depois da compra, o jogo explica que o fone fica no inventário. Segure o **direcional** e aperte **X** (A no Xbox) para ligar ou desligar.
+
+O JuiceHead também conta que o som do fone é separado do carro. Ao entrar no carro, o que você ouvia não continua sozinho, mas o podcast volta de onde parou. Ele diz ainda que o fone abafa um pouco o barulho em volta.
 
 ## Roupa no porta-malas para despistar a polícia
 

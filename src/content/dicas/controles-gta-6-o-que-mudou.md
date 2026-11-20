@@ -25,9 +25,11 @@ fontes:
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "2:16", data: "2026-11-18T22:00:14-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "30:59", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "CH4P4X", url: "https://www.youtube.com/watch?v=0Fb550QZKRw", titulo: "ACHEI O ECLIPSE SECRETO DO PAUL WALKER NO GTA 6!", minuto: "17:11", data: "2026-11-19T15:34:54-03:00" }
+  - { tipo: youtube, canal: "kevinsmak", url: "https://www.youtube.com/watch?v=-VcGiEnvQAk", titulo: "GTA 6 Classic vs Default Controls: Which Is Better? (PS5)", minuto: "0:58", data: "2026-11-19T18:33:23-03:00" }
 descoberto_em: "2026-11-18T18:18:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T10:48:00-03:00"
 historico:
+  - { data: "2026-11-20T10:48:00-03:00", nota: "kevinsmak: os 3 esquemas (Padrão, Clássico e Canhoto) com os botões que mudam em cada um, mapa no touchpad do PS5 (fim do 'ainda não confirmado' da tabela) e velocidade de movimento em correr. Link para a página dos controles clássicos." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Primeira pessoa corrigida: não há opção no menu (MrDalekJD e CH4P4X), mas pegar o celular dirigindo leva a câmera para primeira pessoa (StevieWunderKid, MrBossFTW e Bombastic). Novos: luneta com L2 e R3, trocar ombro e arma mirando, cor do marcador de acerto (MrBossFTW; o amarelo também no Bombastic), Zombix e adrenalina na roda de armas, briga sem arma e buzina (MrBossFTW)." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: zoom da câmera em 3 distâncias (KhrazeGaming e NorZZa), altura da câmera, sem modo em primeira pessoa (MrDalekJD), intensidade do sangue (Milo) e minimapa dinâmico (NorZZa). Botões do PS5 conferidos: bolinha para agachar, R1 para cobertura e L1 para o inventário (Thalera e Combo Infinito)." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Acrescentados: seta do carro no direcional e empurrar carro parado (ZacCoxTV)." }
@@ -35,7 +37,7 @@ historico:
 perguntas:
   - { p: "Como dar seta no carro no GTA 6?", r: "Dirigindo, aperte o direcional para a esquerda ou para a direita. Segundo o ZacCoxTV, é a primeira vez que um GTA tem seta." }
   - { p: "Como correr no GTA 6?", r: "No controle padrão, clicando o analógico esquerdo (L3 no PS5, LS no Xbox). O próprio jogo avisa isso na primeira tela e deixa trocar nas configurações." }
-  - { p: "Como abrir o mapa no GTA 6?", r: "No Xbox, pelo botão de visualização (o botão pequeno da esquerda). Ele não troca mais a câmera, como no GTA 5." }
+  - { p: "Como abrir o mapa no GTA 6?", r: "No Xbox, pelo botão de visualização (o botão pequeno da esquerda). No PS5, pelo touchpad. Ele não troca mais a câmera, como no GTA 5." }
   - { p: "Como se curar no GTA 6?", r: "Comendo ou usando itens de cura do inventário. Na live do Gameplayrj, o jogo pediu para segurar LB e apertar X no Xbox (L1 e quadrado no PS5)." }
   - { p: "Dá para tirar o sangue e o desmembramento do GTA 6?", r: "Sim. Segundo o SanInPlay, há uma opção para ligar ou desligar o desmembramento e escolher um nível de violência mais leve." }
 ---
@@ -48,7 +50,7 @@ O GTA 6 mudou alguns botões que o pessoal do GTA 5 aperta no automático. O mai
 |---|---|---|---|
 | Correr e correr rápido | Clicar o analógico esquerdo (LS) | Clicar o analógico esquerdo (L3) | O jogo avisa isso na primeira tela. Dá para trocar. |
 | Andar em silêncio e ficar escondido | B | Círculo | Dica que aparece em missão furtiva. |
-| Abrir o mapa | Botão de visualização | Ainda não confirmado | Não troca mais a câmera. |
+| Abrir o mapa | Botão de visualização | Touchpad | Não troca mais a câmera. |
 | Ver lugares por perto | Segurar direcional para baixo | Segurar direcional para baixo | Marca destino sem abrir o mapa. |
 | Abrir o inventário | LB | L1 | |
 | Se curar | Segurar LB + X | Segurar L1 + quadrado | Usa comida e itens de cura. |
@@ -61,6 +63,7 @@ Outros canais de PS5 já conferiram mais botões da tabela:
 - **Correr no L3:** o CKX confirma que agora se corre clicando o analógico esquerdo.
 - **Agachar no círculo e cobertura no R1:** o Thalera aperta a bolinha para se abaixar (B no Xbox) e R1 para se encostar numa parede. Na live da Combo Infinito, num PS5, o R1 também serviu para procurar cobertura, e alguém do chat lembrou que no Xbox é o RB.
 - **Inventário no L1:** o Thalera segura L1 para abrir os itens e colocar boné e óculos.
+- **Mapa no touchpad:** a tabela dizia "ainda não confirmado" para o PS5. Na tela de botões a pé do PS5, mostrada pelo kevinsmak, o **MAP** aparece ligado ao **touchpad**. Na mesma tela, L1 guarda a arma, triângulo interage, quadrado é a briga, X pula e escala e R3 olha para trás.
 
 ## Primeira tela: vale configurar antes
 
@@ -134,3 +137,17 @@ O SanInPlay notou uma mudança na pilotagem: no GTA 5 dava para girar o helicóp
 - Pegar carro na rua sem pensar. A polícia do GTA 6 é mais insistente; veja [como fugir da polícia](../como-fugir-da-policia-gta-6/).
 
 Os botões podem ser remapeados nas configurações, então se o novo jeito de correr não descer, dá para voltar a algo parecido com o GTA 5. O CKX conta que há até três esquemas de controle, e o BennyCentral sugere o **clássico** para quem é veterano de GTA e estranhou os comandos novos.
+
+## Os 3 esquemas: Padrão, Clássico e Canhoto
+
+Pause o jogo e abra as **Configurações**. A primeira aba é a do esquema de controle (Control Scheme), com três opções. O kevinsmak passou por elas num PS5:
+
+| Esquema | O que muda no PS5 (Xbox) |
+|---|---|
+| Padrão (Default) | Correr no **L3** (LS), pular e escalar no **X** (A), briga no **quadrado** (X) e agachar na **bolinha** (B). |
+| Clássico (Classic) | Só 4 botões mudam: correr vai para o **X** (A), pular e escalar para o **quadrado** (X), briga para a **bolinha** (B) e agachar para o **L3** (LS). |
+| Canhoto (Left-handed) | Você anda com o analógico direito e mexe a câmera com o esquerdo. Atirar vai para o **L2** (LT), mirar para o **R2** (RT) e correr para o **R3** (RS). Os botões da frente ficam como no padrão. |
+
+No Clássico, o resto não muda: R2 atira, L2 mira, R1 é cobertura, L1 guarda a arma, triângulo interage e R3 olha para trás. Quem jogou muito GTA 5 se acostuma rápido, porque correr volta para o X. O lado ruim, segundo o kevinsmak, é que o mesmo polegar que corre é o que mexe a câmera. Tudo sobre esse esquema está em [controles clássicos do GTA 5 no GTA 6](../controles-classicos-gta-5-no-gta-6/).
+
+**Ficou no Padrão e cansou de clicar o analógico?** Na aba Jogabilidade, mude a **velocidade de movimento** para correr. O jogo explica que, com o analógico esquerdo empurrado até o fim, a velocidade máxima passa a ser a corrida. Assim você corre sem apertar o L3.

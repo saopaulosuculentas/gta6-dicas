@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - {arquivo: "oficial/vice-city-2.webp", legenda: "Vice City à noite, em imagem oficial do GTA 6.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
+  - { arquivo: "como-personalizar-carro-gta-6/oficina-area-de-busca.webp", legenda: "Procurado e com um carro que a polícia conhece, o jogo não deixa entrar na oficina.", canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", minuto: "2:41:42" }
 fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=cEhzNxgE_TM", titulo: "GTA 6 - Cobrando o ALUGUEL Parte 2", minuto: "45:20", data: "2026-11-18T12:55:25-03:00" }
   - { tipo: youtube, canal: "Gigaton Games", url: "https://www.youtube.com/watch?v=AA3sv6usKBg", titulo: "GTA 6 - GAMEPLAY NO MUNDO ABERTO !!!", minuto: "12:19", data: "2026-11-18T12:29:11-03:00" }
@@ -23,9 +24,13 @@ fontes:
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "14:03", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "Mr Lawrence", url: "https://www.youtube.com/watch?v=FGT8wNrw6Pw", titulo: "How To Rob ANY Store in GTA 6! (Easy Money Guide)", minuto: "1:33", data: "2026-11-18T15:36:34-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "27:39", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:58", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:38", data: "2026-11-19T20:37:45-03:00" }
 descoberto_em: "2026-11-18T18:05:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Furar sinal vermelho na frente da viatura não deu nada (Milo). Oficina de personalização recusa carro conhecido numa área de busca, com o aviso na tela (Elanip). Fuga de cinco estrelas de barco pela costa, com o combate acessível ligado (JuiceHead)." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Acrescentados os 5 tipos de estrela e a cor da área de busca (MrBossFTW), o tapa no celular de quem vai chamar a polícia (MrBossFTW), a repintura por US$ 200 (Mr Lawrence) e o aviso de que não dá para começar missão procurado (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Acrescentados: polícia fora do minimapa, testemunhas e câmeras (MrDalekJD); ícones de câmera, arma à mostra e dupla (GamingBolt); estrelas vazadas (KhrazeGaming); arma longa na mão assusta e faz chamarem a polícia (KhrazeGaming, GamingBolt, CKX e Combo Infinito); teste do Thalera neutralizando rosto e traje; menus de trajes no guarda-roupa e no porta-malas; loja fechada depois de confusão (CKX)." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentados o círculo azul e vermelho de busca, trocar a cor do carro na Pay n Spray, corte de cabelo e tatuagem, tirar peças de roupa com L1 e R1, e os rastreadores amarelo e vermelho (GameSpot e DPJ)." }
@@ -153,6 +158,18 @@ Carro roubado continua roubado até você registrar. Veja [como roubar carro no 
 ## Procurado não começa missão
 
 No vídeo do Bombastic, o jogo avisou que não dá para começar uma missão enquanto a polícia está atrás de você. Se o ponto da missão estiver perto, despiste primeiro e só depois vá até lá.
+
+## Procurado não entra na oficina
+
+A oficina de personalização também fecha a porta. Na live do Elanip, com a polícia atrás, ele parou numa oficina e o jogo avisou que não dá para entrar numa oficina de personalização numa **área de busca** com um **carro que a polícia já conhece**. Ele foi para uma Pay 'n' Spray. Mais sobre as oficinas em [como personalizar carro](../como-personalizar-carro-gta-6/).
+
+## Fugir de barco
+
+Com **cinco estrelas** logo no começo do jogo, o JuiceHead escapou **roubando um barco** e seguindo pela **costa** até a polícia ficar para trás. Ele estava com o **combate acessível** ligado, que faz você levar bem menos dano, e aguentou vários tiros sem colete. Segundo ele, dá para ligar essa opção no meio de uma perseguição apertada, no fim da aba Jogabilidade, e os troféus continuam valendo. Veja como em [como deixar o GTA 6 mais fácil](../dificuldade-modo-facil-gta-6/).
+
+## Sinal vermelho não dá estrela
+
+O Milo tinha visto no TikTok que a polícia persegue você por qualquer infração de trânsito, como furar o sinal. Ele testou: passou no vermelho bem na frente de uma viatura e o policial não fez nada.
 
 ## Cuidado ao pegar carro na rua
 

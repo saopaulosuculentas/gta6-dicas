@@ -12,9 +12,12 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "0:37", data: "2026-11-19T20:37:45-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "11:00", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "SubscribeForTacos", url: "https://www.youtube.com/watch?v=UOOoHDzfhWk", titulo: "I Found Paul Walker’s Secret Car in GTA 6… (Tribute Location)", minuto: "4:05", data: "2026-11-19T19:29:03-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "16:25", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-20T10:33:00-03:00"
-atualizado_em: "2026-11-20T10:33:00-03:00"
+atualizado_em: "2026-11-20T11:05:00-03:00"
 historico:
+  - { data: "2026-11-20T11:05:00-03:00", nota: "SubscribeForTacos ligou o piloto ainda no capítulo 1, segurando bolinha na câmera cinematográfica, e usou as 3 velocidades. BennyCentral: o mesmo menu do direcional para baixo mostra missões e lojas por perto com o tempo mais lento, e escolher uma já marca o GPS." }
   - { data: "2026-11-20T10:33:00-03:00", nota: "Publicada como confirmada: JuiceHead e Milo ligaram o piloto automático pela câmera cinematográfica. O texto da opção Auto Drive e as 3 velocidades foram conferidos nos quadros do JuiceHead." }
 perguntas:
   - { p: "Como ligar o piloto automático no GTA 6?", r: "Marque um destino no mapa e, dirigindo, segure o direcional para baixo. Escolha a câmera cinematográfica e aperte bolinha (B no Xbox) quando aparecer Enable Auto Drive." }
@@ -25,7 +28,9 @@ perguntas:
 
 Para ligar o piloto automático no GTA 6, marque um destino no mapa, segure o **direcional para baixo** enquanto dirige e escolha a **câmera cinematográfica**. Nessa câmera aparece a opção **Enable Auto Drive**: aperte **bolinha** no PS5 (**B** no Xbox) e o personagem dirige sozinho até o ponto marcado. Funciona no carro e no barco.
 
-Quem mostrou foram dois canais, o JuiceHead (no Xbox) e o Milo (no PS5). Os nomes das opções estão em inglês, como aparecem nos vídeos. No jogo em português, eles podem aparecer traduzidos.
+Quem mostrou primeiro foram dois canais, o JuiceHead (no Xbox) e o Milo (no PS5). Depois, o SubscribeForTacos e o BennyCentral também usaram o piloto. Os nomes das opções estão em inglês, como aparecem nos vídeos. No jogo em português, eles podem aparecer traduzidos.
+
+**Libera cedo.** O SubscribeForTacos ligou o piloto automático numa conta que ainda nem tinha terminado o capítulo 1. Não precisa avançar na história para usar.
 
 ## Passo a passo
 
@@ -36,13 +41,21 @@ Quem mostrou foram dois canais, o JuiceHead (no Xbox) e o Milo (no PS5). Os nome
 5. No canto de baixo aparece **Enable Auto Drive**. Aperte **bolinha** (B no Xbox).
 6. Pronto: o carro segue sozinho. Para retomar o volante, aperte o mesmo botão, que agora mostra **Disable Auto Drive**. Para sair da câmera de cinema, o jogo pede para **segurar o direcional**.
 
-Para achar e marcar destinos sem abrir o mapa, veja o [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/).
+No passo 5, o JuiceHead e o Milo apertam o botão uma vez. O SubscribeForTacos **segurou bolinha** e também funcionou. O BennyCentral só toca bolinha (B no Xbox) depois de segurar o direcional para baixo.
+
+### O mesmo menu escolhe o destino
+
+Segurar o direcional para baixo tem outra função, segundo o BennyCentral. Abre uma **vista rápida do que tem por perto**, com missões e lojas, e o tempo fica mais lento enquanto você escolhe. Escolha um item e o GPS já fica marcado, sem abrir o mapa grande. Dá para fazer isso e ligar o piloto em seguida.
+
+Para mais jeitos de achar e marcar destinos, veja o [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/).
 
 ## As 3 velocidades
 
 Com o piloto ligado, o canto da tela mostra **Speed 1/2/3**. No Xbox do JuiceHead, a velocidade sobe e desce com **LT e RT**, que no PS5 são **L2 e R2**.
 
-Mesmo na mais rápida, o carro **respeita as leis de trânsito**: para no sinal e espera a vez. Por isso a viagem demora mais do que dirigindo você mesmo. O JuiceHead desliga o piloto, passa o carro da frente e liga de novo, tudo sem parar.
+O SubscribeForTacos também mostra as velocidades 1, 2 e 3 e pôs na 3 para relaxar no caminho.
+
+Mesmo na mais rápida, o carro **respeita as leis de trânsito**: para no sinal e espera a vez. O SubscribeForTacos avisa a mesma coisa: você fica preso em sinal vermelho, então, com pressa, é melhor dirigir. Por isso a viagem demora mais do que dirigindo você mesmo. O JuiceHead desliga o piloto, passa o carro da frente e liga de novo, tudo sem parar.
 
 Ao chegar, o jogo **estaciona o carro numa vaga** sozinho, segundo o JuiceHead.
 

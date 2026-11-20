@@ -13,19 +13,22 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "4:00", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "3:53", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "The Easter Egg Hunter", url: "https://www.youtube.com/watch?v=WjQ86LH2hMY", titulo: "GTA VI Skunk Ape Easter Egg (Bigfoot) Part 2/3", minuto: "0:00", data: "2026-11-19T12:01:40-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/", titulo: "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6", data: "2026-11-19T17:12:34-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "8:19", data: "2026-11-19T21:00:01-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Entraram o PC Gamer e o RageGamingVideos: depois do avistamento, cartazes do Skunk Ape (um deles na loja de conveniência perto da casa do Jason) levam à missão. É uma versão diferente do bilhete ao lado do caixa eletrônico mostrado pelo JFM; as duas ficam na página. A missão inteira segue só com o JFM, então o selo não muda." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Entrou o The Easter Egg Hunter, que mostra o começo da missão: o recado do Kirk (Pelican Valley, quase toda noite), o encontro com ele, o graveto no caminhão, a luz do drone e o aviso para não atirar. A missão inteira até o rifle segue só com o JFM, por isso continua em verificação." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Publicada em verificação. O Skunk Ape aparece em três canais (JFM, T5G e ZacCoxTV); a missão completa até o rifle, por enquanto, só no JFM." }
 perguntas:
-  - { p: "Como começar a missão do pé grande no GTA 6?", r: "Encontre o Skunk Ape comendo um cervo na estrada de Grassrivers, entre no mato e examine a efígie. Depois que o Jason apagar, ache o bilhete com um número de telefone e ligue." }
+  - { p: "Como começar a missão do pé grande no GTA 6?", r: "Encontre o Skunk Ape em Grassrivers, entre no mato atrás dele e examine a efígie. Depois que o Jason apagar, procure o bilhete ou o cartaz com um número de telefone (há um na loja de conveniência perto da casa do Jason) e ligue." }
   - { p: "O que ganha na missão do Skunk Ape no GTA 6?", r: "Um rifle sniper único, todo camuflado e muito forte, que fica com você no fim da missão." }
   - { p: "A missão do Skunk Ape pode ser perdida?", r: "Pode passar despercebida, porque o jogo não indica o próximo passo depois do primeiro encontro. É preciso achar o bilhete sozinho." }
   - { p: "Quem é Mr. Mangrove no GTA 6?", r: "É o nome que os personagens da missão dão ao Skunk Ape, a criatura peluda dos pântanos de Grassrivers." }
 ---
 
-O "pé grande" do GTA 6 não é só um susto: é o começo de uma **missão secundária escondida**. A criatura se chama **Skunk Ape** (os personagens chamam de **Mr. Mangrove**), vive nos pântanos de Grassrivers, e caçar ela rende um **rifle sniper único, todo camuflado**. O JFM mostrou a missão do começo ao fim. O T5G e o ZacCoxTV também encontraram o Skunk Ape, e o The Easter Egg Hunter mostrou o começo da caçada com o Kirk.
+O "pé grande" do GTA 6 não é só um susto: é o começo de uma **missão secundária escondida**. A criatura se chama **Skunk Ape** (os personagens chamam de **Mr. Mangrove**), vive nos pântanos de Grassrivers, e caçar ela rende um **rifle sniper único, todo camuflado**. O JFM mostrou a missão do começo ao fim. O T5G e o ZacCoxTV também encontraram o Skunk Ape, e o The Easter Egg Hunter mostrou o começo da caçada com o Kirk. O PC Gamer e o RageGamingVideos viram a criatura e contam que cartazes espalhados pela cidade levam à missão.
 
 O problema: o jogo **não indica** o que fazer depois do primeiro encontro. Muita gente para no susto e nunca descobre a missão.
 
@@ -36,6 +39,8 @@ O problema: o jogo **não indica** o que fazer depois do primeiro encontro. Muit
 3. Lá você acha uma **efígie**, uma figura de tronco e cipó com forma de gente. É a figura que a gente mostrou em [o pé grande de Grassrivers](../pe-grande-grassrivers-gta-6/).
 4. Examine a efígie. O Jason **apaga** e, por um instante, você vê o Skunk Ape bem de perto.
 
+O PC Gamer chegou à criatura por outro caminho, de barco, saindo da casa do Jason e atravessando a Gambit Bay. O passo a passo está em [o pé grande de Grassrivers](../pe-grande-grassrivers-gta-6/).
+
 ## Passo 2: o bilhete e o telefone
 
 Esta é a parte que todo mundo perde. Segundo o JFM, perto dali há um **bilhete preso numa parede, ao lado de um caixa eletrônico**, pedindo para você ligar para um número.
@@ -45,6 +50,16 @@ Esta é a parte que todo mundo perde. Segundo o JFM, perto dali há um **bilhete
 3. Quem atende é **Kirk**, um caçador do Skunk Ape. Ele marca no mapa um ponto com as letras **KK**, na região do pântano.
 
 No vídeo do The Easter Egg Hunter, a ligação cai na **caixa postal**. No recado, o Kirk diz que está atrás do Skunk Ape e que fica em **Pelican Valley** quase toda noite.
+
+### Bilhete ou cartazes?
+
+As fontes contam essa parte de dois jeitos:
+
+- **JFM:** um **bilhete** preso na parede, ao lado de um **caixa eletrônico**, perto do lugar do primeiro encontro.
+- **PC Gamer:** depois do avistamento, aparecem **cartazes sobre o Skunk Ape** colados em vitrines de lojas e em postes pela cidade, em Leonida. Segundo o PC Gamer, são eles que levam à missão.
+- **RageGamingVideos:** depois de ver o bicho, achou um desses cartazes na **loja de conveniência perto da casa do Jason**, pedindo informações sobre o Skunk Ape. Ligou para o número do cartaz e a missão entrou na lista de missões opcionais.
+
+Ainda não se sabe se é o mesmo aviso em lugares diferentes ou se o jogo tem mais de um jeito de chegar ao Kirk. Se não achar o bilhete do caixa eletrônico, comece pela loja de conveniência perto da casa do Jason e fique de olho nos postes.
 
 ## Passo 3: a caçada à noite
 
@@ -74,5 +89,6 @@ A missão termina com o **rifle sniper camuflado** no seu arsenal.
 
 - Se a escolha final muda o prêmio.
 - O ponto exato do bilhete no mapa. O JFM mostra no vídeo a partir de 1:38.
+- Se os cartazes citados pelo PC Gamer e pelo RageGamingVideos levam ao mesmo telefonema do bilhete do JFM.
 
 O começo da missão (o recado do Kirk e a caçada à noite) também aparece no vídeo do The Easter Egg Hunter. A missão inteira, até o rifle, por enquanto só o JFM mostrou, por isso o selo segue "Em verificação". Mais segredos na [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).

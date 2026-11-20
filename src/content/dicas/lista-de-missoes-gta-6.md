@@ -9,9 +9,15 @@ imagens:
   - { arquivo: "lista-de-missoes-gta-6/planejamento-cartel-heist.webp", legenda: "A reunião de planejamento do assalto da missão The Cartel Heist, no capítulo 3.", canal: "Shirrako", url: "https://www.youtube.com/watch?v=u3uluMK_iuM", minuto: "1:30" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/", data: "2026-11-18T08:00:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help/", titulo: "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?", data: "2026-11-19T18:46:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not/", titulo: "Should you give the statue to Benedict Halifax in GTA 6?", data: "2026-11-19T18:56:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/should-you-spare-arnold-in-gta-6/", titulo: "Should you spare Arnold in GTA 6?", data: "2026-11-19T13:39:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/", titulo: "Is Niko Bellic in GTA 6?", data: "2026-11-20T09:44:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T10:55:00-03:00"
 historico:
+  - { data: "2026-11-20T10:55:00-03:00", nota: "Nova nota com aviso de spoiler: o Niko Bellic aparece na Taking Liberties, 2ª missão do capítulo 5, segundo o PC Gamer. Link para a página do Niko." }
+  - { data: "2026-11-20T10:48:00-03:00", nota: "Nova seção com as missões que têm escolha: Hey Arnold! (GamesRadar+), o roubo ao Delights, que deve ser a Afternoon Delight (PC Gamer), e Dubious Provenance com o Benedict Halifax (PC Gamer), com links para as páginas de cada uma. Continua em verificação: a lista completa ainda vem só do PC Gamer." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: lista de capítulos e missões do PC Gamer, com 3 nomes escondidos pelo site para evitar spoiler." }
 perguntas:
   - { p: "Quantas missões tem o GTA 6?", r: "São 91 missões na história principal, segundo a lista do PC Gamer, divididas em 5 capítulos." }
@@ -156,6 +162,20 @@ As 7 primeiras estão explicadas passo a passo no [detonado do capítulo 1](../d
 | 5 | Operation Savage Glory | Uma carga é recuperada. |
 | 6 | Protective Custody | O casal trabalha junto. |
 | 7 | (nome escondido) | A missão final. |
+
+**Aviso de spoiler:** segundo o PC Gamer, a **Taking Liberties**, 2ª missão do capítulo 5, tem uma participação especial do **Niko Bellic**, do GTA 4. Não contamos o que acontece. Os detalhes sem enredo estão em [Niko Bellic no GTA 6](../niko-bellic-gta-6/).
+
+## Missões com escolha
+
+Algumas missões param no meio e pedem uma decisão sua. Até agora, os sites contaram três. Nas três, a missão chega ao mesmo ponto com qualquer escolha.
+
+| Capítulo | Missão | A escolha |
+|---|---|---|
+| 1 | Hey Arnold! (nº 8) | Matar ou poupar o Arnold no fim da perseguição. Segundo o GamesRadar+, conta para o perfil criminal, e a cena seguinte é a mesma. Veja [matar ou poupar o Arnold](../matar-ou-poupar-arnold-gta-6/). |
+| 2 | Roubo ao Delights | O Frankie pergunta se o Jason sabe dançar, e você tem uns dois segundos para responder. Segundo o PC Gamer, o roubo acontece com qualquer resposta. Veja [missão do Delights](../missao-delights-ajudar-frankie-gta-6/). |
+| 3 | Dubious Provenance (nº 4) | Dar ou não a estátua ao Benedict Halifax. Segundo o PC Gamer, recusar só atrasa, porque depois você volta a Capri e entrega do mesmo jeito. Veja [estátua do Benedict Halifax](../estatua-benedict-halifax-gta-6/). |
+
+Sobre o Delights: a matéria do PC Gamer põe o roubo no capítulo 2, em Port Gellhorn, mas não diz o nome da missão. Pela lista, deve ser a nº 10, **Afternoon Delight**, a única do capítulo 2 em que Jason e Lucia vão a uma casa noturna.
 
 ## Como achar a próxima missão
 

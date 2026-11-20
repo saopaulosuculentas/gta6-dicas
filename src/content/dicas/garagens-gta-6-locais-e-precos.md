@@ -10,9 +10,12 @@ imagens:
 fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Entrou a garagem exclusiva do GTA+, de uma vaga, em Crosstown, que vem com o Annis Venturas Blvd Elegy dos anos 90 (GamesRadar+ e PC Gamer). Link para o Grotti Itali RSX, carro raro de Vespucci Island." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Publicada em verificação. Lista de garagens e preços do GameSpot; compra pelo app de imóveis também citada pelo PC Gamer." }
 perguntas:
   - { p: "Como comprar garagem no GTA 6?", r: "Pelo app Vice City Real Estate do celular ou indo até a garagem. Algumas vêm de graça pela história." }
@@ -47,6 +50,14 @@ Garagem serve para guardar carro roubado **sem pagar o registro**. Mas o espaço
 | Paradise Garage | Grátis | Nordeste de Watson Bay, a sudeste de Grassrivers. Vem com o Dominator Buggy da edição Ultimate |
 
 O GameSpot também achou garagens que só aparecem quando o próprio jogo guarda um carro para você. Essas não podem ser compradas. E não há garagem no condado de Lummox.
+
+## A garagem do GTA+
+
+Fora da lista do GameSpot, existe uma garagem só para quem assina o **GTA+**. Segundo o GamesRadar+, é uma **garagem exclusiva de uma vaga em Crosstown**. Ela vem junto com outro bônus da assinatura, um **Annis Venturas Blvd Elegy dos anos 90**, para você não perder o carro. O PC Gamer confirma a garagem de uma vaga e diz que dá para guardar nela esse carro ou qualquer outro. O GamesRadar+ avisa que nem todo bônus do GTA+ aparece no começo do jogo: alguns só liberam em certos pontos da história. A lista completa está em [o que o GTA+ libera no GTA 6](../gta-plus-gta-6-o-que-libera/).
+
+## Um carro raro para guardar
+
+Garagem faz mais sentido com carro bom dentro. Um dos raros é o **Grotti Itali RSX**, que fica parado numa garagem de Vespucci Island, perto de Vice City. Ele tem alarme e rastreador avançado e só sai com o clonador de chave. Veja como chegar em [onde achar o Grotti Itali RSX](../grotti-itali-rsx-onde-achar-gta-6/).
 
 ## Outras formas de guardar carro
 

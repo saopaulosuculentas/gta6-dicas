@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "6:41", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:05", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "Garrett Lindsay", url: "https://www.youtube.com/watch?v=NSW62zhBv6Y", titulo: "How to Get Scuba Gear in GTA 6 (Location & Diving Guide)", minuto: "0:46", data: "2026-11-19T07:36:29-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "2:19", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T18:16:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Entrou o vídeo novo do BennyCentral: onde fica cada um dos 12 tesouros dos dois naufrágios perto de Key Lento (US$ 2.400 pelo lote no Kenton), os 99 dobrões de ouro de Leonida, os dobrões embaixo das casas-domo de Bobcat Key e a dica de procurar perto de pontos turísticos à beira d'água." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Entraram os comandos e a tela do mergulho pelo Garrett Lindsay: DIVE R1 para descer, SURFACE X para subir, barra de oxigênio no canto superior esquerdo e lanterna no equipamento. O local do píer onde ele achou o equipamento ficou de fora porque não deu para ler." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram a missão Island Dreams e o pagamento de US$ 400 (KultZ, GameSpot), o arpão Arras Bullhead, como seguir o detector, a lista de 6 naufrágios do GameSpot, os 7 tesouros do Nuestra Señora de la Noche (NoobBlox), os valores por tesouro e moeda do KhrazeGaming e o botão do piloto automático." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Terceira fonte (RageGamingVideos): primeiro naufrágio rendeu cerca de US$ 1.400; o Kenton dá roupa de mergulho para usar no seu barco; tubarão e carga num evento aleatório a leste de Key Lento." }
@@ -70,6 +72,40 @@ O BennyCentral avisa que leva um tempinho para pegar o jeito do detector, mas de
 
 - O NoobBlox mostrou os **7 tesouros** do naufrágio **Nuestra Señora de la Noche**, espalhados dentro e em volta do navio. Entre eles há uma pedra preciosa roxa e um baú.
 - No vídeo do JoblessGarrett, um naufrágio tinha 7 objetos e outro tinha 5, como cachimbo, castiçal antigo, colher cerimonial e baús.
+- O BennyCentral mostrou onde fica cada um dos **12 tesouros** de dois naufrágios perto de Key Lento: 7 no primeiro e 5 no segundo. Os números e os objetos batem com os do JoblessGarrett, e o primeiro, com pedra roxa e baú, parece ser o mesmo Nuestra Señora de la Noche do NoobBlox.
+
+## Os 12 tesouros dos dois naufrágios de Key Lento
+
+O passo a passo do BennyCentral: marque os pontos de mergulho no mapa, vá de barco (o piloto automático leva você), vista o equipamento e use o detector de metal. A luz do detector passa de **vermelha para verde** quando você está bem em cima de um tesouro.
+
+**Primeiro naufrágio (7 tesouros):**
+
+1. **Estátua de serpente:** embaixo do buraco, junto da alga grande.
+2. **Castiçal:** no entulho, perto de um barril.
+3. **Cachimbo de dragão:** ao lado de uma rede de pesca.
+4. **Pedra preciosa roxa:** na alga, perto de um cano caído.
+5. **Santo de marfim:** no pé da ladeira, encostado no casco.
+6. **Manopla de estanho:** no capim marinho, perto das vigas de madeira.
+7. **Baú enterrado:** numa área escura de pedras. É preciso cavar. Segundo o Benny, é o que todo mundo esquece.
+
+**Segundo naufrágio (5 tesouros):**
+
+1. **Pingente de ouro:** no meio dos destroços espalhados.
+2. **Colher cerimonial:** no pé de um coral.
+3. **Baú:** escondido embaixo de uma saliência de coral. Puxe para fora.
+4. **Cálice de ouro:** perto de um bloco, logo fora do buraco.
+5. **Caixa de rapé:** no capim marinho, encostada na parede do casco.
+
+Leve tudo ao Kenton, na loja dele em Key Lento. O Benny recebeu **US$ 2.400 pelo lote inteiro** dos 12. O nome do primeiro naufrágio não ficou claro na fala dele.
+
+## Dobrões de ouro (99 pelo mapa)
+
+Segundo o BennyCentral, existem **99 dobrões de ouro** espalhados por Leonida, e muitos ficam no fundo do mar fora dos naufrágios do Kenton.
+
+- **Casas-domo de Bobcat Key:** as casas em forma de domo sobre palafitas, no meio do mar, têm dobrões no fundo, embaixo delas. Mergulhe com o detector e espere a luz ficar verde.
+- **Pontos turísticos perto da água:** essas casas-domo são um ponto turístico do app Waink. O Benny repara que, quando um ponto turístico fica à beira da água, é bem provável que haja tesouro por perto. Escaneie e depois procure com o detector.
+
+Dobrões também são vendidos na loja de penhores. Veja as [cartas colecionáveis](../cartas-colecionaveis-gta-6/) para saber como ver o valor dos colecionáveis pelo mapa.
 
 ## Os naufrágios do Kenton
 
@@ -91,6 +127,7 @@ O próprio GameSpot diz que a lista ainda pode crescer. O KhrazeGaming também v
 - No caminho ele ainda achou carga ilegal boiando e vendeu por **US$ 1.600** no depósito do Brian.
 - O RageGamingVideos limpou o primeiro naufrágio marcado no mapa só com o detector de metal e vendeu tudo por cerca de **US$ 1.400**, bem rápido.
 - O KhrazeGaming diz que cada tesouro entregue vale **US$ 2.400** e cada moeda vale **US$ 200**, com 5 a 7 moedas por local. Pela conta dele, dá para voltar com pelo menos uns US$ 2.000 de cada ponto. Como os outros canais receberam menos por rodada, o valor deve mudar de um naufrágio para outro.
+- O BennyCentral recebeu **US$ 2.400 pelos 12 tesouros** de dois naufrágios juntos. É o mesmo número do KhrazeGaming, mas para o lote inteiro, não por tesouro.
 - Segundo o WiLLiSGaming, **quanto mais mergulhos você faz, mais o Kenton paga** e mais locais ele manda. Sempre que ele ligar, vá.
 
 ## Cuidados

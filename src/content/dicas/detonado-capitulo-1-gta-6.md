@@ -7,13 +7,17 @@ status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "detonado-capitulo-1-gta-6/barco-gone-fishing.webp", legenda: "Jason no barco no começo da missão Gone Fishing, a primeira dele no capítulo 1.", canal: "LaazrGaming", url: "https://www.youtube.com/watch?v=_wSP3w6NjBk", minuto: "2:30" }
+  - { arquivo: "revistas-livros-quadrinhos-gta-6/ashes-of-glory.webp", legenda: "O livro Ashes of Glory, uma das leituras da casa do Jason, na mão dele no quarto, com as opções de abrir, ler o texto, virar e devolver.", canal: "Christian Konopatzki", url: "https://www.youtube.com/watch?v=lZ_xgoJGC5Y", minuto: "0:27" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/", titulo: "GTA 6 Chapter 1 Walkthrough", data: "2026-11-19T09:23:30-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "34:08", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "4:46", data: "2026-11-19T04:20:15-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/", titulo: "All Magazines, Books, And Comics In GTA 6", data: "2026-11-20T05:54:00-03:00" }
+  - { tipo: youtube, canal: "Christian Konopatzki", url: "https://www.youtube.com/watch?v=lZ_xgoJGC5Y", titulo: "GTA 6 ASHES OF GLORY LOCATION MAGAZINES BOOKS COMICS COLLECTIBLES", minuto: "0:22", data: "2026-11-18T10:50:06-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Revistas e livros da casa do Jason: o GameSpot lista 5 (com Body Copy e Reel Talk) e a GamesRadar+ lista 4 (com Off the Hook). As duas listas aparecem lado a lado, porque não batem no depósito de baixo. Imagem do Ashes of Glory no quarto (Christian Konopatzki)." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmada pela Lab Fees: o Bombastic jogou a cobrança na boutique, recebeu o ácido e abriu o cofre com 0420; o Musty Sky abre o depósito do Brian com 7700." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: detonado da GamesRadar+ das missões 1 a 7 do capítulo 1. O guia deles ainda está em andamento." }
 perguntas:
@@ -61,7 +65,18 @@ A GamesRadar+ trata a casa como parte da missão Gear Up. Nada aqui é obrigató
 
 - **Reformas:** são 5 tarefas (corrimão, degraus da escada, telhado, parede do quarto e pintura da parede). Segundo o guia, elas **melhoram a relação com a Lucia** depois.
 - **Esconderijo:** o Jason só carrega **US$ 2.000** no bolso. A tábua solta ao lado da cama guarda até **US$ 20.000**.
-- **Colecionáveis:** 4 revistas e livros dentro da casa: Ashes of Glory (cômoda do quarto), Lethal by Design (mesa de jantar), Orca (estante com o rádio) e Off the Hook (balcão do depósito no andar de baixo).
+- **Colecionáveis:** revistas e livros dentro da casa. A GamesRadar+ conta 4 e o GameSpot conta 5, e os dois sites não batem no depósito de baixo (veja a tabela). O GameSpot pede para ler todos **antes do fim do capítulo 1**.
+
+| Título | Onde fica, pela GamesRadar+ | Onde fica, pelo GameSpot |
+|---|---|---|
+| Ashes of Glory | Cômoda do quarto | Mesinha ao lado da cama |
+| Lethal By Design | Mesa de jantar | Mesa de centro da sala |
+| Orca: A Whole Different Animal | Estante com o rádio | Mesa ao lado de um rádio e de uma pilha de livros |
+| Body Copy | Não cita | Mesa da varanda dos fundos, perto da área de treino |
+| Off the Hook | Balcão do depósito no andar de baixo | Não cita |
+| Reel Talk | Não cita | Depósito embaixo da casa |
+
+Para o depósito de baixo, a página dizia **Off the Hook**, como na GamesRadar+; o GameSpot mostra o **Reel Talk** nesse lugar. Pode ser que os dois estejam lá ou que um dos sites tenha errado o nome, então examine tudo o que houver no depósito. No vídeo do Christian Konopatzki, o Ashes of Glory está mesmo no quarto. A coleção inteira tem 27 itens, segundo a GamesRadar+, e os locais já achados estão em [revistas, livros e quadrinhos](../revistas-livros-quadrinhos-gta-6/).
 
 Tem mais coisa para fazer lá, como malhar e trocar de roupa. Veja tudo em [o que fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/).
 

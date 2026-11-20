@@ -12,9 +12,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/", titulo: "How to collect your GTA 6 Ultimate Edition bonuses", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/", titulo: "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ultimate-edition-pre-order-bonuses/", titulo: "How to unlock GTA 6 Ultimate Edition and pre-order bonuses", data: "2026-11-18T12:38:24-03:00" }
+  - { tipo: youtube, canal: "jayvee", url: "https://www.youtube.com/watch?v=12pZdkPGRFg", titulo: "GTA 6: How To Unlock Ultimate Edition Content", minuto: "3:22", data: "2026-11-19T17:46:19-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T16:08:00-03:00"
+atualizado_em: "2026-11-20T11:07:00-03:00"
 historico:
+  - { data: "2026-11-20T11:07:00-03:00", nota: "Added jayvee's video: the PTT Youngin$ Compound can be raided in Chapter 1 (high security, a unique pistol behind the counter, drugs to sell to Brian or Donnie), Jason's pistol unlocks after the gun store mission with Andrew, and the bike, kayak and Retro Build only work in Chapter 1." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Published as confirmed: PC Gamer and GamesRadar+ list the same bonuses and the same chapters. The Ultimate Edition store page shows up in a frame from DPJ's video." }
 perguntas:
   - { p: "Where are the Ultimate Edition bonuses in GTA 6?", r: "Each bonus unlocks in a set chapter at a set spot on the map. The main menu store, which opens after the mission Coming Home, tells you when and where to grab each one." }
@@ -37,6 +39,8 @@ Almost everything is tracked through the **map index**. If you haven't used it y
 
 Both sources mark the **Ganado Retro Build**, the **Dinka Enduro** and the **Crest Kayak** as **Chapter 1 only**. Neither says what happens if you move on without them, so don't wait.
 
+jayvee, who shows all three in game, says they **can only be used during Chapter 1**: after that, you can't do anything with them. The bike is tucked in the shadows under Jason's house, and the kayak floats on the ramp next to it. The Retro Build shows up after **Joey's** mission at Coastal Auto Care, under the pro builds and full kits menu.
+
 ## Chapter 1
 
 | Bonus | What it is | Where to get it |
@@ -54,6 +58,29 @@ Both sources mark the **Ganado Retro Build**, the **Dinka Enduro** and the **Cre
 | **Sara's Unisex Salon** | Signature looks, like facial hair for Jason and makeup and nails for Lucia | Hamlet. Index: Style > Hair & Beauty. Signature looks arrive in Chapter 2, with more in Chapter 4 |
 
 The personalized pistols are **free** to equip.
+
+### Jason's pistol: when it unlocks
+
+According to jayvee, Jason's Girardi ES9 unlocks right away: do the mission where you talk to **Andrew** at the gun store at the start of the game. When it ends, the game tells you your Ultimate Edition content is ready. Go to the store's **weapon locker** and switch to the variant. He found it stronger and quicker firing than the starting pistol, and you keep it after Chapter 1.
+
+### PTT Youngin$ Compound in Chapter 1
+
+jayvee calls this the best Ultimate Edition bonus so far, and you can hit it **in Chapter 1**:
+
+1. The compound is in **Southside**, Vice City. Drop a pin and call a **taxi**: it'll take you there as long as you can pay the fare.
+2. As you get close, the game tells you there were **gunshots** coming from the building, and it shows up on your map as a robbery opportunity.
+3. **Security is high.** jayvee took out 30 to 40 gang members, and the police joined the shootout.
+4. Behind the **counter** you'll find the drugs to sell to Brian or Donnie. There's also a **unique pistol** there: the screen in his video reads **Duval Signature ES9 Pistol**, although he calls it a K17 out loud and says it has a huge magazine.
+5. Before you leave, check the map: it tells you whether you've grabbed all the valuables.
+6. To get away, he ran off on foot, swapped his hat and sunglasses and, with his car nearby, changed outfits from the trunk to lower his heat.
+
+He says you can come back and hit it again. To sell the drugs, see [GTA 6 fence locations](../gta-6-fence-locations/). More early rare guns in [GTA 6 unique weapons](../gta-6-unique-weapons-locations/).
+
+### Other Chapter 1 details
+
+- **Stock 305:** according to jayvee, you can't even walk in without the Ultimate Edition.
+- **Sara's Unisex Salon:** you can go in during Chapter 1, but the extra haircuts only arrive in Chapters 2 and 4.
+- **One-Eyed Willie's:** the shop opens in Chapter 1, but you need an off-road vehicle to use it. jayvee didn't have one yet.
 
 ## Chapter 2
 

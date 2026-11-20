@@ -18,30 +18,38 @@ fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=nOAb73vyEPw", titulo: "GTA 6 Weapons You Can Get for FREE – Best Unique Gun Locations!", minuto: "0:23", data: "2026-11-19T13:59:47-03:00" }
   - { tipo: youtube, canal: "OutlawGarry", url: "https://www.youtube.com/watch?v=--Z00PnQy3g", titulo: "FREE LEGENDARY SNIPER RIFLE in GTA 6! Secret Weapon!", minuto: "1:51", data: "2026-11-19T13:18:05-03:00" }
   - { tipo: youtube, canal: "YOUNG DIRK", url: "https://www.youtube.com/watch?v=HYgYjWxjkws", titulo: "How To Make $10,000 in 3 Minutes in GTA 6! + Legendary Weapon Location!", minuto: "2:53", data: "2026-11-18T23:13:38-03:00" }
+  - { tipo: youtube, canal: "Millzaa", url: "https://www.youtube.com/watch?v=GDOev2tWm78", titulo: "Get RICH Early in GTA 6 With THESE INSANE Secret Money Spots + Legendary Guns", minuto: "7:55", data: "2026-11-19T20:00:17-03:00" }
+  - { tipo: youtube, canal: "Rodwenn", url: "https://www.youtube.com/watch?v=MFODY60097U", titulo: "DO NOT MISS These SECRET EARLY GAME ITEMS In GTA 6 (Secret Guns, Car and $30,000)", minuto: "4:14", data: "2026-11-19T14:40:50-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=5ap9-onXybw", titulo: "GTA 6 - 7 Secret Items, Weapons & Hidden Money You Won't Want to Miss!", minuto: "9:06", data: "2026-11-19T18:00:22-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "20:20", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "1:36", data: "2026-11-19T21:00:01-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-19T18:18:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Entraram o nome Kingfishers Laird 350 e o local do Manatee Motel (Millzaa e Rodwenn), a Turnt Nipper .38 do planador em Bobcat Bight (Arekkz Gaming e BennyCentral), o W-22 em Wetman Bay, a segunda fonte da cabana do pântano e do trailer do Griffin Shooting Range, três armas do BennyCentral, a escopeta do RageGamingVideos e o aviso de que arma única não aceita modificação. Links para as lojas de armas e os itens secretos do começo." }
   - { data: "2026-11-19T18:18:00-03:00", nota: "Corrigido o local do ferro-velho (mapa do vídeo: oeste de Vice City, SR-120) e o nome da arma: Conspiracist Type 9." }
   - { data: "2026-11-19T17:03:00-03:00", nota: "Virou confirmada: WiLLiSGaming e YOUNG DIRK também mostram que a arma única fica com você. Entraram o Black Eagle M306, as armas da cabana do pântano, a Cockroach Extreme, a submetralhadora do ferro-velho, o Manatee Motel (OutlawGarry) e o ícone amarelo no mapa." }
   - { data: "2026-11-19T16:18:00-03:00", nota: "Publicada em verificação: cada local foi mostrado por um canal (KhrazeGaming, DPJ, BennyCentral, Arekkz Gaming e Milo)." }
 perguntas:
-  - { p: "O que são armas únicas no GTA 6?", r: "São variantes especiais de armas, com pintura e acessórios próprios, escondidas pelo mapa ou dadas em missões. O BennyCentral conta 130; o WiLLiSGaming fala em centenas." }
+  - { p: "O que são armas únicas no GTA 6?", r: "São variantes especiais de armas, com pintura e acessórios próprios, escondidas pelo mapa, dadas em missões ou vendidas nas lojas de armas. Não aceitam modificação. O BennyCentral conta 130; o WiLLiSGaming fala em centenas." }
   - { p: "Perdi uma arma única no GTA 6. Dá para recuperar?", r: "Dá. Ao pegar uma, o jogo avisa que, se você perder, ela pode ser recuperada no armário de armas da Ammu-Nation. Lança-granadas e lança-foguetes comuns não entram nessa regra." }
   - { p: "Como pegar o revólver do Donnie no GTA 6?", r: "No fim do capítulo 1, depois da missão Swamp, você leva o carro do Donnie para destruir. Abra o porta-malas antes: o revólver H&L 38 está lá. Se destruir o carro, perde a arma." }
-  - { p: "Onde pegar um sniper no começo do GTA 6?", r: "O Hunter's Laird 350 vem de um evento aleatório perto de Grassrivers, a oeste da rodovia para Hamlet. Também há snipers no motel do tigre, numa cabana do pântano de Pelican Valley e no alto de uma torre de rádio da área inicial." }
+  - { p: "Onde pegar um sniper no começo do GTA 6?", r: "O Hunter's Laird 350 vem de um evento aleatório perto de Grassrivers, a oeste da rodovia para Hamlet. O Kingfishers Laird 350 fica no Manatee Motel, logo ao sul de Hamlet. Também há um sniper único numa cabana do pântano de Pelican Valley e um comum no alto da torre de rádio de Key Lento." }
 ---
 
 O GTA 6 tem **armas únicas**: versões especiais, com pintura e acessórios próprios, que você não teria dinheiro para montar no começo. Segundo o BennyCentral, são **130** espalhadas por Leonida; o WiLLiSGaming fala em "centenas". Algumas estão bem perto do início do jogo.
 
 Ao pegar uma, o jogo avisa que se trata de uma **variante única** e que, se você perder, ela pode ser **recuperada no armário de armas** da Ammu-Nation. O WiLLiSGaming e o YOUNG DIRK confirmam: a arma única não some quando você morre e volta pelo armário ou pelo porta-malas do carro. Veja [como guardar armas no carro](../como-guardar-armas-no-carro-gta-6/).
 
+Nem toda arma única fica escondida: algumas são **vendidas nas lojas de armas** (veja a seção no fim da página). E se você quer um roteiro do começo do jogo que junta armas e dinheiro na mesma viagem, veja [itens secretos do começo do GTA 6](../itens-secretos-inicio-gta-6/).
+
 ## Como reconhecer uma arma única
 
-- **Ícone amarelo no mapa.** Segundo o WiLLiSGaming, quando você está perto de uma arma única aparece um pequeno **ícone de arma amarelo** no mapa.
-- **Cor da arma.** O OutlawGarry acha que arma **azul** é sua e pode ser personalizada, e que arma **amarela** é única e não aceita personalização. Ele mesmo disse que não tem certeza.
-- **Nem tudo é único.** Lança-granadas e lança-foguetes achados pelo mapa são comuns: se você morrer com eles, perde (WiLLiSGaming).
+- **Ícone amarelo no mapa.** Segundo o WiLLiSGaming, quando você está perto de uma arma única aparece um pequeno **ícone de arma amarelo** no mapa. O Arekkz Gaming chama de ícone de arma dourada, e nas lojas ele aparece no minimapa.
+- **Não aceita modificação.** O OutlawGarry achava que arma **azul** é sua e pode ser personalizada, e que arma **amarela** é única e não aceita personalização, mas disse que não tinha certeza. Agora o Arekkz Gaming e o BennyCentral dizem a mesma coisa: variante única **não pode ser modificada**. O que você acha é o que fica, e por isso as que já vêm com mira e silenciador valem mais no começo.
+- **Nem tudo é único.** Lança-granadas e lança-foguetes achados pelo mapa são comuns: se você morrer com eles, perde (WiLLiSGaming). O sniper SM-69 da torre de rádio de Key Lento e o fuzil Duke 5.56 dos esconderijos também são comuns, segundo o Arekkz Gaming, o Rodwenn e o RageGamingVideos. Guarde esses no porta-malas.
 
-A maioria dos locais abaixo foi mostrada por um canal só. O Kingfishers W-22, o sniper do motel do tigre e a Crabshack VF5 já apareceram em dois canais cada.
+Hoje vários locais já foram mostrados por mais de um canal: o Kingfishers W-22, o sniper do motel do tigre, as armas da cabana do pântano, a Conspiracist Type 9, a pistola do planador e a Crabshack VF5. Quando só um canal mostrou, o texto diz qual.
 
 ## Sniper Hunter's Laird 350 (evento aleatório)
 
@@ -63,6 +71,10 @@ Um rifle de caça pequeno que quase não faz barulho, com mira e silenciador. Co
 4. Em cima de uma mesa há uma **caixa de armas** com o rifle.
 5. Para sair, o WiLLiSGaming pega um dos barcos nos fundos e foge pelo rio.
 
+O Arekkz Gaming, o BennyCentral e o RageGamingVideos também foram buscar esse rifle. O Arekkz e o Benny chamam o lugar de **Wetman Bay**: é uma ilhota com um pequeno cais e as cabanas de pesca da gangue. Chegando pelo cais, a arma está num estojo dentro da **cabana principal**; o Benny diz que fica no **balcão da cozinha**. O Arekkz avisa que o dano no corpo é baixo: mire na cabeça.
+
+De brinde, segundo o RageGamingVideos, atrás do **galpão vermelho do cais** há um fuzil **Duke 5.56** com luneta encostado na parede. Não é único, mas é de graça. Leve para o porta-malas e ele fica guardado.
+
 Aproveite o resto do esconderijo: há droga em tijolos que vale uns US$ 350 cada no [depósito do Brian](../onde-vender-itens-roubados-gta-6/).
 
 ## Rifle Black Eagle Import M306 (só com a Lucia)
@@ -81,6 +93,8 @@ O WiLLiSGaming levou de 5 a 10 minutos para conseguir entrar e diz que não sabe
 Duas armas únicas numa viagem só, segundo o WiLLiSGaming. Ficam numa **cabana abandonada no meio do pântano de Pelican Valley**, perto dos Keys. É só entrar na cabana: o revólver **Swamp Bait** e o sniper **Cruel Huntsman SM69** estão lá.
 
 Evite ir à noite. Na água, um **jacaré** que agarra você mata na hora.
+
+O Millzaa mostrou a mesma cabana. Ele situa a casinha, sem nome no mapa, **logo ao sul de Hamlet**, e é preciso atravessar um pedaço de rio a pé. Lá dentro há jacarés cortados, um cutelo na mesa e um corpo. O sniper está **no chão**, já com luneta. O revólver **Swamp Bait** não fica à vista: o Millzaa achou usando o **zoom do foco**. No chão há ainda uma gravação que mostra o que aconteceu com o dono da cabana.
 
 ## Carabina Cockroach Extreme e lança-granadas Dvatek GL40
 
@@ -101,6 +115,14 @@ O WiLLiSGaming achou a **Conspiracist Type 9**, uma submetralhadora única, num 
 3. Nos fundos há uma **porta de bunker**. Lá dentro há um homem morto e um baú de armas com a submetralhadora.
 4. No mesmo lugar há **granadas** e um **lança-foguetes**. Guarde os foguetes para quando precisar: o lança-foguetes não é único e se perde quando você morre.
 
+O Millzaa, o Rodwenn e o BennyCentral acharam a mesma submetralhadora e dão uma referência mais fácil. O ferro-velho é um **estacionamento de trailers do outro lado da rua do Griffin Shooting Range**, um estande de tiro em Balsero. No mapa, o Millzaa descreve o ponto como "entre o D e o A" do nome LEONIDA.
+
+1. Pare na frente do estande de tiro, atravesse a rua e pule a cerca.
+2. Entre no trailer. O WiLLiSGaming fala em porta de bunker nos fundos; o Rodwenn e o Millzaa mostram um **alçapão no chão** que desce para o porão.
+3. Lá embaixo, a Conspiracist Type 9 está numa caixa de armas, ao lado do lança-foguetes, de granadas e de itens de cura.
+
+Segundo o BennyCentral, ela é uma pistola-metralhadora e ocupa o lugar da pistola na roda de armas.
+
 ## Revólver H&L 38 do Donnie (dá para perder)
 
 O DPJ avisa que este é fácil de perder para sempre.
@@ -113,19 +135,21 @@ Se você destruir o carro antes, a arma vai junto.
 
 ## Sniper no motel do tigre (Manatee Motel)
 
-Dois canais mostraram este motel, com um **tigre** à solta e um sniper como prêmio.
+Quatro canais já mostraram este motel, com um **tigre** à solta e um sniper como prêmio.
 
 - **O BennyCentral** fala de um sniper com pintura própria, tomado dos **Kingfishers**, num **motel abandonado em Pelican Valley**. Ele já vem com todos os acessórios.
 - **O OutlawGarry** chama o lugar de **Manatee Motel** e diz que fica subindo a estrada a partir de **Key Lento**, onde o jogo começa. No vídeo dele, um grupo de caçadores tinha um tigre preso, o bicho se soltou e atacou todo mundo.
+- **O Millzaa** viu o motel marcado no mapa como evento. Ele diz que fica **logo ao sul de Hamlet**, a cerca de 1 milha (1,6 km) da casa do Jason. Pelo mapa do vídeo, é o norte de Pelican Valley, do outro lado da água.
+- **O Rodwenn** foi ao mesmo lugar e pegou o sniper no quarto ao lado, à esquerda.
 
-Os dois descrevem o mesmo cenário, então deve ser o mesmo lugar. Só a região muda conforme o canal (Pelican Valley ou perto de Key Lento); confira no mapa.
+A página dizia que a região mudava conforme o canal (Pelican Valley ou perto de Key Lento). Com o mapa do Millzaa, as duas descrições batem: o motel fica no norte de Pelican Valley, logo abaixo de Hamlet, e dá para ir de Key Lento pela estrada.
 
-1. Chegando ao motel, o **tigre** está atacando. Atire nele.
-2. Saqueie os quartos e os corpos: tem dinheiro. O OutlawGarry achou um **cofre com US$ 1.000** e saiu de lá com uns **US$ 3.300** no total.
-3. No **quarto ao lado**, pegue o sniper na caixa de armas. O OutlawGarry achou **dois snipers**, um deles amarelo (único).
-4. Saia rápido: no vídeo do OutlawGarry, alguém chamou a polícia.
+1. Chegando ao motel, o **tigre** está atacando. Espere o bicho e o homem caírem, ou atire no tigre.
+2. Saqueie os quartos e os corpos: tem dinheiro. O OutlawGarry achou um **cofre com US$ 1.000** e saiu de lá com uns **US$ 3.300** no total. O cofre dos fundos deu **US$ 917** ao Millzaa e pouco mais de US$ 1.000 ao Rodwenn. Há ainda uma pistola sinalizadora e itens de cura.
+3. No **quarto ao lado**, pegue o sniper na caixa de armas. O OutlawGarry achou **dois snipers**, um deles amarelo (único). O Millzaa achou ali também **US$ 640** em droga.
+4. Saia rápido ou fique pronto para brigar: no vídeo do OutlawGarry, alguém chamou a polícia, e no do Millzaa um grupo armado chegou logo depois.
 
-Nenhum dos dois vídeos deixa claro o nome da arma, por isso não o escrevemos aqui.
+Antes, nenhum vídeo deixava claro o nome da arma. Agora deixa: na tela do Millzaa aparece **Kingfishers Laird 350**, com o aviso de variante única, e o Rodwenn e o BennyCentral falam o mesmo nome. Segundo o Rodwenn, ele vem com pintura própria, mira e coronha melhorada. Não confunda com o Hunter's Laird 350 do evento aleatório.
 
 ## Sniper no alto da torre de rádio
 
@@ -135,15 +159,56 @@ O Arekkz Gaming achou um sniper com mira no topo de uma **torre de rádio da ár
 2. Passe pela porta do alto e suba a **escada de mão**: o sniper está ali.
 3. Mais acima há um **paraquedas** para descer pulando.
 
-Não dá para saber pelo vídeo se é a mesma torre do [ovo de Páscoa](../ovo-de-pascoa-torre-de-radio-gta-6/).
+Agora dá para dizer qual é a torre. É a de **Key Lento**, a uns 600 m (0,36 milha) da casa do Jason, segundo o Millzaa. O Arekkz diz que ela fica perto do trailer do Donnie e que é um dos 31 pontos turísticos do jogo, então escaneie com o celular antes de subir. O Millzaa, o Arekkz e o BennyCentral chamam a arma de **SM-69**.
 
-## Pistola do planador caído
+Atenção: esse sniper é **comum**, não variante única. O Arekkz e o Rodwenn avisam que, se você morrer com ele, perde. Na mesma subida há **2 cartas colecionáveis** e o paraquedas do topo, que serve uma vez só. Veja [cartas colecionáveis](../cartas-colecionaveis-gta-6/) e [paraquedas](../paraquedas-gta-6-onde-pegar/).
+
+O primeiro vídeo não deixava claro se era a mesma torre do [ovo de Páscoa](../ovo-de-pascoa-torre-de-radio-gta-6/). Pelos locais, não é: a torre do ovo fica perto de Hamlet, e esta fica em Key Lento.
+
+## Pistola do planador caído (Turnt Nipper .38)
 
 O Milo achou, numa ilha no sul, um **planador de hélice preso numa árvore**. **Atire nas cordas** que o seguram: ele cai, e dentro há uma **pistola única**. O vídeo diz que a ilha fica "ao norte de Mariana County", mas não mostra o ponto exato.
 
+O Arekkz Gaming e o BennyCentral foram ao mesmo planador e completam o que faltava. Na tela do Arekkz, a arma aparece como **Turnt Nipper .38 Pistol**, com adesivo próprio e mira red dot já instalada. O Benny fala em pintura com marca de energético.
+
+1. Vá até **Bobcat Bight**, no fim da faixa de areia. O planador fica numa ilhota: chegue de barco ou de jet ski.
+2. Suba da praia até os **pinheiros**. O planador quebrado está preso nos galhos, com várias cordas soltas.
+3. Atire em todas as cordas. O Arekkz usou um rifle de pente grande, porque a última corda balança e dá trabalho.
+4. Quando o planador cai, a pistola fica nele ou no chão logo ao lado.
+
 ## Submetralhadora Crabshack VF5
 
-É a recompensa do mistério do caranguejo gigante, em Mariana County. O YOUNG DIRK mostrou que ela fica **no chão, logo na entrada da casa de barcos**, já com mira, e vai para o armário de armas. O passo a passo, com as três senhas, está em [caranguejo gigante: senhas e recompensa](../caranguejo-gigante-senhas-gta-6/).
+É a recompensa do mistério do caranguejo gigante, em Mariana County. O YOUNG DIRK mostrou que ela fica **no chão, logo na entrada da casa de barcos**, já com mira, e vai para o armário de armas. Segundo o RageGamingVideos e o Millzaa, ela também vem com **lanterna tática** e tem pintura de risco biológico. O passo a passo, com as três senhas, está em [caranguejo gigante: senhas e recompensa](../caranguejo-gigante-senhas-gta-6/).
+
+## Fuzil Marabunta Grande KZ59 (ferro-velho Nova Auto, Hamlet)
+
+Só o BennyCentral mostrou até agora, e o nome veio da fala dele. É um fuzil dourado com gravuras da gangue M7.
+
+1. Vá ao ferro-velho **Nova Auto**, em **Hamlet**.
+2. Suba no muro pela **caçamba de lixo** e derrube a gangue M7 do pátio.
+3. O fuzil está numa caixa na **bancada embaixo do galpão**.
+4. Na garagem, o cofre da sala dos fundos abre com **777**, número escrito logo acima dele.
+5. Um botão na parede abre a porta da garagem. Saia com o **lowrider** que está lá dentro: segundo o Benny, ele não tem rastreador.
+
+## Fuzil KZ59 dourado do Palmer Fishing Warehouse (Bobcat Key)
+
+Também só pelo BennyCentral. É outro KZ59 dourado, com gravações finas; o nome que ele fala não ficou claro, por isso não o escrevemos.
+
+1. Vá ao armazém de peixe **Palmer Fishing Warehouse**, em **Bobcat Key**.
+2. Abra caminho pela gangue e suba ao **escritório**: o fuzil está num estojo.
+3. O computador do térreo mostra a senha do cofre do escritório. Na fala do Benny ela é **18886**; confira no computador antes de digitar.
+
+## Sniper da casa do colecionador de armas (Key Lento)
+
+Segundo o BennyCentral, uma casa sobre palafitas em Key Lento, parecida com a do Jason, é de um colecionador de armas. Suba a escada dos fundos e arrombe a porta. O dono está em casa e vem para cima de você. O sniper único, com pintura patriótica, está num estojo no balcão da cozinha. Nos quartos há ainda colete, uma metralhadora e um fuzil. O Benny mostra o ponto no mapa, mas não diz o nome da rua.
+
+## Escopeta Marabunta Grand Hobo (atrás da loja de penhores de Hamlet)
+
+O RageGamingVideos achou esta escopeta de dois canos, lendária e com gravações, quando foi à **loja de penhores de Hamlet** à noite. Atrás da loja havia um carro com o porta-malas aberto, sangue no chão e gritos vindo do prédio ao lado. Seguindo o rastro de sangue, uma porta leva a um armazém: a escopeta está numa caixa de armas, à vista, junto com dinheiro. Você decide se entra na sala seguinte. Ele não sabe se é um evento aleatório ou se acontece sempre ali.
+
+## Armas únicas à venda nas lojas
+
+Cada loja de armas vende 1 ou 2 variantes exclusivas, marcadas com o ícone de arma dourada. A Chuck's Tackle & Shot, em Key Lento, tem a **Mahi Nipper .38** por **US$ 1.160**, e a Big Shots, em Hamlet, a **The Silver 1922** por **US$ 2.210**: o Arekkz Gaming e o BennyCentral deram os mesmos preços. A lista completa, com os pacotes, está em [armas únicas nas lojas de armas](../armas-unicas-lojas-de-armas-gta-6/).
 
 ## Dica
 

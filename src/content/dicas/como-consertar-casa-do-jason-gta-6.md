@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "17:37", data: "2026-11-19T07:27:23-03:00" }
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "2:43", data: "2026-11-19T02:20:57-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "18:19", data: "2026-11-18T22:26:16-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/", titulo: "All Magazines, Books, And Comics In GTA 6", data: "2026-11-20T05:54:00-03:00" }
 descoberto_em: "2026-11-19T16:32:00-03:00"
-atualizado_em: "2026-11-20T10:22:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Uma linha sobre as revistas e os livros da casa, que o GameSpot pede para ler antes do fim do capítulo 1, com link para a página de revistas." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Entraram o prazo (depois de buscar a Lucia os projetos travam) e as tarefas e compras antes da chegada dela, pelo GameSpot; o caminho até o anteparo e o lado certo para consertar, pelo GamesRadar+ e pelo PC Gamer. O GameSpot conta 4 projetos porque junta parede e pintura." }
   - { data: "2026-11-19T16:32:00-03:00", nota: "Publicada confirmada: lugar e botões de cada conserto pelo GamesRadar+; as 5 obras e o ganho com a Lucia pelo Arekkz Gaming; MrDalekJD, KultZ e Thalera também mostram os consertos." }
 perguntas:
@@ -101,5 +103,7 @@ O MrDalekJD resume os consertos em gesso, goteira do telhado e pintura nova, e t
 Dá para consertar a partir da missão Gear Up. O KultZ sugere aproveitar o dia em que a Lucia liga pedindo favores, antes de ir buscá-la. Como você passa em casa para deixar as compras, dá para fazer a **parede do quarto** e a **escada** ali mesmo. O Thalera indica fazer tudo antes de buscar a Lucia, pelo bônus de chegada.
 
 O limite é a ida à prisão. Segundo o GameSpot, depois que você decide buscar a Lucia, não volta mais aos projetos.
+
+Já que está em casa, pegue também as revistas e os livros espalhados por ela: o GameSpot lista 5 e pede para ler todos antes do fim do capítulo 1. Veja onde ficam em [revistas, livros e quadrinhos](../revistas-livros-quadrinhos-gta-6/).
 
 Tudo o mais que dá para fazer em casa, como guardar dinheiro e ganhar foco, está em [o que fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/). Para subir o nível do casal depois, veja [relacionamento entre Jason e Lucia](../relacionamento-jason-lucia-gta-6/). E as missões do começo estão no [detonado do capítulo 1](../detonado-capitulo-1-gta-6/).

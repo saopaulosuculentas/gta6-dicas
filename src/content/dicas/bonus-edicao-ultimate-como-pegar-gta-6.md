@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/", titulo: "How to collect your GTA 6 Ultimate Edition bonuses", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-pre-order-bonus-vintage-vice-city-pack/", titulo: "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ultimate-edition-pre-order-bonuses/", titulo: "How to unlock GTA 6 Ultimate Edition and pre-order bonuses", data: "2026-11-18T12:38:24-03:00" }
+  - { tipo: youtube, canal: "jayvee", url: "https://www.youtube.com/watch?v=12pZdkPGRFg", titulo: "GTA 6: How To Unlock Ultimate Edition Content", minuto: "3:22", data: "2026-11-19T17:46:19-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T16:08:00-03:00"
+atualizado_em: "2026-11-20T11:07:00-03:00"
 historico:
+  - { data: "2026-11-20T11:07:00-03:00", nota: "Entrou o vídeo do jayvee: o PTT Youngin$ Compound já dá para invadir no capítulo 1 (segurança alta, pistola única atrás do balcão, droga para vender ao Brian ou ao Donnie), a pistola do Jason libera depois da missão com o Andrew na loja de armas, e a moto, o caiaque e o Retro Build só servem no capítulo 1." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Publicada como confirmada: o PC Gamer e o GamesRadar+ trazem a mesma lista de bônus e os mesmos capítulos. A loja da Ultimate aparece no quadro do vídeo do DPJ." }
 perguntas:
   - { p: "Onde ficam os bônus da edição Ultimate no GTA 6?", r: "Cada bônus libera num capítulo e fica num lugar do mapa. A loja do menu principal, liberada depois da missão Coming Home, mostra quando e onde pegar cada um." }
@@ -38,6 +40,8 @@ Quase tudo se acha pelo **índice do mapa**. Se não conhece, veja [como usar o 
 
 O **Ganado Retro Build**, a moto **Dinka Enduro** e o caiaque **Crest Kayak** aparecem nas duas fontes como **só do capítulo 1**. Elas não explicam o que acontece se você passar do capítulo sem pegar. Para não arriscar, pegue logo.
 
+O jayvee, que mostrou os três no jogo, diz que eles **só podem ser usados durante o capítulo 1**: depois disso, não dá para fazer nada com eles. A moto fica escondida na sombra embaixo da casa do Jason, e o caiaque boia na rampa ao lado da casa. O Retro Build aparece depois da missão do **Joey** na Coastal Auto Care, no menu de builds prontos e kits completos.
+
 ## Capítulo 1
 
 | Bônus | O que é | Onde pegar |
@@ -55,6 +59,29 @@ O **Ganado Retro Build**, a moto **Dinka Enduro** e o caiaque **Crest Kayak** ap
 | **Sara's Unisex Salon** | Salão com visuais exclusivos: barba para o Jason, maquiagem e unhas para a Lucia | Hamlet. Índice: Style > Hair & Beauty. Os visuais exclusivos chegam no capítulo 2, e mais no 4 |
 
 As pistolas personalizadas são **grátis** para equipar.
+
+### A pistola do Jason: quando libera
+
+Segundo o jayvee, a Girardi ES9 do Jason libera logo no começo: faça a missão em que você conversa com o **Andrew** na loja de armas do início do jogo. No fim dela, o jogo avisa que o conteúdo da Ultimate está disponível. Vá ao **armário de armas** da loja e troque para a variante. Para ele, a pistola é mais forte e atira mais rápido que a do começo, e fica com você depois do capítulo 1.
+
+### PTT Youngin$ Compound já no capítulo 1
+
+Para o jayvee, este é o melhor bônus da Ultimate, e dá para ir **logo no capítulo 1**:
+
+1. O esconderijo fica em **Southside**, Vice City. Marque o ponto no mapa e chame um **táxi**: ele leva você até lá, se tiver dinheiro para a corrida.
+2. Perto do lugar, o jogo avisa que ouviram **tiros** vindo do prédio, e o local aparece no mapa como oportunidade de roubo.
+3. A **segurança é alta**. O jayvee derrubou de 30 a 40 membros da gangue, e a polícia aparece no tiroteio.
+4. Atrás do **balcão** está a droga para vender ao Brian ou ao Donnie. Ali também fica uma **pistola única**: na tela do vídeo aparece **Duval Signature ES9 Pistol**, mas na fala o jayvee chama a arma de K17 e diz que ela tem pente bem grande.
+5. Antes de sair, olhe o mapa: ele mostra se você já pegou todos os itens de valor.
+6. Para fugir, ele correu a pé, trocou chapéu e óculos e, com o carro por perto, mudou de roupa pelo porta-malas para baixar a procura.
+
+Ele diz que dá para voltar e roubar o lugar de novo. Para vender a droga, veja [onde vender itens roubados](../onde-vender-itens-roubados-gta-6/). Mais armas raras do começo em [armas únicas do GTA 6](../armas-unicas-onde-achar-gta-6/).
+
+### Outros detalhes do capítulo 1
+
+- **Stock 305:** segundo o jayvee, sem a Ultimate você nem entra na loja.
+- **Sara's Unisex Salon:** dá para entrar já no capítulo 1, mas os cortes extras só chegam nos capítulos 2 e 4.
+- **One-Eyed Willie's:** a oficina abre no capítulo 1, mas você precisa ter um veículo de fora de estrada para usar. O jayvee ainda não tinha um.
 
 ## Capítulo 2
 

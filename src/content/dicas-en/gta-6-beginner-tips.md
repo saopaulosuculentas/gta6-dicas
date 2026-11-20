@@ -16,9 +16,12 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "8:22", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "2:37", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "1:14", data: "2026-11-19T09:16:55-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "23:10", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "0:48", data: "2026-11-20T02:40:14-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T16:16:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Added: the map's Exploration tab with neighbor favors and easy-to-miss activities, binoculars to tag enemies before going in (BennyCentral), and the helicopter just south of Hamlet for clearing map fog (MrRoflWaffles). Linked the body armor and secret early items guides." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Added: loot bodies after a shootout (MrDalekJD), Lucia's five optional errands (KultZ), the five house repairs (Arekkz), picking your wake-up time (MrDalekJD), the Ultimate Edition car upgrade (Arekkz) and what the story unlocks according to three more channels. BennyCentral prefers the jog speed; the page shows both options." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Guide published from DPJ's and WiLLiSGaming's tips. Stashing your cash shows up in both." }
 perguntas:
@@ -57,6 +60,16 @@ GTA 6 changes a lot compared with GTA 5, and some of those changes cost you if y
 
 12. **Pending jobs live on your phone.** There's no reliable journal. Press Up on the D-pad: messages from characters list suggested jobs and past ones, and remind you of money waiting for you.
 13. **Apps worth knowing:** Waink It (scans cars), Snapmatic (the in-game social network, with camera and gallery), weather, contacts and the fitness app, which tracks your workout window and Focus. For controls the game never explains (flipping cars, sitting, RydeMe fast travel), see [GTA 6 hidden features](../gta-6-hidden-features/), and to find missions and shops on the map, see the [index guide](../gta-6-index-find-missions/).
+
+## Explore the map the smart way
+
+- **The Exploration tab.** Open the map and check the **Exploration** tab. BennyCentral says it lists **favors for your neighbors** and other side activities that are easy to miss. Most of the map starts out under fog, and it only lifts as you travel through each area.
+- **A helicopter to clear the fog.** MrRoflWaffles shows a helicopter parked at a spot **just south of Hamlet**. Fly it around and you clear huge chunks of fog in one go. For him it turns up most reliably in the late afternoon, around **4 to 5 p.m.** in-game.
+- **Binoculars before you go in.** Before you hit a place full of enemies, BennyCentral suggests pulling out your **binoculars** and tagging each one from a distance, so you know where everyone is before you make a move.
+
+## Free gear early on
+
+You can be well armed without spending much. Snipers, a rocket launcher, unique guns and hidden bags of cash are all up for grabs near the start, and the best order to collect them is in [GTA 6 secret early items](../gta-6-secret-early-items/). Before any gunfight, put on body armor: where to buy it, how to equip it and where to find it for free are in [how to get body armor in GTA 6](../gta-6-how-to-get-body-armor/).
 
 ## Police and time
 

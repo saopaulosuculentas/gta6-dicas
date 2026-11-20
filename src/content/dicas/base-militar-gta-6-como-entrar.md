@@ -12,9 +12,13 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "2:38", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=5q7mIEIrK7c", titulo: "Grand Theft Auto VI - Get Rich Early, Unlock Best Vehicle Fast, Stat Boosts & Reviews - GTA 6 Guide!", minuto: "8:50", data: "2026-11-18T21:00:37-03:00" }
   - { tipo: youtube, canal: "TGG", url: "https://www.youtube.com/watch?v=hlEojE7w0Zw", titulo: "GTA 6: How To Break Into The Military Base & Steal a Jet or Tank (EASY GUIDE)", minuto: "0:24", data: "2026-11-19T01:03:30-03:00" }
+  - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=czS1q74rIAc", titulo: "GTA 6 - Tank (Rhino) Location Guide - Challenging Tank Achievement/Trophy", minuto: "0:45", data: "2026-11-18T20:49:59-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "2:52", data: "2026-11-18T15:15:08-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-waink-curiosities-in-gta-6/", titulo: "All WAiNK Curiosities In GTA 6", data: "2026-11-20T06:05:00-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T16:22:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Onde ficam os Rhinos lá dentro, como entrar e atirar, pelo Maka91Productions e pelo Arekkz Gaming. A carcaça de Goose Key, com um meteorito ao lado, no litoral nordeste da base, pelo GameSpot." }
   - { data: "2026-11-19T16:22:00-03:00", nota: "TGG: rampa de moto, colete, Zombix e salvar antes; jato com mísseis e rastreador; tanque dá 6 estrelas." }
   - { data: "2026-11-19T11:54:00-03:00", nota: "Terceira fonte (RageGamingVideos): saída da rodovia até a rampa, fileira de jatos, tanques e blindados, e o rastreador permanente dos veículos militares." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada como confirmada: o PC Gamer e o T5G mostram a entrada pela rampa." }
@@ -22,6 +26,7 @@ perguntas:
   - { p: "Onde fica a base militar do GTA 6?", r: "É a Mile Zero Air Station, em Goose Key, no condado de Mariana, no canto sudoeste do mapa. Fica perto da primeira casa do Jason, em Key Lento." }
   - { p: "Como entrar na base militar do GTA 6?", r: "Pela rampa de terra do salto acrobático Mile Zero Air Station Southeast, no canto sudeste da base. Pule a cerca de carro em alta velocidade." }
   - { p: "Como pegar um tanque no GTA 6?", r: "Na base militar há tanques Hauners Rhino. É o jeito mais fácil de pegar um, mas você leva procurado assim que é visto lá dentro." }
+  - { p: "Onde ficam os tanques dentro da base militar do GTA 6?", r: "Depois da rampa, vire à esquerda: os Rhinos ficam ao lado de um prédio enorme, logo depois da cerca, segundo o Maka91Productions. O Arekkz Gaming achou outra fileira num canto do fundo da base, depois dos jatos." }
 ---
 
 A base militar do GTA 6 se chama **Mile Zero Air Station** e é o lugar mais fácil para pegar **jato de combate, tanque e helicóptero militar**. A entrada mais simples é uma **rampa de salto acrobático** que joga você por cima da cerca. O PC Gamer e o T5G mostraram esse caminho.
@@ -52,6 +57,20 @@ O T5G lembra que é a mesma ideia da rampa clássica do GTA 5 para entrar na bas
 | Botticher Buzzard | Helicóptero de ataque |
 | Mammoth Patriot | Caminhão |
 | Botticher 015A | Avião |
+
+## Onde ficam os tanques lá dentro
+
+Depois do salto, vire à **esquerda**. Segundo o Maka91Productions, os tanques ficam à esquerda de um prédio enorme, logo depois da cerca, com tanques grandes e pequenos juntos. Os **Rhinos** são os maiores e ficam mais perto da cerca por onde você pulou. O Arekkz Gaming fez outro caminho: passou pelos bunkers e pelos jatos e achou uma fileira inteira de Rhinos no fundo de um canto da base.
+
+- **Entrar:** chegue perto e aperte **triângulo** (Y no Xbox). O personagem sobe pela escotilha sozinho, mas o Arekkz avisa que ainda dá para levar tiro nessa hora.
+- **Atirar:** o Rhino tem um canhão só, que o Maka91Productions dispara com **R1** (RB no Xbox).
+- **Cuidado com helicóptero:** o canhão não sobe o bastante para acertar quem está no alto, e os helicópteros com foguetes chegam quando as estrelas sobem.
+
+Entrar num Rhino também libera o troféu **Challenging Tank**. O passo a passo completo está em [como pegar um tanque no GTA 6](../como-pegar-tanque-gta-6/).
+
+## A carcaça de Goose Key
+
+A base também esconde uma das curiosidades do app **WAiNK**. Segundo o GameSpot, quem segue o litoral para o **nordeste**, dentro da Mile Zero Air Station, acha a **Goose Key Carcass**, a carcaça de uma criatura estranha, com um **meteorito** colecionável ao lado. A área é restrita, então tente passar sem ser visto pelos militares. As outras estão em [curiosidades e pontos turísticos do WAiNK](../curiosidades-pontos-turisticos-waink-gta-6/), e o que fazer com a pedra está em [meteorito no GTA 6](../meteorito-onde-achar-vender-gta-6/).
 
 ## Dá para ficar com o jato ou o tanque?
 

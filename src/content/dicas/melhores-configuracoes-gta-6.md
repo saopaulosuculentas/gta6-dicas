@@ -12,9 +12,14 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "0:12", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6 | Dicas, truques e mais", minuto: "3:10", data: "2026-11-18T18:18:15-03:00" }
+  - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "3:04", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "15:03", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "0:13", data: "2026-11-19T19:17:00-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "5:53", data: "2026-11-20T02:40:14-03:00" }
 descoberto_em: "2026-11-19T16:21:00-03:00"
-atualizado_em: "2026-11-19T16:21:00-03:00"
+atualizado_em: "2026-11-20T11:03:00-03:00"
 historico:
+  - { data: "2026-11-20T11:03:00-03:00", nota: "Entraram as opções de facilitar o fim da aba Jogabilidade (combate acessível, menos dano no carro, minigames simplificados, piloto automático), a velocidade de movimento e o Stand & Sprint (JuiceHead, BennyCentral, JorRaptor, MrRoflWaffles), mira travada para quem erra muito, bússola ligada e desfoque de movimento desligado. Link para a página de dificuldade." }
   - { data: "2026-11-19T16:21:00-03:00", nota: "Publicada como confirmada: os três esquemas de controle e a troca para unidades métricas aparecem no Thalera e no CKX. Menus conferidos nos quadros do vídeo do Thalera." }
 perguntas:
   - { p: "Qual a melhor mira no GTA 6?", r: "A Parcial, segundo o Thalera. Ela leva a mira para perto do alvo sem travar, o que ajuda a dar tiros não letais, como na perna." }
@@ -50,6 +55,28 @@ A aba Jogabilidade é a terceira e tem 25 opções. As de combate ficam no topo:
 - **Sacar arma rapidamente:** puxa a última arma que você usou. Aperte L2 e logo R2 para sacar e já atirar.
 - **Guardar arma no veículo:** vem em Automático, e o jogo guarda sozinho as armas no carro que você está usando. No Manual, você escolhe quais ficam guardadas. O Thalera deixa no automático no começo.
 
+Nem todo mundo concorda com a mira em Parcial. O BennyCentral manda pôr em **travar mira** se você está perdendo os tiroteios, porque fica bem mais fácil acertar enquanto você se acostuma com o jogo. O JuiceHead confirma que o jogo vem em Parcial e mostra que, com a mira travada, dá para ligar também a troca rápida de um inimigo para o outro.
+
+## Velocidade de movimento
+
+Na mesma aba, na parte de movimento, uma opção decide o quanto o personagem anda quando você empurra o analógico esquerdo sem clicar nele. No jogo em inglês ela se chama **Movement Speed** e tem quatro níveis: andar, andar rápido, trotar e correr. Segundo o JuiceHead, vem em andar.
+
+- **Correr:** o JorRaptor e o JuiceHead usam essa. Empurrando o analógico até o fim, o personagem já corre, sem gastar fôlego. Não é tão rápido quanto a corrida de verdade do L3.
+- **Trotar:** é a do BennyCentral. Segundo ele, com essa opção um empurrão leve anda e o empurrão inteiro já corre.
+
+O JuiceHead também liga o **Stand & Sprint**: se você estiver agachado e mandar correr, o personagem levanta sozinho. A velocidade em combate tem uma opção separada.
+
+## Opções que deixam o jogo mais fácil
+
+O GTA 6 não tem nível de dificuldade, mas o fim da aba Jogabilidade tem opções que fazem esse papel. No jogo em inglês, o JuiceHead mostra **Accessible Combat**, **Reduced Vehicle Damage**, **Simplified Mini Games** e **Auto Drive**. Os nomes em português não aparecem nos vídeos.
+
+- **Combate acessível (Accessible Combat):** você leva muito menos dano. O MrRoflWaffles usa para não morrer no meio da missão e perder o dinheiro do bolso, mas avisa que o jogo fica fácil demais. O JuiceHead enfrentou cinco estrelas logo no começo com ele ligado.
+- **Menos dano no carro (Reduced Vehicle Damage):** o JuiceHead bateu várias vezes e o carro continuou inteiro.
+- **Minigames simplificados (Simplified Mini Games):** facilita a ligação direta, segundo o BennyCentral, e os exercícios da academia, segundo o JorRaptor. O Benny prefere deixar desligado, porque acha os minigames mais divertidos do jeito normal.
+- **Piloto automático (Auto Drive):** veja como ligar em [piloto automático no GTA 6](../piloto-automatico-gta-6/).
+
+O que cada opção muda, com os menus conferidos, está em [como deixar o GTA 6 mais fácil](../dificuldade-modo-facil-gta-6/).
+
 ## Acessibilidade: menos dedo no botão
 
 Mais abaixo, na mesma aba, fica a parte de acessibilidade:
@@ -67,7 +94,8 @@ A aba Interface tem 70 opções. O idioma já deve vir em português do Brasil. 
 - **Nomes dos personagens:** ligado, mostra quem está falando.
 - **Fundo:** põe um fundo atrás da legenda, se ficar difícil de ler.
 - **Minimapa em Dinâmico:** ele só aparece quando o jogo precisa, quando há rota no GPS ou quando você aperta o direcional para baixo. Em Sim, fica o tempo todo na tela.
-- **Notificações de progresso:** ligadas, avisam sempre que você descobre algo sobre uma arma, um veículo ou um animal.
+- **Notificações de progresso:** ligadas, avisam sempre que você descobre algo sobre uma arma, um veículo ou um animal. O BennyCentral também liga os **alertas de descoberta**, para o jogo avisar quando tem algo novo por perto, em vez de você passar direto.
+- **Bússola:** o JorRaptor liga a bússola na interface. Ela ajuda a achar o carro estacionado perto e a ver atividades e ícones em volta.
 - **Ícones do mapa:** dá para mudar o tamanho e a cor.
 
 ## Unidades de medida: troque para métrico
@@ -86,6 +114,8 @@ Assim o GPS e as informações do personagem passam a usar quilômetro e quilo. 
 ## Tela: brilho um pouco mais alto
 
 O CKX recomenda subir um pouco o **brilho** na aba Tela, porque a noite do GTA 6 é muito escura. Só não exagere, para a imagem não ficar estourada.
+
+O BennyCentral desliga o **desfoque de movimento** logo de cara. Sem ele, a imagem fica mais limpa quando você anda rápido.
 
 ## Áudio: músicas licenciadas
 

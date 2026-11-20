@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "3:18", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "17:37", data: "2026-11-19T07:27:23-03:00" }
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "2:43", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/", titulo: "All Magazines, Books, And Comics In GTA 6", data: "2026-11-20T05:54:00-03:00" }
 descoberto_em: "2026-11-19T16:32:00-03:00"
-atualizado_em: "2026-11-20T10:22:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "One line on the magazines and books in the house, which GameSpot says to read before Chapter 1 ends, linking to the magazines guide." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Added the deadline (projects lock once you go to pick up Lucia) and the other tasks and gifts before she arrives, from GameSpot; the route to the railing and the side you have to fix it from, from GamesRadar+ and PC Gamer. GameSpot counts 4 projects because it treats the wall and paint as one." }
   - { data: "2026-11-19T16:32:00-03:00", nota: "Published as confirmed: location and buttons for each repair from GamesRadar+; the 5 jobs and the Lucia bonus from Arekkz Gaming; MrDalekJD and KultZ also cover the repairs." }
 perguntas:
@@ -94,5 +96,7 @@ MrDalekJD lists the same jobs (drywall, roof leaks, fresh paint) and also frames
 You can start as soon as Gear Up begins. KultZ suggests the day Lucia calls with errands before you pick her up: you have to carry the groceries into the house anyway, so knock out the **bedroom wall** and the **steps** while you're there.
 
 The hard limit is the prison run. Per GameSpot, once you commit to picking Lucia up, there's no going back to the projects.
+
+While you're home, grab the magazines and books lying around too: GameSpot counts 5 in the house and says to read them all before Chapter 1 wraps up. See where they are in the [magazines, books and comics guide](../gta-6-magazines-books-comics/).
 
 To keep building the relationship after that, see the [Jason and Lucia romance guide](../gta-6-romance-jason-lucia/). The early missions are covered in the [Chapter 1 walkthrough](../gta-6-chapter-1-walkthrough/).

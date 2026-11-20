@@ -14,9 +14,12 @@ fontes:
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:55", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=BgS97FUMfGI", titulo: "GTA 6 - Cachorro de JET SKI easter egg", minuto: "3:08", data: "2026-11-18T20:03:50-03:00" }
+  - { tipo: youtube, canal: "InkTV", url: "https://www.youtube.com/watch?v=9sBE_lGWzkE", titulo: "5 Insane GTA 6 Easter Eggs!", minuto: "13:06", data: "2026-11-19T18:18:46-03:00" }
+  - { tipo: youtube, canal: "Skorpion Gamer", url: "https://www.youtube.com/watch?v=i9aYt1QoOC0", titulo: "DESCOBRI O PRIMEIRO EASTER-EAG DO GTA 6!!", minuto: "18:50", data: "2026-11-19T15:45:20-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T09:22:00-03:00"
+atualizado_em: "2026-11-20T10:45:00-03:00"
 historico:
+  - { data: "2026-11-20T10:45:00-03:00", nota: "Mais dois canais resgatados pelo cachorro: InkTV e Skorpion Gamer." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Quarto canal: o Gameplayrj também foi resgatado pelo cachorro e ganhou dinheiro e habilidade na ilha." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "Publicada como confirmada: o cachorro do jet ski aparece em vídeos do ZoneX, do ZacCoxTV e do T5G, e no Kotaku. O valor de US$ 1.218 foi conferido no quadro do vídeo do ZoneX." }
 perguntas:
@@ -27,7 +30,7 @@ perguntas:
 
 No GTA 6 existe um cachorro que pilota jet ski. Ele usa colete salva-vidas e óculos de natação, aparece quando você está perdido no meio da água e dá carona até uma ilha cheia de cachorros. Se você fizer amizade com eles, um dos cachorros desenterra um dinheiro escondido: no vídeo do ZoneX foram **US$ 1.218**.
 
-Quatro canais mostraram o encontro (ZoneX, ZacCoxTV, T5G e o brasileiro Gameplayrj), e o Kotaku também registrou o cachorro que resgata jogadores com o jet ski.
+Seis canais mostraram o encontro (ZoneX, ZacCoxTV, T5G, InkTV e os brasileiros Gameplayrj e Skorpion Gamer), e o Kotaku também registrou o cachorro que resgata jogadores com o jet ski.
 
 ## Como fazer o cachorro aparecer
 
@@ -58,6 +61,11 @@ Depois da primeira vez, a ilha fica conhecida e dá para voltar de barco. O Zone
 O Gameplayrj fez o mesmo caminho: ficou boiando no meio do mar até ouvir um barulho. Primeiro não aconteceu nada, e ele precisou ir **mais longe da costa**, passando de um navio grande. Aí o cachorro apareceu. Na ilha, um cachorro trouxe uma **carteira com uns US$ 1.000**, outro levou até uma caixa para abrir, e ele brincou de frisbee com eles. No fim, o jogo deu **dinheiro e habilidade**.
 
 Se o cachorro não aparecer, afaste-se mais da costa.
+
+## Mais resgates
+
+- **Skorpion Gamer:** estava nadando no meio do mar quando o cachorro de óculos chegou de jet ski e deu carona, com o próprio cachorro no guidão.
+- **InkTV:** também foi resgatado e tem uma teoria: o cachorro seria um socorro do jogo para quem passa tempo demais na água.
 
 ## O que ainda não se sabe
 

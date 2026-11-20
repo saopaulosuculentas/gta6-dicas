@@ -22,9 +22,11 @@ fontes:
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=N_yUb7vc5mY", titulo: "GTA 6 FAST CASH Method! Do This ASAP!", minuto: "2:12", data: "2026-11-18T21:36:13-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=JJPxm1aKBIc", titulo: "This Gym Bro Will Give You FREE Money At The Beginning Of GTA 6 If You Do This One Simple Thing!", minuto: "0:12", data: "2026-11-18T20:00:12-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "0:36", data: "2026-11-18T17:35:43-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "4:46", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T16:56:00-03:00"
-atualizado_em: "2026-11-19T16:56:00-03:00"
+atualizado_em: "2026-11-20T11:10:00-03:00"
 historico:
+  - { data: "2026-11-20T11:10:00-03:00", nota: "New street encounter: Jimmy, the drunk in a captain's hat who tries to rob you with a Bullhead spear gun; you can take both the spear gun and the hat (BennyCentral)." }
   - { data: "2026-11-19T16:56:00-03:00", nota: "Published as confirmed: the 8-strand trophy from GamesRadar+ and PC Gamer; side missions found so far gathered from Arekkz, OutlawGarry, RageGamingVideos, MrDalekJD, JFM, KultZ, WiLLiSGaming, MrBossFTW, KhrazeGaming and Kotaku. List is incomplete." }
 perguntas:
   - { p: "How many stranger missions are in GTA 6?", r: "The Strangers & Freaks trophy asks for 8 stranger mission strands. Whether there are more than 8 isn't known yet, since no full list has been published." }
@@ -66,6 +68,7 @@ These pop up in the open world. It's not known whether they count toward the tro
 - **D-Bag, the gym bro:** on **Shore Drive**, across from the **Hotel Dixon**, he bets you **$1,000** you can't make him tap out of a chokehold. MrBossFTW files him under strangers and random encounters. See the [D-Bag challenge](../gta-6-gym-bro-dbag-1000/).
 - **Todd and the sniper:** west of the highway into Hamlet, near Grassrivers, you'll hear a gunshot. It's two hunters, one of them **Todd**, with a sniper rifle on the ground. Drive them to the hospital and one of them **hands you the rifle**, per KhrazeGaming. More in [unique weapons](../gta-6-unique-weapons-locations/).
 - **The missing spouse:** Kotaku describes someone who needs help finding their spouse after a night of partying. It's one of the random events you can stumble into while exploring.
+- **Jimmy and the spear gun:** BennyCentral describes a drunk named **Jimmy**, wearing a **captain's hat** and carrying a **Bullhead** spear gun, who tries to rob you at a spot he marks on the map (the place name isn't clear in the audio). Don't fight him right away. Follow him to the **pool**, and while he's distracted, grab the spear gun, which is great for diving. If you want the hat too, knock him out and pick it up off the ground. That's two free items from one encounter.
 
 ## Other strands on the trophy list
 

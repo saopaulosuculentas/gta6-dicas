@@ -8,15 +8,18 @@ plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "como-personalizar-carro-gta-6/menu-motor-coastal.webp", legenda: "O menu de motor da Coastal Auto Care: Full Engine liberado e as outras peças ainda com cadeado.", canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", minuto: "38:38" }
   - { arquivo: "como-personalizar-carro-gta-6/carro-na-oficina.webp", legenda: "Um carro dentro da Coastal Auto Care, a oficina de personalização perto da casa do Jason.", canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", minuto: "0:58" }
+  - { arquivo: "como-personalizar-carro-gta-6/oficina-area-de-busca.webp", legenda: "Com a polícia procurando, a oficina recusa a entrada de um carro já conhecido numa área de busca.", canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", minuto: "2:41:42" }
 fontes:
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "0:47", data: "2026-11-18T22:00:14-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "38:40", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "Camodo Gaming", url: "https://www.youtube.com/watch?v=LRki5tWfQt4", titulo: "GTA 6 Has the Most INSANE RARE Cars to Steal!", minuto: "8:04", data: "2026-11-19T16:05:04-03:00" }
   - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:03", data: "2026-11-19T14:00:35-03:00" }
   - { tipo: youtube, canal: "Android Gamer", url: "https://www.youtube.com/watch?v=ExBgK-R5IMA", titulo: "GTA 6 - COMO PEGAR O CARRO DO BRIAN *Mitsubishi Eclipse* de VELOZES E FURIOSOS [Easter egg]", minuto: "6:05", data: "2026-11-19T13:12:33-03:00" }
+  - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
 descoberto_em: "2026-11-19T18:09:00-03:00"
-atualizado_em: "2026-11-19T18:09:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Oficina não aceita carro conhecido da polícia em área de busca (aviso na tela na live do Elanip). Link para o Skyline secreto (Annis Elegy 1990), que dá para tunar na Coastal." }
   - { data: "2026-11-19T18:09:00-03:00", nota: "Publicada confirmada: oficina e peças mostradas por StevieWunderKid, Bombastic, Camodo Gaming e Android Gamer; vantagens do registro segundo o GameSpot. O aviso da oficina sobre carro que não é seu foi conferido no quadro do vídeo do Android Gamer." }
 perguntas:
   - { p: "Onde personalizar carro no GTA 6?", r: "Numa oficina de personalização. A primeira libera cedo, perto da casa do Jason: a Coastal Auto Care, que no jogo em português aparece como Cuidados Automotivos Coastal." }
@@ -35,6 +38,10 @@ O StevieWunderKid conta que, bem no começo da história, o jogo libera uma ofic
 
 No vídeo do Android Gamer, uma dica na tela explica como achar as outras: as **oficinas especializadas ficam marcadas** enquanto você está num carro compatível com elas, e cada uma oferece peças de lataria e opções de visual próprias.
 
+### Com a polícia atrás, a oficina não abre
+
+Não adianta fugir da polícia direto para a oficina. Na live do Elanip, com a polícia procurando por ele, o carro parou na porta de uma oficina e o jogo recusou a entrada. O aviso na tela diz que não dá para entrar numa oficina de personalização numa **área de busca** com um **carro que a polícia já conhece**. Ele desistiu dali e foi para uma Pay 'n' Spray. Despiste a polícia primeiro e só depois volte. Dicas para isso em [como fugir da polícia](../como-fugir-da-policia-gta-6/).
+
 ## O que dá para mudar
 
 | Parte | O que muda | Quem mostrou |
@@ -48,6 +55,8 @@ No vídeo do Android Gamer, uma dica na tela explica como achar as outras: as **
 No menu de motor que aparece no vídeo do Bombastic, só a opção **Full Engine** estava liberada. **Intakes**, **Transmission** e **Boost** apareciam com cadeado. O vídeo não diz o que libera essas peças.
 
 O Bombastic ficou impressionado com a quantidade de opções e se perguntou se todo carro do jogo tem tanta coisa assim. Nenhum dos vídeos mostra o preço das peças.
+
+Um exemplo completo de carro tunado do zero está no [Skyline secreto](../skyline-secreto-gta-6/): um Annis Elegy 1990 enferrujado, sem alarme nem rastreador, que ganhou motor, pneu, aro e pintura nova na Coastal Auto Care. A página traz a ficha antes e depois da primeira fase do motor.
 
 ## O kit da edição Ultimate
 

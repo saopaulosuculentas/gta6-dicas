@@ -11,9 +11,13 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-romance-jason-lucia/", titulo: "GTA 6 romance guide: How Jason and Lucia's relationship actually works", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "0:52", data: "2026-11-18T23:01:21-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "17:56", data: "2026-11-18T22:26:16-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/", titulo: "Rockstar prepared \"several variations\" for GTA 6 story moments based on how you treat Lucia and Jason's relationship", data: "2026-11-19T21:45:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/", titulo: "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story", data: "2026-11-19T10:44:00-03:00" }
 descoberto_em: "2026-11-19T16:10:00-03:00"
-atualizado_em: "2026-11-19T16:10:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "Respondida a dúvida do nível 4 contra o nível 1: o relacionamento pesa no final, segundo o GameSpot, e muda cenas da história, segundo a Rockstar ao Game Informer (via GamesRadar+). Entrou também que não há romance com outra pessoa (PC Gamer), com links para os finais e para a Mandy." }
   - { data: "2026-11-19T16:10:00-03:00", nota: "Publicada confirmada: níveis, ganhos e perdas de corações segundo o PC Gamer; beijo e abraço com L2, consertos na casa, flores e chocolate antes de buscar a Lucia e nível no menu segundo dois vídeos do Thalera." }
 perguntas:
   - { p: "Quantos níveis tem o relacionamento no GTA 6?", r: "Quatro: Running on empty (1/4), Partners in Crime (2/4), Crazy in Love (3/4) e Hot Together (4/4)." }
@@ -22,7 +26,7 @@ perguntas:
   - { p: "O que fazer antes de buscar a Lucia na cadeia?", r: "Consertar a casa do Jason e comprar flores e chocolate. Segundo o Thalera, assim a Lucia já chega em casa com o relacionamento de namorados." }
 ---
 
-Para subir o relacionamento entre Jason e Lucia no GTA 6, faça coisas de casal: dar a mão, conversar, sair juntos, responder mensagens e acertar crimes em dupla. Cada ação que conta faz tocar um som e aparecer um **+♥** no lado direito da tela, segundo o PC Gamer. São **4 níveis**, e o casal já começa o capítulo 1 com a relação forte, mas chegar ao topo leva tempo.
+Para subir o relacionamento entre Jason e Lucia no GTA 6, faça coisas de casal: dar a mão, conversar, sair juntos, responder mensagens e acertar crimes em dupla. Cada ação que conta faz tocar um som e aparecer um **+♥** no lado direito da tela, segundo o PC Gamer. São **4 níveis**, e o casal já começa o capítulo 1 com a relação forte, mas chegar ao topo leva tempo. Vale o esforço: segundo o GameSpot, o nível máximo é uma das duas condições do **melhor final**.
 
 Os nomes abaixo estão em inglês, como saíram no PC Gamer. No jogo em português podem aparecer traduzidos.
 
@@ -82,4 +86,20 @@ Cada um tem missões e atividades que faz sozinho, então dá para jogar bastant
 
 - **Crimes em dupla rendem mais.** Com o parceiro junto, um aponta a arma enquanto o outro controla as pessoas no assalto, um atira no pneu da polícia enquanto o outro dirige, e vocês levam mais coisa roubada do que levariam sozinhos.
 - **Cenas íntimas do casal.** Não dá para chamar quando quiser. O jogo oferece em certos momentos, marcados por dois corações em cima do ícone da casa no mapa ou por um aviso na tela que some depois de um tempo. No jogo do PC Gamer, todas apareceram no nível 4, algumas depois de um depósito grande na poupança e de um roubo grande.
-- **Diferença entre nível 4 e nível 1: ainda não se sabe.** O PC Gamer jogou a história uma vez só, sempre com a relação alta, e diz que não sabe o que muda com a relação fraca. Quando alguém testar, esta página é atualizada.
+- **Um final melhor.** O relacionamento conta para o fim da história. A diferença entre o nível 4 e o nível 1 está explicada logo abaixo.
+
+## Nível 4 contra nível 1: o que muda
+
+**Sem spoiler:** esta parte diz só o que o relacionamento muda, sem contar nada da história.
+
+Esta página dizia que a diferença ainda não era conhecida, porque o PC Gamer jogou a história uma vez só, sempre com a relação alta. Agora já existe parte da resposta:
+
+- **O relacionamento pesa no final.** Segundo o GameSpot, o melhor final pede o casal no nível máximo **e** a poupança do casal cheia, com **US$ 2 milhões**. Com a relação no máximo mas sem encher a poupança, você chega a um final bom, mas não ao melhor. O que acontece com a relação baixa ainda está em teste. O GameSpot acredita que existe um final para quem não cumpre nenhuma das duas metas.
+- **Algumas cenas mudam no caminho.** Luke Howard, diretor sênior de design da Rockstar, contou ao Game Informer que várias cenas foram gravadas em versões diferentes, conforme o relacionamento e o [perfil criminal](../perfil-criminal-honra-gta-6/). Segundo o GamesRadar+, a mudança vai de detalhes pequenos a diferenças maiores. Num exemplo, depois de um assalto, o Jason chama a Lucia de lado para saber como ela está, e o tom da conversa muda conforme a relação.
+- **Com a relação fraca, a história não perde nada.** Se o romance esfriar, Jason e Lucia continuam parceiros no crime e você joga a história inteira. As versões mais românticas das cenas entram por cima disso.
+
+Quantos finais existem e o que cada um pede está em [quantos finais tem o GTA 6](../quantos-finais-gta-6/). Para encher a poupança, veja [como depositar no banco](../banco-caixa-eletronico-gta-6/).
+
+## Dá para namorar outra pessoa?
+
+Não. A única relação que o jogo acompanha é a de Jason e Lucia. Num comunicado ao site Shacknews, citado pelo PC Gamer, a Rockstar disse que tudo no jogo foi feito para apoiar a história do casal. Por isso não existe opção de trair a Lucia nem de ficar com a Mandy. Veja [dá para trair a Lucia ou namorar a Mandy?](../trair-lucia-namorar-mandy-gta-6/).

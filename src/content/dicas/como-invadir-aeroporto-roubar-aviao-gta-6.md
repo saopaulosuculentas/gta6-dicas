@@ -11,9 +11,11 @@ fontes:
   - { tipo: youtube, canal: "Polex GTA 6", url: "https://www.youtube.com/watch?v=kNvijCpb7NQ", titulo: "COMO É INVADIR O AEROPORTO NO GTA 6", minuto: "0:28", data: "2026-11-18T16:32:46-03:00" }
   - { tipo: youtube, canal: "Saimon Oliveira", url: "https://www.youtube.com/watch?v=UDPN3O_eopw", titulo: "COMO ROUBAR UM AVIÃO NO GTA 6! (PASSO A PASSO)", minuto: "0:14", data: "2026-11-18T16:45:25-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/", titulo: "GTA 6 airport location", data: "2026-11-18T18:52:00-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "4:37", data: "2026-11-20T03:44:43-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T08:51:00-03:00"
+atualizado_em: "2026-11-20T10:48:00-03:00"
 historico:
+  - { data: "2026-11-20T10:48:00-03:00", nota: "Reforço do Milo: com um jato e 4 estrelas, apareceram luzes azuis e logo os caças chegaram atirando foguetes. Ele também não conseguiu escapar." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada como confirmada: Polex GTA 6 e Saimon Oliveira invadiram o aeroporto e roubaram jatos, e o PC Gamer descreve o local." }
 perguntas:
   - { p: "Onde fica o aeroporto do GTA 6?", r: "É o Vice City International Airport, no lado oeste de Vice-Dale County, a sudoeste da cidade. Dá para reconhecer pelas duas pistas grandes em forma de cunha." }
@@ -45,6 +47,7 @@ O Polex tentou primeiro um avião pequeno, depois pegou um jato, que é bem mais
 
 - **Voe baixo.** O próprio jogo dá a dica: voar em baixa altitude reduz a chance de ser visto pelas autoridades.
 - Primeiro vêm **helicópteros**; depois, **jatos** que disparam mísseis. Os aviões soltam flares, mas o Polex não conseguiu escapar.
+- **Luzes azuis no céu são o aviso.** O Milo subiu num jato executivo parado ao lado de um hangar e decolou com **4 estrelas**. Logo apareceram luzes azuis, e eram os caças chegando. Eles dispararam foguetes e derrubaram o avião dele também. Se vir essas luzes, prepare o pulo de paraquedas.
 - **Plano B: paraquedas.** Pule do avião e abra o paraquedas. No vídeo, o Jason já tinha um. Dá para guiar para a esquerda e para a direita, mas ele **abre uma vez só** por salto. Veja [onde pegar paraquedas](../paraquedas-gta-6-onde-pegar/).
 
 ## O que mais tem no aeroporto

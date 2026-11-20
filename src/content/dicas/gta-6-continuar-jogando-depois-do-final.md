@@ -9,9 +9,11 @@ imagens:
   - { arquivo: "gta-6-continuar-jogando-depois-do-final/mundo-aberto.webp", legenda: "Exploração livre no mundo aberto do GTA 6, que continua disponível depois do final.", canal: "DubStepZz", url: "https://www.youtube.com/watch?v=foYHrm5PYME", minuto: "6:00" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333", titulo: "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler", data: "2026-11-18T11:00:57-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "Entrou o GameSpot: a Rockstar confirmou que há mais de um final, já são pelo menos 4 e o melhor pede relacionamento no máximo e US$ 2 milhões na poupança. Link para a página de finais. A volta para antes da missão final segue só no Kotaku, por isso a página continua em verificação." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: como o jogo trata o final, segundo o Kotaku, que já jogou até o fim." }
 perguntas:
   - { p: "O GTA 6 acaba depois da missão final?", r: "Não. Depois dos créditos, o jogo volta para o momento antes do final e você segue jogando com Jason e Lucia." }
@@ -36,6 +38,10 @@ Os nomes de troféus e missões citados aqui estão em inglês, como saíram nos
 O marcador da **missão final continua no mapa**. Se quiser, você faz o final de novo e pode chegar a um final diferente.
 
 O GTA 6 tem **mais de um final**, e o caminho depende das suas escolhas. O Kotaku viu dois deles e conta que eles seguem rumos bem diferentes. Não demos nenhum detalhe aqui para não estragar a surpresa.
+
+A própria Rockstar confirmou ao GameSpot que existe mais de um final. A equipe do GameSpot também viu dois e, somando o que outros jogadores contaram, chega a **pelo menos 4**. Segundo o site, o melhor final pede duas coisas: Jason e Lucia no **nível máximo de relacionamento** e a poupança do casal cheia, com **US$ 2 milhões**. Então, antes de refazer o final, vale subir o [relacionamento](../relacionamento-jason-lucia-gta-6/) e juntar dinheiro no banco.
+
+Quantos finais já foram vistos e o que pesa em cada um, sem spoiler, está em [quantos finais tem o GTA 6](../quantos-finais-gta-6/).
 
 ## O que libera depois do final
 

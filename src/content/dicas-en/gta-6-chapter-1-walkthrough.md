@@ -8,13 +8,17 @@ plataformas: [ps5, xbox]
 pt: "detonado-capitulo-1-gta-6"
 imagens:
   - { arquivo: "detonado-capitulo-1-gta-6/barco-gone-fishing.webp", legenda: "Jason on the boat at the start of Gone Fishing, his first mission in Chapter 1.", canal: "LaazrGaming", url: "https://www.youtube.com/watch?v=_wSP3w6NjBk", minuto: "2:30" }
+  - { arquivo: "revistas-livros-quadrinhos-gta-6/ashes-of-glory.webp", legenda: "Ashes of Glory, one of the reads in Jason's house, picked up in the bedroom with the options to open it, show the text, flip it or put it back.", canal: "Christian Konopatzki", url: "https://www.youtube.com/watch?v=lZ_xgoJGC5Y", minuto: "0:27" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/", titulo: "GTA 6 Chapter 1 Walkthrough", data: "2026-11-19T09:23:30-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "34:08", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "Musty Sky", url: "https://www.youtube.com/watch?v=UzFtMo_ZDAo", titulo: "How to Make $20,000+ in 3 Minutes Early in GTA 6! *Easy* (2 Insane Methods/Guides)", minuto: "4:46", data: "2026-11-19T04:20:15-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-magazines-books-comics-locations-guide/", titulo: "All Magazines, Books, And Comics In GTA 6", data: "2026-11-20T05:54:00-03:00" }
+  - { tipo: youtube, canal: "Christian Konopatzki", url: "https://www.youtube.com/watch?v=lZ_xgoJGC5Y", titulo: "GTA 6 ASHES OF GLORY LOCATION MAGAZINES BOOKS COMICS COLLECTIBLES", minuto: "0:22", data: "2026-11-18T10:50:06-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Reads in Jason's house: GameSpot lists 5 (including Body Copy and Reel Talk), GamesRadar+ lists 4 (including Off the Hook). Both lists now sit side by side because they disagree about the downstairs storage room. Added a shot of Ashes of Glory in the bedroom (Christian Konopatzki)." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmed through Lab Fees: Bombastic plays the boutique rent job, gets the acid and opens the safe with 0420; Musty Sky opens Brian's lockup with 7700." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: based on GamesRadar+'s walkthrough of Chapter 1 missions 1 to 7. Their guide is still in progress." }
 perguntas:
@@ -62,7 +66,18 @@ GamesRadar+ counts the house as part of Gear Up. None of it is required, but it 
 
 - **Repairs:** 5 jobs (railing, steps, roof, bedroom wall and painting that wall). According to the guide, they **help your relationship with Lucia** later on.
 - **Stash:** Jason can only carry **$2,000** in pocket cash. The loose floorboard next to the bed holds up to **$20,000**.
-- **Collectibles:** 4 reads inside the house: Ashes of Glory (bedroom dresser), Lethal by Design (dining table), Orca (bookcase with the radio) and Off the Hook (counter in the downstairs storage room).
+- **Collectibles:** magazines and books inside the house. GamesRadar+ counts 4 and GameSpot counts 5, and the two sites disagree about the downstairs storage room (see the table). GameSpot says to read them all **before Chapter 1 ends**.
+
+| Title | Where, per GamesRadar+ | Where, per GameSpot |
+|---|---|---|
+| Ashes of Glory | Bedroom dresser | Bedside table |
+| Lethal By Design | Dining table | Living room coffee table |
+| Orca: A Whole Different Animal | Bookcase with the radio | Desk beside a radio and a pile of books |
+| Body Copy | Not listed | Table on the back porch, by the workout area |
+| Off the Hook | Counter in the downstairs storage room | Not listed |
+| Reel Talk | Not listed | Storage area under the house |
+
+For the downstairs storage room, this page used to list **Off the Hook**, as GamesRadar+ does; GameSpot puts **Reel Talk** there instead. Both could be in there, or one site may have the name wrong, so check everything you can pick up in that room. Christian Konopatzki's video confirms Ashes of Glory is in the bedroom. GamesRadar+ says there are 27 of these collectibles in total, and every location found so far is in our [magazines, books and comics guide](../gta-6-magazines-books-comics/).
 
 ## 3. Gear Up
 

@@ -29,9 +29,13 @@ fontes:
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "7:41", data: "2026-11-18T18:18:15-03:00" }
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "14:47", data: "2026-11-19T11:39:01-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "12:08", data: "2026-11-19T07:27:23-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "9:00", data: "2026-11-20T02:40:14-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "13:22", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "6:31", data: "2026-11-19T19:17:00-03:00" }
 descoberto_em: "2026-11-18T17:29:00-03:00"
-atualizado_em: "2026-11-19T16:25:00-03:00"
+atualizado_em: "2026-11-20T11:09:00-03:00"
 historico:
+  - { data: "2026-11-20T11:09:00-03:00", nota: "Acrescentados: corridas no Gellhorn Raceway, até US$ 4.000 (MrRoflWaffles); trap house de Southside, a ficha do mapa com segurança e valor do roubo, o aviso sobre tinta explosiva nos bancos e o Donnie pagando US$ 800 a mais que o Brian (BennyCentral); operações ilegais que voltam com menos carga (JorRaptor). Link para os itens secretos do começo." }
   - { data: "2026-11-19T16:25:00-03:00", nota: "Acrescentados: assalto a loja de conveniência e operações ilegais no mapa (Thalera), passo a passo do BuckMe, cobrança Lab Fees do Brian e base dos King Fishers na ilha (KultZ), barco atacado por tubarão (Milo), banco na hora do carro-forte (CKX e Combo Infinito) e a opinião do CKX sobre porta-malas. Link para o roubo do papagaio." }
   - { data: "2026-11-19T14:44:00-03:00", nota: "Link para a página do galpão (GrandTheftIntel e RWGC Gameplays); ImBones sobre as recompensas na caixa de correio." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "DPJ mostrou o mesmo prédio com cofre e figurinha ao sul de Vice-Dale County (bolsa de US$ 4.800, fuzil); RageGamingVideos achou tubarão e carga de uns US$ 2.000 num evento a leste de Key Lento. Link para os receptadores." }
@@ -53,7 +57,7 @@ perguntas:
 
 No começo do GTA 6 o dinheiro é curto, e não existe atalho: o [código de US$ 250 mil](../codigo-dinheiro-gta-6/) só funciona depois que você zera a história. Até lá, o que mais rende é **ataque de gangue, corrida, cobrança de aluguel para o Brian e evento aleatório**. E a regra número 1: **guarde o dinheiro em casa**, porque morrer zera a carteira.
 
-Esta página junta o que já foi mostrado em gameplay e vai crescendo conforme os jogadores avançam.
+Esta página junta o que já foi mostrado em gameplay e vai crescendo conforme os jogadores avançam. Para um roteiro de esconderijos com dinheiro e armas logo no começo, veja [itens secretos do começo do GTA 6](../itens-secretos-inicio-gta-6/).
 
 ## Antes de tudo: o dinheiro do capítulo 1 zera
 
@@ -75,6 +79,9 @@ O depósito só funciona depois que a conta abre, na missão Buck Me do capítul
 | Ataque de gangue (bolsa de espólios) | US$ 2.130 | Ikoma Games |
 | Naufrágio de barco com carga | cerca de US$ 2.500 | Ikoma Games |
 | Corrida de rua (1º lugar) | US$ 1.500 a US$ 1.900 por corrida | Ikoma Games |
+| Corrida no Gellhorn Raceway (vitória) | até US$ 4.000, pagando uns US$ 500 de aluguel do carro | MrRoflWaffles |
+| Galpão vermelho, bolsa vendida no Donnie | uns US$ 10.000 (US$ 800 a mais que no Brian) | BennyCentral |
+| Trap house de Southside | mais de US$ 3.000, mais um fuzil | BennyCentral |
 | Tesouro no fundo do mar (Kenton) | até US$ 4.000 por mergulho | WiLLiSGaming, JoblessGarrett |
 | Figurinha rara vendida na loja de penhores | US$ 6.000 | LoDj1c |
 | Ilha dos cachorros | US$ 1.218 | ZoneX |
@@ -114,6 +121,8 @@ Quanto rende: o KhrazeGaming tirou uns US$ 1.000 do caixa no começo do jogo. O 
 
 ### Banco: chegue junto com o carro-forte
 
+Antes de tudo, um aviso do BennyCentral: **não roube banco nem loja de empréstimo no começo**. O dinheiro pode vir com **tinta explosiva**, e o bloqueador que resolve isso só libera mais tarde na história. Até lá, você corre o risco de perder o roubo.
+
 O CKX e o Combo Infinito dão a mesma dica: assaltar o banco na hora em que o **carro-forte** está chegando rende mais. Nenhum dos dois mostrou a diferença em números, então trate como dica de quem já jogou, não como regra.
 
 Na live do Combo Infinito, o mapa marcava esse banco com **até US$ 20.000**. Ele saiu às pressas quando a polícia chegou e depois viu que ainda tinham ficado uns **US$ 8.000** lá dentro. Se der tempo, leve tudo, e confira antes se o prédio tem saída pelos fundos.
@@ -124,7 +133,22 @@ No mapa do jogo há uma aba de **Roubos**, com a lista de **Alvos**. Ali aparece
 
 O Thalera explicou como ler essa lista. No começo, as principais são as dos **King Fishers**, em dois lugares. Quando o ponto está **amarelo**, dá para ir até lá, derrotar os bandidos e pegar o que eles deixam cair. Quando fica **cinza com um reloginho**, o grupo foi desfeito por um tempo; depois ele volta e dá para atacar de novo.
 
+O JorRaptor confirma que essas operações têm um **tempo de espera**: depois de um tempo, dá para voltar e roubar de novo, mas com **menos carga** que da primeira vez. Por isso vale fazer as primeiras cedo, para elas voltarem antes.
+
+**Leia a ficha antes de ir.** Segundo o BennyCentral, ao passar o cursor no lugar do mapa aparece uma ficha com o **nível de segurança** e o **valor do roubo**. Um armazém de segurança alta, por exemplo, rende até **US$ 6.400**. Comece pelos de segurança baixa e vá subindo. Chegando lá, use o **binóculo** para marcar os inimigos de longe antes de entrar. Ao sair, o JorRaptor recomenda olhar o ícone no mapa para ver se pegou todos os itens de valor.
+
 Uma dessas operações é a **fachada de animais exóticos** nos fundos da loja de bebidas da missão do rum da vizinha. O passo a passo está em [dinheiro do papagaio da loja de bebidas](../dinheiro-do-papagaio-loja-de-bebidas-gta-6/).
+
+### Trap house de Southside
+
+O BennyCentral indica esta como operação de **segurança média** para fazer dinheiro rápido. Fica em **Southside**, Vice City: a gangue PTT Youngs usa a casa para plantar maconha e guardar coisa roubada.
+
+1. Limpe o quintal primeiro e depois entre.
+2. Há dinheiro na mesa ao lado da máquina de contar notas, maconha no balcão da cozinha e na sala de plantio, comprimidos no quarto e joias numa mesa.
+3. Não saia sem o **relógio de luxo** que fica ao lado da pia da cozinha.
+4. No chão do quarto há um fuzil.
+
+Ele tirou mais de **US$ 3.000** em poucos minutos. O Benny não disse se precisa da edição Ultimate; ela tem um bônus parecido, o PTT Youngin$ Compound, também em Southside. Veja [bônus da edição Ultimate](../bonus-edicao-ultimate-como-pegar-gta-6/).
 
 ### Cobrar aluguel para o Brian e a caixa de correio
 
@@ -145,6 +169,8 @@ Cada corrida paga uns **US$ 1.500 a US$ 1.900** para o primeiro lugar, segundo o
 - **Quadriciclo:** mais rápido, mas mais caro e fácil de derrubar.
 - **Caminhonete:** mais barata, mas acelera pouco.
 - Uma das corridas é de **eliminação**: quem fica por último sai.
+
+**Gellhorn Raceway.** O MrRoflWaffles sugere trocar os roubos repetidos pelas corridas do autódromo, marcado com um ícone no mapa. Alugar o carro custa uns **US$ 500**, a vitória paga até **US$ 4.000** e cada corrida dura uns 5 minutos. Ainda serve de treino de direção.
 
 ### Eventos aleatórios: avião e barco com carga
 
@@ -195,6 +221,8 @@ Tudo o que você pegar de ilegal pelo mapa pode ser vendido no **depósito do Br
 ### Cofres de trailer e figurinhas raras
 
 Alguns trailers no meio do mato têm um **cofrinho**, e a senha costuma estar **escrita na parede**. Segundo o WiLLiSGaming, quase sempre tem algo bom dentro, como uma **figurinha de esporte** rara. Figurinhas valem dinheiro na loja de penhores: o LoDj1c vendeu uma por **US$ 6.000** na loja de penhores de **Hamlet**. Ele achou a figurinha num cofre de um prédio ao sul de Vice-Dale County, perto da casa do Jason, onde também havia dinheiro e carga para vender, somando uns US$ 10.000.
+
+O BennyCentral mostrou o mesmo galpão vermelho e deu uma dica para render mais: antes de vender, compare os receptadores no mapa. O trailer do **Donnie** pagava **US$ 800 a mais** que o depósito do Brian pela mesma bolsa, que saiu por uns **US$ 10.000**, fora o dinheiro solto do caminho. O pagamento chega na caixa de correio da casa.
 
 O DPJ mostrou o mesmo tipo de galpão ao sul de Vice-Dale County, perto de Hamlet, já com os ocupantes mortos no chão: **sem tiroteio**. Lá dentro ele achou uma bolsa com **US$ 4.800**, droga na traseira de um caminhão, um **fuzil Duke 5.56** e o cofre com a figurinha (gire o analógico direito para abrir). Leve um carro: as bolsas enchem rápido e você guarda o resto no porta-malas. O dinheiro vem como **dinheiro marcado**, que precisa ir a um [receptador](../onde-vender-itens-roubados-gta-6/). O GrandTheftIntel e o RWGC Gameplays foram ao mesmo galpão e passaram de US$ 9.000 só lá dentro. Veja o [passo a passo do galpão](../galpao-dinheiro-fuzil-inicio-gta-6/).
 

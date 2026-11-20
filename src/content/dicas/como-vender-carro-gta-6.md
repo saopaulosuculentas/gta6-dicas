@@ -17,9 +17,13 @@ fontes:
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:54", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Ashy", url: "https://www.youtube.com/watch?v=Z7u4Th3Qajc", titulo: "GTA 6 New UNLIMITED MONEY FARM! (Do This Now!)", minuto: "0:17", data: "2026-11-18T20:14:44-03:00" }
+  - { tipo: youtube, canal: "Typical Gamer", url: "https://www.youtube.com/watch?v=fwQa5kmCJIc", titulo: "1 Hour of GTA 6 Free Roam! Rare Cars & Planes (No Spoilers)", minuto: "38:50", data: "2026-11-20T00:37:49-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-19T18:16:00-03:00"
+atualizado_em: "2026-11-20T10:58:00-03:00"
 historico:
+  - { data: "2026-11-20T10:58:00-03:00", nota: "Pay 'n' Spray de La Perle pelo Typical Gamer: o menu tem registro e venda; um Progen Royal Ruby Emerus valia US$ 30.000 e custava US$ 29.900 para registrar. Com GTA+, carro próprio vendido na Pay 'n' Spray rende 10% a mais; carros da edição Ultimate não podem ser vendidos (GamesRadar+ e PC Gamer)." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Entrou a venda em série para o Moses perto da oficina Watkins Auto Parts, pelo Ashy: carro sem rastreador na esquina, slim jim longe dos membros de gangue, pagamento de US$ 670 e cerca de US$ 700 na conta do banco, limite de entregas e venda com a Lucia. Os valores do Ashy aparecem ao lado da faixa do PC Gamer." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Publicada confirmada: onde vender e quanto rende pelo PC Gamer; registro só no capítulo 2 pelo MrDalekJD; Pay 'n' Spray e o monster truck pelo GamingBolt; preço do registro e troca de placa pelo DPJ; pátio da polícia pelo Kotaku e pelo BennyCentral; garagem do Moses pelo GameSpot." }
 perguntas:
@@ -76,6 +80,12 @@ O guia de dinheiro do PC Gamer põe o roubo de carro entre US$ 1.000 e US$ 20.00
 
 O Ashy recebeu menos: **US$ 670** por um carro e **cerca de US$ 700** por outro, os dois carros simples pegos na esquina da oficina. O valor muda com o carro, e o Waink It mostra quanto ele vale antes de você levar.
 
+Carro raro vale bem mais. O Typical Gamer, na metade da história, achou um **Progen Royal Ruby Emerus** destrancado, sem alarme e sem rastreador numa mansão. Pelo Waink It, ele valia **US$ 30.000** na venda.
+
+### Com GTA+ a venda rende 10% a mais
+
+Segundo o GamesRadar+ e o PC Gamer, quem assina o **GTA+** recebe **10% a mais** ao vender na Pay 'n' Spray um carro que já é seu. Tem uma exceção, pelo GamesRadar+: os carros que vêm com a **edição Ultimate não podem ser vendidos**. O que mais a assinatura libera está em [o que o GTA+ libera no GTA 6](../gta-plus-gta-6-o-que-libera/).
+
 ## Ficar com o carro: o registro
 
 - **No capítulo 1 não dá.** O MrDalekJD avisa que você fica com o carro inicial. Dá para roubar carros na rua, mas eles não ficam salvos. O DPJ também acha que um carro sem registro some quando você carrega o jogo de novo.
@@ -84,6 +94,12 @@ O Ashy recebeu menos: **US$ 670** por um carro e **cerca de US$ 700** por outro,
 - **Onde registrar:** numa **Pay 'n' Spray**, segundo o PC Gamer e o GamingBolt. O DPJ levou o carro dele até o Moses e registrou lá.
 - **Quanto custa:** o Waink It mostra o preço de cada carro. O DPJ pagou **cerca de US$ 6.750** para registrar um carro raro, e o registro **trocou a placa** do carro.
 - **Nem tudo passa:** o GamingBolt achou um **monster truck** que não coube na Pay 'n' Spray e não pôde ser registrado.
+
+### O menu da Pay 'n' Spray de La Perle
+
+O Typical Gamer levou o Emerus à **Pay 'n' Spray de La Perle**. A mesma oficina faz tudo: **Repair** (conserto), **Respray** (pintura, US$ 200 no vermelho), **Register** e **Sell**. Ou seja, ela registra e também compra o carro. Uma segunda aba, **Stored Vehicles**, mostra os carros que você já guardou.
+
+O registro do Emerus custava **US$ 29.900**, quase o valor de venda, e o preço bateu com o que o Waink It mostrou na rua. O jogo descreve o registro como trocar as placas e passar o carro para o seu nome. Ele não conseguiu pagar: tinha US$ 25.392 no banco e US$ 9.671 na mão. No quadro, o preço do registro aparece só com o ícone do banco BuckMe, então parece que ele sai só do saldo do banco. Nenhuma fonte testou isso ainda.
 
 Fica uma dúvida sobre rastreador. O MrDalekJD diz que dá para registrar os carros que **não têm rastreador**. Já o PC Gamer diz que o rastreador comum só impede de mexer no carro na oficina até você registrar. Na dúvida, escolha um carro sem rastreador para ficar.
 

@@ -16,8 +16,9 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/", titulo: "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'", data: "2026-11-20T09:26:52-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6/", titulo: "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6", data: "2026-11-19T14:07:18-03:00" }
 descoberto_em: "2026-11-19T16:58:00-03:00"
-atualizado_em: "2026-11-20T10:23:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "In the Mandy section, linked the page that answers whether you can romance her." }
   - { data: "2026-11-20T10:23:00-03:00", nota: "Added Mandy's actress (Lexie Shoaibi, via PC Gamer), more names from the expanded GamesRadar+ list after the credits went back up on Rockstar's site, and Weird Al's role on Vice City FM." }
   - { data: "2026-11-19T16:58:00-03:00", nota: "Published as confirmed: cast taken from the Main Cast section of Rockstar's official credits and checked against the GamesRadar+ list. Names that only appeared in rumors were left out." }
 perguntas:
@@ -119,7 +120,7 @@ The full credits went back up on Rockstar's site on November 20, and GamesRadar+
 
 Mandy, Jason's ex who rents one of Brian's houses and is behind on what she owes him, is played by **Lexie Shoaibi**. According to PC Gamer, she revealed the role on Instagram after launch, saying she provides both Mandy's voice and her motion capture, and asked fans to tell her if they spot her in the game.
 
-You meet Mandy early in the story, and she has quickly become one of the most talked-about characters. See [Mandy's house and the rent mission](../gta-6-mandy-house-rent-mission/).
+You meet Mandy early in the story, and she has quickly become one of the most talked-about characters. See [Mandy's house and the rent mission](../gta-6-mandy-house-rent-mission/). If you're wondering whether Jason can get together with her, that's answered in [can you cheat on Lucia or romance Mandy?](../gta-6-cheat-on-lucia-romance-mandy/).
 
 ## Famous faces in the credits
 

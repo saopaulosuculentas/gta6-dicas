@@ -15,9 +15,11 @@ fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://support.rockstargames.com/articles/28kSeQ3zMV0PtXdGOoD8Jo/grand-theft-auto-vi-error-troubleshooting", titulo: "Grand Theft Auto VI Error Troubleshooting", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: oficial, canal: "Rockstar Games", url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions", titulo: "Grand Theft Auto VI Platforms, Editions, and Versions", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "Digital Foundry", url: "https://www.youtube.com/watch?v=F3lxGD8HX2k", titulo: "Grand Theft Auto 6 - Xbox Series X|S Versions Finally Revealed - DF Tech Review", minuto: "10:49", data: "2026-11-18T10:36:39-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/", titulo: 'PS5 error CE-108255-1 is ruining GTA 6 for some players, and Rockstar and Sony aren''t very helpful: "Try updating your game"', data: "2026-11-19T18:35:00-03:00" }
 descoberto_em: "2026-11-19T16:55:00-03:00"
-atualizado_em: "2026-11-19T16:55:00-03:00"
+atualizado_em: "2026-11-20T10:48:00-03:00"
 historico:
+  - { data: "2026-11-20T10:48:00-03:00", nota: "Added the PS5 error CE-108255-1, which crashes the game after early story scenes and survives the usual fixes, per GamesRadar+. Linked to the error page." }
   - { data: "2026-11-19T16:55:00-03:00", nota: "Published as confirmed: steps from PlayStation's GTA VI support pages, Xbox Support and Rockstar Support." }
 perguntas:
   - { p: "What do I do if GTA 6 won't launch on PS5?", r: "Make sure you're on the account that bought it, then go to Settings > Users and Accounts > Other > Restore Licenses. If the download failed, delete it and download again from your Game Library." }
@@ -67,6 +69,17 @@ The boxed version of GTA 6 only has a download code inside. Rockstar says **PS5 
 ## You got an error code
 
 Rockstar's support page sends you to Sony's PS5 error code search and Microsoft's Xbox error code search. Type in the exact code on your screen to get the matching fix.
+
+### PS5: error CE-108255-1
+
+A number of PS5 players are hitting this one. GamesRadar+ found more than a dozen Reddit threads about it, and here's what they describe:
+
+- the game crashes **after specific story scenes early on**, then crashes again at the same point, so you're stuck;
+- it shows up on base PS5 consoles as well as Digital and Slim models;
+- **clearing the cache, rebuilding the database, reinstalling and restoring licenses didn't help** anyone in those reports;
+- Sony's page for the code only says to **update the game**, then contact PlayStation Repairs if that fails. As of November 19 there was no GTA 6 patch to download.
+
+The article itself spells the code two ways (CE-108255-1 in the headline, CE-108225-1 in the body), so check the exact number on your screen before you search. What we know so far is on our [CE-108255-1 error page](../gta-6-ce-108255-1-error/).
 
 ## Frame drops aren't a bug
 

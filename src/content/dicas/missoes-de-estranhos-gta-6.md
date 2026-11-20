@@ -23,9 +23,11 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "0:36", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "32:19", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "1:44", data: "2026-11-18T23:01:21-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "4:46", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T16:56:00-03:00"
-atualizado_em: "2026-11-19T16:56:00-03:00"
+atualizado_em: "2026-11-20T11:10:00-03:00"
 historico:
+  - { data: "2026-11-20T11:10:00-03:00", nota: "Novo encontro na rua: Jimmy, o bêbado de quepe de capitão que tenta assaltar você com o arpão Bullhead; dá para pegar o arpão e o quepe (BennyCentral)." }
   - { data: "2026-11-19T16:56:00-03:00", nota: "Publicada confirmada: troféu das 8 linhas pelo GamesRadar+ e pelo PC Gamer; missões já achadas reunidas a partir de Arekkz, OutlawGarry, RageGamingVideos, MrDalekJD, JFM, WiLLiSGaming, MrBossFTW, KhrazeGaming, Thalera e Kotaku. Lista incompleta." }
 perguntas:
   - { p: "Quantas missões de estranhos tem o GTA 6?", r: "O troféu Strangers & Freaks pede 8 linhas de missões de estranhos. Se existem mais que 8, ainda não se sabe, porque a lista completa não foi publicada." }
@@ -71,6 +73,7 @@ Estes aparecem do nada no mapa. Não se sabe se contam para o troféu.
 - **D-Bag, o marombeiro:** na **Shore Drive**, em frente ao **Hotel Dixon**, ele aposta **US$ 1.000** que você não faz ele bater num mata-leão. O MrBossFTW chama de encontro com estranho. Veja o [desafio do marombeiro](../desafio-do-marombeiro-1000-dolares-gta-6/).
 - **Todd e o sniper:** a oeste da rodovia que vai para Hamlet, perto de Grassrivers, você ouve um tiro. São dois caçadores, um deles o **Todd**, com um sniper caído no chão. Leve os dois ao hospital e um deles **dá o rifle** para você, segundo o KhrazeGaming. Mais em [armas únicas](../armas-unicas-onde-achar-gta-6/).
 - **O homem que perdeu a esposa:** um homem parado com o carro no meio do nada pede ajuda para achar a mulher, que sumiu depois de uma noite de festa. O Kotaku e o Thalera citam o mesmo encontro. Segundo o Thalera, esses pedidos rendem um dinheirinho a mais.
+- **Jimmy, o bêbado do arpão:** segundo o BennyCentral, num ponto que ele mostra no mapa (o nome do lugar não ficou claro na fala), um bêbado chamado **Jimmy**, de **quepe de capitão** e com um arpão **Bullhead**, tenta assaltar você. Não brigue logo de cara. Siga o Jimmy até a **piscina** e, enquanto ele se distrai, pegue o arpão, que é ótimo para mergulhar. Se quiser o quepe também, derrube o Jimmy e pegue do chão. São dois itens de graça no mesmo encontro.
 
 ## Outras sequências na lista de troféus
 

@@ -13,9 +13,12 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "0:37", data: "2026-11-19T20:37:45-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "11:00", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "SubscribeForTacos", url: "https://www.youtube.com/watch?v=UOOoHDzfhWk", titulo: "I Found Paul Walker’s Secret Car in GTA 6… (Tribute Location)", minuto: "4:05", data: "2026-11-19T19:29:03-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "16:25", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-20T10:33:00-03:00"
-atualizado_em: "2026-11-20T10:33:00-03:00"
+atualizado_em: "2026-11-20T11:05:00-03:00"
 historico:
+  - { data: "2026-11-20T11:05:00-03:00", nota: "SubscribeForTacos used auto drive before finishing Chapter 1, holding circle in the cinematic camera, and showed the 3 speeds. BennyCentral: the same D-pad down menu lists nearby missions and shops in slow motion, and picking one sets your GPS." }
   - { data: "2026-11-20T10:33:00-03:00", nota: "Published as confirmed: JuiceHead and Milo both turned on Auto Drive from the cinematic camera. The Auto Drive setting text and the 3 speeds were checked in JuiceHead's frames." }
 perguntas:
   - { p: "How do you turn on auto drive in GTA 6?", r: "Set a destination on the map, then hold down on the D-pad while driving. Pick the cinematic camera and press circle (B on Xbox) when Enable Auto Drive appears." }
@@ -26,7 +29,9 @@ perguntas:
 
 GTA 6 has a built-in auto drive. Set a destination on the map, hold **down on the D-pad** while you drive and pick the **cinematic camera**. An **Enable Auto Drive** prompt then appears: press **circle** on PS5 (**B** on Xbox) and your character drives to the marker without you touching the sticks. It works in cars and boats.
 
-Two channels showed it working: JuiceHead on Xbox and Milo on PS5.
+JuiceHead on Xbox and Milo on PS5 showed it working first, and SubscribeForTacos and BennyCentral have used it since.
+
+**It unlocks early.** SubscribeForTacos turned on auto drive on a save that hadn't even finished Chapter 1, so you don't need to push through the story to get it.
 
 ## Step by step
 
@@ -37,13 +42,21 @@ Two channels showed it working: JuiceHead on Xbox and Milo on PS5.
 5. **Enable Auto Drive** shows up in the bottom corner. Press **circle** (B on Xbox).
 6. The vehicle now drives itself. Press the same button, now labeled **Disable Auto Drive**, to take the wheel back. To leave the cinematic camera, the game tells you to **hold the D-pad**.
 
-To find and mark places without opening the full map, see [how the map index works](../gta-6-index-find-missions/).
+For step 5, JuiceHead and Milo press the button once. SubscribeForTacos **held circle** instead and it worked just as well. BennyCentral simply taps circle (B on Xbox) after holding down on the D-pad.
+
+### The same menu picks your destination
+
+Holding down on the D-pad does a second job, BennyCentral explains. It brings up a **quick view of what's nearby**, missions and shops included, and slows time down while you choose. Pick one and your GPS is set, no big map needed. You can do that and then switch auto drive on straight away.
+
+For more ways to find and mark places, see [how the map index works](../gta-6-index-find-missions/).
 
 ## Three speeds
 
 While it is on, the corner of the screen shows **Speed 1/2/3**. On JuiceHead's Xbox, LT and RT move between them; on PS5 that is L2 and R2.
 
-Even at the top speed, the car **follows traffic laws**. It stops at lights and waits its turn, so trips take longer than driving yourself. JuiceHead's trick is to switch it off, pass the slow car ahead, then switch it back on without stopping.
+SubscribeForTacos shows speeds 1, 2 and 3 as well, and put it on 3 to sit back for the ride.
+
+Even at the top speed, the car **follows traffic laws**. It stops at lights and waits its turn, so trips take longer than driving yourself. SubscribeForTacos gives the same warning: you'll be stuck at red lights, so drive yourself if you're in a hurry. JuiceHead's trick is to switch it off, pass the slow car ahead, then switch it back on without stopping.
 
 When you arrive, JuiceHead says the game **parks the car in a parking spot** for you.
 

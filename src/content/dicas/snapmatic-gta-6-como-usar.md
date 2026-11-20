@@ -8,12 +8,17 @@ plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "snapmatic-gta-6-como-usar/foto-do-aviao.webp", legenda: "A foto do avião no Snapmatic: a pessoa machucou o braço e procura um piloto.", canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", minuto: "19:15" }
   - { arquivo: "snapmatic-gta-6-como-usar/opcoes-da-foto.webp", legenda: "As opções da foto com o destino já marcado (Remover destino) e o ponto de interrogação no minimapa.", canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", minuto: "19:18" }
+  - { arquivo: "snapmatic-gta-6-como-usar/photo-studio-camera.webp", legenda: "A aba Câmera do Photo Studio no Xbox, com os botões no canto direito: zoom, mover, ângulo, esconder a interface e salvar a foto.", canal: "TheNewbs", url: "https://www.youtube.com/watch?v=XrNnEmnq4Zw", minuto: "1:22" }
 fontes:
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "18:55", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=o0SPFLsPQS8", titulo: "TESTANDO O NOVO CELULAR DO GTA 6! APP SECRETO PRA ROUBAR CARROS, WHATSAPP E REDE SOCIAL!", minuto: "2:10", data: "2026-11-19T12:23:05-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-photo-mode-photo-studio/", titulo: "How To Use Photo Mode In GTA 6", data: "2026-11-19T14:50:00-03:00" }
+  - { tipo: youtube, canal: "TheNewbs", url: "https://www.youtube.com/watch?v=XrNnEmnq4Zw", titulo: "How to use Photo Studio! GTA VI", minuto: "0:16", data: "2026-11-18T11:20:19-03:00" }
+  - { tipo: youtube, canal: "The Breakdown", url: "https://www.youtube.com/watch?v=faFUDKEAua4", titulo: "How to Use Photo Mode in GTA 6", minuto: "0:16", data: "2026-11-19T18:00:23-03:00" }
 descoberto_em: "2026-11-19T16:21:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Nova seção sobre o Photo Studio, o modo foto do jogo: como abrir, botões, abas e onde a foto fica salva (GameSpot, TheNewbs e The Breakdown). Na câmera do celular, a pose do parceiro também muda, segundo o GameSpot." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Confirmada: o BelotoPlays também achou a opção Definir destino numa foto de bar, ao lado de Seguir. Nova seção sobre a câmera do celular: selfie no R3, luz, poses, expressões, filtros, zoom, foto no R2 e galeria (BelotoPlays)." }
   - { data: "2026-11-19T16:21:00-03:00", nota: "Publicada em verificação: só o Thalera mostrou o Definir destino do Snapmatic. Botões e opções conferidos nos quadros do vídeo." }
 perguntas:
@@ -67,6 +72,42 @@ O Snapmatic é onde aparecem as fotos dos outros. Para tirar as suas, use o app 
 - **Foto:** aperte **R2** para bater.
 
 As fotos ficam na **galeria**. Lá você passa de uma foto para outra, edita e apaga pelas opções. A galeria também guarda fotos tiradas durante a história, como a de uma pescaria que já estava lá no vídeo dele.
+
+Se o parceiro estiver junto (a Lucia quando você joga com o Jason, ou o contrário), dá para mudar a pose dele também, segundo o GameSpot.
+
+## Modo foto: o Photo Studio
+
+Para fotos mais caprichadas, o jogo tem um modo foto de verdade, chamado **Photo Studio**. Ele congela a cena no momento em que você pausa, então dá para montar a foto no meio de uma fuga ou de um tiroteio. O TheNewbs pausou bem quando chegava reforço da polícia e fez a foto ali mesmo.
+
+**Como abrir:** pause o jogo e escolha **Photo Studio** no menu, ou aperte **quadrado** (X no Xbox) com a pausa aberta. Segundo o GameSpot, ele já está liberado no começo da história e também funciona durante as cenas, mas com menos opções.
+
+### Botões
+
+Os comandos ficam no canto de baixo, à direita da tela:
+
+| O que faz | PS5 | Xbox |
+|---|---|---|
+| Mover a câmera | Analógico esquerdo | Analógico esquerdo |
+| Mudar o ângulo | Analógico direito | Analógico direito |
+| Zoom | L2 e R2 | LT e RT |
+| Trocar de aba | L1 e R1 | LB e RB |
+| Esconder os menus | Triângulo | Y |
+| Salvar a foto | Segurar X | Segurar A |
+| Sair | Círculo | B |
+
+Para salvar, **segure** o botão: só apertar não grava nada. E salve antes de sair, porque sair sem salvar joga fora todo o ajuste, como avisa o TheNewbs. Esconder os menus antes deixa ver a foto inteira.
+
+### As abas
+
+- **Câmera:** velocidade da câmera, grade para enquadrar, giro, proporção da imagem, campo de visão, profundidade de campo (o desfoque), abertura e distância do foco. Também tem a opção de deixar o personagem **invisível**. O The Breakdown passou pelas **8 proporções**, entre elas 16:9, 2.35:1, 1:1 e a vertical 9:16, boa para vídeo curto.
+- **Efeitos:** exposição, contraste, sombras, saturação, tonalidade, brilho (bloom) e aberração cromática.
+- **Iluminação:** você cria luzes em até **5 espaços**, com modelos prontos como luz de palco e flash de câmera. Cada luz tem força, alcance e ângulo próprios, e dá para desligar para comparar.
+- **Veículo:** liga e desliga as luzes do carro, como farol e luz de freio. O GameSpot lista essa aba e o The Breakdown mexeu nos faróis; o TheNewbs, que estava a pé, só falou de 4 abas.
+- **Sobreposição:** liga ou desliga os efeitos do jogo e põe vinheta, isolamento de cor e filtro. O GameSpot destaca três filtros: **Cartoon Universe** (um leve ar de desenho), **Found Footage** (imagem granulada e com falhas, como nos filmes montados com gravações caseiras) e **Pixel Art** (visual de 8 bits).
+
+### Onde a foto fica salva
+
+A foto vira uma **captura de tela do console**. No Xbox, abra o menu do console e vá em capturas; no PS5 ela também cai nas capturas. O TheNewbs não achou jeito de ver essas fotos dentro do jogo, pelo menos no Xbox.
 
 ## Vale abrir sempre
 

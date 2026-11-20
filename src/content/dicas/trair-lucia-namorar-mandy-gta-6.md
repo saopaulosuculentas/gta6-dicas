@@ -12,9 +12,11 @@ fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/can-you-romance-mandy-in-gta-6/", titulo: "Can You Romance Mandy In GTA 6?", data: "2026-11-18T19:09:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story/", titulo: "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story", data: "2026-11-19T10:44:00-03:00" }
   - { tipo: youtube, canal: "Apex Films", url: "https://www.youtube.com/watch?v=kB5MeJWLH_U", titulo: "Can You Romance Mandy in GTA 6? (And the Creepy Secret Inside Her Sink)", minuto: "0:51", data: "2026-11-19T15:00:30-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/", titulo: "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'", data: "2026-11-20T09:26:00-03:00" }
 descoberto_em: "2026-11-20T10:47:00-03:00"
-atualizado_em: "2026-11-20T10:47:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Seção da pia: entrou a versão do PC Gamer (o objeto parece um dedo e a Mandy o toma do Jason), ao lado do GameSpot e do Apex Films." }
   - { data: "2026-11-20T10:47:00-03:00", nota: "Publicada confirmada: sem romance com a Mandy pelo GameSpot; a posição da Rockstar pelo PC Gamer; a cena da pia e a volta à casa dela aparecem no vídeo do Apex Films." }
 perguntas:
   - { p: "Dá para trair a Lucia no GTA 6?", r: "Não. O jogo não tem nenhuma opção de o Jason ficar com outra pessoa. A Rockstar disse que isso não combina com a história do casal." }
@@ -55,6 +57,12 @@ Muita gente procura a "cena da pia" da missão Pipework. O vídeo do Apex Films 
 2. Ele entra embaixo da pia e usa a **chave inglesa** para soltar o cano. Nesse trecho do vídeo, o aviso de usar a chave aparece no **RT**, do controle do Xbox. Os botões do PS5 estão na página da Mandy.
 3. Do cano sai um **objeto pequeno, todo coberto de sujeira**. O Jason segura perto do rosto e faz cara de nojo.
 
-A cena é rápida e o objeto está tão sujo que **não dá para saber o que é**. O GameSpot só chama de um item curioso que entupia o cano. Ninguém confirmou ainda o que ele é, então desconfie de quem afirma com certeza.
+A cena é rápida e o objeto está muito sujo. As fontes não concordam sobre o que ele é:
+
+- **PC Gamer:** parece um **dedo**, e a Mandy toma o objeto da mão do Jason logo em seguida e sai com ele. A matéria conta que isso fez muita gente desconfiar da Mandy.
+- **GameSpot:** só chama de um item curioso que entupia o cano.
+- **Apex Films:** no trecho do vídeo, o objeto aparece coberto de sujeira e não dá para identificar.
+
+A Rockstar não explicou a cena. Por enquanto, o "dedo" é a leitura do PC Gamer, não uma confirmação do jogo.
 
 O mesmo vídeo passeia pelo quintal e pelo carro verde da Mandy atrás de mais pistas, mas não mostra nada conclusivo. Para ver a missão inteira, com os botões, veja o [detonado do capítulo 1](../detonado-capitulo-1-gta-6/).

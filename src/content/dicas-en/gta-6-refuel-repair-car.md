@@ -13,9 +13,12 @@ fontes:
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "5:13", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "Camodo Gaming", url: "https://www.youtube.com/watch?v=LRki5tWfQt4", titulo: "GTA 6 Has the Most INSANE RARE Cars to Steal!", minuto: "2:00", data: "2026-11-19T16:05:04-03:00" }
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "3:58", data: "2026-11-18T22:00:14-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "4:32", data: "2026-11-19T19:17:00-03:00" }
+  - { tipo: youtube, canal: "Hazard", url: "https://www.youtube.com/watch?v=MlYcEVKCuCc", titulo: "10 Things You NEED to Unlock ASAP in GTA 6! (Money, Weapons & Upgrades)", minuto: "2:00", data: "2026-11-19T18:36:00-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:02:00-03:00"
 historico:
+  - { data: "2026-11-20T11:02:00-03:00", nota: "Added the free repair from saving and reloading: you wake up at home with the car fixed outside, stolen guns gone and drugs left in the trunk (JorRaptor). Per Hazard, before the BuckMe account, gas stations and Pay 'n' Spray won't take cash for repairs; other channels paid at the pump without trouble." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Confirmed: MrBossFTW, Camodo Gaming and StevieWunderKid show gas stations, charging and paid repairs in their videos. Added the condition and fuel meters on D-pad down, plus Pay 'n' Spray and mod shops as other repair spots (MrBossFTW)." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Published as unverified: step by step from PC Gamer. The refuel and repair prompt shows up in a frame from Mr Lawrence's video." }
 perguntas:
@@ -76,5 +79,22 @@ The price **scales with the damage**. It's worth paying to protect a car you've 
 ## Other places to repair
 
 According to MrBossFTW, the gas pump isn't your only option: **Pay 'n' Spray** and **mod shops** fix cars too. All of them charge, so in your first few hours, when cash is tight, he suggests driving carefully to keep the car in one piece. Camodo Gaming limped a wrecked car over to Coastal Auto Care, Joey's shop, to get it fixed.
+
+## Free repairs: save and reload
+
+JorRaptor has a way to skip the repair bill. Save your game, then load that same save straight away. Most of the time you spawn **at home** with your bank balance untouched and a **fully repaired car parked outside**, at no cost.
+
+There's a trade-off:
+
+- **Stolen guns are gone.** Any stolen firearms you were carrying don't come back with you.
+- **Drugs stay.** Whatever narcotics you were carrying turn up in the car's **trunk**.
+
+He also suggests carrying just enough cash for gas and body armor and leaving the rest in your stash or the bank, since you lose whatever's on you if you die or get busted. Opening the account is covered in [how the bank and ATMs work](../gta-6-bank-atm-deposit/).
+
+## Before you have a BuckMe account
+
+According to Hazard, early in Chapter 1, before you open your **BuckMe** account, you can't pay for repairs at a gas station or a Pay 'n' Spray at all. In his experience those shops only take bank transfers, so the cash in your floorboard stash is useless there, while gas and groceries can still be paid in cash. His car got so mangled he was more or less driving on three wheels.
+
+That's one channel's account. The other channels on this page paid for repairs at the pump without running into it. If a station turns down your money early on, open the BuckMe account first: Hazard says it unlocks with the mission Buck Me, right after Lucia's party.
 
 For other car tricks, like shoving a car that ran dry, see [GTA 6 hidden features](../gta-6-hidden-features/). To keep a car you stole, read [how to steal cars](../gta-6-how-to-steal-cars/), and to park your own, check the [garage locations and prices](../gta-6-garage-locations-prices/).

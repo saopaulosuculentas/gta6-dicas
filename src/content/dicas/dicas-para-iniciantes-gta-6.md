@@ -19,9 +19,12 @@ fontes:
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "2:37", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "1:14", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "CKX", url: "https://www.youtube.com/watch?v=UFtyqEn1Nzg", titulo: "DICAS PARA INICIANTES NO GTA 6  | Dicas, truques e mais", minuto: "6:42", data: "2026-11-18T18:18:15-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "23:10", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: youtube, canal: "MrRoflWaffles", url: "https://www.youtube.com/watch?v=cZVMq2dc9Ag", titulo: "GTA 6 Wish I Knew Sooner: ESSENTIAL Tips Tricks Secrets (EASY MONEY, Steal Tanks, Jets & More!)", minuto: "0:48", data: "2026-11-20T02:40:14-03:00" }
 descoberto_em: "2026-11-19T09:22:00-03:00"
-atualizado_em: "2026-11-19T16:16:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Novo: aba Exploração do mapa com favores e atividades fáceis de perder, binóculo para marcar inimigos antes de invadir (BennyCentral) e o helicóptero ao sul de Hamlet para tirar a névoa do mapa (MrRoflWaffles). Links para as páginas do colete e dos itens secretos do começo." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: saquear corpos depois do tiroteio (MrDalekJD), os 5 recados opcionais da Lucia (KultZ), as 5 obras da casa (Arekkz), escolher a hora de acordar (Thalera e MrDalekJD), carro da Ultimate na oficina (Arekkz e Thalera) e o que a história libera segundo mais quatro canais. BennyCentral prefere a velocidade de trote; a página mostra as duas opções." }
   - { data: "2026-11-19T14:50:00-03:00", nota: "Thalera: consertar a casa inteira antes de buscar a Lucia dá um aumento grande no relacionamento." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Guia publicado a partir das dicas do DPJ, do WiLLiSGaming e do Ikoma Games. Guardar dinheiro em casa aparece nos três." }
@@ -64,6 +67,16 @@ Mais sobre os botões em [controles do GTA 6](../controles-gta-6-o-que-mudou/) e
 
 12. **Missões pendentes ficam no celular.** O jogo não tem um diário confiável. Aperte o direcional para cima: as mensagens dos personagens mostram os trabalhos sugeridos e os que você já fez, e lembram de dinheiro esperando por você.
 13. **Apps que valem conhecer:** Waink It (escaneia carros), Snapmatic (a rede social do jogo, com câmera e galeria), clima, contatos e o app de fitness, que mostra treino e foco. Veja [como ficar musculoso](../como-ficar-musculoso-gta-6/). Os comandos que o jogo não explica (desvirar carro, sentar, rádio a pé, viagem rápida de RydeMe) estão em [recursos escondidos](../recursos-escondidos-gta-6/), e o jeito de achar missões e lojas no mapa está no [índice do mapa](../indice-do-mapa-como-achar-missoes-gta-6/).
+
+## Explore o mapa com método
+
+- **Aba Exploração.** Abra o mapa e veja a aba **Exploração**. Segundo o BennyCentral, ela lista os **favores para os vizinhos** e outras atividades paralelas que passam batido. A maior parte do mapa começa coberta de névoa, e ela só some quando você passa por cada região.
+- **Helicóptero para limpar a névoa.** O MrRoflWaffles mostra um helicóptero parado num ponto **logo ao sul de Hamlet**. Voando com ele, você limpa muita névoa de uma vez. Para ele, o helicóptero aparece com mais frequência no fim da tarde, entre **16h e 17h** do jogo.
+- **Binóculo antes de invadir.** Antes de entrar num lugar com inimigos, pegue o **binóculo** e marque cada um de longe, recomenda o BennyCentral. Assim você sabe onde está todo mundo antes de agir.
+
+## Equipamento grátis no começo
+
+Dá para sair bem armado sem gastar quase nada. Logo no começo existem snipers, um lança-foguetes, armas únicas e bolsas de dinheiro escondidas; a ordem para buscar está em [itens secretos do começo do GTA 6](../itens-secretos-inicio-gta-6/). E antes de qualquer tiroteio, vista um colete: onde comprar, como equipar e onde achar de graça estão em [como pegar colete no GTA 6](../como-pegar-colete-gta-6/).
 
 ## Polícia
 

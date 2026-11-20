@@ -15,15 +15,17 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=8xUEwCgqFMs", titulo: "GTA 6 - The First 10 Things You Should Do! (Free Weapons, Money & Upgrades)", minuto: "7:35", data: "2026-11-19T13:00:22-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=Dwe1TB8Y5A0", titulo: "GTA 6 - 15 Tips For The PERFECT Start!", minuto: "7:59", data: "2026-11-19T09:16:55-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "5:44", data: "2026-11-18T17:35:43-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "7:08", data: "2026-11-19T21:00:01-03:00" }
 descoberto_em: "2026-11-18T18:17:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-20T11:09:00-03:00"
 historico:
+  - { data: "2026-11-20T11:09:00-03:00", nota: "RageGaming viu o avião soltando fumaça da ponte principal que sai dos Keys para o norte: é o quarto canal que viu a queda a partir de uma ponte. No local havia cocaína; cerca de um minuto depois chegaram os Kingfishers e, em seguida, a polícia. Ele também viu um barco explodir no mar com cocaína em volta." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "BennyCentral, Arekkz Gaming e KhrazeGaming também viram o avião cair. Entrou onde ele costuma cair (ponte no caminho de Key Lento para Hamlet, depois de conhecer a Mandy, segundo o Arekkz), a fumaça como guia, a explosão do avião e o Brian pagando pouco pela carga." }
   - { data: "2026-11-19T08:30:00-03:00", nota: "Confirmado: o Ikoma Games também chegou ao local de um avião caído, com sobrevivente, carga e armas. Acrescentado o naufrágio de barco." }
   - { data: "2026-11-18T18:17:00-03:00", nota: "Publicada em verificação: o SanInPlay mostrou o local do acidente de perto e o Gigaton Games viu uma queda de longe." }
 perguntas:
   - { p: "Avião cai sozinho no GTA 6?", r: "Sim. Seis canais viram aviões caírem durante o jogo livre, sem fazer parte de missão. Por isso é tratado como evento aleatório." }
-  - { p: "Onde o avião cai no GTA 6?", r: "Três canais viram a queda logo depois de atravessar uma ponte. O KhrazeGaming estava indo de Key Lento para Hamlet, e o avião caiu nos pântanos de Grassrivers. O Arekkz Gaming diz que o evento aparece depois que você conhece a Mandy na história." }
+  - { p: "Onde o avião cai no GTA 6?", r: "Quatro canais viram a queda a partir de uma ponte. O KhrazeGaming estava indo de Key Lento para Hamlet, e o avião caiu nos pântanos de Grassrivers; o RageGaming estava na ponte principal que sai dos Keys para o norte. O Arekkz Gaming diz que o evento aparece depois que você conhece a Mandy na história." }
   - { p: "O que tem no avião que cai no GTA 6?", r: "No vídeo do SanInPlay havia um sobrevivente ferido nos destroços e carga ilegal. Ele também achou um revólver no local. A carga pode ser vendida no depósito do Brian." }
 ---
 
@@ -39,13 +41,14 @@ Se vir a fumaça, vá até lá. O local do acidente fica cheio de fogo e destro�
 
 ## Onde costuma cair
 
-Três canais viram a queda logo depois de atravessar uma **ponte**:
+Quatro canais viram a queda a partir de uma **ponte**:
 
 - **Arekkz Gaming:** depois de avançar na história e conhecer a **Mandy**, atravesse a ponte que ele marca no mapa. Um avião pequeno cai no pântano ali perto.
 - **KhrazeGaming:** indo de **Key Lento para o norte, rumo a Hamlet**, ao chegar à ponte da rodovia. O avião caiu em **Grassrivers**.
+- **RageGaming:** dirigindo pela **ponte principal que sai dos Keys para o norte**, ele viu um avião soltando fumaça no céu e, depois, uma explosão ao longe. Seguiu a nuvem de fumaça até os destroços.
 - **Ikoma Games:** perto de casa, logo depois de atravessar uma ponte de bicicleta.
 
-Pode ser que exista um ponto fixo perto dessa ponte que dispara o evento, mas ainda não dá para ter certeza. O BennyCentral não disse onde estava quando viu o dele.
+O relato do RageGaming bate com o do KhrazeGaming: os dois estavam saindo dos Keys para o norte. Pode ser que exista um ponto fixo perto dessa ponte que dispara o evento, mas ainda não dá para ter certeza. O BennyCentral não disse onde estava quando viu o dele.
 
 ## O que tem no local
 
@@ -73,6 +76,8 @@ O Ikoma Games viu um avião cair perto de casa e chegou bem perto:
 
 Os outros canais contam o mesmo. O Arekkz Gaming achou objetos de valor para vender e avisa que inimigos aparecem se você demorar. O KhrazeGaming diz que o avião acaba **explodindo** de vez, então junte os pacotes rápido antes de os inimigos chegarem.
 
+O RageGaming mostra quanto tempo você tem. No local havia **cocaína** no chão para pegar e vender. Cerca de **um minuto** depois, chegaram os **Kingfishers**, que não gostaram nada de ver alguém ali antes deles, e ele teve que enfrentar o grupo. Depois que ele resolveu a briga, veio a **polícia**. Pegue a carga logo e saia antes do segundo grupo chegar.
+
 O evento **não aparece no mapa**. Você só percebe pela fumaça ou pelo barulho.
 
 ## Onde vender a carga
@@ -83,9 +88,11 @@ O KhrazeGaming levou a carga ao **depósito do Brian**, o único receptador do c
 
 O mesmo acontece no mar. Andando de barco perto de uma ilha, o Ikoma Games achou um barco naufragado cheio de pacotes e juntou uns **US$ 2.500**. Mas um tubarão apareceu enquanto ele nadava. Vá armado e fique pouco tempo na água.
 
+O RageGaming viu outra versão: navegando, ele viu um barco **explodir** e havia cocaína boiando em volta, de graça para quem chegasse primeiro.
+
 ## O que ainda falta confirmar
 
 - Se o avião cai em outros lugares além da ponte no caminho de Key Lento para Hamlet.
 - Se há recompensa por salvar o sobrevivente.
 
-Com BennyCentral, Arekkz Gaming e KhrazeGaming, já são seis canais mostrando o evento.
+Com BennyCentral, Arekkz Gaming, KhrazeGaming e RageGaming, já são sete canais mostrando o evento.

@@ -18,9 +18,11 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "6:41", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:05", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "Garrett Lindsay", url: "https://www.youtube.com/watch?v=NSW62zhBv6Y", titulo: "How to Get Scuba Gear in GTA 6 (Location & Diving Guide)", minuto: "0:46", data: "2026-11-19T07:36:29-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "2:19", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T18:16:00-03:00"
+atualizado_em: "2026-11-20T11:08:00-03:00"
 historico:
+  - { data: "2026-11-20T11:08:00-03:00", nota: "Added BennyCentral's new video: where each of the 12 treasures sits in the two wrecks near Key Lento ($2,400 for the lot from Kenton), the 99 gold doubloons across Leonida, the doubloons under the Bobcat Key dome houses and the tip to search near waterside landmarks." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Added Garrett Lindsay's underwater controls and HUD: DIVE R1 to go down, SURFACE X to come up, the oxygen bar in the top-left corner and the flashlight on the scuba gear. The pier where he found the gear is left out because the location wasn't readable." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Added the mission Island Dreams and its $400 payout (KultZ, GameSpot), the Arras Bullhead speargun, how to follow the detector, GameSpot's list of 6 wrecks, NoobBlox's 7 treasures at Nuestra Señora de la Noche, KhrazeGaming's per-treasure and per-coin prices and the autopilot button." }
   - { data: "2026-11-19T11:56:00-03:00", nota: "Third source (RageGamingVideos): the first wreck paid about $1,400, Kenton hands you a scuba suit for your own boat, and a shark plus cargo random event east of Key Lento." }
@@ -71,6 +73,40 @@ BennyCentral says the detector takes a little getting used to, but once you've g
 
 - NoobBlox found all **7 treasures** at **Nuestra Señora de la Noche**, scattered inside and around the ship, including a purple gemstone and a chest.
 - In JoblessGarrett's video one wreck had 7 items and another had 5, like a pipe, an antique candlestick, a ceremonial spoon and chests.
+- BennyCentral showed where each of the **12 treasures** sits across two wrecks near Key Lento: 7 in the first and 5 in the second. The counts and items match JoblessGarrett's, and the first wreck, with its purple gemstone and chest, looks like the same Nuestra Señora de la Noche NoobBlox covered.
+
+## All 12 treasures in the two Key Lento wrecks
+
+BennyCentral's routine: mark the dive sites on your map, take your boat there (auto drive will steer for you), put on the scuba gear and pull out the metal detector. Its light turns from **red to green** when you're right on top of a treasure.
+
+**First wreck (7 treasures):**
+
+1. **Serpentine statue:** under the hole, by the big kelp plant.
+2. **Candlestick:** out in the rubble, near a barrel.
+3. **Dragon pipe:** next to a fishing net.
+4. **Purple gemstone:** in the kelp, by a fallen pipe.
+5. **Ivory saint:** at the bottom of the slope, against the hull.
+6. **Pewter gauntlet:** in the seagrass, by the timbers.
+7. **Buried chest:** in a dark rocky area. You have to dig it up. Benny says this is the one everybody misses.
+
+**Second wreck (5 treasures):**
+
+1. **Golden pendant:** in the debris field.
+2. **Ceremonial spoon:** at the base of a coral.
+3. **Chest:** tucked under a coral overhang. Pull it out.
+4. **Golden chalice:** by a block just outside the hole.
+5. **Snuff box:** in the seagrass, right against the hull wall.
+
+Take everything back to Kenton at his shop in Key Lento. Benny got **$2,400 for the whole lot** of 12. The name of the first wreck isn't clear in his voiceover.
+
+## Gold doubloons (99 across the map)
+
+According to BennyCentral, there are **99 gold doubloons** scattered around Leonida, and plenty of them sit on the seabed away from Kenton's wrecks.
+
+- **Bobcat Key dome houses:** the dome-shaped houses on stilts out at sea have doubloons on the seabed underneath them. Dive with the detector and wait for the green light.
+- **Landmarks by the water:** those dome houses are a Waink landmark. Benny's tip is that whenever a landmark sits by the water, there's very likely treasure nearby. Scan it, then search with the detector.
+
+Doubloons can be sold at pawn shops too. See [collectible cards](../gta-6-collectible-cards/) for how to check collectible values from the map.
 
 ## Kenton's shipwrecks
 
@@ -92,6 +128,7 @@ GameSpot says the list may grow. KhrazeGaming also found plenty of dive spots sc
 - On the way he also found contraband floating at sea and sold it for **$1,600** at Brian's lockup.
 - RageGamingVideos cleared the first wreck marked on the map with just the metal detector and sold the haul for about **$1,400**, very quickly.
 - KhrazeGaming says every treasure you bring back is worth **$2,400** and every coin **$200**, with 5 to 7 coins per spot. By his math you'll come back with at least $2,000 per spot. Other channels got less per round, so the payout probably changes from wreck to wreck.
+- BennyCentral got **$2,400 for all 12 treasures** from two wrecks combined. That's the same figure KhrazeGaming gives, but for the whole lot rather than per treasure.
 - According to WiLLiSGaming, **the more dives you do, the more Kenton pays** and the more locations he sends. Whenever he calls, go.
 
 ## Watch out

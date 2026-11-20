@@ -14,9 +14,12 @@ fontes:
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "3:58", data: "2026-11-18T22:00:14-03:00" }
   - { tipo: youtube, canal: "Android Gamer", url: "https://www.youtube.com/watch?v=ExBgK-R5IMA", titulo: "GTA 6 - COMO PEGAR O CARRO DO BRIAN *Mitsubishi Eclipse* de VELOZES E FURIOSOS [Easter egg]", minuto: "5:57", data: "2026-11-19T13:12:33-03:00" }
   - { tipo: youtube, canal: "CH4P4X", url: "https://www.youtube.com/watch?v=0Fb550QZKRw", titulo: "ACHEI O ECLIPSE SECRETO DO PAUL WALKER NO GTA 6!", minuto: "14:12", data: "2026-11-19T15:34:54-03:00" }
+  - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "4:32", data: "2026-11-19T19:17:00-03:00" }
+  - { tipo: youtube, canal: "Hazard", url: "https://www.youtube.com/watch?v=MlYcEVKCuCc", titulo: "10 Things You NEED to Unlock ASAP in GTA 6! (Money, Weapons & Upgrades)", minuto: "2:00", data: "2026-11-19T18:36:00-03:00" }
 descoberto_em: "2026-11-19T16:08:00-03:00"
-atualizado_em: "2026-11-19T17:01:00-03:00"
+atualizado_em: "2026-11-20T11:02:00-03:00"
 historico:
+  - { data: "2026-11-20T11:02:00-03:00", nota: "Conserto de graça salvando e carregando o jogo: você volta em casa com o carro consertado na porta, perde as armas roubadas e a droga fica no porta-malas (JorRaptor). Segundo o Hazard, antes da conta BuckMe o posto e a Pay 'n' Spray não aceitam dinheiro vivo pelo conserto; outros canais pagaram no posto sem problema." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Confirmada: MrBossFTW, Camodo Gaming e StevieWunderKid mostram o posto, a recarga e o conserto pagos. Novos: medidor de lataria e gasolina no direcional para baixo, Pay 'n' Spray e oficinas também consertam (MrBossFTW), preço do conserto do mesmo carro (Android Gamer e CH4P4X) e o aviso de que dinheiro gasto em carro que não é seu se perde." }
   - { data: "2026-11-19T16:08:00-03:00", nota: "Publicada em verificação: passo a passo do PC Gamer. O menu com as opções de abastecer e consertar aparece no quadro do vídeo do Mr Lawrence." }
 perguntas:
@@ -81,5 +84,22 @@ Para ter uma ideia de valor: no mesmo carro, o [Eclipse do Paul Walker](../carro
 Segundo o MrBossFTW, além da bomba do posto, a **Pay 'n' Spray** e as **oficinas** também consertam o carro. Todos cobram. Por isso, nas primeiras horas, com pouco dinheiro, ele sugere dirigir com cuidado para poupar o carro. O Camodo Gaming levou um carro batido até a Coastal Auto Care, a oficina do Joey, para consertar.
 
 **Cuidado com carro que não é seu.** Na oficina, o jogo avisou ao Android Gamer que, como o carro não estava no nome dele, todo o dinheiro gasto ali seria perdido. Só conserte carro roubado se for usar na hora.
+
+## Conserto de graça: salve e carregue o jogo
+
+O JorRaptor ensina um jeito de não pagar o conserto. Salve o jogo e, em seguida, carregue esse mesmo save. Na maioria das vezes você volta **em casa**, com o dinheiro do banco intacto e o **carro consertado estacionado na porta**, sem gastar nada.
+
+Tem um preço:
+
+- **Armas roubadas somem.** As armas roubadas que você carregava não voltam com você.
+- **A droga fica.** O que você levava de entorpecente aparece no **porta-malas** do carro.
+
+O JorRaptor ainda lembra de andar com um pouco de dinheiro na mão para gasolina e colete, e deixar o resto no esconderijo ou no banco, porque quem morre ou é preso perde o que carrega. Veja como abrir a conta em [banco e caixa eletrônico](../banco-caixa-eletronico-gta-6/).
+
+## Antes da conta BuckMe
+
+Segundo o Hazard, no começo do capítulo 1, antes de abrir a conta **BuckMe**, não dá para pagar o conserto no posto nem na Pay 'n' Spray. Para ele, esses serviços só aceitam pagamento pelo banco, e o dinheiro vivo do esconderijo não serve. A gasolina e as compras no mercado, diz ele, continuam saindo do dinheiro vivo. O carro do Hazard ficou tão destruído que ele rodava praticamente em três rodas.
+
+É a palavra de um canal só. Os outros canais desta página pagaram o conserto sem esse problema. Se o posto recusar o seu pagamento no começo do jogo, abra a conta BuckMe primeiro: segundo o Hazard, ela libera na missão Buck Me, logo depois da festa da Lucia.
 
 Outros jeitos de cuidar do carro, como empurrar um carro sem gasolina, estão em [recursos escondidos do GTA 6](../recursos-escondidos-gta-6/). Para ficar com um carro roubado, veja [como roubar carro](../como-roubar-carro-gta-6/), e para guardar o seu, as [garagens e os preços](../garagens-gta-6-locais-e-precos/).

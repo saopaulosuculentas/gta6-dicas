@@ -14,9 +14,11 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "0:25", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=V9JgeA64VYE", titulo: "30 Secrets & Easter Eggs In GTA 6!", minuto: "5:55", data: "2026-11-18T22:01:31-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "GTA 6 Launch Live Updates", data: "2026-11-18T19:17:00-03:00" }
+  - { tipo: youtube, canal: "InkTV", url: "https://www.youtube.com/watch?v=9sBE_lGWzkE", titulo: "5 Insane GTA 6 Easter Eggs!", minuto: "13:06", data: "2026-11-19T18:18:46-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-20T10:45:00-03:00"
 historico:
+  - { data: "2026-11-20T10:45:00-03:00", nota: "Fourth channel: InkTV got rescued by the jet ski dog too." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: ZoneX, ZacCoxTV and T5G all show the jet ski dog, and Kotaku reported it. The $1,218 payout was checked on the video frame." }
 perguntas:
   - { p: "Where is the jet ski dog in GTA 6?", r: "It shows up in Gambit Bay. Head to the middle of the bay, jump in the water, leave your boat behind and keep swimming until it arrives." }
@@ -26,7 +28,7 @@ perguntas:
 
 GTA 6 has a dog that drives a jet ski. It wears a life jacket and goggles, shows up when you're stranded in the water and gives you a ride to an island full of dogs. If you make friends with them, one of the dogs digs up hidden cash: **$1,218** in ZoneX's video.
 
-Three channels showed the encounter (ZoneX, ZacCoxTV and T5G), and Kotaku also reported the dog that rescues players with its jet ski.
+Four channels showed the encounter (ZoneX, ZacCoxTV, T5G and InkTV), and Kotaku also reported the dog that rescues players with its jet ski.
 
 ## How to make the dog show up
 
@@ -51,6 +53,10 @@ The ride ends at an island with a pack of dogs on the beach.
 ZacCoxTV tells the same story with one difference: a dog led him to a **hidden wallet filled with money**. The reward may vary.
 
 Once you've been there, the island is on your map and you can come back by boat. ZoneX shows the exact spot at the end of his video, from 1:10.
+
+## InkTV's theory
+
+InkTV got picked up by the dog as well, and he has a theory: the jet ski dog works as the game's safety net for players who spend too long stuck in the water.
 
 ## Still unknown
 

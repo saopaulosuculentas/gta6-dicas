@@ -11,9 +11,16 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/", data: "2026-11-18T08:30:04-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/", data: "2026-11-18T10:45:15-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-aliens-and-heres-how-to-find-them/", titulo: "GTA 6 Has Aliens, And Here's How To Find Them", data: "2026-11-20T08:26:00-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "0:56", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=_EnkF4qSd_w", titulo: "GTA 6 Has a Secret Haunted Hotel (Silent Hill Easter Egg)", minuto: "6:11", data: "2026-11-20T01:30:34-03:00" }
+  - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=czS1q74rIAc", titulo: "GTA 6 - Tank (Rhino) Location Guide - Challenging Tank Achievement/Trophy", minuto: "2:20", data: "2026-11-18T20:49:59-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "3:23", data: "2026-11-18T15:15:08-03:00" }
+  - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=mM8RsaIBo1k", titulo: "GTA 6 Every WAiNK Location: All 108 Scans for the You WAiNKer Trophy (Full Guide)", minuto: "0:00", data: "2026-11-20T01:36:31-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "New section on The Truth Is Out There: it pops during the UFO abduction (GameSpot) and has also popped at a lighthouse with ghosts (Milo) and at the haunted hotel safe (Robbin Rams). Added how Challenging Tank unlocks (Maka91Productions and Arekkz Gaming) and the 108 scannables behind You WAiNKer! (vAnother Level). Links to the dream, lab, tank and WAiNK pages." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as confirmed: PC Gamer and GamesRadar+ list the same 55 trophies, and GamesRadar+ adds the grade and Gamerscore of each." }
 perguntas:
   - { p: "How many trophies are in GTA 6?", r: "55 on PS5 counting the platinum: 1 platinum, 2 gold, 6 silver and 46 bronze." }
@@ -75,6 +82,8 @@ Each chapter trophy is named after the chapter that comes next. To see where eac
 | One Last Thing | Clear 50 Challenges | Bronze | 5 |
 | The Goodtime State | Explore all of Leonida | Bronze | 20 |
 
+**You WAiNKer!** asks for 100 scans, and the game has more than that. According to vAnother Level's guide there are **108**: 23 sculptures, 31 landmarks, 35 curiosities, 15 NoFlusher tags and 4 billboards, so you can skip a few. Locations are in [WAiNK sculptures](../gta-6-waink-sculptures/) and [WAiNK curiosities and landmarks](../gta-6-waink-curiosities-landmarks/).
+
 ## Crime and the cops
 
 | Trophy | How to unlock | Grade | G |
@@ -88,6 +97,8 @@ Each chapter trophy is named after the chapter that comes next. To see where eac
 | Pest Control | Rob one Illegal Operation from each gang (9 in all) | Bronze | 20 |
 | Catch Me If You Can | Make an "unscheduled departure" at VCIA | Bronze | 10 |
 | Challenging Tank | The description only jokes about the heat inside the Rhinos | Bronze | 10 |
+
+**Challenging Tank** unlocks when you get into a **Rhino tank** at the Mile Zero Air Station military base in Mariana County. Maka91Productions got it a few seconds after climbing in; Arekkz Gaming got it after firing off a few shots. Arekkz points out the achievement sticks to your account, so you can grab it on a separate save and then go back to your main one. See [how to get a tank](../gta-6-how-to-get-a-tank/).
 
 For the Wanted Level ones, it helps to know [how to lose the police in GTA 6](../gta-6-how-to-lose-the-police/).
 
@@ -117,6 +128,16 @@ These come with short or cryptic descriptions. We're listing them the way the ga
 | Actions Speak Louder | Choices made, good or bad (GamesRadar+ notes 500 in total) | Bronze | 5 |
 | Bad Luck, I Guess | Second time's the charm | Bronze | 5 |
 | The Truth Is Out There | "What the hell just happened?" | Bronze | 5 |
+
+### The Truth Is Out There: where it has popped so far
+
+Players have caught this one unlocking in three different situations:
+
+- **The UFO abduction.** This is the known route. GameSpot says it unlocks when Jason or Lucia gets abducted after helping the woman in the woods in Kelly County. Full steps in our [UFO abduction guide](../gta-6-ufo-abduction-truth-is-out-there/).
+- **The lighthouse ghosts.** Milo got it right after watching ghostly figures fight at the top of a lighthouse at night.
+- **The haunted hotel.** Robbin Rams got it while emptying the safe at the [Marbelle Hotel](../gta-6-haunted-hotel-silent-hill/).
+
+Nobody has explained yet why the same trophy shows up in such different places. After the abduction, the alien story carries on with the [alien dream](../gta-6-alien-dream-sequence-code/) and the [secret alien lab](../gta-6-alien-lab-code-2314/).
 
 ## Platinum
 

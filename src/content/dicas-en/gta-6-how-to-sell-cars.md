@@ -18,9 +18,13 @@ fontes:
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "6:54", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Ashy", url: "https://www.youtube.com/watch?v=Z7u4Th3Qajc", titulo: "GTA 6 New UNLIMITED MONEY FARM! (Do This Now!)", minuto: "0:17", data: "2026-11-18T20:14:44-03:00" }
+  - { tipo: youtube, canal: "Typical Gamer", url: "https://www.youtube.com/watch?v=fwQa5kmCJIc", titulo: "1 Hour of GTA 6 Free Roam! Rare Cars & Planes (No Spoilers)", minuto: "38:50", data: "2026-11-20T00:37:49-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-19T18:16:00-03:00"
+atualizado_em: "2026-11-20T10:58:00-03:00"
 historico:
+  - { data: "2026-11-20T10:58:00-03:00", nota: "Added the La Perle Pay 'n' Spray from Typical Gamer: its menu both registers and buys cars; a Progen Royal Ruby Emerus was worth $30,000 and cost $29,900 to register. With GTA+, owned cars sold at a Pay 'n' Spray fetch 10% more, and Ultimate Edition cars can't be sold (GamesRadar+ and PC Gamer)." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Added Ashy's repeat sales to Moses near Watkins Auto Parts: a tracker-free car on the corner, the slim jim out of sight of the gang members, $670 and about $700 paid straight into the bank account, the delivery cap, and selling as Lucia. Ashy's payouts now sit next to PC Gamer's range." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Published as confirmed: where to sell and payouts from PC Gamer; registration locked until Chapter 2 per MrDalekJD; Pay 'n' Spray and the monster truck from GamingBolt; registration cost and new plates from DPJ; impound from Kotaku and BennyCentral; Moses' garage from GameSpot." }
 perguntas:
@@ -75,6 +79,12 @@ PC Gamer's money guide puts stolen cars at anywhere from $1,000 to $20,000 each,
 
 Ashy got less than that: **$670** for one car and **about $700** for another, both everyday cars from the corner by the shop. The price depends on the car, and Waink It tells you what it's worth before you drive it over.
 
+Rare cars are a different story. Typical Gamer, about halfway through the campaign, found a **Progen Royal Ruby Emerus** at a mansion, unlocked, with its alarm off and no tracker. Waink It valued it at **$30,000**.
+
+### GTA+ adds 10% to car sales
+
+According to GamesRadar+ and PC Gamer, **GTA+** members get **10% more** when they sell a car they own at a Pay 'n' Spray. GamesRadar+ notes one exception: cars that come with the **Ultimate Edition can't be sold**. The rest of the membership perks are in [every GTA+ reward in GTA 6](../gta-6-gta-plus-rewards/).
+
 ## Keeping a car: registration
 
 - **Not in Chapter 1.** MrDalekJD says you're stuck with the starter car. You can steal cars off the street, but they aren't saved for good. DPJ also thinks an unregistered car is gone once you reload your game.
@@ -83,6 +93,12 @@ Ashy got less than that: **$670** for one car and **about $700** for another, bo
 - **Where:** at a **Pay 'n' Spray**, per PC Gamer and GamingBolt. DPJ drove his car back to Moses and registered it there.
 - **Cost:** Waink It shows the price for each car. DPJ paid **around $6,750** to register a rare car, and registering it **swapped the license plate**.
 - **Size limits:** GamingBolt found a **monster truck** that wouldn't fit inside the Pay 'n' Spray, so it couldn't be registered.
+
+### Inside the La Perle Pay 'n' Spray
+
+Typical Gamer took the Emerus to the **Pay 'n' Spray in La Perle**, and the shop handles everything from one menu: **Repair**, **Respray** ($200 for red), **Register** and **Sell**. So the same place can make a car yours or buy it off you. A second tab, **Stored Vehicles**, lists the cars you've already put away.
+
+Registering the Emerus cost **$29,900**, nearly its full resale value, and the price matched what Waink It had shown out on the street. The game describes registering as swapping the plates and putting the car in your name. He couldn't cover it with $25,392 in the bank and $9,671 in cash. On screen, the registration price only shows the BuckMe bank icon, so it seems to come out of your bank balance alone. No source has tested that yet.
 
 Trackers are still a gray area. MrDalekJD says you can register cars that **don't have a tracker**. PC Gamer says a standard tracker only stops you from upgrading the car at a shop until it's registered. When in doubt, keep a car with no tracker.
 

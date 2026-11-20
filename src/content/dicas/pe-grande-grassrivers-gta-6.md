@@ -14,9 +14,13 @@ fontes:
   - { tipo: youtube, canal: "Gameplayrj", url: "https://www.youtube.com/watch?v=mhgv0kj-BFw", titulo: "Que criatura é essa??? O PRIMEIRO EASTER EGG DO GTA VI", minuto: "13:11", data: "2026-11-18T16:25:53-03:00" }
   - { tipo: youtube, canal: "SanInPlay", url: "https://www.youtube.com/watch?v=3Uz64TZrEEY", titulo: "EASTER EGG do PÉ GRANDE no GTA 6! EVENTO ALEATÓRIO ACIDENTE AÉREO!", minuto: "3:59", data: "2026-11-18T16:29:51-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/", titulo: "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6", data: "2026-11-19T17:12:34-03:00" }
+  - { tipo: youtube, canal: "InkTV", url: "https://www.youtube.com/watch?v=9sBE_lGWzkE", titulo: "5 Insane GTA 6 Easter Eggs!", minuto: "4:13", data: "2026-11-19T18:18:46-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "8:07", data: "2026-11-19T21:00:01-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "24:12", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-18T17:10:00-03:00"
-atualizado_em: "2026-11-20T10:23:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Entrou o caminho do InkTV: começa num barraco em Pelican Valley com um celular no chão, atravessa a água até uma ilha e segue o grunhido até a oferenda. Mais dois pontos citados: ao sul de Hamlet (RageGamingVideos, que também achou um cartaz do Skunk Ape perto da casa do Jason) e o Cottonmouth Lake (BennyCentral)." }
   - { data: "2026-11-20T10:23:00-03:00", nota: "Entrou o caminho do PC Gamer: de barco, saindo do cais da primeira casa do Jason e atravessando a Gambit Bay até uma rua sem saída; o modo Foco guia até a criatura. Também o cheiro verde que derruba o personagem e os cartazes do Skunk Ape pelo mapa." }
   - { data: "2026-11-19T08:21:00-03:00", nota: "A figura é uma efígie do Skunk Ape e começa uma missão secreta (JFM, T5G e ZacCoxTV). Link para o passo a passo da missão." }
   - { data: "2026-11-18T17:10:00-03:00", nota: "Publicado como confirmado: a mesma figura aparece em dois canais diferentes (Punish e Gameplayrj)." }
@@ -47,6 +51,25 @@ O PC Gamer descreveu um caminho que começa em casa, de barco:
 
 O PC Gamer não diz o nome da região desse ponto, então ainda não dá para garantir que é o mesmo mangue dos vídeos. Um mapa público com o ponto exato ainda não saiu. Quando sair, esta página é atualizada.
 
+### O caminho do InkTV, por Pelican Valley
+
+O InkTV começou por outro lado, em **Pelican Valley**, a área de mangue ao sul de Gullup Marsh e de Hamlet. É a mesma região da placa "Grassrivers Pelican Valley" que aparece no vídeo do Gameplayrj.
+
+1. Ache um **barraco** no meio do mangue de Pelican Valley. Lá dentro aconteceu alguma coisa ruim: há duas armas e um **celular no chão**.
+2. Veja o vídeo do celular. Dois homens ouvem um barulho no mato, e um deles garante que aquilo não é um guaxinim. É a pista de que a criatura anda por ali.
+3. Atravesse a água até a **ilha** que fica perto do barraco. Cuidado: no caminho há muitos jacarés, e o InkTV avisa que javalis e onças-pardas do mangue também atacam.
+4. Na ilha, vire para o **sul** e ande devagar, prestando atenção no som. O sinal é um **grunhido** diferente dos bichos comuns.
+5. Siga o barulho. A criatura atravessa para o meio do mato, e ali está a **oferenda**. Ao chegar perto, o personagem passa mal e apaga.
+
+O InkTV acha que o horário pode influir: quem ele viu fazer isso foi de dia e com sol. Ele mesmo diz que não tem certeza.
+
+### Outros pontos citados
+
+- **Ao sul de Hamlet:** o RageGamingVideos fugia da polícia por ali, entrou num trecho de pântano e deu de cara com o bicho, soltando nuvens verdes de fedor.
+- **Cottonmouth Lake:** o BennyCentral diz que viu o pé grande no Cottonmouth Lake, do outro lado da água a partir de Kento.
+
+Ainda não dá para saber se todos chegaram ao mesmo lugar por caminhos diferentes ou se o bicho aparece em mais de um ponto.
+
 ## De dia ou de noite
 
 Ela aparece nos dois horários. No vídeo do Gameplayrj o relógio do jogo marcava 15:59. O SanInPlay encontrou a figura à noite, depois de parar para ver um acidente de avião que aconteceu como evento aleatório na região. No escuro ela parece mais clara, quase brilhando no meio da mata.
@@ -68,7 +91,7 @@ No caso do Gameplayrj, a droga que ele tinha recolhido na mata antes de achar a 
 
 ## É o pé grande mesmo? Sim: é o Skunk Ape
 
-A figura de madeira não é o bicho: é uma **efígie**, um tipo de altar que a criatura deixa pelo mato. A criatura de verdade é o **Skunk Ape**, a versão do pé grande nas lendas da Flórida, e ela é peluda. O T5G e o ZacCoxTV viram o Skunk Ape comendo um cervo na estrada de Grassrivers, e o T5G achou placas pelo mapa avisando que ele anda pela região. O SanInPlay já tinha levantado essa hipótese. O PC Gamer também viu **cartazes sobre o Skunk Ape** colados em lojas e postes de Leonida, e diz que eles levam a uma missão sobre a criatura.
+A figura de madeira não é o bicho: é uma **efígie**, um tipo de altar que a criatura deixa pelo mato. A criatura de verdade é o **Skunk Ape**, a versão do pé grande nas lendas da Flórida, e ela é peluda. O T5G e o ZacCoxTV viram o Skunk Ape comendo um cervo na estrada de Grassrivers, e o T5G achou placas pelo mapa avisando que ele anda pela região. O SanInPlay já tinha levantado essa hipótese. O PC Gamer também viu **cartazes sobre o Skunk Ape** colados em lojas e postes de Leonida, e diz que eles levam a uma missão sobre a criatura. O RageGamingVideos achou um desses cartazes na loja de conveniência perto da casa do Jason: ligou para o número e a missão entrou na lista de missões opcionais.
 
 E o apagão não é o fim: é o começo de uma **missão secreta** que termina com um rifle sniper camuflado. O passo a passo está em [missão do Skunk Ape no GTA 6](../missao-skunk-ape-rifle-sniper-gta-6/).
 

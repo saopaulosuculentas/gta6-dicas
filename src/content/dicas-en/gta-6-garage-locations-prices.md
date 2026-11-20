@@ -11,9 +11,12 @@ imagens:
 fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-garage-locations-and-prices-in-gta-6/", titulo: "All Garage Locations And Prices In GTA 6", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/", titulo: "GTA 6 changes the way you steal cars", data: "2026-11-18T16:22:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Added the GTA+ members-only single-car garage in Crosstown, which comes with the '90s Annis Venturas Blvd Elegy (GamesRadar+ and PC Gamer). Linked the Grotti Itali RSX, a rare car on Vespucci Island." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. Garage list and prices from GameSpot; buying through the real estate app also mentioned by PC Gamer." }
 perguntas:
   - { p: "How do you buy a garage in GTA 6?", r: "Through the Vice City Real Estate app on your phone, or by going to the garage in person. Some come free with the story." }
@@ -48,6 +51,14 @@ Garages let you keep a stolen car **without paying to register it**. Space is ti
 | Paradise Garage | Free | Northeast Watson Bay, southeast of Grassrivers. Comes with the Ultimate Edition's Dominator Buggy |
 
 GameSpot also found garages that only appear when the game stores a vehicle for you. Those can't be bought. And there are no garages in Lummox County.
+
+## The GTA+ garage
+
+There's one more garage that isn't on GameSpot's list, and it's only for **GTA+** members. GamesRadar+ says it's an **exclusive single-car garage in Crosstown**, there so you have somewhere safe for another membership perk, a **'90s Annis Venturas Blvd Elegy**. PC Gamer also lists the single-car garage and notes you can park the Elegy or any other car in it. GamesRadar+ adds that some GTA+ perks only show up once you reach certain points in the story, so it may not be there on day one. The full list is in [every GTA+ reward in GTA 6](../gta-6-gta-plus-rewards/).
+
+## A rare car worth parking
+
+A garage is only as good as what's inside it. One of the rare finds is the **Grotti Itali RSX**, which sits in a garage on Vespucci Island near Vice City. It has an alarm and an advanced tracker, so you'll need the key cloner to take it. The route is in [where to find the Grotti Itali RSX](../gta-6-grotti-itali-rsx-location/).
 
 ## Other ways to keep a car
 

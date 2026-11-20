@@ -10,9 +10,15 @@ imagens:
   - { arquivo: "lista-de-missoes-gta-6/planejamento-cartel-heist.webp", legenda: "The planning meeting before the bank job in The Cartel Heist, a Chapter 3 mission.", canal: "Shirrako", url: "https://www.youtube.com/watch?v=u3uluMK_iuM", minuto: "1:30" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/", data: "2026-11-18T08:00:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help/", titulo: "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?", data: "2026-11-19T18:46:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not/", titulo: "Should you give the statue to Benedict Halifax in GTA 6?", data: "2026-11-19T18:56:00-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/should-you-spare-arnold-in-gta-6/", titulo: "Should you spare Arnold in GTA 6?", data: "2026-11-19T13:39:00-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/", titulo: "Is Niko Bellic in GTA 6?", data: "2026-11-20T09:44:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T10:55:00-03:00"
 historico:
+  - { data: "2026-11-20T10:55:00-03:00", nota: "Added a spoiler-flagged note: Niko Bellic appears in Taking Liberties, the second Chapter 5 mission, per PC Gamer. Linked to the Niko page." }
+  - { data: "2026-11-20T10:48:00-03:00", nota: "New section on missions with a choice: Hey Arnold! (GamesRadar+), the Delights robbery, most likely Afternoon Delight (PC Gamer), and Dubious Provenance with Benedict Halifax (PC Gamer), each linked to its guide. Still unverified: the full list only comes from PC Gamer." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: chapter and mission list from PC Gamer, with 3 names held back by the site to avoid spoilers." }
 perguntas:
   - { p: "How many missions are in GTA 6?", r: "91 story missions, according to PC Gamer's list, split across 5 chapters." }
@@ -155,6 +161,20 @@ The first 7 are covered step by step in our [Chapter 1 walkthrough](../gta-6-cha
 | 5 | Operation Savage Glory | A shipment gets recovered. |
 | 6 | Protective Custody | The couple team up. |
 | 7 | (name withheld) | The finale. |
+
+**Spoiler warning:** according to PC Gamer, **Taking Liberties**, the second mission of Chapter 5, features a cameo from GTA 4's **Niko Bellic**. We won't say what happens. The spoiler-light details are on our [Niko Bellic in GTA 6](../gta-6-niko-bellic/) page.
+
+## Missions with a choice
+
+A few missions stop partway through and ask you to decide something. So far the guides have covered three, and in each one the mission ends up in the same place whatever you pick.
+
+| Chapter | Mission | The choice |
+|---|---|---|
+| 1 | Hey Arnold! (No. 8) | Kill or spare Arnold at the end of the chase. GamesRadar+ says it feeds into your criminal profile and the next cutscene is identical. See [kill or spare Arnold](../gta-6-kill-or-spare-arnold/). |
+| 2 | The Delights robbery | Frankie asks whether Jason can dance, and you get about two seconds to answer. PC Gamer says the robbery happens either way. See [the Delights mission](../gta-6-delights-help-frankie/). |
+| 3 | Dubious Provenance (No. 4) | Hand the statue to Benedict Halifax or keep it. PC Gamer says refusing only delays things, since you end up driving back to Capri to give it to him anyway. See [the Benedict Halifax statue](../gta-6-benedict-halifax-statue/). |
+
+On the Delights job: PC Gamer places it in Chapter 2, in Port Gellhorn, but doesn't name the mission. Going by the list, it's most likely No. 10, **Afternoon Delight**, the only Chapter 2 mission where Jason and Lucia visit a nightclub.
 
 ## Finding the next mission
 

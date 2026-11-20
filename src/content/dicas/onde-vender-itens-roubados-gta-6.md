@@ -14,9 +14,12 @@ fontes:
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "4:30", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "DooDooPoo", url: "https://www.youtube.com/watch?v=cZLAIDMi4ak", titulo: "GTA 6 SECRET WAREHOUSE LOCATION - FREE $20K, RARE TRADING CARD & WEAPONS - GTA VI", minuto: "0:11", data: "2026-11-19T12:41:03-03:00" }
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=c3EZuDNC6Zc", titulo: "GTA 6 Gameplay: How to Pull Off the Perfect Robbery! (GTA 6 Money)", minuto: "6:50", data: "2026-11-18T17:00:35-03:00" }
+  - { tipo: youtube, canal: "FuriousFade", url: "https://www.youtube.com/watch?v=rPA0QpIjEHA", titulo: "FINDING HIDDEN STASHES WITH CRAZY LOOT IN GTA 6!", minuto: "36:20", data: "2026-11-19T18:46:12-03:00" }
+  - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "1:01", data: "2026-11-19T20:45:16-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-19T16:22:00-03:00"
+atualizado_em: "2026-11-20T11:04:00-03:00"
 historico:
+  - { data: "2026-11-20T11:04:00-03:00", nota: "Entrou como vender no Donnie: as bolsas vão na caixa de ferramentas ao lado do trailer, o aviso mostra o total antes (US$ 11.600 no vídeo do FuriousFade) e o dinheiro chega na caixa de correio. O BennyCentral viu o Donnie pagar US$ 800 a mais que o Brian pela mesma bolsa." }
   - { data: "2026-11-19T16:22:00-03:00", nota: "Senha 7700 do depósito do Brian, mostrada por KhrazeGaming, DooDooPoo e JoblessGarrett." }
   - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmada com o guia do GamesRadar+: o que cada tipo de roubo rende, aba Drop-offs no índice e pagamento pela caixa de correio." }
   - { data: "2026-11-19T11:49:00-03:00", nota: "Publicada em verificação: lista de receptadores do PC Gamer; o aviso de dinheiro marcado aparece no vídeo do DPJ." }
@@ -66,6 +69,18 @@ O dinheiro vivo já é seu. O resto precisa passar por um receptador.
 ## A senha do depósito do Brian
 
 O depósito do Brian, em South Key Lento, tem **teclado na porta**. A senha é **7700**: KhrazeGaming, DooDooPoo e JoblessGarrett mostraram a mesma. O jogo guarda a senha para você depois da primeira vez. Lá dentro, deixe as bolsas no contêiner e escolha vender. O DooDooPoo vendeu uma bolsa cheia por **US$ 10.000**.
+
+## Como vender no Donnie
+
+O Donnie é o segundo receptador do capítulo 1, no trailer dele em Key Lento. O FuriousFade levou duas bolsas cheias de um galpão e mostrou o passo a passo:
+
+1. Pare perto do trailer do Donnie. Dê ré com o carro, para tirar as bolsas do porta-malas mais fácil.
+2. As bolsas vão na **velha caixa de ferramentas ao lado do trailer**. O Donnie passa depois para recolher.
+3. Antes de confirmar, o aviso já mostra **quanto você vai receber**. No vídeo, apareceu "Sell stash bags (+$11,600)" para droga e dinheiro marcado juntos.
+4. Não dá para separar: o FuriousFade reparou que o jogo vende a droga e o dinheiro marcado de uma vez só.
+5. Pouco depois chega a mensagem do Donnie avisando que o dinheiro está na **caixa de correio**. Passe em casa para pegar.
+
+**Donnie ou Brian?** O BennyCentral comparou os dois no mapa antes de vender a bolsa de um galpão: o trailer do Donnie pagava **US$ 800 a mais** que o depósito do Brian pela mesma carga, e a bolsa saiu por uns US$ 10.000. Vale olhar o valor dos dois antes de escolher, como explicado em "Como vender". A bolsa do galpão está em [galpão com dinheiro e fuzil](../galpao-dinheiro-fuzil-inicio-gta-6/).
 
 ## Na hora ou depois
 

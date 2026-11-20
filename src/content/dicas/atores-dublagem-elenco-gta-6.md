@@ -14,8 +14,9 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/", titulo: "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'", data: "2026-11-20T09:26:52-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6/", titulo: "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6", data: "2026-11-19T14:07:18-03:00" }
 descoberto_em: "2026-11-19T16:58:00-03:00"
-atualizado_em: "2026-11-20T10:23:00-03:00"
+atualizado_em: "2026-11-20T10:56:00-03:00"
 historico:
+  - { data: "2026-11-20T10:56:00-03:00", nota: "Na parte da Mandy, entrou o link para a página que explica se dá para namorar a personagem." }
   - { data: "2026-11-20T10:23:00-03:00", nota: "Entraram a atriz da Mandy (Lexie Shoaibi, segundo o PC Gamer), mais nomes da lista ampliada do GamesRadar+ depois que os créditos voltaram ao site da Rockstar, e o Weird Al como locutor da Vice City FM." }
   - { data: "2026-11-19T16:58:00-03:00", nota: "Publicada como confirmada: elenco tirado da seção Main Cast dos créditos oficiais no site da Rockstar, conferido com a lista do GamesRadar+. Nomes que só aparecem em boato ficaram de fora." }
 perguntas:
@@ -119,7 +120,7 @@ Em 20/11 os créditos completos voltaram ao site da Rockstar, e o GamesRadar+ am
 
 A Mandy, a ex do Jason que mora numa casa do Brian e deve aluguel a ele, é feita pela atriz **Lexie Shoaibi**. Segundo o PC Gamer, ela mesma contou no Instagram, depois do lançamento, que faz a voz e a captura de movimento da personagem, e pediu para os fãs avisarem quando a encontrassem no jogo.
 
-A Mandy aparece logo no começo da história e virou uma das personagens mais comentadas pelos jogadores. Veja [onde fica a casa da Mandy e a missão do aluguel](../mandy-gta-6-casa-aluguel/).
+A Mandy aparece logo no começo da história e virou uma das personagens mais comentadas pelos jogadores. Veja [onde fica a casa da Mandy e a missão do aluguel](../mandy-gta-6-casa-aluguel/). Se a sua dúvida é se o Jason pode ficar com ela, a resposta está em [dá para trair a Lucia ou namorar a Mandy?](../trair-lucia-namorar-mandy-gta-6/).
 
 ## Participações famosas
 

@@ -9,14 +9,17 @@ pt: "como-personalizar-carro-gta-6"
 imagens:
   - { arquivo: "como-personalizar-carro-gta-6/menu-motor-coastal.webp", legenda: "The Coastal Auto Care engine menu: Full Engine is available and the other parts are still locked.", canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", minuto: "38:38" }
   - { arquivo: "como-personalizar-carro-gta-6/carro-na-oficina.webp", legenda: "A car parked inside Coastal Auto Care, the tuning shop near Jason's house.", canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", minuto: "0:58" }
+  - { arquivo: "como-personalizar-carro-gta-6/oficina-area-de-busca.webp", legenda: "With the police searching, a mod shop turns away a known car inside a heat area.", canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", minuto: "2:41:42" }
 fontes:
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "0:47", data: "2026-11-18T22:00:14-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "38:40", data: "2026-11-18T15:17:20-03:00" }
   - { tipo: youtube, canal: "Camodo Gaming", url: "https://www.youtube.com/watch?v=LRki5tWfQt4", titulo: "GTA 6 Has the Most INSANE RARE Cars to Steal!", minuto: "8:04", data: "2026-11-19T16:05:04-03:00" }
   - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:03", data: "2026-11-19T14:00:35-03:00" }
+  - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
 descoberto_em: "2026-11-19T18:09:00-03:00"
-atualizado_em: "2026-11-19T18:09:00-03:00"
+atualizado_em: "2026-11-20T11:00:00-03:00"
 historico:
+  - { data: "2026-11-20T11:00:00-03:00", nota: "Added that tuning shops turn you away in a heat area while you're in a car the police know (on-screen message in Elanip's stream)." }
   - { data: "2026-11-19T18:09:00-03:00", nota: "Published as confirmed: the tuning shop and its parts shown by StevieWunderKid, Bombastic and Camodo Gaming; registration perks from GameSpot." }
 perguntas:
   - { p: "Where can you customize cars in GTA 6?", r: "At a tuning shop. One unlocks early in the story near Jason's house: Coastal Auto Care." }
@@ -30,6 +33,10 @@ You customize cars in GTA 6 at a **tuning shop**, and one opens up very early: *
 ## Where to customize
 
 StevieWunderKid says you get access to a shop near Jason's house pretty early in the story. Drive in with a car and pick what you want to change. The shop's name, Coastal Auto Care, shows up on the menu in Bombastic's video and on the banner behind the cars in Stevie's.
+
+### Lose the cops before you pull in
+
+A tuning shop won't let you in while you're wanted. During Elanip's stream, with the police after him, he pulled up to a shop and the game refused. The on-screen message explains that mod shops are off-limits inside a **heat area** when you're driving a **known vehicle**. He gave up on that one and drove to a Pay 'n' Spray instead. Shake the police first, then come back. Tips for that are in [how to lose the police](../gta-6-how-to-lose-the-police/).
 
 ## What you can change
 

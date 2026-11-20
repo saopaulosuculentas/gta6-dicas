@@ -10,9 +10,16 @@ imagens:
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-achievements-list/", data: "2026-11-18T08:30:04-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trophy-achievement-list/", data: "2026-11-18T10:45:15-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-aliens-and-heres-how-to-find-them/", titulo: "GTA 6 Has Aliens, And Here's How To Find Them", data: "2026-11-20T08:26:00-03:00" }
+  - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "0:56", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=_EnkF4qSd_w", titulo: "GTA 6 Has a Secret Haunted Hotel (Silent Hill Easter Egg)", minuto: "6:11", data: "2026-11-20T01:30:34-03:00" }
+  - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=czS1q74rIAc", titulo: "GTA 6 - Tank (Rhino) Location Guide - Challenging Tank Achievement/Trophy", minuto: "2:20", data: "2026-11-18T20:49:59-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "3:23", data: "2026-11-18T15:15:08-03:00" }
+  - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=mM8RsaIBo1k", titulo: "GTA 6 Every WAiNK Location: All 108 Scans for the You WAiNKer Trophy (Full Guide)", minuto: "0:00", data: "2026-11-20T01:36:31-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T16:11:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Nova seção sobre o The Truth Is Out There: sai na abdução (GameSpot) e também saiu no farol dos fantasmas (Milo) e no cofre do hotel assombrado (Robbin Rams). Entraram como sai o Challenging Tank (Maka91Productions e Arekkz Gaming) e os 108 escaneáveis do You WAiNKer! (vAnother Level). Links para o sonho, o laboratório, o tanque e o WAiNK." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada como confirmada: a mesma lista de 55 troféus no PC Gamer e na GamesRadar+, que também traz o tipo e o Gamerscore de cada um." }
 perguntas:
   - { p: "Quantos troféus tem o GTA 6?", r: "São 55 no PS5, contando a platina: 1 platina, 2 de ouro, 6 de prata e 46 de bronze." }
@@ -76,6 +83,8 @@ Repare que o troféu de cada capítulo leva o nome do capítulo seguinte. Para s
 | One Last Thing | Completar 50 desafios | Bronze | 5 |
 | The Goodtime State | Explorar Leonida inteira | Bronze | 20 |
 
+**You WAiNKer!** pede 100 escaneamentos, e o jogo tem mais do que isso. Segundo o guia do vAnother Level, são **108**: 23 esculturas, 31 pontos turísticos, 35 curiosidades, 15 marcas NoFlusher e 4 outdoors. Dá para deixar alguns de fora. Os locais estão em [esculturas do WAiNK](../esculturas-waink-gta-6/) e em [curiosidades e pontos turísticos do WAiNK](../curiosidades-pontos-turisticos-waink-gta-6/).
+
 ## Crimes e polícia
 
 | Troféu | O que fazer | Tipo | G |
@@ -89,6 +98,8 @@ Repare que o troféu de cada capítulo leva o nome do capítulo seguinte. Para s
 | Pest Control | Roubar uma operação ilegal de cada gangue (são 9) | Bronze | 20 |
 | Catch Me If You Can | Fazer uma "partida fora do horário" no VCIA | Bronze | 10 |
 | Challenging Tank | A descrição só diz que faz calor dentro dos Rhinos | Bronze | 10 |
+
+**Challenging Tank** sai quando você entra num **tanque Rhino** na base militar Mile Zero Air Station, em Mariana County. O Maka91Productions ganhou o troféu poucos segundos depois de entrar no tanque; o Arekkz Gaming, depois de dar alguns tiros. O Arekkz lembra que o troféu fica na conta: dá para fazer num save separado e depois voltar ao save antigo, sem mexer no seu jogo principal. Veja [como pegar o tanque](../como-pegar-tanque-gta-6/).
 
 Para os troféus com estrelas, ajuda saber [como fugir da polícia no GTA 6](../como-fugir-da-policia-gta-6/).
 
@@ -118,6 +129,16 @@ Estes têm descrição curta ou enigmática. Deixamos como o jogo dá, sem adivi
 | Actions Speak Louder | Escolhas feitas, para o bem ou para o mal (a GamesRadar+ anota 500 no total) | Bronze | 5 |
 | Bad Luck, I Guess | A segunda vez é a que vale | Bronze | 5 |
 | The Truth Is Out There | "O que foi que acabou de acontecer?" | Bronze | 5 |
+
+### The Truth Is Out There: onde ele já saiu
+
+Este troféu já apareceu em vídeo em três situações diferentes:
+
+- **Abdução do disco voador.** É o caminho mais conhecido. Segundo o GameSpot, o troféu sai quando o Jason ou a Lucia é abduzido depois de ajudar a mulher na mata, em Kelly County. O passo a passo está em [disco voador e abdução](../disco-voador-abducao-gta-6/).
+- **Fantasmas do farol.** O Milo ganhou o troféu logo depois de ver figuras de fantasma brigando no alto de um farol, de noite.
+- **Hotel assombrado.** O Robbin Rams ganhou o troféu ao abrir o cofre do [Marbelle Hotel](../hotel-assombrado-silent-hill-gta-6/).
+
+Ninguém explicou ainda por que o mesmo troféu sai em lugares tão diferentes. Depois da abdução, a história dos alienígenas continua no [sonho do alien](../sonho-do-alien-gta-6/) e no [laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 ## Platina
 

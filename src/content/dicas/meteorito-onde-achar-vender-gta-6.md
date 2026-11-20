@@ -12,17 +12,20 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "2:10", data: "2026-11-19T01:53:46-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "12:25", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=ylFd8bwNO9U", titulo: "This GTA 6 Easter Egg Took FIVE YEARS to Find!", minuto: "8:55", data: "2026-11-18T15:09:56-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/all-waink-curiosities-in-gta-6/", titulo: "All WAiNK Curiosities In GTA 6", data: "2026-11-20T06:05:00-03:00" }
 descoberto_em: "2026-11-19T17:04:00-03:00"
-atualizado_em: "2026-11-19T17:04:00-03:00"
+atualizado_em: "2026-11-20T11:01:00-03:00"
 historico:
+  - { data: "2026-11-20T11:01:00-03:00", nota: "Mais 3 meteoritos, um ao lado de cada carcaça de criatura estranha de Mariana County (Abismo Key, Goose Key e Wetman Bay), pelo GameSpot." }
   - { data: "2026-11-19T17:04:00-03:00", nota: "Publicada confirmada: o acampamento do meteorito aparece nos vídeos do Robbin Rams e do Milo; a venda no marketplace e na loja de penhores vem do ZacCoxTV." }
 perguntas:
   - { p: "Onde fica o meteorito no GTA 6?", r: "Num acampamento destruído na encosta leste do Mount Kalaga, em Lummox County, no alto do mapa. Também há um embaixo da cama da casa do OVNI, em Bellville." }
   - { p: "Onde vender o meteorito no GTA 6?", r: "No marketplace do Lifeinvader, pelo celular, ou numa loja de penhores, segundo o ZacCoxTV. Nenhum vídeo mostrou o preço ainda." }
   - { p: "O Mount Chiliad do vídeo é o Mount Kalaga?", r: "É. O Robbin Rams usou o nome da montanha do GTA 5, mas o lugar que ele mostra fica em Lummox County, o condado do Mount Kalaga." }
+  - { p: "Onde tem mais meteoritos no GTA 6?", r: "Segundo o GameSpot, há um ao lado de cada carcaça de criatura estranha de Mariana County: em Abismo Key, em Goose Key (dentro da base militar) e numa ilha de Wetman Bay. Outro fica embaixo da cama da casa do OVNI, em Bellville." }
 ---
 
-O meteorito do GTA 6 fica num **acampamento destruído na encosta leste do Mount Kalaga**, a grande montanha do norte do mapa, em **Lummox County**. Dá para pegar um pedaço da pedra e vender depois. O Robbin Rams e o Milo mostraram o mesmo lugar em vídeo.
+O meteorito do GTA 6 fica num **acampamento destruído na encosta leste do Mount Kalaga**, a grande montanha do norte do mapa, em **Lummox County**. Dá para pegar um pedaço da pedra e vender depois. O Robbin Rams e o Milo mostraram o mesmo lugar em vídeo. E ele não é o único: há pelo menos mais quatro pelo mapa, listados no fim da página.
 
 Os nomes de lugares estão como aparecem nos vídeos em inglês. No jogo em português eles podem aparecer traduzidos.
 
@@ -60,5 +63,17 @@ Nenhum dos vídeos mostra a venda acontecendo nem o preço. Por isso, ainda não
 
 - **Casa do OVNI, em Bellville:** há um meteorito embaixo da cama do morador. Para entrar, é preciso arrombar a garagem.
 - **Cratera no alto do Mount Kalaga:** o ZacCoxTV mostrou uma cratera com um meteorito que caiu há pouco e ainda solta fumaça, no topo da montanha. Ele não fala do acampamento, então pode ser o mesmo ponto do Robbin Rams e do Milo ou outro bem perto.
+
+## Os 3 meteoritos ao lado das carcaças
+
+O GameSpot achou um meteorito colecionável perto de cada uma das três **carcaças de criatura estranha** de Mariana County. As carcaças são curiosidades que o app WAiNK escaneia, então dá para fazer as duas coisas na mesma viagem:
+
+| Carcaça | Como chegar | Detalhe |
+|---|---|---|
+| Abismo Key | Pegue a rodovia para o sul-sudoeste até Abismo Key e atravesse o mangue ao sul até a praia | Parece o esqueleto de um alienígena |
+| Goose Key | Dentro da [base militar](../base-militar-gta-6-como-entrar/) Mile Zero Air Station, seguindo o litoral para o nordeste | Área restrita: tente não ser visto pelos militares |
+| Wetman Bay | Em Wetman Bay, na ilha ao norte da praia cheia de tubarões mortos | Fica num grupo de ilhas, então vá de barco |
+
+As outras curiosidades estão em [curiosidades e pontos turísticos do WAiNK](../curiosidades-pontos-turisticos-waink-gta-6/).
 
 Mais segredos com alienígenas e discos voadores estão na [lista de easter eggs do GTA 6](../easter-eggs-gta-6-lista/).
