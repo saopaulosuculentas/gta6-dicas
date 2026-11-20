@@ -10,24 +10,38 @@ imagens:
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/", data: "2026-11-18T21:00:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-save-weapons-you-find-in-gta-6/", titulo: "How To Save Guns And Weapons You Find In GTA 6", data: "2026-11-19T22:15:20-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "3:49", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=nOAb73vyEPw", titulo: "GTA 6 Weapons You Can Get for FREE – Best Unique Gun Locations!", minuto: "0:34", data: "2026-11-19T13:59:47-03:00" }
   - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:03", data: "2026-11-19T14:00:35-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T10:22:00-03:00"
 historico:
+  - { data: "2026-11-20T10:22:00-03:00", nota: "Entrou o guia escrito do GameSpot: arma some ao avançar missão ou dormir; porta-malas de carro que não é seu não guarda nada; garagem comprada com armário também serve; a aba Variants guarda a arma que parece perdida. O GameSpot diz que toda Ammu-Nation tem armário, e o GamesRadar+ tira as casas de penhores." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Virou confirmada: MrBossFTW, WiLLiSGaming e GameSpot também mostram as armas no porta-malas e a volta pela Ammu-Nation. Entraram os três tipos de arma (sem dono, sua e única), o armário que não abre com arma sem dono e o porta-malas do carro registrado." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: dois guias do GamesRadar+ (contam como uma fonte). A dica do armário aparece no quadro do vídeo do kevinsmak." }
 perguntas:
   - { p: "Quantas armas dá para carregar no GTA 6?", r: "Duas armas de mão e duas armas longas, mais um espaço para corpo a corpo e um para explosivos. O resto fica no porta-malas ou na Ammu-Nation." }
-  - { p: "Como recuperar uma arma perdida no GTA 6?", r: "Vá ao armário verde de uma Ammu-Nation, aperte triângulo (Y no Xbox) e escolha Manage Weapons. Toda arma que você possui aparece ali." }
+  - { p: "Como recuperar uma arma perdida no GTA 6?", r: "Vá ao armário verde de uma Ammu-Nation, aperte triângulo (Y no Xbox) e escolha Manage Weapons. Toda arma que você possui aparece ali. Se não achar, pare em cima do tipo de arma e aperte triângulo (Y) para abrir a aba Variants." }
   - { p: "Como guardar arma longa no porta-malas no GTA 6?", r: "Abra o porta-malas do seu veículo pessoal com triângulo (Y), segure L1 (LB) e aperte quadrado (X no Xbox) para guardar a arma longa." }
   - { p: "Arma tomada de inimigo fica comigo no GTA 6?", r: "Não para sempre. Ela não vira sua: dá para usar enquanto houver munição e guardar no porta-malas, mas se ficar para trás, some. Só as armas compradas e as únicas voltam pelo armário da Ammu-Nation." }
 ---
 
 No GTA 6, você guarda armas no **porta-malas do seu veículo pessoal** e gerencia todas as que possui no **armário de armas da Ammu-Nation**. Isso é preciso porque, ao contrário dos GTA anteriores, o jogo limita quantas armas você leva no corpo. O GamesRadar+, o MrBossFTW, o WiLLiSGaming e o GameSpot mostram o mesmo sistema.
 
-Os nomes de menus e lojas estão em inglês, como saíram no GamesRadar+. No jogo em português eles podem aparecer traduzidos.
+Os nomes de menus e lojas estão em inglês, como saíram no GamesRadar+ e no GameSpot. No jogo em português eles podem aparecer traduzidos.
+
+## Por que a arma some
+
+Pegar uma arma não quer dizer que ela fica com você. Segundo o GameSpot, uma arma equipada pode sumir quando a **missão avança**, quando o personagem **dorme** ou por outros motivos. Para não perder, guarde no porta-malas do seu veículo pessoal ou confira o armário de armas. O GameSpot fala em mais de 100 armas no jogo.
+
+As armas chegam por vários caminhos, segundo o GameSpot:
+
+- **Compradas na Ammu-Nation:** é o jeito mais seguro. Na compra, a opção de comprar e equipar já põe a arma no seu equipamento.
+- **Tiradas de inimigos**, mortos ou desmaiados.
+- **Roubadas** de viaturas da polícia ou de arsenais militares.
+- **Lendárias**, com ícone de arma dourada, em esconderijos como os da Kingfisher.
+- **Da história:** algumas missões deixam você ficar com a arma.
 
 ## Quantas armas você carrega
 
@@ -55,7 +69,9 @@ Na aba de itens há um espaço para cada tipo: Masks, Headgear, Headwear, Outfit
 
 Daqui você troca os itens guardados e equipa as armas de mão e as armas longas que deixou no carro.
 
-Segundo o GameSpot, quando você registra um carro no seu nome, **todas as suas armas passam a ficar no porta-malas dele** sozinhas. É uma das vantagens do registro, ao lado de chamar o carro pelo app e consertá-lo se for destruído. Veja como registrar em [como roubar carro](../como-roubar-carro-gta-6/).
+**Só no carro que é seu.** Abrindo o porta-malas de **qualquer** veículo aparece a opção **Stow Longarms**, mas o GameSpot avisa: arma guardada em carro que não é seu fica nele, e esse carro normalmente se perde durante a partida. Use o seu veículo pessoal, que fica sempre por perto ou a um telefonema de distância.
+
+Segundo o vídeo do GameSpot, quando você registra um carro no seu nome, **todas as suas armas passam a ficar no porta-malas dele** sozinhas. É uma das vantagens do registro, ao lado de chamar o carro pelo app e consertá-lo se for destruído. Veja como registrar em [como roubar carro](../como-roubar-carro-gta-6/).
 
 ## Pelo armário da Ammu-Nation
 
@@ -64,11 +80,21 @@ Segundo o GameSpot, quando você registra um carro no seu nome, **todas as suas 
 3. Segure **L1 (LB)** para mexer no equipamento ou aperte **triângulo (Y)** para gerenciar as armas.
 4. Escolha **Manage Weapons**. Ali aparecem todas as armas que você possui e as Unique Weapon Variants que comprou ou achou.
 
-Um dos guias do GamesRadar+ diz que toda Ammu-Nation tem armário. O outro corrige: quase todas, menos as versões de **casa de penhores** (Pawn shop).
+Um dos guias do GamesRadar+ diz que toda Ammu-Nation tem armário. O outro corrige: quase todas, menos as versões de **casa de penhores** (Pawn shop). O GameSpot diz que há um armário alto e verde em toda Ammu-Nation de Leonida e não cita a exceção.
+
+**Garagem também serve.** Segundo o GameSpot, uma garagem que você comprou e que tenha armário de armas funciona igual. Veja os preços em [garagens do GTA 6](../garagens-gta-6-locais-e-precos/).
 
 ## Recuperar arma perdida ou destruída
 
 Perdeu uma arma numa fuga ou ela foi destruída? No **Manage Weapons** do armário você pega de volta qualquer arma que seja sua. Isso vale para as armas compradas e para as únicas. Arma tomada de inimigo não volta (veja abaixo).
+
+O GameSpot explica onde a arma "perdida" costuma estar:
+
+1. No **Manage Weapons**, escolha a classe (pistola, submetralhadora, fuzil e assim por diante).
+2. Pare em cima do tipo de arma, por exemplo o fuzil **Duke .556**, e aperte **triângulo (Y)** para abrir a aba **Variants**.
+3. Ali aparecem todas as versões daquele tipo que você tem. Achou a sua? Aperte **X (A no Xbox)** para pôr no equipamento.
+
+Se a arma não está no porta-malas, nem no equipamento, nem no armário, o GameSpot diz que ela provavelmente se perdeu de vez.
 
 ## Arma sua, arma sem dono e arma única
 

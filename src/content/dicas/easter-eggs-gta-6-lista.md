@@ -17,9 +17,15 @@ fontes:
   - { tipo: youtube, canal: "Nobreza Games", url: "https://www.youtube.com/watch?v=tzH_eA9vqPA", titulo: "7 SEGREDOS E EASTER EGGS no GTA 6", minuto: "4:18", data: "2026-11-19T12:03:32-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "3:56", data: "2026-11-19T01:53:46-03:00" }
   - { tipo: youtube, canal: "Robbin Rams", url: "https://www.youtube.com/watch?v=OT9VS3yBodM", titulo: "GTA 6 SECRET BUNKER FOUND IN GRASSRIVERS", minuto: "2:25", data: "2026-11-18T17:30:23-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/it-sure-looks-like-rockstar-co-founder-sam-houser-is-hiding-in-gta-6-as-fans-find-little-sam-easter-egg-that-calls-back-to-gta-3/", titulo: "It sure looks like Rockstar co-founder Sam Houser is hiding in GTA 6 as fans find \"Little Sam\" Easter egg that calls back to GTA 3", data: "2026-11-19T14:31:33-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/", titulo: "GTA 6 is a movie and TV goldmine, as players discover everything from Fast and Furious cars to Dexter's apartment", data: "2026-11-20T07:53:25-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/grand-theft-auto-6-includes-a-joke-about-gta-7-2000755921", titulo: "Grand Theft Auto 6 Includes A Joke About GTA 7", data: "2026-11-18T09:00:12-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/18-coolest-details-players-have-spotted-in-gta-6-so-far-2000758435", titulo: "18 Coolest Details Players Have Spotted In GTA 6 So Far", data: "2026-11-19T17:00:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/grand-theft-auto-vi-gta6-rockstar-japanese-restaurant-puns-2000758644", titulo: "Japan’s Players Are Appreciating Rockstar’s Clever Parody Of America’s Bad Japanese Restaurants", data: "2026-11-20T08:36:58-03:00" }
 descoberto_em: "2026-11-19T08:21:00-03:00"
-atualizado_em: "2026-11-19T16:28:00-03:00"
+atualizado_em: "2026-11-20T10:23:00-03:00"
 historico:
+  - { data: "2026-11-20T10:23:00-03:00", nota: "Entraram o Little Sam (GamesRadar+ e Kotaku, com aviso de spoiler), o restaurante Bimyou, o Eclipse de Velozes e Furiosos, o Hulk dos morangos, filmes nas missões, o pássaro Tony, a foto do San Andreas e detalhes do Kotaku. Race'n'Chase e X-Men passaram a confirmados; Dexter ganhou o GamesRadar+." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram o depósito da torre de vigia do Mount Kalaga com o código 69185 (confirmado: Milo e Robbin Rams), o bunker fechado de Grassrivers (Robbin Rams), a ilha do SOS e a influenciadora no alto da torre do ovo (Milo). Casa do OVNI passou a confirmada com o Milo, e o caranguejo gigante agora tem página própria." }
   - { data: "2026-11-19T14:42:00-03:00", nota: "Abdução confirmada com o vídeo do Gameplayrj (conquista \"A verdade está lá fora\"); laboratório dos caranguejos mostrado pelo Nobreza Games." }
   - { data: "2026-11-19T09:22:00-03:00", nota: "Acrescentada a estátua do Kraken no fundo do mar (Robbin Rams)." }
@@ -67,13 +73,20 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 - **Vice City.** Nos Keys, uma iguana anda por aí com a camisa do Tommy Vercetti. Em verificação: ZacCoxTV.
 - **San Andreas.** Adesivos "Lil' Probe Inn" pelos carros e uma [casa de ufólogo igual à do San Andreas](../casa-do-ovni-san-andreas-gta-6/), em Bellville, com um meteorito embaixo da cama que dá para vender. O Milo entrou na mesma casa e achou uma cobra no porta-malas do carro parado na frente. Confirmado: ZacCoxTV e Milo.
 - **Mistério Epsilon.** Um caminhão com o olho do culto Epsilon e um QR code. Por enquanto o código leva só ao site da Rockstar. Em verificação: T5G.
-- **Race'n'Chase.** No celular, um post reclama que o jogo "Race and Chase 7" atrasou de novo. Race'n'Chase era o nome original do primeiro GTA, e a piada é com a espera pelo próprio GTA 6. Em verificação: T5G.
+- **Race'n'Chase.** No celular, um post reclama que o jogo "Race and Chase 7" atrasou de novo. Race'n'Chase era o nome original do primeiro GTA, e a piada é com a espera pelo próprio GTA 6. O Kotaku achou o post logo no começo do jogo, no Snapmatic, a rede social do celular: a pessoa reclama que saiu até um jogo do desenho infantil Barnyard Blue antes de "Race and Chase 7". Para o Kotaku, o 7 é uma piada com o GTA 7. Confirmado: T5G e Kotaku.
+- **"Little Sam" (spoiler do capítulo 3).** Pule este item se ainda não jogou a missão "Boobie Time", do capítulo 3. Nela, quando o Jason se encontra com o Boobie Ike, aparece um sujeito chamado Little Sam, que quase não fala. Os fãs acham que é o Sam Houser, cofundador da Rockstar, e lembram do Sam do GTA 3, um figurante que sempre foi apontado como ele. A Rockstar não confirma. Confirmado: GamesRadar+ e Kotaku.
+- **Tony, o pássaro do San Andreas.** Segundo o Kotaku, o pássaro Tony, do GTA San Andreas, faz uma ponta no GTA 6, atrevido como antes. Em verificação: Kotaku.
+- **Uma foto de 2021.** Um lugar que aparecia numa foto do GTA San Andreas Definitive Edition, lançado em 2021, foi achado no mapa do GTA 6 por jogadores de um projeto de mapeamento. Ou seja: a Rockstar já mostrava um pedaço de Leonida cinco anos antes. Em verificação: Kotaku.
 
 ## Cultura pop
 
-- **O apartamento do Dexter.** Em Bay Harbor fica o prédio do Dexter Morgan. Não dá para entrar, mas no telhado tem faca, corda, luvas, plástico e algemas. No cais em frente há um barco parecido com o dele. Confirmado: T5G e ZacCoxTV.
+- **O apartamento do Dexter.** Em Bay Harbor fica o prédio do Dexter Morgan. Não dá para entrar, mas no telhado tem faca, corda, luvas, plástico e algemas. No cais em frente há um barco parecido com o dele. O GamesRadar+ também achou o prédio, com as armas do Dexter no telhado, mas diz que o conjunto fica em Washington Island. Confirmado: T5G, ZacCoxTV e GamesRadar+.
 - **A casa do Bob Esponja.** Um ponto de ônibus em forma de abacaxi. Em verificação: T5G.
-- **X-Men de mentira.** Revistas e figurinhas com paródias de Magneto, Ciclope e outros. Em verificação: T5G.
+- **X-Men de mentira.** Revistas e figurinhas com paródias de Magneto, Ciclope e outros. O GamesRadar+ destaca uma revista chamada "RX Men", com o Dr. Placebo, um vilão com cara de Magneto. Confirmado: T5G e GamesRadar+.
+- **O carro do Brian, de Velozes e Furiosos.** O Mitsubishi Eclipse 1995 do Brian O'Conner, o personagem do Paul Walker, fica numa garagem em Vespucci Island. Segundo o GamesRadar+, ele já vem igual ao do filme, sem precisar de oficina. Veja [o carro do Paul Walker](../carro-paul-walker-eclipse-gta-6/).
+- **Um Hulk em Leonida.** Uma missão secundária com morangos termina com um personagem virando um gigante tipo Hulk, com a roupa rasgada, segundo o GamesRadar+. O Kotaku cita uma missão do "Red Hulk" que o streamer IShowSpeed jogou ao vivo, que parece ser a mesma. Confirmado: GamesRadar+ e Kotaku.
+- **Duro de Matar e Fogo contra Fogo.** Sem dar detalhes, o GamesRadar+ diz que missões mais adiante imitam esses dois filmes. Fogo contra Fogo já tinha inspirado a missão Three Leaf Clover, do GTA 4. Em verificação: GamesRadar+.
+- **Bimyou, o "japonês" que vende pão.** Em Vice City há um restaurante japonês chamado Bimyou, com placa de sushi e ramen. Por dentro é uma cafeteria, e "sushi" e "ramen" são os nomes dos pães. Em japonês, "bimyou" quer dizer algo como "meia-boca". Um dos pães é o coppepan, um pão japonês parecido com o de cachorro-quente. Segundo o Kotaku, os jogadores do Japão adoraram a piada com os restaurantes que usam palavras japonesas só para parecer chiques. Em verificação: Kotaku.
 
 ## Alienígenas e coisas estranhas
 
@@ -92,6 +105,13 @@ Veja [o laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 - **Videogame em casa.** A casa ganha um console, o Joy System, com jogos completos: um de tiro com zumbis, um de cima para baixo e um de quebra-cabeça. Em verificação: T5G.
 - **Empilhadeira.** Dá para roubar uma empilhadeira e usar para virar carros. Em verificação: T5G.
 - **Avião caindo.** Aviões pequenos caem do céu como evento aleatório, com sobrevivente e carga. Veja [o avião caindo](../aviao-caindo-evento-aleatorio-gta-6/).
+- **Urso polar fugido.** Num evento aleatório, um urso polar escapa do caminhão que o levava para o zoológico. Se isso acontecer depois de você conhecer um certo caçador, ele compra o urso abatido. Em verificação: Kotaku. Veja também [pesca e caça](../pesca-e-caca-gta-6/).
+- **62 tipos de pássaros.** Dá para catalogar todos, segundo o Kotaku. Em verificação: Kotaku.
+- **Começos diferentes.** A abertura muda um pouco conforme o jeito de jogar: a jornalista do Kotaku e o marido viram cenas iniciais diferentes, dependendo de onde e como a Lucia foi pega pela polícia. Em verificação: Kotaku.
+- **Livros para ler.** Muitos livros espalhados pelo jogo podem ser lidos, e vários são engraçados. Em verificação: Kotaku.
+- **TV que prende.** A TV funciona como uma TV de verdade, e tem jogador que ficou horas assistindo. Em verificação: Kotaku. Veja [o que fazer na casa do Jason](../casa-do-jason-o-que-fazer-gta-6/).
+- **Weird Al no rádio.** O "Weird Al" Yankovic apresenta a Vice City FM, só de anos 80. Veja [rádios e músicas do GTA 6](../radios-musicas-gta-6/).
+- **Jason gordo.** Com muito fast food e nada de treino, o Jason chega ao peso máximo, e a Lucia muda bem menos. Veja [peso e corpo no GTA 6](../cabelo-cresce-peso-corpo-gta-6/).
 - **O fim do mapa.** Veja [o que acontece no fim do mapa do GTA 6](../fim-do-mapa-gta-6/).
 
 Os códigos de trapaça estão em outra lista: [todos os códigos do GTA 6](../todos-os-codigos-gta-6-lista-completa/).

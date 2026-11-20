@@ -15,9 +15,11 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=bCKm934JnY0", titulo: "50 GTA 6 Easter Eggs & Secrets!", minuto: "3:53", data: "2026-11-19T05:47:12-03:00" }
   - { tipo: youtube, canal: "Punish", url: "https://www.youtube.com/watch?v=SUwd1rWSgcs", titulo: "GTA 6 - BIGFOOT Easter Egg Secret Scene (LOCATION)", minuto: "1:20", data: "2026-11-18T13:57:55-03:00" }
   - { tipo: youtube, canal: "The Easter Egg Hunter", url: "https://www.youtube.com/watch?v=WjQ86LH2hMY", titulo: "GTA VI Skunk Ape Easter Egg (Bigfoot) Part 2/3", minuto: "0:00", data: "2026-11-19T12:01:40-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/", titulo: "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6", data: "2026-11-19T17:12:34-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T10:23:00-03:00"
 historico:
+  - { data: "2026-11-20T10:23:00-03:00", nota: "Added PC Gamer's sighting route (Jason's boat across Gambit Bay to a dead-end road, then Focus mode), the green stink cloud that knocks you out, and the Skunk Ape flyers that point to the quest. The full quest up to the rifle is still JFM only, so the page stays unverified." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Added The Easter Egg Hunter, who shows the start of the quest: Kirk's voicemail (Pelican Valley, most evenings), meeting him, hitting the truck with a stick, following the drone light and the warning not to shoot. The full quest up to the rifle is still JFM only, so the page stays unverified." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. The Skunk Ape and the effigy appear in four channels; the full quest up to the rifle has only been shown by JFM so far." }
 perguntas:
@@ -27,7 +29,7 @@ perguntas:
   - { p: "Who is Mr. Mangrove in GTA 6?", r: "It's the name the quest characters give the Skunk Ape, the hairy creature of the Grassrivers swamps." }
 ---
 
-GTA 6's "Bigfoot" isn't just a jump scare: it's the start of a **hidden side quest**. The creature is called the **Skunk Ape** (the characters call it **Mr. Mangrove**), it lives in the Grassrivers swamps, and hunting it down gets you a **unique, fully camouflaged sniper rifle**. JFM showed the quest from start to finish. T5G, ZacCoxTV and Punish also ran into the Skunk Ape or its effigy, and The Easter Egg Hunter showed the start of the hunt with Kirk.
+GTA 6's "Bigfoot" isn't just a jump scare: it's the start of a **hidden side quest**. The creature is called the **Skunk Ape** (the characters call it **Mr. Mangrove**), it lives in the Grassrivers swamps, and hunting it down gets you a **unique, fully camouflaged sniper rifle**. JFM showed the quest from start to finish. T5G, ZacCoxTV and Punish also ran into the Skunk Ape or its effigy, The Easter Egg Hunter showed the start of the hunt with Kirk, and PC Gamer wrote up an easy route to the first sighting.
 
 The catch: the game **doesn't tell you** what to do after the first encounter. Lots of players stop at the scare and never find the quest.
 
@@ -38,9 +40,22 @@ The catch: the game **doesn't tell you** what to do after the first encounter. L
 3. You'll find an **effigy**, a human-shaped figure made of wood and vines.
 4. Examine it. Jason **blacks out** and, for a moment, you see the Skunk Ape up close.
 
+### Another way in: PC Gamer's boat route
+
+PC Gamer describes a route that starts at home, by boat:
+
+1. Start at **Jason's first house** and take **his boat** from the dock out back.
+2. Cross **Gambit Bay** and head for the **dead-end road** on the inner side of the peninsula across the water.
+3. Before you even reach land, a prompt tells you to switch on **Focus mode** and track down where the noises are coming from.
+4. The Skunk Ape bolts into the mangroves. Keep using Focus to chase it. You'll lose sight of it and find the **effigy** next to a tree instead.
+
+PC Gamer says the creature gives off a **green cloud of stink**, and that smell is what knocks Jason out when he checks the effigy, right after a close look at its huge feet. PC Gamer doesn't name the region for this spot, so it isn't clear whether it's the same stretch of swamp as the deer encounter above.
+
 ## Step 2: the note and the phone call
 
 This is the part everyone misses. According to JFM, nearby there's a **note stuck on a wall next to an ATM**, asking you to call a number.
+
+PC Gamer describes the lead a little differently: after the sighting, look for **Skunk Ape flyers** on storefronts and telephone poles around Leonida, which point you to the quest. It may well be the same notice in more than one place, but nobody has compared the two yet.
 
 1. Find the note and read it.
 2. **Call the number** on your in-game phone.

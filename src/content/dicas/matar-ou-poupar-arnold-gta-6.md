@@ -15,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "Red Dead Family", url: "https://www.youtube.com/watch?v=lSEBTCfbxGg", titulo: "GTA 6: Kill vs Spare Arnold - Hey Arnold Mission", minuto: "3:07", data: "2026-11-19T10:30:33-03:00" }
   - { tipo: youtube, canal: "Syed Abbas Sheerazi", url: "https://www.youtube.com/watch?v=fpnPC-0YpXE", titulo: "GTA 6 \"Hey Arnold!\" Mission Guide - Kill or Spare? (All Outcomes)", minuto: "9:27", data: "2026-11-19T14:37:17-03:00" }
 descoberto_em: "2026-11-19T16:49:00-03:00"
-atualizado_em: "2026-11-19T16:49:00-03:00"
+atualizado_em: "2026-11-20T10:22:00-03:00"
 historico:
+  - { data: "2026-11-20T10:22:00-03:00", nota: "Releitura do GamesRadar+: é a primeira grande escolha moral da história, e quem poupa o Arnold deixa o Brian sem saber de nada." }
   - { data: "2026-11-19T16:49:00-03:00", nota: "Publicada confirmada: escolhas e efeito no perfil pelo GamesRadar+ e pelo PC Gamer; as duas versões da cena final mostradas por Gamerpillar e Red Dead Family." }
 perguntas:
   - { p: "É melhor matar ou poupar o Arnold no GTA 6?", r: "Poupar. Pesa menos no perfil criminal, e o PC Gamer diz que matar não dá vantagem nenhuma." }
@@ -25,7 +26,7 @@ perguntas:
   - { p: "O Arnold volta depois se eu poupar?", r: "O PC Gamer dá a entender que sim, numa missão mais à frente, mas o texto é confuso e não diz qual. Até agora ninguém mostrou essa volta." }
 ---
 
-**Poupe o Arnold.** Na missão **Hey Arnold!**, do capítulo 1, deixar ele ir pesa menos no seu perfil criminal, e matar não dá nenhuma vantagem. A cena que vem depois é praticamente a mesma nos dois casos. O que muda de verdade é o perfil, e talvez uma aparição do Arnold mais para frente.
+**Poupe o Arnold.** Na missão **Hey Arnold!**, do capítulo 1, que o GamesRadar+ chama de primeira grande escolha moral da história, deixar ele ir pesa menos no seu perfil criminal, e matar não dá nenhuma vantagem. A cena que vem depois é praticamente a mesma nos dois casos. O que muda de verdade é o perfil, e talvez uma aparição do Arnold mais para frente.
 
 Os nomes de missão e das opções estão em inglês, como saíram no GamesRadar+ e no PC Gamer. No jogo em português podem aparecer traduzidos.
 
@@ -55,6 +56,8 @@ Quase nada. O GamesRadar+ diz que a cena depois da escolha é a mesma. Nos víde
 
 - **Se você matou:** o Jason responde que já está resolvido.
 - **Se você poupou:** o Jason garante que o Arnold vai ficar de boca fechada, e o Brian aprova.
+
+Segundo o GamesRadar+, quando você poupa, o Arnold some dali e o Brian não fica sabendo que ele foi solto.
 
 Na mesma festa o Brian apresenta o **Kenton**, que abre as missões de mergulho, como mostra o vídeo do Syed Abbas Sheerazi. Veja [tesouro no fundo do mar](../tesouro-fundo-do-mar-gta-6/).
 

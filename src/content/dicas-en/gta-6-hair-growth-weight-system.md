@@ -13,12 +13,14 @@ fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-confirm-true-fat-jason-and-max-weight-lucia-arent-very-fat-at-all-setting-the-stage-for-the-first-pc-mod-to-super-size-them/", titulo: "GTA 6 players confirm \"True Fat Jason\" and \"max weight Lucia\" aren't very fat at all", data: "2026-11-19T14:12:46-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016", titulo: "32 Spoiler-Free Tips As You Hop Into Grand Theft Auto 6", data: "2026-11-18T14:00:31-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/heres-why-you-can-get-a-haircut-at-3-am-in-gta-6-2000757815", titulo: "Here's Why You Can Get A Haircut At 3 AM In GTA 6", data: "2026-11-19T14:00:10-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/18-coolest-details-players-have-spotted-in-gta-6-so-far-2000758435", titulo: "18 Coolest Details Players Have Spotted In GTA 6 So Far", data: "2026-11-19T17:00:00-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "13:15", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "4:21", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "4:43", data: "2026-11-19T07:27:23-03:00" }
 descoberto_em: "2026-11-19T16:53:00-03:00"
-atualizado_em: "2026-11-19T16:53:00-03:00"
+atualizado_em: "2026-11-20T10:23:00-03:00"
 historico:
+  - { data: "2026-11-20T10:23:00-03:00", nota: "Added Kotaku: weight changes show up more on Jason than on Lucia." }
   - { data: "2026-11-19T16:53:00-03:00", nota: "Published as confirmed: the GamesRadar+ review says hair and beards don't grow naturally, and Kotaku explains the home mirror can only shave or trim. The weight gain method comes from a player, reported by GamesRadar+." }
 perguntas:
   - { p: "Does hair grow in GTA 6?", r: "No. Jason's and Lucia's hair and beards stay the same until you change them at the bathroom mirror or a salon." }
@@ -60,6 +62,8 @@ The player behind "True Fat Jason" posted the steps:
 5. **Skip workouts** with both characters.
 
 This is a player's method passed along by GamesRadar+, not an official rule from Rockstar. The same player also showed an "Overweight Strong" Jason with plenty of both fat and muscle, built from heavy workouts plus a fast food diet.
+
+**Jason changes more than Lucia.** Kotaku's roundup of early player discoveries notes the same ceiling and adds that Lucia's shape barely moves compared to Jason's. Jason can end up with a noticeable gut, while she stays close to her starting build. If you want to see the system at work, try it with Jason.
 
 ## Building muscle instead
 

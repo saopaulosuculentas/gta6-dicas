@@ -11,22 +11,36 @@ imagens:
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-manage-loadout/", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/how-to-remove-guns-from-trunk-recover-weapons-ammu-nation-gta-6/", data: "2026-11-18T21:00:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-save-weapons-you-find-in-gta-6/", titulo: "How To Save Guns And Weapons You Find In GTA 6", data: "2026-11-19T22:15:20-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "3:49", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=nOAb73vyEPw", titulo: "GTA 6 Weapons You Can Get for FREE – Best Unique Gun Locations!", minuto: "0:34", data: "2026-11-19T13:59:47-03:00" }
   - { tipo: youtube, canal: "GameSpot", url: "https://www.youtube.com/watch?v=dOm2fmIqBYk", titulo: "GTA 6 - How To Become A Carjacking Pro (Everything You Need To Know)", minuto: "2:03", data: "2026-11-19T14:00:35-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-19T18:04:00-03:00"
+atualizado_em: "2026-11-20T10:22:00-03:00"
 historico:
+  - { data: "2026-11-20T10:22:00-03:00", nota: "Added GameSpot's written guide: guns can vanish as missions progress or when you sleep; a trunk that isn't yours won't keep anything; an owned garage with a locker works too; the Variants tab is where a 'lost' gun usually is. GameSpot says every Ammu-Nation has a locker, while GamesRadar+ excludes the pawn shops." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Now confirmed: MrBossFTW, WiLLiSGaming and GameSpot also show guns kept in the trunk and recovered at Ammu-Nation. Added the three weapon types (unowned, owned and unique), the locker that won't open while you carry unowned guns, and the trunk of a registered car." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: two GamesRadar+ guides (one outlet). The locker tip shows up in a frame from kevinsmak's video." }
 perguntas:
   - { p: "How many weapons can you carry in GTA 6?", r: "Two sidearms and two longarms, plus one melee slot and one explosives slot. Everything else waits in your trunk or at Ammu-Nation." }
-  - { p: "How do you get a lost weapon back in GTA 6?", r: "Go to the green locker in an Ammu-Nation, press Triangle (Y on Xbox) and pick Manage Weapons. Every gun you own is listed there." }
+  - { p: "How do you get a lost weapon back in GTA 6?", r: "Go to the green locker in an Ammu-Nation, press Triangle (Y on Xbox) and pick Manage Weapons. Every gun you own is listed there. If you can't see it, hover over the weapon type and press Triangle (Y) to open its Variants tab." }
   - { p: "How do you put a longarm in your trunk in GTA 6?", r: "Open your Personal Vehicle's trunk with Triangle (Y), hold L1 (LB) for the loadout and press Square (X on Xbox) to stow the longarm." }
   - { p: "Do you keep guns you take from enemies in GTA 6?", r: "Not for good. They never become yours: you can use them while the ammo lasts and stash them in your trunk, but leave one behind and it's gone. Only bought and unique guns come back from the Ammu-Nation locker." }
 ---
 
 In GTA 6 you keep spare guns in your **Personal Vehicle's trunk** and manage everything you own from the **weapons locker at Ammu-Nation**. You need both, because unlike older GTA games, this one caps how many weapons you can have on you. GamesRadar+, MrBossFTW, WiLLiSGaming and GameSpot all describe the same system.
+
+## Why your guns disappear
+
+Picking up a gun doesn't mean it's yours for the rest of the game. GameSpot says an equipped weapon can vanish when a **mission moves the story on**, when you **sleep**, or for other reasons. The fix is to stow it in your Personal Vehicle or check the weapons locker. GameSpot counts more than 100 weapons in the game.
+
+According to GameSpot, guns come from a handful of places:
+
+- **Ammu-Nation purchases.** The safest route. Choosing buy and equip puts the gun straight into your loadout.
+- **Bodies.** Loot them from enemies you've killed or knocked out.
+- **Cop cars and military armories.**
+- **Legendary weapons,** marked with a gold gun icon, in compounds such as Kingfisher hideouts.
+- **Story missions,** some of which let you keep the gun afterwards.
 
 ## What you can carry
 
@@ -54,7 +68,9 @@ The Items tab has a single slot for each of these: Masks, Headgear, Headwear, Ou
 
 From here you can swap stored items and equip any sidearms or longarms you've left in the car.
 
-According to GameSpot, once you register a car in your name, **all your weapons are stored in its trunk** automatically. That's one of the perks of registering, along with summoning the car through an app and repairing it if it gets destroyed. Here's [how registering works](../gta-6-how-to-steal-cars/).
+**Only your own car counts.** Pop the trunk on **any** vehicle and you'll see a **Stow Longarms** option, but GameSpot warns that guns stashed in a car you don't own stay with that car, and you'll usually lose track of it. Use your Personal Vehicle, which is always nearby or a phone call away.
+
+According to GameSpot's video, once you register a car in your name, **all your weapons are stored in its trunk** automatically. That's one of the perks of registering, along with summoning the car through an app and repairing it if it gets destroyed. Here's [how registering works](../gta-6-how-to-steal-cars/).
 
 ## From the Ammu-Nation weapons locker
 
@@ -63,11 +79,21 @@ According to GameSpot, once you register a car in your name, **all your weapons 
 3. Hold **L1 (LB)** to manage your loadout, or press **Triangle (Y)** to manage your weapons.
 4. Pick **Manage Weapons**. It lists every gun you own, along with any Unique Weapon Variants you've bought or found.
 
-One GamesRadar+ guide says every Ammu-Nation has a locker. The other one is more precise: nearly all of them do, except the **Pawn shop** versions.
+One GamesRadar+ guide says every Ammu-Nation has a locker. The other one is more precise: nearly all of them do, except the **Pawn shop** versions. GameSpot says there's a tall green locker in every Ammu-Nation in Leonida and doesn't mention the exception.
+
+**Garages work too.** Per GameSpot, any garage you've bought that has a weapons locker does the same job. Prices are in our [garage guide](../gta-6-garage-locations-prices/).
 
 ## Getting back lost or destroyed guns
 
 Dropped a gun mid-chase or had it destroyed? As long as you own it, **Manage Weapons** at the locker gets it back for you. That covers guns you bought and unique ones. Guns taken from enemies don't come back (see below).
+
+GameSpot explains where a "missing" gun usually turns up:
+
+1. In **Manage Weapons**, pick the class (pistols, SMGs, assault rifles and so on).
+2. Hover over the weapon type, for example the **Duke .556** assault rifle, and press **Triangle (Y)** to open its **Variants** tab.
+3. That tab lists every version of that type you own. Found yours? Press **X (A on Xbox)** to put it in your loadout.
+
+If it isn't in your trunk, your loadout or the locker, GameSpot says it's probably gone for good.
 
 ## Owned, unowned and unique weapons
 

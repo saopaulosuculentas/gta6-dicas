@@ -1,7 +1,7 @@
 ---
 titulo: "GTA 6 Characters and Voice Actors: Who Plays Jason, Lucia and the Cast"
 titulo_seo: "GTA 6 Characters and Voice Actors: Full Main Cast"
-resumo: "Dylan Rourke plays Jason and Manni L. Perez plays Lucia in GTA 6. Here are the main characters, the actors behind them from Rockstar's official credits, and the famous cameos."
+resumo: "Dylan Rourke plays Jason and Manni L. Perez plays Lucia in GTA 6. Here are the main characters, the actors from Rockstar's official credits, who plays Mandy and the famous cameos."
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
@@ -13,9 +13,12 @@ fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/only-in-leonida", titulo: "Grand Theft Auto VI: Only in Leonida", data: "2026-11-18T16:00:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-characters-cast/", titulo: "GTA 6 characters and cast confirmed", data: "2026-11-19T08:41:19-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jason-actor-finally-speaks-out-as-rockstar-posts-the-full-cast-the-hardest-working-and-most-skilled-artisans-gaming-has-to-offer/", titulo: "GTA 6 Jason actor finally speaks out as Rockstar posts the full cast", data: "2026-11-19T12:39:30-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/", titulo: "The actress who plays Mandy in GTA 6 has revealed herself: 'If you play the game, let me know if you find me'", data: "2026-11-20T09:26:52-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6/", titulo: "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6", data: "2026-11-19T14:07:18-03:00" }
 descoberto_em: "2026-11-19T16:58:00-03:00"
-atualizado_em: "2026-11-19T16:58:00-03:00"
+atualizado_em: "2026-11-20T10:23:00-03:00"
 historico:
+  - { data: "2026-11-20T10:23:00-03:00", nota: "Added Mandy's actress (Lexie Shoaibi, via PC Gamer), more names from the expanded GamesRadar+ list after the credits went back up on Rockstar's site, and Weird Al's role on Vice City FM." }
   - { data: "2026-11-19T16:58:00-03:00", nota: "Published as confirmed: cast taken from the Main Cast section of Rockstar's official credits and checked against the GamesRadar+ list. Names that only appeared in rumors were left out." }
 perguntas:
   - { p: "Who plays Jason in GTA 6?", r: "Dylan Rourke, who tops the main cast list in Rockstar's official credits." }
@@ -51,6 +54,8 @@ Watch out for the similar names: **Manni L. Perez** (Lucia) and **Manny Perez** 
 
 GamesRadar+ also notes that trailer watchers had already worked out that Stephen Root was Brian.
 
+**Bobby Moynihan**, who voices Cal, spent close to ten years in the Saturday Night Live cast. **Stephen Root** is best known for King of the Hill, Office Space and Barry, and PC Gamer describes his Brian as the criminal boss Jason and Lucia answer to.
+
 ## More of the main cast
 
 The **Main Cast** section of the credits goes well beyond the eight names above. A few you'll meet early:
@@ -71,6 +76,51 @@ The **Main Cast** section of the credits goes well beyond the eight names above.
 
 Several of them, including Brian, Donnie, Dunk, Tyrone, Yasmani, Moses and Randy, buy the stuff you steal. See [fence locations](../gta-6-fence-locations/).
 
+## Even more names from the credits
+
+The full credits went back up on Rockstar's site on November 20, and GamesRadar+ expanded its list. Here are more credited roles. Some of these characters only show up later in the story, so we're only listing who plays them:
+
+| Character | Actor |
+|---|---|
+| Katerina Rosselli | Edwina Rai |
+| Mattia Tauro | Massi Pregoni |
+| Pilot Pete | Carl Palmer |
+| Captain Aldo Méndez | Chris McKinney |
+| Linda | Lisa Emery |
+| Billy | Spenser Granese |
+| Bret Vogel | Jariko Denman |
+| Papa Audacity | Brian Furey |
+| Yago Jiménez | Victor Almanzar |
+| Benedict Halifax | Ian Scott McGregor |
+| Karim | Rafi Silver |
+| Andrea | Christine Spang |
+| Raymond | Jaime Lincoln Smith |
+| Felipe | Alfredo Diaz |
+| Valentina | Josephine Phoenix |
+| Nicole Park | Sierra Katow |
+| Abraham Gonzalez | Nick Pupo |
+| Francisco "Cisco" Delgado | Mario D'Leon |
+| Nathan "Nate" Bozer | Brendan Sagalow |
+| Raina Koleva | Oksana Grishina |
+| Andrés de León | J. Eddie Martinez |
+| Petra Navarro | Elaine Del Valle |
+| César Navarro | Anthony Ruiz |
+| Rafa de León Navarro | Sebastian Montañez |
+| Gustavo Herrera | Josue Gutierrez |
+| KD | Jordan J. Adams |
+| Omar Dawoud | Barzin Akhavan |
+| Dardan | Jake Ventimiglia |
+| Vinny Capsik | Roger Wayne |
+| Liz Jackson | Tifané Williams |
+| Kevin Kueh | Abraham Lim |
+| Deputy Sarah Fitzroy | Kelly Grago |
+
+## Who plays Mandy
+
+Mandy, Jason's ex who rents one of Brian's houses and is behind on what she owes him, is played by **Lexie Shoaibi**. According to PC Gamer, she revealed the role on Instagram after launch, saying she provides both Mandy's voice and her motion capture, and asked fans to tell her if they spot her in the game.
+
+You meet Mandy early in the story, and she has quickly become one of the most talked-about characters. See [Mandy's house and the rent mission](../gta-6-mandy-house-rent-mission/).
+
 ## Famous faces in the credits
 
 - **Bad Bunny** plays Mitico Mario and hosts Cocoteo FM as **El Martillo**.
@@ -80,9 +130,9 @@ Several of them, including Brian, Donnie, Dunk, Tyrone, Yasmani, Moses and Randy
 - **Roselyn Sanchez** plays Mia Caminos.
 - **Sergio Castellitto** plays Giorgio Gallo.
 - **Kodak Black** and **Sexyy Red** appear as themselves.
-- **"Weird Al" Yankovic** contributed writing for the TV and radio content and hosts as DJ Al.
+- **"Weird Al" Yankovic** contributed writing for the TV and radio content and hosts **Vice City FM**, the '80s station, as DJ Al alongside actress Brigitte Nielsen. PC Gamer adds that he's also the voice of the Burger Shot ads.
 
-The rest of the radio lineup is in [GTA 6 radio stations and songs](../gta-6-radio-stations-songs/).
+The radio lineup also includes Lana Del Rey, Jeremy Irons, Jason Sudeikis and Gucci Mane, among others. The full list is in [GTA 6 radio stations and songs](../gta-6-radio-stations-songs/).
 
 ## How to see the full credits
 

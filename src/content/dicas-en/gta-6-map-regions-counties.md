@@ -10,20 +10,35 @@ imagens:
   - { arquivo: "mapa-gta-6-regioes-condados/mapa-key-lento.webp", legenda: "The in-game map zoomed in on Key Lento, the islands where Jason starts the story.", canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", minuto: "4:02" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/", titulo: "The GTA 6 map: Vice City, Ambrosia, and everything in between", data: "2025-05-13T12:27:25-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages/", titulo: "Rockstar has finally posted GTA 6's full map online—thank goodness, because clearing the entire thing in game takes ages", data: "2026-11-19T13:19:58-03:00" }
+  - { tipo: oficial, canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg?akim=1&imdensity=1&imwidth=3840", titulo: "Leonida map poster (official, high resolution)", data: "2026-11-19T13:19:58-03:00" }
 descoberto_em: "2026-11-19T16:10:00-03:00"
-atualizado_em: "2026-11-19T16:10:00-03:00"
+atualizado_em: "2026-11-20T10:22:00-03:00"
 historico:
+  - { data: "2026-11-20T10:22:00-03:00", nota: "Added Rockstar's official full map (direct link) and why it helps, per PC Gamer: fog of war on the in-game map, a zoom that never shows everything, and small roads only visible up close. New questions on the full, official and interactive map." }
   - { data: "2026-11-19T16:10:00-03:00", nota: "Published as unverified. Source: PC Gamer's GTA 6 map guide." }
 perguntas:
   - { p: "How many counties are on the GTA 6 map?", r: "Five: Vice-Dale, Leonard, Kelly, Lummox and Mariana, according to PC Gamer." }
-  - { p: "Where does GTA 6 start?", r: "In Key Lento, a chain of outlying islands in Mariana County, playing as Jason." }
-  - { p: "Is the GTA 6 map bigger than GTA 5's?", r: "Yes. Rockstar says it's twice the size, and PC Gamer found it takes ages to cross even by plane." }
-  - { p: "Where can you steal a tank in GTA 6?", r: "At Mile Zero Air Station, the military base in the southern keys. Trespassing there gets you a high Wanted level." }
+  - { p: "Where can I see the full official GTA 6 map?", r: "On Rockstar's website. On November 19 it posted the full map of Leonida in high resolution, with the small roads, highways and neighborhoods. The link is in the Full official map section of this page." }
+  - { p: "Is there an interactive GTA 6 map?", r: "The official map Rockstar posted is one big image, not an interactive map. In the game, the pause menu map lets you zoom, set waypoints and look up shops and missions through the Index, but it starts out covered in fog until you explore." }
+  - { p: "Is the GTA 6 map bigger than GTA 5's?", r: "Yes. Rockstar says it's twice the size, and per PC Gamer it's bigger than the GTA 5 and Red Dead Redemption 2 maps put together. It takes ages to cross even by plane." }
 ---
 
 The GTA 6 map of Leonida is split into **5 counties**: **Vice-Dale, Leonard, Kelly, Lummox and Mariana**. Each one has at least one landmark worth knowing, from the packed streets of Vice City down to the Key Lento islands where the story opens.
 
-It's a lot of ground. Rockstar called the map twice the size of GTA 5's, and PC Gamer says it feels even bigger than that: crossing it takes ages, even in a plane. On November 19, 2026, Rockstar put the **full map up for download** on its website, in a higher resolution.
+It's a lot of ground. Rockstar called the map twice the size of GTA 5's, and PC Gamer says it feels even bigger than that: crossing it takes ages, even in a plane. According to PC Gamer, Rockstar also said it beats Red Dead Redemption 2's map, and the two older maps combined. On November 19, 2026, Rockstar put the **full map up** on its website in high resolution (more below).
+
+## Full official map
+
+The official map lives on Rockstar's site: [full high-resolution map of Leonida](https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg?akim=1&imdensity=1&imwidth=3840). It's a single large poster-style image covering Vice City and the rest of the state. PC Gamer notes that it shows the small roads, highways and neighborhoods.
+
+It's handy even if you're already deep into the game. PC Gamer gives three reasons:
+
+- The in-game map starts out under a **fog of war** that only lifts as you explore.
+- Even with everything uncovered, you can't fit the whole map on screen no matter how far you zoom out. PC Gamer's Chris Livingston cleared it all after 100 hours of play and still couldn't see it in one view.
+- Smaller roads and neighborhood names only show up once you zoom in close.
+
+From what PC Gamer shows, Rockstar's release is an image rather than an interactive map. For setting waypoints and finding places, you still use the in-game map (see the end of this page).
 
 ## All 5 counties at a glance
 

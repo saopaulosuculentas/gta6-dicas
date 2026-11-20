@@ -1,7 +1,7 @@
 ---
 titulo: "Dá para jogar em primeira pessoa no GTA 6? (o truque do celular dirigindo)"
 titulo_seo: "GTA 6 tem primeira pessoa? O truque do celular dirigindo"
-resumo: "Não há opção de primeira pessoa no GTA 6. Mas, se você pegar o celular dirigindo, a câmera vai para dentro do carro e mostra o painel funcionando, com marcha e gasolina."
+resumo: "Não há opção de primeira pessoa no GTA 6. Mas pegar o celular dirigindo leva a câmera para dentro do carro, e um truque com o botão de câmera deixa você em primeira pessoa até ir à oficina."
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
@@ -13,21 +13,26 @@ fontes:
   - { tipo: youtube, canal: "StevieWunderKid", url: "https://www.youtube.com/watch?v=EnxecSVZSLk", titulo: "GTA 6's INSANE Car Details (#1)", minuto: "2:16", data: "2026-11-18T22:00:14-03:00" }
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=yjiEbYMk9ko", titulo: "GTA 6 ULTIMATE Beginner's Guide - Everything You NEED To Know Before Starting The Game!", minuto: "6:02", data: "2026-11-19T14:01:31-03:00" }
   - { tipo: youtube, canal: "Bombastic", url: "https://www.youtube.com/watch?v=Tgfo_s87AUA", titulo: "GTA 6 - RANDOM Details I Found in the OPEN WORLD", minuto: "30:59", data: "2026-11-18T15:17:20-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-first-person-mode-explained/", titulo: "Does GTA 6 have a first person mode?", data: "2026-11-18T21:00:00-03:00" }
 descoberto_em: "2026-11-19T18:09:00-03:00"
-atualizado_em: "2026-11-19T18:09:00-03:00"
+atualizado_em: "2026-11-20T10:23:00-03:00"
 historico:
+  - { data: "2026-11-20T10:23:00-03:00", nota: "Entrou o GamesRadar+: confirma que não há modo em primeira pessoa, ensina o truque do botão de câmera (que mantém a primeira pessoa até você ir à oficina) e diz que segurar L2 e clicar R3 também funciona a pé e conversando." }
   - { data: "2026-11-19T18:09:00-03:00", nota: "Publicada confirmada: sem opção de primeira pessoa no menu (MrDalekJD e StevieWunderKid); o celular dirigindo leva a câmera para dentro do carro nos vídeos do StevieWunderKid, do MrBossFTW e do Bombastic." }
 perguntas:
   - { p: "O GTA 6 tem modo em primeira pessoa?", r: "Não. Não existe a opção nas configurações. O ajuste mais parecido é a altura da câmera." }
-  - { p: "Como dirigir em primeira pessoa no GTA 6?", r: "Pegue o celular enquanto dirige. A câmera vai para dentro do carro, mas a estrada fica fora de foco e fica mais difícil dirigir." }
-  - { p: "Dá para mirar em primeira pessoa no GTA 6?", r: "Com algumas miras com luneta, sim, segundo o MrDalekJD. Fora isso, o jogo fica em terceira pessoa." }
+  - { p: "Como dirigir em primeira pessoa no GTA 6?", r: "Pegue o celular enquanto dirige e a câmera vai para dentro do carro. Para dirigir em primeira pessoa com a estrada nítida, use o truque do botão de câmera explicado nesta página." }
+  - { p: "Dá para mirar em primeira pessoa no GTA 6?", r: "Sim, com miras de luneta. O GamesRadar+ diz que segurar L2 (LT) e clicar R3 (RS) também passa a visão para primeira pessoa a pé e conversando, mas não dirigindo." }
+  - { p: "Como voltar para a terceira pessoa no GTA 6?", r: "Se você usou o truque do botão de câmera, leve o carro a uma oficina. A cena curta da entrada na oficina volta a câmera ao normal, segundo o GamesRadar+." }
 ---
 
-Não. O GTA 6 **não tem modo em primeira pessoa**, nem escondido no menu. O jeito de ver o jogo de dentro do carro é um truque: **pegue o celular enquanto dirige** e a câmera passa sozinha para a visão do motorista. O StevieWunderKid, o MrBossFTW e o Bombastic mostraram isso nos vídeos deles.
+Não. O GTA 6 **não tem modo em primeira pessoa**, nem escondido no menu. Mas há jeitos de chegar perto. O mais simples é um truque: **pegue o celular enquanto dirige** e a câmera passa sozinha para a visão do motorista. O StevieWunderKid, o MrBossFTW e o Bombastic mostraram isso nos vídeos deles. E o GamesRadar+ testou um segundo truque, com o **botão de câmera**, que deixa você em primeira pessoa até ir a uma oficina.
+
+Os nomes de menus e botões estão em inglês, como saíram no GamesRadar+. No jogo em português eles podem aparecer traduzidos.
 
 ## Não existe a opção no menu
 
-O MrDalekJD conta que muita gente procurou a primeira pessoa nas configurações e não achou, porque ela simplesmente não está lá. O ajuste mais perto disso é a **altura da câmera**. O StevieWunderKid também diz que não há primeira pessoa oficial para dirigir, e que não sabe se a Rockstar vai colocar depois.
+O MrDalekJD conta que muita gente procurou a primeira pessoa nas configurações e não achou, porque ela simplesmente não está lá. O ajuste mais perto disso é a **altura da câmera**. O StevieWunderKid também diz que não há primeira pessoa oficial para dirigir, e que não sabe se a Rockstar vai colocar depois. O GamesRadar+ confirma: não existe um modo próprio de primeira pessoa no jogo, ao contrário do GTA 5.
 
 Os outros ajustes de câmera, como o zoom em três distâncias, estão em [controles do GTA 6](../controles-gta-6-o-que-mudou/) e em [melhores configurações](../melhores-configuracoes-gta-6/).
 
@@ -41,9 +46,23 @@ Você continua controlando o carro, mas dirige pior. O MrBossFTW explica que a *
 
 Use o truque numa reta vazia ou devagar, e não no meio de uma fuga.
 
+## O truque do botão de câmera: primeira pessoa até a oficina
+
+O GamesRadar+ ensinou um jeito de **ficar** em primeira pessoa, inclusive dirigindo com a estrada nítida. A ideia veio de um jogador no Reddit e usa o fato de que o celular já muda a câmera. Passo a passo:
+
+1. Pause o jogo e abra as **configurações**.
+2. Vá na aba **Controller** e desça até **Touch Pad Button** (PS5) ou **View Button** (Xbox).
+3. Troque a função desse botão para **Camera** e feche o menu.
+4. Entre num carro e pegue o celular com o **direcional para cima**.
+5. Guarde o celular com **Bola** (**B** no Xbox) e, logo em seguida, aperte várias vezes o **touchpad** (o botão **View** no Xbox).
+
+O tempo para acertar é bem curto, então pode levar algumas tentativas. Quando dá certo, a câmera fica em primeira pessoa praticamente o tempo todo. Segundo o GamesRadar+, **dirigir funciona quase perfeito**, e com o analógico direito dá para olhar o interior do carro e o passageiro. Atirar já fica meio desajeitado.
+
+**Para voltar ao normal**, leve o carro a uma **oficina**. A cena curta do carro entrando na oficina já reseta a câmera, e você pode sair na hora. Depois, se não for usar mais o truque, volte a configuração do botão para o que era antes.
+
 ## O que dá para ver de dentro do carro
 
-O StevieWunderKid usou o truque para mostrar o painel, e quase tudo funciona de verdade:
+O StevieWunderKid usou o truque do celular para mostrar o painel, e quase tudo funciona de verdade:
 
 - **Velocímetro e conta-giros** se mexem, tanto no painel de ponteiro quanto no digital.
 - **Marcha:** o painel mostra P, R, N e D. Nos carros com painel digital, aparece até o número da marcha subindo e descendo.
@@ -53,8 +72,10 @@ O StevieWunderKid usou o truque para mostrar o painel, e quase tudo funciona de 
 
 O Stevie também elogia o acabamento do interior, que dá para ver inteiro nessa visão.
 
-## Mirar em primeira pessoa
+## Primeira pessoa a pé e na mira
 
-Fora do carro, a primeira pessoa só aparece na **mira com luneta**. O MrDalekJD diz que, com certas miras ópticas, clicar os dois analógicos juntos enquanto mira passa a visão para primeira pessoa. O MrBossFTW mostra outro comando nas armas com luneta: segure **L2** (LT no Xbox) e clique **R3** (RS) para trocar a visão da mira. Se um não funcionar, teste o outro.
+Esta página dizia que, fora do carro, a primeira pessoa só aparecia na **mira com luneta**. O MrDalekJD diz que, com certas miras ópticas, clicar os dois analógicos juntos enquanto mira passa a visão para primeira pessoa. O MrBossFTW mostra outro comando nas armas com luneta: segure **L2** (LT no Xbox) e clique **R3** (RS) para trocar a visão da mira.
 
-O resto do jogo, a pé ou dirigindo sem celular, fica em terceira pessoa. Para outras dúvidas do começo, veja as [dicas para iniciantes](../dicas-para-iniciantes-gta-6/).
+O GamesRadar+ vai além: segundo ele, o mesmo **L2 + R3** dá uma visão em primeira pessoa temporária na maioria das situações, como **andando a pé** e **conversando com personagens**, além da luneta. Só não funciona dirigindo. Se um comando não funcionar no seu jogo, teste o outro.
+
+Fora desses casos, o jogo fica em terceira pessoa. Para outras dúvidas do começo, veja as [dicas para iniciantes](../dicas-para-iniciantes-gta-6/).

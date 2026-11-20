@@ -16,8 +16,9 @@ fontes:
   - { tipo: youtube, canal: "Red Dead Family", url: "https://www.youtube.com/watch?v=lSEBTCfbxGg", titulo: "GTA 6: Kill vs Spare Arnold - Hey Arnold Mission", minuto: "3:07", data: "2026-11-19T10:30:33-03:00" }
   - { tipo: youtube, canal: "Syed Abbas Sheerazi", url: "https://www.youtube.com/watch?v=fpnPC-0YpXE", titulo: "GTA 6 \"Hey Arnold!\" Mission Guide - Kill or Spare? (All Outcomes)", minuto: "9:27", data: "2026-11-19T14:37:17-03:00" }
 descoberto_em: "2026-11-19T16:49:00-03:00"
-atualizado_em: "2026-11-19T16:49:00-03:00"
+atualizado_em: "2026-11-20T10:22:00-03:00"
 historico:
+  - { data: "2026-11-20T10:22:00-03:00", nota: "Second pass on GamesRadar+: it calls this the story's first big moral choice, and sparing Arnold leaves Brian none the wiser." }
   - { data: "2026-11-19T16:49:00-03:00", nota: "Published as confirmed: choices and profile impact from GamesRadar+ and PC Gamer; both versions of the closing scene shown by Gamerpillar and Red Dead Family." }
 perguntas:
   - { p: "Should I kill or spare Arnold in GTA 6?", r: "Spare him. It hurts your criminal profile less, and PC Gamer says killing him gives you nothing extra." }
@@ -26,7 +27,7 @@ perguntas:
   - { p: "Does Arnold come back later?", r: "PC Gamer suggests so, in a later mission, but its wording is muddled and it doesn't say which one. Nobody has shown it yet." }
 ---
 
-**Spare Arnold.** In the Chapter 1 mission **Hey Arnold!**, letting him go is easier on your criminal profile, and killing him doesn't earn you anything. The scene that follows is almost identical either way. What really changes is your profile, plus a possible Arnold cameo later on.
+**Spare Arnold.** In the Chapter 1 mission **Hey Arnold!**, which GamesRadar+ calls the story's first major moral choice, letting him go is easier on your criminal profile, and killing him doesn't earn you anything. The scene that follows is almost identical either way. What really changes is your profile, plus a possible Arnold cameo later on.
 
 ## How the mission gets you there
 
@@ -54,6 +55,8 @@ Barely. GamesRadar+ says the cutscene after your choice is the same. Gamerpillar
 
 - **If you killed him:** Jason says it's taken care of.
 - **If you spared him:** Jason says Arnold will keep his mouth shut, and Brian likes hearing that.
+
+According to GamesRadar+, when you spare him Arnold slips away and Brian never finds out he was let go.
 
 At the same party Brian introduces **Kenton**, who opens up the diving jobs, as Syed Abbas Sheerazi's video shows. See [sunken treasure and shipwrecks](../gta-6-sunken-treasure-shipwrecks/).
 
