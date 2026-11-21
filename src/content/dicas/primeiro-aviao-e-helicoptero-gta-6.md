@@ -3,15 +3,17 @@ titulo: "Onde pegar o primeiro avião e helicóptero no GTA 6 (perto da casa do 
 titulo_seo: "Onde pegar avião e helicóptero no GTA 6 no começo"
 resumo: "No GTA 6 há hidroaviões e um helicóptero sem ninguém tomando conta em Southwind, a uns 4 km da casa do Jason em Key Lento. Dá para roubar sem levar estrela."
 categoria: segredos-e-locais
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - {arquivo: "oficial/leonida-keys.webp", legenda: "Os Leonida Keys, região da casa do Jason, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/", titulo: "GTA 6: Where to find your first plane and helicopter right away", data: "2026-11-18T19:51:00-03:00" }
+  - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "2:15", data: "2026-11-20T17:00:37-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T08:51:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Virou confirmada: o Nerpah mostra o mesmo hangar de hidroaviões Mammoth Dodo e o helicóptero Buckingham Maverick no cais, no estacionamento da Sherwin Boatworks e do Chicki's Tiki Bar, em Southwind." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada em verificação. Fonte: PC Gamer." }
 perguntas:
   - { p: "Onde tem avião perto da casa do Jason no GTA 6?", r: "Em Southwind, num hangar ao lado do estacionamento da Sherwin Boatworks e do Chicki's Tiki Bar. Lá ficam hidroaviões Mammoth Dodo." }
@@ -19,7 +21,7 @@ perguntas:
   - { p: "Precisa de estrela para pegar esses aviões?", r: "Não. Segundo o PC Gamer, nunca tem ninguém por perto, então dá para pegar sem chamar atenção." }
 ---
 
-Logo no começo do GTA 6 já dá para voar. Perto da casa do Jason, em **Southwind**, ficam **hidroaviões** e um **helicóptero** sem ninguém tomando conta. Segundo o PC Gamer, dá para pegar sem levar nenhuma estrela da polícia.
+Logo no começo do GTA 6 já dá para voar. Perto da casa do Jason, em **Southwind**, ficam **hidroaviões** e um **helicóptero** sem ninguém tomando conta. Segundo o PC Gamer, dá para pegar sem levar nenhuma estrela da polícia. O Nerpah mostrou o mesmo lugar e dá uma ideia boa: pegue um deles cedo e use para explorar o mapa e chegar mais rápido aos [carros raros](../carros-raros-lista-do-randy-gta-6/).
 
 ## Como chegar
 

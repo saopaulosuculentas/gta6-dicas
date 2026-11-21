@@ -23,9 +23,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=5ap9-onXybw", titulo: "GTA 6 - 7 Secret Items, Weapons & Hidden Money You Won't Want to Miss!", minuto: "9:06", data: "2026-11-19T18:00:22-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "20:20", data: "2026-11-19T20:45:16-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "1:36", data: "2026-11-19T21:00:01-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "1:04", data: "2026-11-20T15:00:07-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-20T11:00:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Novo vídeo do Arekkz Gaming: onde fica o armazém do M306 (loja Black Eagle perto do Griffin Shooting Range) e o caminho da empilhadeira, segunda fonte do KZ59 dourado do armazém de pesca e quatro locais novos (fuzil do casarão ao sul de Grassrivers, escopeta e Nipper .38 dos barcos naufragados, pistola de rajada do estaleiro de Little Cuba e Clunker 556 de Port Gellhorn). A senha do cofre do armazém de pesca saiu da página: os dois canais ouviram números diferentes e ela pode mudar de jogo para jogo." }
   - { data: "2026-11-20T11:00:00-03:00", nota: "Entraram o nome Kingfishers Laird 350 e o local do Manatee Motel (Millzaa e Rodwenn), a Turnt Nipper .38 do planador em Bobcat Bight (Arekkz Gaming e BennyCentral), o W-22 em Wetman Bay, a segunda fonte da cabana do pântano e do trailer do Griffin Shooting Range, três armas do BennyCentral, a escopeta do RageGamingVideos e o aviso de que arma única não aceita modificação. Links para as lojas de armas e os itens secretos do começo." }
   - { data: "2026-11-19T18:18:00-03:00", nota: "Corrigido o local do ferro-velho (mapa do vídeo: oeste de Vice City, SR-120) e o nome da arma: Conspiracist Type 9." }
   - { data: "2026-11-19T17:03:00-03:00", nota: "Virou confirmada: WiLLiSGaming e YOUNG DIRK também mostram que a arma única fica com você. Entraram o Black Eagle M306, as armas da cabana do pântano, a Cockroach Extreme, a submetralhadora do ferro-velho, o Manatee Motel (OutlawGarry) e o ícone amarelo no mapa." }
@@ -49,7 +51,7 @@ Nem toda arma única fica escondida: algumas são **vendidas nas lojas de armas*
 - **Não aceita modificação.** O OutlawGarry achava que arma **azul** é sua e pode ser personalizada, e que arma **amarela** é única e não aceita personalização, mas disse que não tinha certeza. Agora o Arekkz Gaming e o BennyCentral dizem a mesma coisa: variante única **não pode ser modificada**. O que você acha é o que fica, e por isso as que já vêm com mira e silenciador valem mais no começo.
 - **Nem tudo é único.** Lança-granadas e lança-foguetes achados pelo mapa são comuns: se você morrer com eles, perde (WiLLiSGaming). O sniper SM-69 da torre de rádio de Key Lento e o fuzil Duke 5.56 dos esconderijos também são comuns, segundo o Arekkz Gaming, o Rodwenn e o RageGamingVideos. Guarde esses no porta-malas.
 
-Hoje vários locais já foram mostrados por mais de um canal: o Kingfishers W-22, o sniper do motel do tigre, as armas da cabana do pântano, a Conspiracist Type 9, a pistola do planador e a Crabshack VF5. Quando só um canal mostrou, o texto diz qual.
+Hoje vários locais já foram mostrados por mais de um canal: o Kingfishers W-22, o sniper do motel do tigre, as armas da cabana do pântano, a Conspiracist Type 9, a pistola do planador, a Crabshack VF5, o rifle M306 e o KZ59 dourado do armazém de pesca. Quando só um canal mostrou, o texto diz qual.
 
 ## Sniper Hunter's Laird 350 (evento aleatório)
 
@@ -77,7 +79,7 @@ De brinde, segundo o RageGamingVideos, atrás do **galpão vermelho do cais** h�
 
 Aproveite o resto do esconderijo: há droga em tijolos que vale uns US$ 350 cada no [depósito do Brian](../onde-vender-itens-roubados-gta-6/).
 
-## Rifle Black Eagle Import M306 (só com a Lucia)
+## Rifle Black Eagle Import M306 (armazém da Black Eagle)
 
 É o rifle de precisão favorito do WiLLiSGaming, com luneta e silenciador. Fica num **armazém da Black Eagle**, uma rede de lojas de armas do jogo. Ele não mostrou no vídeo onde o armazém fica no mapa.
 
@@ -87,6 +89,18 @@ Aproveite o resto do esconderijo: há droga em tijolos que vale uns US$ 350 cada
 4. Lá dentro, a arma está numa **maleta**. Para sair, passe pela mesma fresta.
 
 O WiLLiSGaming levou de 5 a 10 minutos para conseguir entrar e diz que não sabe se existe outro caminho. No mesmo armazém há um **lança-foguetes** e, num cofre do escritório à direita da entrada, uma **Desert Eagle** da Black Eagle. O código desse cofre ainda é desconhecido: o que circulou na internet não funcionou para ele.
+
+### Outro caminho: a empilhadeira (Arekkz Gaming)
+
+O Arekkz Gaming mostrou onde fica o armazém e um jeito de entrar na sala sem passar pela fresta. Ele fica ao lado da **loja de armas Black Eagle**, descendo a rua a partir do **Griffin Shooting Range**, o mesmo estande da Conspiracist Type 9 (veja abaixo): dá para pegar as duas na mesma viagem. O armazém é o prédio grande à direita da loja.
+
+1. Cubra o rosto (bandana, chapéu ou máscara) antes de entrar, para a polícia não reconhecer você.
+2. Pule a cerca. No térreo há **três funcionários**: aponte a arma e ameace até os três ficarem de joelhos. Fique por perto, senão eles fogem e chamam a polícia. Não suba: o pessoal do andar de cima só nota você se você for até lá.
+3. Passe pelas grades até o depósito dos fundos. Lá tem uma **empilhadeira**: faça a ligação direta.
+4. Três **paletes** tapam a entrada da sala escondida. Encaixe o garfo embaixo de cada um, levante com o **analógico esquerdo**, tire do caminho e solte baixando o analógico. Leva um pouco de jeito para alinhar o garfo.
+5. Com os três fora, a sala abre: o M306 está no canto, e há também um **lança-foguetes**.
+
+Segundo o Arekkz, o M306 é semiautomático, tem luneta com zoom e silenciador, uns 20 tiros no pente e derruba quase todo inimigo com um tiro.
 
 ## Revólver Swamp Bait e sniper Cruel Huntsman SM69 (cabana do pântano)
 
@@ -192,11 +206,12 @@ Só o BennyCentral mostrou até agora, e o nome veio da fala dele. É um fuzil d
 
 ## Fuzil KZ59 dourado do Palmer Fishing Warehouse (Bobcat Key)
 
-Também só pelo BennyCentral. É outro KZ59 dourado, com gravações finas; o nome que ele fala não ficou claro, por isso não o escrevemos.
+O BennyCentral e o Arekkz Gaming mostraram este fuzil. É outro KZ59 dourado, com gravações finas; o nome completo não ficou claro na fala, por isso não o escrevemos. O Arekkz não diz o nome do lugar, mas descreve um armazém de pesca de gangue com o mesmo esquema: computador com a senha embaixo, fuzil e cofre no andar de cima.
 
 1. Vá ao armazém de peixe **Palmer Fishing Warehouse**, em **Bobcat Key**.
 2. Abra caminho pela gangue e suba ao **escritório**: o fuzil está num estojo.
-3. O computador do térreo mostra a senha do cofre do escritório. Na fala do Benny ela é **18886**; confira no computador antes de digitar.
+3. O computador do térreo mostra a senha do cofre do escritório. Os dois canais leram números diferentes, e o Arekkz desconfia que a senha muda de um jogo para outro: **leia no computador do seu jogo**. O cofre deu entre US$ 3.000 e US$ 5.000 ao Arekkz, e ele acha que se renova depois de alguns dias.
+4. O caminho do Arekkz é pela água, do lado da ponte: suba pelo pequeno cais dos fundos, que funciona como porta dos fundos do prédio principal. Embaixo da escada há um **lança-granadas** (comum: guarde no porta-malas) e, no andar de cima, um **relógio de luxo** na mesa, que vale bem na loja de penhores.
 
 ## Sniper da casa do colecionador de armas (Key Lento)
 
@@ -205,6 +220,43 @@ Segundo o BennyCentral, uma casa sobre palafitas em Key Lento, parecida com a do
 ## Escopeta Marabunta Grand Hobo (atrás da loja de penhores de Hamlet)
 
 O RageGamingVideos achou esta escopeta de dois canos, lendária e com gravações, quando foi à **loja de penhores de Hamlet** à noite. Atrás da loja havia um carro com o porta-malas aberto, sangue no chão e gritos vindo do prédio ao lado. Seguindo o rastro de sangue, uma porta leva a um armazém: a escopeta está numa caixa de armas, à vista, junto com dinheiro. Você decide se entra na sala seguinte. Ele não sabe se é um evento aleatório ou se acontece sempre ali.
+
+## Fuzil preto e dourado com silenciador (casarão ao sul de Grassrivers)
+
+Só o Arekkz Gaming mostrou até agora. É um fuzil de assalto automático, preto e dourado, cheio de acessórios e com silenciador. O nome na fala não ficou claro, por isso não o escrevemos.
+
+1. Vá ao **casarão vigiado** marcado como oportunidade ilegal na beira do pântano, logo ao sul de Grassrivers.
+2. Leve arma e, se tiver, colete e itens de cura. Os guardas ficam em volta da casa toda e, quando um vê você, os outros saem correndo atrás. Com silenciador dá para tentar no sigilo.
+3. Entre pela **esquerda**, pela beira do rio: ali há um ponto fácil para pular para dentro.
+4. Suba ao **andar de cima**. No quarto do canto dos fundos há uma caixa de **bombas adesivas**, e o fuzil está logo atrás.
+5. Passando pela cozinha há um **relógio de luxo**, e o computador mostra a senha do cofre, que deu uns **US$ 3.000** ao Arekkz. Leia a senha no computador do seu jogo.
+
+## Escopeta e pistola com silenciador nos barcos naufragados (perto da Mile Zero Air Station)
+
+Também só pelo Arekkz Gaming. Dá para buscar as duas logo no começo, com o Jason.
+
+- **Escopeta:** no grupo de ilhotas perto da **Mile Zero Air Station** e do porto de Southwind, vá à ilha com uma faixa de areia. No lado norte, o lado verde, há um barquinho naufragado, e a escopeta está no chão ao lado. Segundo ele, ela atira quase como uma semiautomática.
+- **Pistola Nipper .38 com silenciador:** na ponta da ilhota pontuda, no sul do mesmo grupo, há outro barco naufragado. Entre nele e abra o **compartimento escondido** pelo aviso que aparece na tela: a pistola está lá dentro. O Arekkz chama de Assassin Nipper .38. O pente é pequeno, uns 8 tiros, mas é silenciosa e sai de graça (só o silenciador custa perto de US$ 1.000 na loja).
+
+## Pistola de rajada do estaleiro de Little Cuba
+
+Só o Arekkz Gaming mostrou. É uma pistola de rajada prata, dourada e marfim; na fala ele diz **Guardian ES 18**.
+
+1. Vá à oportunidade ilegal do **estaleiro (shipping yard)** perto do porto, na área de Little Cuba, em Vice City.
+2. Para entrar sem chamar atenção, vá pela esquerda do portão principal, suba no lixo perto da ponte e passe pelo vão do arame farpado.
+3. O prédio do meio do pátio tem uns 5 ou 6 inimigos. Use silenciador ou golpes não letais, mas conte com briga.
+4. Nos fundos do prédio, perto da porta, há uma **maleta de armas** com a pistola. Há também um cofre, mas o Arekkz não achou a senha.
+5. O botão que abre o portão fica à esquerda do guarda da entrada. Abra se quiser levar o **muscle car vermelho** do pátio: segundo ele, o Moses paga US$ 12.000.
+
+## Fuzil Clunker 556 (Port Gellhorn, sem briga)
+
+Só o Arekkz Gaming mostrou. É um fuzil já cheio de acessórios, e dá para pegar sem lutar. Fica fácil no começo do capítulo 2, quando a Lucia entra na história.
+
+1. Vá a **Port Gellhorn**, à oportunidade de roubo ao lado da ponte do porto.
+2. Pare o carro do lado de fora do armazém, perto das **cercas com lona azul**, virando a esquina da entrada principal, para ninguém ver você.
+3. Pule a cerca de lona azul, passe pelo armazém e atravesse o **buraco da cerca** seguinte.
+4. Vá com calma até a **casinha** marcada: o fuzil está lá dentro.
+5. Se quiser, leve o **caminhão laranja** do pátio: é bom fora de estrada e também dá para vender.
 
 ## Armas únicas à venda nas lojas
 

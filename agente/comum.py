@@ -43,7 +43,10 @@ def gravar_json(caminho, dados):
 
 def ytdlp(args, timeout=180):
     """Roda o yt-dlp e devolve (código, saída, erro)."""
-    cmd = [sys.executable, "-m", "yt_dlp", "--no-warnings", *args]
+    # Pausas e novas tentativas: em 21/11 o YouTube respondeu 429 (pedidos demais) depois de muitas buscas seguidas.
+    calma = ["--sleep-requests", "1", "--sleep-subtitles", "2", "--retries", "4", "--extractor-retries", "3",
+             "--retry-sleep", "http:exp=4:60", "--retry-sleep", "extractor:exp=4:60"]
+    cmd = [sys.executable, "-m", "yt_dlp", "--no-warnings", *calma, *args]
     try:
         r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=timeout)
         return r.returncode, r.stdout, r.stderr

@@ -44,7 +44,18 @@ def legenda_do_youtube(v, pasta):
         escolha = next((l for l in manuais if idioma and l.startswith(idioma)), manuais[0])
     elif v.get("legendas_auto"):
         autos = v["legendas_auto"]
-        escolha = next((l for l in autos if idioma and l.startswith(idioma)), autos[0])
+        # Desde 21/11 o YouTube lista "-orig" em dezenas de línguas; a primeira (ar-orig) não baixa.
+        # Sem o idioma do vídeo, adivinha pelo título e prefere en/pt/es.
+        if not idioma:
+            t = f" {(v.get('titulo') or '').lower()} "
+            if any(p in t for p in (" não ", " nao ", " dinheiro", " armas ", " segredo", " encontrei", " descobri", " como ", " carros ", " localização", " início ", " começo")):
+                idioma = "pt"
+            elif any(p in t for p in (" dinero", " truco", " secretos", " cómo ", " dónde ", " todos los ")):
+                idioma = "es"
+            else:
+                idioma = "en"
+        escolha = (next((l for l in autos if l.startswith(idioma)), None)
+                   or next((l for l in ("en-orig", "pt-orig", "es-orig") if l in autos), autos[0]))
     if not escolha:
         return None, None
     cod, _, erro = ytdlp(["--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", escolha, "--sub-format", "json3",

@@ -3,16 +3,18 @@ titulo: "GTA 6: Where to Find Your First Plane and Helicopter (Near Jason's Hous
 titulo_seo: "GTA 6 First Plane and Helicopter Location"
 resumo: "In GTA 6, seaplanes and a helicopter sit unguarded in Southwind, about 2.5 miles from Jason's house in Key Lento. You can take them without getting a wanted level."
 categoria: segredos-e-locais
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "primeiro-aviao-e-helicoptero-gta-6"
 imagens:
   - { arquivo: "oficial/leonida-keys.webp", legenda: "The Leonida Keys, where Jason's house is, in an official image.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-first-plane-and-helicopter/", titulo: "GTA 6: Where to find your first plane and helicopter right away", data: "2026-11-18T19:51:00-03:00" }
+  - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "2:15", data: "2026-11-20T17:00:37-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Now verified: Nerpah shows the same Mammoth Dodo seaplane hangar and the Buckingham Maverick on the dock, at the Sherwin Boatworks and Chicki's Tiki Bar lot in Southwind." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. Source: PC Gamer." }
 perguntas:
   - { p: "Where is the closest plane to Jason's house in GTA 6?", r: "In Southwind, in a small hangar next to the Sherwin Boatworks and Chicki's Tiki Bar parking lot. Mammoth Dodo seaplanes are parked there." }
@@ -20,7 +22,7 @@ perguntas:
   - { p: "Do you get a wanted level for taking these planes?", r: "No. According to PC Gamer there's never anyone around, so you can take them without drawing attention." }
 ---
 
-You can fly almost from the start of GTA 6. Near Jason's house, in **Southwind**, there are **seaplanes** and a **helicopter** nobody is guarding. According to PC Gamer, you can take them without getting a single star.
+You can fly almost from the start of GTA 6. Near Jason's house, in **Southwind**, there are **seaplanes** and a **helicopter** nobody is guarding. According to PC Gamer, you can take them without getting a single star. Nerpah showed the same spot and has a good tip: grab one early and use it to explore the map and reach the [rare cars](../gta-6-rare-car-locations-randy/) faster.
 
 ## How to get there
 

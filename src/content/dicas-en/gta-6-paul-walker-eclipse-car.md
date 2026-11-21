@@ -18,14 +18,17 @@ fontes:
   - { tipo: youtube, canal: "KingAlexHD", url: "https://www.youtube.com/watch?v=pPQWH2ELkgc", titulo: "How to Find & Get ALL SECRET RARE CARS in GTA 6! (Rare Vehicle Locations)", minuto: "1:28", data: "2026-11-19T18:33:48-03:00" }
   - { tipo: youtube, canal: "Millzaa", url: "https://www.youtube.com/watch?v=GDOev2tWm78", titulo: "Get RICH Early in GTA 6 With THESE INSANE Secret Money Spots + Legendary Guns", minuto: "9:26", data: "2026-11-19T20:00:17-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:46", data: "2026-11-20T03:44:43-03:00" }
+  - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "1:28", data: "2026-11-20T17:00:37-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Added Nerpah, who shows the same car on Vespucci Island: disable the alarm panel on the wall before opening the garage and hotwire it, no key cloner needed. New question for people searching for Brian's car." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "In-game map name: Maibatsu '97 Penumbra FF (Imack Studios). HAD YOU plate shown on screen (Milo, Millzaa). The trunk snake is now shown by KingAlexHD and Millzaa, who explains how to shake it off." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Added GamesRadar+: confirms Vespucci Island; the garage alarm switches off on the wall to your left; the snap gun and slim jim avoid the alarms; bringing it to Moses as your first car makes registration free (DPJ paid about $6,750); later, any Pay 'n' Spray registers cars for a fee." }
   - { data: "2026-11-19T16:53:00-03:00", nota: "Confirmed with Tristan (Vespucci Island, about 5 miles from Jason's house, snake in the trunk)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Published as unverified: car shown by DPJ; the map marker is on the Rialto Islands in Vice Beach." }
 perguntas:
+  - { p: "Where is Brian O'Conner's car in GTA 6?", r: "Brian's green Eclipse from The Fast and the Furious sits in a house garage on Vespucci Island, near Vice Beach. Disable the alarm panel on the wall before opening the garage, then hotwire it: no key cloner needed." }
   - { p: "Is Paul Walker's car in GTA 6?", r: "Yes. There's a nod to the green Eclipse from The Fast and the Furious, decals and all, stored in a double garage on the Rialto Islands in Vice Beach." }
   - { p: "When should you get Paul Walker's car in GTA 6?", r: "After you unlock Moses in Chapter 2. You need him to register the car, and DPJ believes unregistered cars disappear when you reload your game." }
   - { p: "How do you turn off the garage alarm for Paul Walker's car?", r: "According to GamesRadar+, you switch it off on the wall to your left as you walk into the garage. Be quick about it. With the snap gun from Chapter 3, you can open the garage without setting the alarm off at all." }

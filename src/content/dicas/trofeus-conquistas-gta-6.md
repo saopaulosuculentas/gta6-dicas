@@ -16,9 +16,11 @@ fontes:
   - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=czS1q74rIAc", titulo: "GTA 6 - Tank (Rhino) Location Guide - Challenging Tank Achievement/Trophy", minuto: "2:20", data: "2026-11-18T20:49:59-03:00" }
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "3:23", data: "2026-11-18T15:15:08-03:00" }
   - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=mM8RsaIBo1k", titulo: "GTA 6 Every WAiNK Location: All 108 Scans for the You WAiNKer Trophy (Full Guide)", minuto: "0:00", data: "2026-11-20T01:36:31-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/misterio-do-galpao-de-capri-no-gta-6-saiba-a-localizacao-e-como-resolver-edjogos.ghtml", titulo: "Mistério do Galpão de Capri no GTA 6; saiba a localização e como resolver", data: "2026-11-19T00:03:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T11:01:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Mais um lugar onde o The Truth Is Out There sai: o ritual do galpão de Capri, segundo o TechTudo (em verificação)." }
   - { data: "2026-11-20T11:01:00-03:00", nota: "Nova seção sobre o The Truth Is Out There: sai na abdução (GameSpot) e também saiu no farol dos fantasmas (Milo) e no cofre do hotel assombrado (Robbin Rams). Entraram como sai o Challenging Tank (Maka91Productions e Arekkz Gaming) e os 108 escaneáveis do You WAiNKer! (vAnother Level). Links para o sonho, o laboratório, o tanque e o WAiNK." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada como confirmada: a mesma lista de 55 troféus no PC Gamer e na GamesRadar+, que também traz o tipo e o Gamerscore de cada um." }
 perguntas:
@@ -132,11 +134,12 @@ Estes têm descrição curta ou enigmática. Deixamos como o jogo dá, sem adivi
 
 ### The Truth Is Out There: onde ele já saiu
 
-Este troféu já apareceu em vídeo em três situações diferentes:
+Este troféu já apareceu em quatro situações diferentes:
 
 - **Abdução do disco voador.** É o caminho mais conhecido. Segundo o GameSpot, o troféu sai quando o Jason ou a Lucia é abduzido depois de ajudar a mulher na mata, em Kelly County. O passo a passo está em [disco voador e abdução](../disco-voador-abducao-gta-6/).
 - **Fantasmas do farol.** O Milo ganhou o troféu logo depois de ver figuras de fantasma brigando no alto de um farol, de noite.
 - **Hotel assombrado.** O Robbin Rams ganhou o troféu ao abrir o cofre do [Marbelle Hotel](../hotel-assombrado-silent-hill-gta-6/).
+- **Galpão de Capri.** Segundo o TechTudo, o troféu também sai no fim do ritual de um galpão no norte de Capri, que termina com um zumbi que só cai com fogo. Por enquanto só essa fonte, então trate como em verificação. Detalhes na [lista de easter eggs](../easter-eggs-gta-6-lista/).
 
 Ninguém explicou ainda por que o mesmo troféu sai em lugares tão diferentes. Depois da abdução, a história dos alienígenas continua no [sonho do alien](../sonho-do-alien-gta-6/) e no [laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 

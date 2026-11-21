@@ -17,8 +17,9 @@ fontes:
   - { tipo: youtube, canal: "The Easter Egg Hunter", url: "https://www.youtube.com/watch?v=WjQ86LH2hMY", titulo: "GTA VI Skunk Ape Easter Egg (Bigfoot) Part 2/3", minuto: "0:00", data: "2026-11-19T12:01:40-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/", titulo: "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6", data: "2026-11-19T17:12:34-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-20T10:23:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Step 3 fixed: the old text said you run from a giant ball, which was likely a caption error. Now it just says something huge chases you back to the truck." }
   - { data: "2026-11-20T10:23:00-03:00", nota: "Added PC Gamer's sighting route (Jason's boat across Gambit Bay to a dead-end road, then Focus mode), the green stink cloud that knocks you out, and the Skunk Ape flyers that point to the quest. The full quest up to the rifle is still JFM only, so the page stays unverified." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "Added The Easter Egg Hunter, who shows the start of the quest: Kirk's voicemail (Pelican Valley, most evenings), meeting him, hitting the truck with a stick, following the drone light and the warning not to shoot. The full quest up to the rifle is still JFM only, so the page stays unverified." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified. The Skunk Ape and the effigy appear in four channels; the full quest up to the rifle has only been shown by JFM so far." }
@@ -70,7 +71,7 @@ In The Easter Egg Hunter's video, the call goes to **voicemail**. In the message
 3. To prove his point, Kirk has you grab a **stick** and hit his truck hard (The Easter Egg Hunter).
 4. During the hunt, **follow the drone's light**. And keep your gun away: Kirk says a bullet could make the creature release a **toxic cloud**, and he wants it alive.
 5. Chase the creature through the woods, following its roars. You'll pass its camps, bones and more effigies.
-6. At one point you have to **run from a giant ball**. Jason blacks out again but doesn't die, and the quest continues.
+6. At one point something huge comes after you and you have to **run back** to the truck. Jason may black out again but doesn't die, and the quest continues.
 
 ## Step 4: the three effigies
 

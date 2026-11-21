@@ -24,9 +24,11 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=5ap9-onXybw", titulo: "GTA 6 - 7 Secret Items, Weapons & Hidden Money You Won't Want to Miss!", minuto: "9:06", data: "2026-11-19T18:00:22-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "20:20", data: "2026-11-19T20:45:16-03:00" }
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "1:36", data: "2026-11-19T21:00:01-03:00" }
+  - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "1:04", data: "2026-11-20T15:00:07-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-20T11:00:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "New Arekkz Gaming video: where the M306 warehouse is (Black Eagle store near the Griffin Shooting Range) and the forklift route, a second source for the gold KZ59 at the fishing warehouse, and four new spots (manor rifle south of Grassrivers, boat wreck shotgun and Nipper .38, Little Cuba shipping yard burst pistol and the Port Gellhorn Clunker 556). The fishing warehouse safe code was removed: the two channels heard different numbers and it may change between games." }
   - { data: "2026-11-20T11:00:00-03:00", nota: "Added the Kingfishers Laird 350 name and the Manatee Motel location (Millzaa and Rodwenn), the Turnt Nipper .38 from the glider in Bobcat Bight (Arekkz Gaming and BennyCentral), the W-22 at Wetman Bay, second sources for the swamp cabin and the Griffin Shooting Range trailer, three guns from BennyCentral, RageGamingVideos' shotgun and the note that unique weapons can't be modified. Linked the gun store and secret early items guides." }
   - { data: "2026-11-19T18:18:00-03:00", nota: "Fixed the junkyard location (the video map shows it west of Vice City, on SR-120) and named the gun: Conspiracist Type 9." }
   - { data: "2026-11-19T17:03:00-03:00", nota: "Now confirmed: WiLLiSGaming and YOUNG DIRK also show that unique weapons stay with you. Added the Black Eagle M306, the swamp cabin guns, the Cockroach Extreme, the junkyard SMG, the Manatee Motel (OutlawGarry) and the yellow map icon." }
@@ -50,7 +52,7 @@ Not every unique gun is hidden: some are **sold in gun stores** (see the section
 - **No modding.** OutlawGarry thought a **blue** weapon is yours and can be customized while a **yellow** one is unique and can't be, but he wasn't sure. Arekkz Gaming and BennyCentral now say the same thing: weapon variants **can't be modified**. What you find is what you get, which is why the ones that come with a scope and suppressor are so handy early on.
 - **Not everything is unique.** Grenade launchers and rocket launchers you find lying around are regular weapons: die with them and they're gone (WiLLiSGaming). The SM-69 sniper on the Key Lento radio tower and the Duke 5.56 rifles in hideouts are regular too, according to Arekkz Gaming, Rodwenn and RageGamingVideos. Keep those in your trunk.
 
-Several spots have now been shown by more than one channel: the Kingfishers W-22, the tiger motel sniper, the swamp cabin guns, the Conspiracist Type 9, the glider pistol and the Crabshack VF5. When only one channel has shown a spot, the text says who.
+Several spots have now been shown by more than one channel: the Kingfishers W-22, the tiger motel sniper, the swamp cabin guns, the Conspiracist Type 9, the glider pistol, the Crabshack VF5, the M306 rifle and the gold KZ59 at the fishing warehouse. When only one channel has shown a spot, the text says who.
 
 ## Hunter's Laird 350 sniper (random event)
 
@@ -78,7 +80,7 @@ There's a bonus too. According to RageGamingVideos, behind the **little red shed
 
 Clear the rest of the compound too: the drug bricks there go for about $350 each at [Brian's lockup](../gta-6-fence-locations/).
 
-## Black Eagle Import M306 rifle (Lucia only)
+## Black Eagle Import M306 rifle (Black Eagle warehouse)
 
 This is WiLLiSGaming's favorite find: a marksman rifle with a scope and a suppressor. It sits in a **Black Eagle warehouse**, part of one of the game's gun store chains. He doesn't show where the warehouse is on the map.
 
@@ -88,6 +90,18 @@ This is WiLLiSGaming's favorite find: a marksman rifle with a scope and a suppre
 4. The rifle is in a **case** inside. Leave through the same gap.
 
 It took WiLLiSGaming 5 to 10 minutes to get in, and he says he doesn't know if there's another way. The same warehouse has a **rocket launcher**, and a safe in the office to the right of the entrance holds a Black Eagle **Desert Eagle**. Nobody has a working code for that safe yet: the one going around online didn't work for him.
+
+### Another way in: the forklift (Arekkz Gaming)
+
+Arekkz Gaming showed where the warehouse is and a way into the room without the gap. It's next to the **Black Eagle gun store**, just down the road from the **Griffin Shooting Range**, the same range as the Conspiracist Type 9 (see below), so you can grab both on one trip. The warehouse is the big building to the right of the store.
+
+1. Cover your face (bandana, hat or mask) before going in so the cops can't ID you.
+2. Hop the fence. There are **three workers** on the ground floor: aim at them and threaten them until all three are on their knees. Stay close or they'll run and call the cops. Don't go upstairs: the people up there only notice you if you go up.
+3. Go past the bars into the back storage room. There's a **forklift** there: hotwire it.
+4. Three **pallets** block the hidden room. Line the forks up under each one, lift with the **left stick**, move it out of the way and drop it by pushing the stick down. Lining up the forks takes a bit of practice.
+5. With all three gone, the room opens up: the M306 is in the corner, along with a **rocket launcher**.
+
+According to Arekkz, the M306 is semi-auto, has a zoom scope and a suppressor, about 20 rounds per mag, and drops almost any enemy in one shot.
 
 ## Swamp Bait revolver and Cruel Huntsman SM69 sniper (swamp cabin)
 
@@ -193,11 +207,12 @@ Only BennyCentral has shown this one so far, and the name comes from his voiceov
 
 ## Gold KZ59 at the Palmer Fishing Warehouse (Bobcat Key)
 
-Also from BennyCentral alone. It's another gold KZ59 with fine engravings; the name he says isn't clear, so we're not printing it.
+BennyCentral and Arekkz Gaming have both shown this rifle. It's another gold KZ59 with fine engravings; the full name isn't clear in the voiceover, so we're not printing it. Arekkz doesn't name the place, but he describes a gang fishing warehouse with the same layout: computer with the code downstairs, rifle and safe upstairs.
 
 1. Go to the **Palmer Fishing Warehouse** in **Bobcat Key**.
 2. Fight your way through the gang and head up to the **office**: the rifle is in a case.
-3. The computer downstairs gives you the code for the office safe. Benny reads it out as **18886**; check it on the computer before you punch it in.
+3. The computer downstairs gives you the code for the office safe. The two channels read out different numbers, and Arekkz suspects the code changes between games: **read it off the computer in your own game**. The safe gave Arekkz $3,000 to $5,000, and he thinks it refills after a few days.
+4. Arekkz's route is through the water, by the bridge: climb up the small back dock, which works as a back door into the main building. Under the stairs there's a **grenade launcher** (not unique: stash it in your trunk) and upstairs a **luxury watch** on the table that sells well at the pawn shop.
 
 ## Gun nut's sniper (Key Lento)
 
@@ -206,6 +221,43 @@ According to BennyCentral, a stilt house in Key Lento that looks a lot like Jaso
 ## Marabunta Grand Hobo shotgun (behind the Hamlet pawn shop)
 
 RageGamingVideos found this engraved legendary double-barrel shotgun while visiting the **Hamlet pawn shop** at night. Behind the shop was a car with its trunk open, blood on the ground and screaming from the building next door. Follow the blood trail through a door into a warehouse: the shotgun sits in a gun case out in the open, with some cash. Whether you deal with what's in the next room is up to you. He isn't sure if it's a random event or if it always happens there.
+
+## Black and gold suppressed rifle (guarded manor south of Grassrivers)
+
+Only Arekkz Gaming has shown this one so far. It's a fully automatic black and gold assault rifle, loaded with attachments and a suppressor. The name in his voiceover isn't clear, so we're not printing it.
+
+1. Head to the **guarded manor** marked as an illegal opportunity on the edge of the swamp, just south of Grassrivers.
+2. Bring a gun and, if you have them, armor and meds. Guards are all over the house, and once one spots you the rest come pouring out. With a suppressor you can try to stay sneaky.
+3. Go in on the **left side**, along the riverfront, where there's an easy spot to hop in.
+4. Head to the **upper floor**. The back corner room has a box of **sticky bombs**, and the rifle is right behind you.
+5. Through the kitchen there's a **luxury watch**, and the computer shows the safe code; the safe gave Arekkz about **$3,000**. Read the code off the computer in your own game.
+
+## Shotgun and suppressed pistol in the boat wrecks (near Mile Zero Air Station)
+
+Also from Arekkz Gaming alone. You can grab both right at the start, as Jason.
+
+- **Shotgun:** in the cluster of small islands near **Mile Zero Air Station** and the Southwind port, go to the island with the sandy patch. On the north end, the green side, there's a small boat wreck, and the shotgun is on the ground next to it. He says it fires almost like a semi-auto.
+- **Suppressed Nipper .38 pistol:** at the tip of the pointy island at the south end of the same cluster there's another boat wreck. Climb in and open the **hidden compartment** with the on-screen prompt: the pistol is inside. Arekkz calls it the Assassin Nipper .38. It only holds about 8 rounds, but it's silent and free (a suppressor alone runs about $1,000 in the shop).
+
+## Burst pistol at the Little Cuba shipping yard
+
+Only Arekkz Gaming has shown this one. It's a silver, gold and ivory burst pistol; in his voiceover he calls it the **Guardian ES 18**.
+
+1. Go to the **shipping yard** illegal activity by the port in the Little Cuba area of Vice City.
+2. To get in quietly, go left of the main gate, climb the trash near the bridge and slip through the gap in the barbed wire.
+3. The building in the middle of the yard has about 5 or 6 enemies. Use a suppressor or non-lethal takedowns, but expect a fight.
+4. At the back of the building, by the door, there's a **weapon case** with the pistol. There's also a safe, but Arekkz couldn't find the code.
+5. The gate button is to the left of the guard at the entrance. Open it if you want the **red muscle car** in the yard: he says Moses pays $12,000 for it.
+
+## Clunker 556 rifle (Port Gellhorn, no fight)
+
+Only Arekkz Gaming has shown this one. It's a rifle that already comes loaded with attachments, and you can take it without a fight. It's easy to get early in Chapter 2, once Lucia joins.
+
+1. Go to the robbery opportunity next to the port bridge in **Port Gellhorn**.
+2. Park outside the warehouse by the **blue tarp fences**, around the corner from the main entrance, so nobody sees you.
+3. Hop the blue tarp fence, run past the warehouse and go through the **hole in the next fence**.
+4. Take it slow to the marked **small hut**: the rifle is inside.
+5. If you want, take the **orange truck** in the yard: it's great off-road and also sells.
 
 ## Unique weapons you can buy
 

@@ -27,9 +27,11 @@ fontes:
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "2:23", data: "2026-11-19T21:00:01-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "14:13", data: "2026-11-19T20:45:16-03:00" }
   - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=8ioFGPmXTAw", titulo: "HOW TO GET ALL SECRET RARE CARS IN GTA 6! (RARE VEHICLE LOCATIONS)", minuto: "5:15", data: "2026-11-20T04:08:03-03:00" }
+  - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "5:05", data: "2026-11-20T17:42:19-03:00" }
 descoberto_em: "2026-11-19T16:54:00-03:00"
-atualizado_em: "2026-11-20T11:05:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Entraram mais dois preços, do RaidAway: US$ 150 por uma carta de luta livre de quintal e US$ 50 por uma de quadrinhos." }
   - { data: "2026-11-20T11:05:00-03:00", nota: "Entraram o nome da carta do galpão (Leroy Rook Silver) e o total da Vice City Narcos (24 cartas), as 2 cartas da torre de rádio de Key Lento (Millzaa, Arekkz Gaming, Rodwenn, BennyCentral), a carta do trailer do pântano vendida por US$ 1.350 (RageGamingVideos), as cartas da garagem em Vespucci Island (Imack Studios) e como ver o valor das cartas pelo mapa." }
   - { data: "2026-11-19T16:54:00-03:00", nota: "Publicada confirmada: carta do galpão vendida por US$ 6.000 em Hamlet (DooDooPoo, GrandTheftIntel, Musty Sky); carta da casa do OVNI (ZacCoxTV); desafios ligados às cartas pelo PC Gamer e pelo GamesRadar+. Mapa completo ainda não publicado." }
 perguntas:
@@ -82,7 +84,7 @@ Todo o resto **ainda não foi mapeado**. Vamos atualizar esta página conforme o
 3. O menu tem duas abas: **Collectible Cards** (cartas) e **Collectible Items** (outros itens).
 4. Escolha a coleção e use **Sell All** para vender todas as cartas dela.
 
-A carta do galpão saiu por **US$ 6.000** nos vídeos do DooDooPoo, do GrandTheftIntel e do Musty Sky. A página dizia que ninguém tinha publicado o preço das outras. Agora há dois: a carta do trailer do pântano saiu por **US$ 1.350** (RageGamingVideos), e a da mesa da torre de rádio vale só **US$ 20** (Millzaa). Os preços variam muito.
+A carta do galpão saiu por **US$ 6.000** nos vídeos do DooDooPoo, do GrandTheftIntel e do Musty Sky. A página dizia que ninguém tinha publicado o preço das outras. Agora há dois: a carta do trailer do pântano saiu por **US$ 1.350** (RageGamingVideos), e a da mesa da torre de rádio vale só **US$ 20** (Millzaa). O RaidAway levou duas cartas a uma loja de penhores: a de **luta livre de quintal** valia **US$ 150**, e a de **quadrinhos**, **US$ 50**. Os preços variam muito.
 
 **Veja o valor antes de ir.** O Millzaa mostra que dá para conferir quanto as cartas valem direto no mapa: passe o cursor sobre a loja de penhores de Hamlet. No vídeo do Rodwenn, a ficha da loja mostra "US$ 6.000" em colecionáveis para vender, com a carta do galpão no bolso. A mesma ficha diz que a loja compra cartas, dobrões e meteoritos.
 

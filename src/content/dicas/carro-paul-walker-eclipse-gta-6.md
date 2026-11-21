@@ -20,14 +20,17 @@ fontes:
   - { tipo: youtube, canal: "Millzaa", url: "https://www.youtube.com/watch?v=GDOev2tWm78", titulo: "Get RICH Early in GTA 6 With THESE INSANE Secret Money Spots + Legendary Guns", minuto: "9:26", data: "2026-11-19T20:00:17-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:46", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: youtube, canal: "tonyboy", url: "https://www.youtube.com/watch?v=qkqTV7Qu_fI", titulo: "DESCOBRINDO LUGARES SECRETOS RSRSRS - GTA 6", minuto: "2:27:48", data: "2026-11-19T22:38:04-03:00" }
+  - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "1:28", data: "2026-11-20T17:00:37-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Entrou o Nerpah, que mostra o mesmo carro em Vespucci Island: desligar o painel do alarme na parede antes de abrir a garagem e dar a partida na ligação direta, sem clonador. Nova pergunta para quem procura o carro do Brian." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Nome no mapa do jogo: Maibatsu '97 Penumbra FF (Imack Studios). Placa HAD YOU na tela (Milo, Millzaa). Cobra no porta-malas mostrada pelo KingAlexHD e pelo Millzaa, que ensina a se livrar dela. Na live do tonyboy, o Moses registra o carro de graça e avisa que o próximo é pago: isso explica os US$ 6.750 do DPJ e o registro grátis do GamesRadar+." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Entrou o GamesRadar+: confirma Vespucci Island; o alarme da garagem desliga na parede à esquerda da entrada; snap gun e slim jim evitam os alarmes; levar o carro como o primeiro ao Moses deixa o registro de graça (o DPJ pagou uns US$ 6.750); depois, qualquer Pay 'n' Spray registra pagando." }
   - { data: "2026-11-19T16:53:00-03:00", nota: "Confirmada com Android Gamer, CH4P4X e Tristan; o mapa mostra Vespucci Island; aviso do jogo de que carro não registrado não é salvo." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Publicada em verificação: carro mostrado pelo DPJ; o ponto do mapa fica nas Rialto Islands, em Vice Beach." }
 perguntas:
+  - { p: "Onde fica o carro do Brian no GTA 6?", r: "O Eclipse verde do Brian O'Conner, de Velozes e Furiosos, fica numa garagem de uma casa em Vespucci Island, perto de Vice Beach. Desligue o alarme no painel da parede antes de abrir a garagem e faça a ligação direta: não precisa de clonador de chave." }
   - { p: "O carro do Paul Walker está no GTA 6?", r: "Está. Há uma homenagem ao Eclipse verde de Velozes e Furiosos, com os adesivos do filme, guardada numa garagem dupla nas Rialto Islands, em Vice Beach." }
   - { p: "Quando pegar o carro do Paul Walker no GTA 6?", r: "Depois de liberar o Moses, no capítulo 2. Só com ele dá para registrar o carro, e o DPJ acha que carro não registrado some quando você carrega o jogo." }
   - { p: "Como desligar o alarme da garagem do carro do Paul Walker?", r: "Segundo o GamesRadar+, o alarme desliga na parede à sua esquerda, logo na entrada da garagem. Seja rápido. Com a snap gun, do capítulo 3, dá para abrir a garagem sem disparar o alarme." }

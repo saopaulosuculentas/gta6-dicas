@@ -26,9 +26,11 @@ fontes:
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=TCS0gEjVTig", titulo: "GTA 6 - Best PERFECT Start Tips - 14 Secret Items, Early Unique Guns, Fast Money, OP Unlocks & More!", minuto: "2:23", data: "2026-11-19T21:00:01-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "14:13", data: "2026-11-19T20:45:16-03:00" }
   - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=8ioFGPmXTAw", titulo: "HOW TO GET ALL SECRET RARE CARS IN GTA 6! (RARE VEHICLE LOCATIONS)", minuto: "5:15", data: "2026-11-20T04:08:03-03:00" }
+  - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "5:05", data: "2026-11-20T17:42:19-03:00" }
 descoberto_em: "2026-11-19T16:54:00-03:00"
-atualizado_em: "2026-11-20T11:05:00-03:00"
+atualizado_em: "2026-11-21T11:33:00-03:00"
 historico:
+  - { data: "2026-11-21T11:33:00-03:00", nota: "Two more prices from RaidAway: $150 for a backyard wrestling card and $50 for a comic card." }
   - { data: "2026-11-20T11:05:00-03:00", nota: "Added the warehouse card's name (Leroy Rook Silver) and the size of the Vice City Narcos set (24 cards), the 2 cards on the Key Lento radio tower (Millzaa, Arekkz Gaming, Rodwenn, BennyCentral), the swamp trailer card that sold for $1,350 (RageGamingVideos), the cards in a Vespucci Island garage (Imack Studios) and how to check card values from the map." }
   - { data: "2026-11-19T16:54:00-03:00", nota: "Published as confirmed: the warehouse card selling for $6,000 in Hamlet (DooDooPoo, GrandTheftIntel, Musty Sky); the UFO house card (ZacCoxTV); card challenges from PC Gamer and GamesRadar+. No full map published yet." }
 perguntas:
@@ -78,7 +80,7 @@ Everything else is **not mapped yet**. We'll add locations here as they get conf
 3. The menu has two tabs: **Collectible Cards** and **Collectible Items**.
 4. Pick a set and use **Sell All** to sell every card you have from it.
 
-The warehouse card went for **$6,000** in videos from DooDooPoo, GrandTheftIntel and Musty Sky. This page used to say no one had posted prices for the others. Now there are two: the swamp trailer card sold for **$1,350** (RageGamingVideos), and the table card on the radio tower is worth just **$20** (Millzaa). Prices vary a lot.
+The warehouse card went for **$6,000** in videos from DooDooPoo, GrandTheftIntel and Musty Sky. This page used to say no one had posted prices for the others. Now there are two: the swamp trailer card sold for **$1,350** (RageGamingVideos), and the table card on the radio tower is worth just **$20** (Millzaa). RaidAway took two cards to a pawn shop: a **backyard wrestling** card was worth **$150**, and a **comic** card **$50**. Prices vary a lot.
 
 **Check the value before you go.** Millzaa shows you can see what your cards are worth straight from the map: hover over the Hamlet pawn shop. In Rodwenn's video, the shop's map card lists $6,000 in collectibles to sell while he's carrying the warehouse card. The same card says the shop buys cards, doubloons and meteorites.
 
