@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/", titulo: "The GTA 6 map: Vice City, Ambrosia, and everything in between", data: "2025-05-13T12:27:25-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages/", titulo: "Rockstar has finally posted GTA 6's full map online—thank goodness, because clearing the entire thing in game takes ages", data: "2026-11-19T13:19:58-03:00" }
   - { tipo: oficial, canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg?akim=1&imdensity=1&imwidth=3840", titulo: "Mapa de Leonida em alta resolução (pôster oficial)", data: "2026-11-19T13:19:58-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/", titulo: "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane", data: "2026-11-20T19:34:00-03:00" }
 descoberto_em: "2026-11-19T16:10:00-03:00"
-atualizado_em: "2026-11-20T10:22:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: 4 minutos e 18 segundos para atravessar o mapa de avião." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Entrou o mapa completo oficial da Rockstar (link direto) e por que ele ajuda, segundo o PC Gamer: névoa no mapa do jogo, zoom que não mostra tudo e ruas pequenas só de perto. Perguntas sobre mapa completo, oficial e interativo." }
   - { data: "2026-11-19T16:10:00-03:00", nota: "Publicada em verificação: condados e lugares principais segundo o guia de mapa do PC Gamer." }
 perguntas:
@@ -76,6 +78,10 @@ Pelo que o PC Gamer mostra, o que a Rockstar publicou é uma imagem, não um map
 
 - **Mile Zero Air Station:** a base militar, nas Keys do sul. É o lugar mais fácil para roubar um tanque, mas entrar sem permissão rende um nível de procurado alto. Veja [como entrar na base militar](../base-militar-gta-6-como-entrar/).
 - **Key Lento:** um trecho de ilhas afastadas. É ali que você começa o jogo, com o Jason.
+
+## Quanto tempo leva para atravessar o mapa voando
+
+O PC Gamer cronometrou **4 minutos e 18 segundos** num hidroavião Mammoth Dodo, da ponta sul das ilhas até o extremo norte. Dá quase uma hora dentro do jogo. Outros aviões devem ser mais rápidos. No caminho, desvie da base militar, que dá quatro estrelas de procurado.
 
 ## Para se achar no mapa
 

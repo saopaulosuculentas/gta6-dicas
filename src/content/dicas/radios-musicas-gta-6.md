@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-radio-songs/", titulo: "Every GTA 6 song and radio station confirmed so far", data: "2026-08-27T21:32:39-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6/", titulo: "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6", data: "2026-11-19T14:07:18-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-pop-and-classic-rock-radio-stations-contain-150-songs-more-than-all-of-vice-citys-radio-stations-combined-2000758551", titulo: "GTA 6′s Pop And Classic Rock Radio Stations Contain 150 Songs, More Than All Of Vice City’s Radio Stations Combined", data: "2026-11-19T19:02:25-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/", titulo: "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them", data: "2026-11-20T21:46:00-03:00" }
 descoberto_em: "2026-11-19T16:10:00-03:00"
-atualizado_em: "2026-11-20T10:23:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: como liberar as playlists secretas The Sniper of La Perle e The Vault Radio." }
   - { data: "2026-11-20T10:23:00-03:00", nota: "Virou confirmada: PC Gamer e Kotaku, com base nos créditos oficiais, mostram as rádios do jogo lançado. Entraram a Vice City FM do Weird Al, a Kaleidoscope FM, os locutores famosos e as 150 músicas da Flash FM e da V-Rock." }
   - { data: "2026-11-19T16:10:00-03:00", nota: "Publicada em verificação: rádios e músicas segundo o PC Gamer. Ainda não se sabe que música toca em qual rádio." }
 perguntas:
@@ -164,6 +166,19 @@ No mesmo vídeo da Netflix toca uma versão longa do tema do GTA 6 que apareceu 
 - Talkin' to Myself Again, Tammy Wynette
 - Hot Together, The Pointer Sisters
 - Love Is a Long Road, Tom Petty
+
+## Duas playlists secretas (contam para os 100%)
+
+Segundo o PC Gamer, duas playlists começam bloqueadas e liberam quando você **escaneia cartazes com o WAiNK**.
+
+**The Sniper of La Perle**, do Kodak Black, pede quatro cartazes em La Perle e Crosstown:
+
+1. **TWA Ponya Tattoo:** na mesinha ao lado da porta, à direita.
+2. **Drip Drops:** no balcão do caixa.
+3. **Aunt Zola's Soul Food:** no mural de cortiça em frente ao caixa.
+4. **Jack of Hearts:** no estúdio de gravação do segundo andar, na mesa ao lado do ventilador. Só abre no capítulo 3.
+
+**The Vault Radio**, do DJ Pretzel, pede **um cartaz**: na boate The Vault, perto do centro de Vice City, na parede do fundo depois do corredor de entrada.
 
 ## Onde mais ouvir rádio
 

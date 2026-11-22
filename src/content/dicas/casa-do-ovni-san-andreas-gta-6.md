@@ -12,9 +12,11 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=ylFd8bwNO9U", titulo: "This GTA 6 Easter Egg Took FIVE YEARS to Find!", minuto: "0:28", data: "2026-11-18T15:09:56-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "2:34", data: "2026-11-19T01:53:46-03:00" }
   - { tipo: youtube, canal: "InkTV", url: "https://www.youtube.com/watch?v=9sBE_lGWzkE", titulo: "5 Insane GTA 6 Easter Eggs!", minuto: "3:30", data: "2026-11-19T18:18:46-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/", titulo: "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much", data: "2026-11-20T12:09:00-03:00" }
 descoberto_em: "2026-11-19T11:47:00-03:00"
-atualizado_em: "2026-11-20T10:45:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: o mural da garagem em que o morador desconfia que vive numa simulação." }
   - { data: "2026-11-20T10:45:00-03:00", nota: "Terceiro canal: o InkTV achou um revólver H&L .38 no porta-malas do carro da frente (o Milo tinha achado uma cobra). Entraram também a localização dada por ele, o disco voador nos murais e a capa da revista." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Confirmada: o Milo mostrou a mesma casa, o aviso de arrombar, o jornal da mulher que atravessa paredes e a revista do pé grande. Ele também achou uma cobra no porta-malas do carro parado na frente." }
   - { data: "2026-11-19T11:47:00-03:00", nota: "Publicada em verificação: casa mostrada pelo ZacCoxTV." }
@@ -61,6 +63,10 @@ A garagem é o esconderijo de um morador paranoico:
 - **Uma carta colecionável:** a carta da coleção **The Legends of Ratface**. Ela conta para a coleção de cartas do jogo.
 
 O ZacCoxTV não achou nada além disso na primeira visita. O que os murais anunciam pode ser pista de outros segredos, mas por enquanto ninguém mostrou ligação com OVNI de verdade. Outro esconderijo de caçador de OVNI fica no depósito da torre de vigia do Mount Kalaga, que abre com senha; veja na [lista de easter eggs](../easter-eggs-gta-6-lista/). Para ver um disco voador de verdade no jogo, veja a [abdução em Kelly County](../disco-voador-abducao-gta-6/).
+
+## O morador descobriu que vive num jogo
+
+O PC Gamer entrou de dia na garagem e achou um mural enorme com **"IT'S A SIMULATION"** (é uma simulação) escrito em vermelho. Nas anotações, o morador se pergunta por que não consegue sair de Leonida, conta **140 pessoas idênticas** e tenta entender o número 6 e quem são "L" e "J". Há folhetos de barco espalhados: a piada é que ele quer fugir pelo mar até a borda do mapa.
 
 ## Por que é um easter egg
 

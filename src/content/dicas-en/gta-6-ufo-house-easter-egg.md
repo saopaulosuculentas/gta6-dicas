@@ -13,9 +13,11 @@ fontes:
   - { tipo: youtube, canal: "ZacCoxTV", url: "https://www.youtube.com/watch?v=ylFd8bwNO9U", titulo: "This GTA 6 Easter Egg Took FIVE YEARS to Find!", minuto: "0:28", data: "2026-11-18T15:09:56-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=k8aMwoTczx8", titulo: "12 Secrets YOU MISSED in GTA 6!", minuto: "2:34", data: "2026-11-19T01:53:46-03:00" }
   - { tipo: youtube, canal: "InkTV", url: "https://www.youtube.com/watch?v=9sBE_lGWzkE", titulo: "5 Insane GTA 6 Easter Eggs!", minuto: "3:30", data: "2026-11-19T18:18:46-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/the-5-year-long-mystery-of-the-ufo-house-has-finally-been-solved-in-gta-6-but-one-npc-knows-too-much/", titulo: "The 5 year-long mystery of the UFO house has finally been solved in GTA 6, but one NPC knows too much", data: "2026-11-20T12:09:00-03:00" }
 descoberto_em: "2026-11-19T11:47:00-03:00"
-atualizado_em: "2026-11-20T10:45:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: the garage board where the owner suspects life is a simulation." }
   - { data: "2026-11-20T10:45:00-03:00", nota: "Third channel: InkTV found an H&L .38 revolver in the trunk of the car out front (Milo had found a snake). Also added his location note, the UFO drawing on the boards and the magazine cover." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Confirmed: Milo showed the same house, the break-in prompt, the newspaper about the woman who walks through walls and the Bigfoot magazine. He also found a snake in the trunk of the car parked out front." }
   - { data: "2026-11-19T11:47:00-03:00", nota: "Published as unverified: house shown by ZacCoxTV." }
@@ -62,6 +64,10 @@ The garage is a paranoid neighbor's hideout:
 - **A collectible card:** a card from **The Legends of Ratface** set, which counts toward the game's card collection.
 
 ZacCoxTV didn't find anything else on his first visit. The clippings could be hinting at other secrets, but so far nobody has shown an actual UFO connection. Another UFO hunter's hideout sits in the watchtower shed on Mount Kalaga, behind a keypad; see the [easter eggs list](../gta-6-easter-eggs-list/). For an actual flying saucer, see the [UFO abduction in Kelly County](../gta-6-ufo-abduction-truth-is-out-there/).
+
+## The owner worked out they're in a game
+
+PC Gamer walked into the garage by day and found a huge board with **"IT'S A SIMULATION"** in red. The notes ask why the owner can't leave Leonida, count **140 identical people** and puzzle over the number 6 and who "L" and "J" are. Boat brochures lie around, so the joke is that they plan to sail for the edge of the map.
 
 ## Why it's an easter egg
 

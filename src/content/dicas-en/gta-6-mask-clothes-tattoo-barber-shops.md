@@ -23,9 +23,11 @@ fontes:
   - { tipo: youtube, canal: "GamingWithOva", url: "https://www.youtube.com/watch?v=YuVrcg2I6Cg", titulo: "GTA 6: All Hairstyles, Facial Hair, & Makeup For Jason & Lucia", minuto: "0:28", data: "2026-11-19T02:09:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=zzJrBYsV39Y", titulo: "GTA 6 - 23 HUGE Tips You NEED to Know on Day 1", minuto: "5:17", data: "2026-11-19T00:06:06-03:00" }
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "2:21", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/", titulo: "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask", data: "2026-11-20T13:22:00-03:00" }
 descoberto_em: "2026-11-19T16:53:00-03:00"
-atualizado_em: "2026-11-19T16:53:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: where the mask is in Chuck's Tackle & Shot and how to pull it up." }
   - { data: "2026-11-19T16:53:00-03:00", nota: "Published as confirmed: Style tab from GamesRadar+, clothing and mirror tips from Kotaku, 24-hour stores (Kotaku), bandanas at Ammu-Nation (Arekkz Gaming and Game Rant). A dedicated mask shop is still unconfirmed." }
 perguntas:
   - { p: "Where do you buy a mask in GTA 6?", r: "The confirmed option is a bandana, usually sold at Ammu-Nation gun stores. No source has shown a dedicated mask shop so far." }
@@ -54,6 +56,15 @@ This is the shakiest part of the guide, so here's exactly what has been confirme
 - **Take it off late.** Remove it only once you're mostly in the clear. Pull it down too early and the police get a look at you.
 
 What is **not** confirmed: a real mask store selling rubber or costume masks. JoblessGarrett went looking early in the game and couldn't find a mask at a clothing store or anywhere else. We'll update this page if one turns up.
+
+### Step by step: buy it and wear it
+
+PC Gamer says the earliest mask is at **Chuck's Tackle & Shot**, near Jason's house in Key Lento:
+
+1. Walk in, turn right, go forward a little and take the aisle on your left.
+2. Find the **Neckwear** section on the right-hand shelf.
+3. Buy and equip it. It sits around the neck by default.
+4. To cover your face on PS5, hold **L1**, press **R1** for items, move the stick onto the mask and press **up on the D-pad** to switch to Wear Style 1.
 
 ## Clothing stores
 

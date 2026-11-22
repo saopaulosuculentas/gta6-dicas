@@ -12,9 +12,11 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/", titulo: "The GTA 6 map: Vice City, Ambrosia, and everything in between", data: "2025-05-13T12:27:25-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages/", titulo: "Rockstar has finally posted GTA 6's full map online—thank goodness, because clearing the entire thing in game takes ages", data: "2026-11-19T13:19:58-03:00" }
   - { tipo: oficial, canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/_next/static/media/Leonida_Map_Poster.08ir77j-.26ny.jpg?akim=1&imdensity=1&imwidth=3840", titulo: "Leonida map poster (official, high resolution)", data: "2026-11-19T13:19:58-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/", titulo: "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane", data: "2026-11-20T19:34:00-03:00" }
 descoberto_em: "2026-11-19T16:10:00-03:00"
-atualizado_em: "2026-11-20T10:22:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: 4 minutes and 18 seconds to fly across the map." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Added Rockstar's official full map (direct link) and why it helps, per PC Gamer: fog of war on the in-game map, a zoom that never shows everything, and small roads only visible up close. New questions on the full, official and interactive map." }
   - { data: "2026-11-19T16:10:00-03:00", nota: "Published as unverified. Source: PC Gamer's GTA 6 map guide." }
 perguntas:
@@ -75,6 +77,10 @@ From what PC Gamer shows, Rockstar's release is an image rather than an interact
 
 - **Mile Zero Air Station:** the military base in the southern keys and the easiest place to grab a tank. Walking in uninvited earns you a steep Wanted level. See [how to get into the base](../gta-6-military-base-location/).
 - **Key Lento:** a strip of outlying islands. This is where you start the game as Jason.
+
+## How long it takes to fly across the map
+
+PC Gamer timed **4 minutes and 18 seconds** in a Mammoth Dodo seaplane from the southern tip of the islands to the far north, just under an hour of game time. Faster planes probably exist. Steer around the military base on the way, or you'll get four wanted stars.
 
 ## Finding your way
 

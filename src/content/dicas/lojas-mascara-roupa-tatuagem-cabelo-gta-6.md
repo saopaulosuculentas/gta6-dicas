@@ -22,9 +22,11 @@ fontes:
   - { tipo: youtube, canal: "GamingWithOva", url: "https://www.youtube.com/watch?v=YuVrcg2I6Cg", titulo: "GTA 6: All Hairstyles, Facial Hair, & Makeup For Jason & Lucia", minuto: "0:28", data: "2026-11-19T02:09:43-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "29:30", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "KultZ", url: "https://www.youtube.com/watch?v=cq4NflwkCjM", titulo: "GTA 6 Beginner Tips & Tricks – Make Money Early", minuto: "2:21", data: "2026-11-19T02:20:57-03:00" }
+  - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mask-location/", titulo: "Want to stay anonymous when doing crimes in GTA 6? Grab yourself a mask", data: "2026-11-20T13:22:00-03:00" }
 descoberto_em: "2026-11-19T16:53:00-03:00"
-atualizado_em: "2026-11-19T16:53:00-03:00"
+atualizado_em: "2026-11-22T10:40:00-03:00"
 historico:
+  - { data: "2026-11-22T10:40:00-03:00", nota: "PC Gamer: onde fica a máscara no Chuck's Tackle & Shot e como subir no rosto." }
   - { data: "2026-11-19T16:53:00-03:00", nota: "Publicada como confirmada: aba Estilo do índice (GamesRadar+), dicas de roupa e espelho do Kotaku, lojas 24 horas (Kotaku), bandana na Ammu-Nation (Arekkz Gaming e Game Rant). A loja só de máscaras segue sem confirmação." }
 perguntas:
   - { p: "Onde comprar máscara no GTA 6?", r: "A opção confirmada é a bandana, que costuma estar à venda nas lojas de armas Ammu-Nation. Nenhuma fonte mostrou, até agora, uma loja só de máscaras." }
@@ -55,6 +57,15 @@ Esta é a parte mais incerta. O que as fontes confirmam:
 - **Tire só depois de fugir.** O Game Rant avisa: se tirar a máscara antes de estar a salvo, a polícia vê quem você é.
 
 O que **não** está confirmado: uma loja de máscaras de verdade, com máscara de borracha ou fantasia. O JoblessGarrett procurou no começo do jogo e não achou máscara nem em loja de roupa. Se alguém achar, esta página é atualizada.
+
+### Passo a passo: comprar e vestir
+
+Segundo o PC Gamer, a primeira máscara fica no **Chuck's Tackle & Shot**, perto da casa do Jason em Key Lento:
+
+1. Entre, vire à direita, ande um pouco e entre no corredor da esquerda.
+2. Procure a seção **Neckwear** (acessórios de pescoço) na prateleira da direita.
+3. Compre e equipe. Ela fica no pescoço.
+4. Para cobrir o rosto no PS5: segure **L1**, aperte **R1** para ir aos itens, aponte para a máscara e aperte **direcional para cima** até o estilo de uso 1.
 
 ## Roupas
 
