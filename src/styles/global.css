@@ -498,3 +498,98 @@ html[lang='en'] .anuncio::before { content: 'Advertisement'; }
 .anuncio:not(.anuncio--demo):not(:has(ins[data-ad-status='filled']))::before { display: none; }
 /* recomendação do próprio AdSense para esconder bloco sem anúncio */
 ins.adsbygoogle[data-ad-status='unfilled'] { display: none !important; }
+
+/* ---------- busca do site ---------- */
+[hidden] { display: none !important; }
+.menu__busca {
+  flex: none; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  font-family: var(--f-titulo); font-weight: 700; font-size: 1.22rem; line-height: 1.6; letter-spacing: 0.035em; text-transform: uppercase;
+  padding: 6px 12px 4px; border-radius: 8px; border: 1px solid var(--rosa); background: rgba(255, 79, 163, 0.14); color: var(--papel); white-space: nowrap;
+}
+.menu__busca:hover { background: rgba(255, 79, 163, 0.28); }
+.menu__busca svg, .pesquisa__lupa { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 2.6; stroke-linecap: round; }
+
+.pesquisa { position: relative; min-width: 0; }
+.pesquisa--capa { z-index: 20; margin: 0 0 20px; max-width: 620px; }
+.pesquisa__titulo { font-family: var(--f-titulo); font-size: clamp(1.6rem, 3vw, 2rem); line-height: 1; text-transform: uppercase; margin-bottom: 10px; }
+.pesquisa__titulo .sol { white-space: nowrap; }
+.pesquisa__forma {
+  display: flex; align-items: center; gap: 8px; padding: 5px 5px 5px 14px; scroll-margin-top: 10px;
+  border: 2px solid transparent; border-radius: 14px;
+  background: linear-gradient(var(--placa), var(--placa)) padding-box, var(--por-do-sol) border-box;
+}
+.pesquisa__forma:focus-within { box-shadow: 0 0 0 4px rgba(255, 179, 71, 0.22); }
+.pesquisa__lupa { color: var(--ambar); width: 22px; height: 22px; }
+/* 16px no mínimo: abaixo disso o iPhone dá zoom sozinho ao tocar no campo */
+.pesquisa__campo { flex: 1; min-width: 0; height: 44px; padding: 0; border: 0; outline: 0; background: none; color: var(--papel); font: inherit; font-size: 1rem; }
+input.pesquisa__campo:focus-visible { outline: 0; }
+.pesquisa__campo::placeholder { color: var(--nevoa); }
+.pesquisa__campo::-webkit-search-cancel-button { display: none; }
+.pesquisa__limpar { width: 36px; height: 40px; flex: none; border: 0; background: none; color: var(--nevoa); font-size: 1.6rem; cursor: pointer; }
+.pesquisa__botao {
+  flex: none; height: 44px; padding: 2px 16px 0; border: 0; border-radius: 10px; cursor: pointer;
+  background: var(--por-do-sol); color: var(--tinta); font-family: var(--f-titulo); font-weight: 800; font-size: 1.3rem; text-transform: uppercase;
+}
+.pesquisa__painel { overflow-y: auto; overscroll-behavior: contain; text-align: left; scrollbar-color: var(--linha) transparent; }
+.pesquisa--capa .pesquisa__painel {
+  position: absolute; top: calc(100% + 8px); left: 0; right: 0; max-height: min(65vh, 560px); padding: 6px 14px 14px;
+  background: var(--asfalto); border: 1px solid var(--linha); border-radius: var(--raio); box-shadow: 0 22px 60px rgba(0, 0, 0, 0.7);
+}
+.pesquisa__status { margin: 8px 0 0; color: var(--nevoa); font-size: 0.86rem; line-height: 1.4; }
+.pesquisa__status:empty { margin: 0; }
+.pesquisa__bloco { margin-top: 14px; }
+.pesquisa__rotulo { display: flex; align-items: baseline; flex-wrap: wrap; gap: 2px 8px; margin: 0 0 8px; font-family: var(--f-titulo); font-weight: 700; font-size: 1.15rem; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ambar); }
+.pesquisa__rotulo small { font-family: var(--f-corpo); font-weight: 500; font-size: 0.74rem; letter-spacing: 0; text-transform: none; color: var(--nevoa); }
+.pesquisa__rotulo button { margin-left: auto; padding: 4px; border: 0; background: none; color: var(--nevoa); font: 500 0.78rem var(--f-corpo); text-decoration: underline; cursor: pointer; }
+.pesquisa__ranking { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2px 12px; }
+.pesquisa__ranking button { width: 100%; min-height: 40px; display: flex; align-items: center; gap: 10px; padding: 4px 8px; border: 0; border-radius: 8px; background: none; color: var(--papel); font: inherit; font-size: 0.92rem; line-height: 1.2; text-align: left; cursor: pointer; }
+.pesquisa__ranking button:hover, .pesquisa__ranking button:focus-visible { background: var(--placa-2); }
+.pesquisa__ranking i { width: 14px; flex: none; font: 800 1.35rem var(--f-titulo); color: var(--nevoa); text-align: center; }
+.pesquisa__ranking li:nth-child(-n + 3) i { color: var(--coral); }
+.pesquisa__chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.pesquisa__chips button, .pesquisa__chips a {
+  display: inline-flex; align-items: center; min-height: 34px; padding: 4px 12px; border: 1px solid var(--linha); border-radius: 999px;
+  background: var(--placa); color: var(--papel); font: inherit; font-size: 0.85rem; line-height: 1.2; text-align: left; text-decoration: none; cursor: pointer;
+}
+.pesquisa__chips button:hover, .pesquisa__chips a:hover { border-color: var(--rosa); }
+.pesquisa__chips--secao a { color: var(--ambar); }
+.pesquisa__sugestoes { margin-top: 10px; }
+.pesquisa__filtros { flex-wrap: nowrap; overflow-x: auto; margin-top: 10px; padding: 3px; scrollbar-width: none; }
+.pesquisa__filtros button { flex: none; white-space: nowrap; border-radius: 8px; color: var(--nevoa); }
+.pesquisa__filtros button[aria-pressed='true'] { background: var(--por-do-sol); color: var(--tinta); border-color: transparent; font-weight: 700; }
+.pesquisa__lista { list-style: none; margin: 8px 0 0; padding: 0; }
+.achado { display: flex; gap: 12px; align-items: flex-start; padding: 10px 8px; border-bottom: 1px dashed var(--linha); border-radius: 8px; text-decoration: none; }
+.achado:hover, .achado:focus-visible { background: var(--placa-2); }
+.achado:focus-visible { outline-offset: -2px; }
+.achado--primeiro { background: var(--placa); }
+.achado img { width: 96px; height: 54px; flex: none; object-fit: cover; border-radius: 7px; background: var(--placa-2); }
+.achado__corpo { min-width: 0; display: block; overflow-wrap: anywhere; }
+.achado__topo { display: flex; flex-wrap: wrap; gap: 2px 10px; margin-bottom: 3px; color: var(--nevoa); font-size: 0.72rem; line-height: 1.3; text-transform: uppercase; letter-spacing: 0.04em; }
+.achado__topo em { color: var(--rosa); font-style: normal; font-weight: 700; }
+.achado__ok { color: var(--menta); }
+.achado__espera { color: var(--ambar); }
+.achado b { display: block; font-family: var(--f-titulo); font-size: 1.32rem; font-weight: 700; line-height: 1.05; }
+.achado small { display: block; margin-top: 4px; color: #cfc8da; font-size: 0.82rem; line-height: 1.4; }
+.achado mark { background: none; color: var(--ambar); }
+.pesquisa__mais { width: 100%; min-height: 42px; margin-top: 8px; border: 1px solid var(--linha); border-radius: 10px; background: var(--placa); color: var(--ambar); font: inherit; font-weight: 600; cursor: pointer; }
+
+/* janela que abre pelo botão Buscar do menu */
+.janela-busca {
+  width: min(720px, calc(100% - 32px)); max-width: none; height: min(760px, 88vh); max-height: none; margin: 6vh auto auto; padding: 0;
+  overflow: hidden; border: 1px solid var(--linha); border-radius: 18px; background: var(--asfalto); color: var(--papel);
+}
+.janela-busca::backdrop { background: rgba(5, 3, 10, 0.78); }
+html:has(.janela-busca[open]) { overflow: hidden; }
+.pesquisa--janela { height: 100%; display: flex; flex-direction: column; padding: 18px 18px 0; }
+.pesquisa--janela .pesquisa__titulo { padding-right: 42px; }
+.pesquisa--janela .pesquisa__forma { flex: none; }
+.pesquisa--janela .pesquisa__painel { flex: 1; min-height: 0; padding-bottom: 24px; }
+.janela-busca__fechar { position: absolute; z-index: 1; top: 10px; right: 12px; width: 44px; height: 44px; border: 0; background: none; color: var(--papel); font-size: 2rem; line-height: 1; cursor: pointer; }
+@media (max-width: 520px) {
+  .janela-busca { width: 100%; height: 100vh; height: 100dvh; margin: 0; border: 0; border-radius: 0; }
+  .pesquisa--janela { padding: 14px 12px 0; }
+  .pesquisa__botao { padding-inline: 12px; font-size: 1.15rem; }
+  .pesquisa__ranking { gap: 0 4px; }
+  .pesquisa__ranking button { padding-inline: 4px; gap: 8px; font-size: 0.86rem; }
+  .achado img { width: 72px; height: 48px; }
+}

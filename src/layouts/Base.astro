@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Pesquisa from '../components/Pesquisa.astro';
 import { SITE, INDEXAR, CATEGORIAS } from '../../site.config.mjs';
 import { u, todasDicas, ultimaRodada, videosLidos, dataHora, langDaUrl } from '../lib/util';
 import { T, PAGINAS, nomeCategoria, slugCategoria, prefixo, type Categoria } from '../lib/i18n';
@@ -123,6 +124,10 @@ const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
           <span class="marca__tag">GTA 6</span>
         </a>
         <nav class="menu" aria-label={t.secoes}>
+          <button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>
+            {t.buscar}
+          </button>
           {cats.map((c) => <a href={linkCat(c)} aria-current={ativo(`${prefixo(lang)}/${slugCategoria(c, lang)}/`)}>{nomeCategoria(c, lang)}</a>)}
           <a href={pag('novidades')} aria-current={ativo(PAGINAS.novidades[lang])}>{t.novidades}</a>
           <a class="idioma" href={linkOutra} hreflang={outra === 'en' ? 'en' : 'pt-BR'} lang={outra === 'en' ? 'en' : 'pt-BR'} aria-label={t.idioma}>
@@ -144,6 +149,11 @@ const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
     </header>
 
     <slot />
+
+    <dialog class="janela-busca" aria-label={t.buscar}>
+      <button class="janela-busca__fechar" type="button" data-fechar aria-label={t.fecharBusca}>×</button>
+      <Pesquisa lang={lang} modo="janela" />
+    </dialog>
 
     <footer class="rodape">
       <div class="miolo">

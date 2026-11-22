@@ -1,0 +1,68 @@
+{
+  "_como_atualizar": "mais = assuntos com mais impressões no Search Console (Desempenho > Consultas, 7 dias), somando as grafias do mesmo assunto, na ordem. tambem = sugestões atuais do Google para 'gta 6 ...' que o site responde. Só entra termo que acha página boa na busca do site. respostas = página que deve vir em 1º para aquela busca (nome do arquivo da dica).",
+  "atualizado": "2026-11-22",
+  "pt": {
+    "mais": [
+      "registrar carro",
+      "quantas missões tem",
+      "consertar anteparo",
+      "vender carro",
+      "casa da Mandy",
+      "galpão com dinheiro",
+      "ruídos estranhos",
+      "códigos e macetes"
+    ],
+    "tambem": [
+      "senha do cofre do boliche",
+      "armas únicas",
+      "carros raros",
+      "ganhar dinheiro",
+      "final bom",
+      "carro do Paul Walker",
+      "como pescar",
+      "primeira pessoa",
+      "trocar para Lucia"
+    ],
+    "respostas": {
+      "registrar carro": "como-vender-carro-gta-6",
+      "códigos": "todos-os-codigos-gta-6-lista-completa",
+      "ruídos estranhos": "dinheiro-do-papagaio-loja-de-bebidas-gta-6",
+      "pescar": "pesca-e-caca-gta-6",
+      "trocar Lucia": "como-trocar-de-personagem-gta-6",
+      "armas únicas": "armas-unicas-onde-achar-gta-6",
+      "dinheiro": "como-ganhar-dinheiro-gta-6"
+    }
+  },
+  "en": {
+    "mais": [
+      "Mandy's house",
+      "chapter 3 missions",
+      "best car to sell to Moses",
+      "Paul Walker car",
+      "Randy's cars",
+      "mission list",
+      "sell cars",
+      "how many chapters"
+    ],
+    "tambem": [
+      "bowling alley safe code",
+      "weapon locations",
+      "make money",
+      "good ending",
+      "key cloner",
+      "impound",
+      "how to save",
+      "cheat codes"
+    ],
+    "respostas": {
+      "register car": "gta-6-how-to-sell-cars",
+      "cheats": "all-gta-6-cheats-list",
+      "cheat codes": "all-gta-6-cheats-list",
+      "strange noises": "gta-6-parrot-money-strange-noises",
+      "fishing": "gta-6-fishing-hunting",
+      "how often can you sell cars to Moses": "gta-6-how-to-sell-cars",
+      "unique weapons": "gta-6-unique-weapons-locations",
+      "money": "gta-6-how-to-make-money"
+    }
+  }
+}

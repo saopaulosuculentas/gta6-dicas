@@ -8,6 +8,7 @@ import TabelaCodigos from '../components/TabelaCodigos.astro';
 import SemCodigos from '../components/SemCodigos.astro';
 import Cortes from '../components/Cortes.astro';
 import Carrossel from '../components/Carrossel.astro';
+import Pesquisa from '../components/Pesquisa.astro';
 import { SITE, CATEGORIAS } from '../../site.config.mjs';
 import { u, todasDicas, hora, diaCurto, linkDica, slugDe } from '../lib/util';
 import { PAGINAS, infoCategoria, prefixo, type Lang, type Categoria } from '../lib/i18n';
@@ -78,6 +79,7 @@ const alternativa = { pt: u(PAGINAS.inicio.pt), en: u(PAGINAS.inicio.en) };
           ? 'Cheats, easter eggs, secrets and ways to make money. Every tip shows the video it came from and a badge saying whether it has been confirmed.'
           : 'Códigos, easter eggs, segredos e jeitos de ganhar dinheiro. Cada dica mostra o vídeo de onde saiu e um selo dizendo se já foi confirmada.'}
       </p>
+      <Pesquisa lang={lang} modo="capa" />
       <div class="numeros sobe">
         <div class="numero"><b>{dicas.length}</b><span>{en ? 'tips live' : 'dicas no ar'}</span></div>
         <div class="numero numero--menta"><b>{confirmadas}</b><span>{en ? 'confirmed' : 'confirmadas'}</span></div>

@@ -1,0 +1,462 @@
+---
+// Busca do site inteiro. Aparece em dois lugares: na capa (o painel abre ao clicar) e na janela do botão "Buscar" do menu.
+import { u } from '../lib/util';
+import { T, PAGINAS, nomeCategoria, slugCategoria, prefixo, type Lang, type Categoria } from '../lib/i18n';
+import { CATEGORIAS } from '../../site.config.mjs';
+import populares from '../../dados/mais-buscados.json';
+
+interface Props { lang: Lang; modo: 'capa' | 'janela' }
+const { lang, modo } = Astro.props;
+
+const FRASES = {
+  pt: {
+    pergunta: 'Quer algo específico? Ou está perdido?',
+    chamada: 'Pesquise aqui',
+    exemplo: 'Arma, carro, cofre, missão...',
+    buscar: 'Buscar',
+    limpar: 'Apagar',
+    mais: 'Mais buscados',
+    maisNota: 'no Google',
+    tambem: 'Também procuram',
+    recentes: 'Suas últimas buscas',
+    esquecer: 'Limpar',
+    perdido: 'Está perdido? Comece por uma seção',
+    sugestoes: 'Sugestões',
+    tudo: 'Tudo',
+    confirmadas: 'Só confirmadas',
+    carregando: 'Procurando...',
+    um: '1 resultado',
+    varios: '{n} resultados',
+    parcial: 'Nada com todas as palavras. Estes são os mais parecidos:',
+    correcao: 'Mostrando resultados para "{q}".',
+    nada: 'Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.',
+    erro: 'A busca não carregou. Confira a conexão e tente de novo.',
+    melhor: 'Melhor resultado',
+    confirmado: 'Confirmado',
+    verificacao: 'Em verificação',
+    verMais: 'Ver mais resultados',
+  },
+  en: {
+    pergunta: 'Looking for something specific? Or feeling lost?',
+    chamada: 'Search here',
+    exemplo: 'Weapon, car, safe, mission...',
+    buscar: 'Search',
+    limpar: 'Clear',
+    mais: 'Most searched',
+    maisNota: 'on Google',
+    tambem: 'People also look for',
+    recentes: 'Your recent searches',
+    esquecer: 'Clear',
+    perdido: 'Feeling lost? Start with a section',
+    sugestoes: 'Suggestions',
+    tudo: 'All',
+    confirmadas: 'Confirmed only',
+    carregando: 'Searching...',
+    um: '1 result',
+    varios: '{n} results',
+    parcial: 'Nothing had every word. These are the closest:',
+    correcao: 'Showing results for "{q}".',
+    nada: 'Nothing found for that. Try another word or pick one of the options below.',
+    erro: 'Search did not load. Check your connection and try again.',
+    melhor: 'Best match',
+    confirmado: 'Confirmed',
+    verificacao: 'Unverified',
+    verMais: 'Show more results',
+  },
+} as const;
+
+const f = FRASES[lang];
+const t = T[lang];
+const { mais, tambem } = populares[lang];
+const cats = Object.keys(CATEGORIAS) as Categoria[];
+const config = {
+  lang,
+  indice: u(lang === 'en' ? '/en/search.json' : '/busca.json'),
+  termos: [...mais, ...tambem],
+  frases: f,
+};
+const id = `pesquisa-${modo}`;
+---
+
+<div class:list={['pesquisa', `pesquisa--${modo}`, { sobe: modo === 'capa' }]} data-pesquisa={JSON.stringify(config)} data-modo={modo}>
+  <h2 class="pesquisa__titulo" id={`${id}-titulo`}>{f.pergunta} <span class="sol">{f.chamada}</span></h2>
+  <form class="pesquisa__forma" role="search" aria-labelledby={`${id}-titulo`}>
+    <svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>
+    <input
+      class="pesquisa__campo"
+      type="search"
+      maxlength="80"
+      autocomplete="off"
+      autocapitalize="off"
+      spellcheck="false"
+      enterkeyhint="search"
+      placeholder={f.exemplo}
+      aria-label={`${f.pergunta} ${f.chamada}`}
+      aria-controls={`${id}-painel`}
+    />
+    <button class="pesquisa__limpar" type="button" data-limpar aria-label={f.limpar} hidden>×</button>
+    <button class="pesquisa__botao" type="submit">{f.buscar}</button>
+  </form>
+
+  <div class="pesquisa__painel" id={`${id}-painel`} data-painel hidden={modo === 'capa'}>
+    <p class="pesquisa__status" role="status" data-status></p>
+
+    <div data-inicio>
+      <div class="pesquisa__bloco" data-recentes hidden>
+        <p class="pesquisa__rotulo">{f.recentes} <button type="button" data-esquecer>{f.esquecer}</button></p>
+        <div class="pesquisa__chips" data-recentes-lista></div>
+      </div>
+      <div class="pesquisa__bloco">
+        <p class="pesquisa__rotulo">{f.mais} <small>{f.maisNota}</small></p>
+        <ol class="pesquisa__ranking">
+          {mais.map((termo, i) => (
+            <li><button type="button" data-termo={termo} data-nav><i aria-hidden="true">{i + 1}</i>{termo}</button></li>
+          ))}
+        </ol>
+      </div>
+      <div class="pesquisa__bloco">
+        <p class="pesquisa__rotulo">{f.tambem}</p>
+        <div class="pesquisa__chips">{tambem.map((termo) => <button type="button" data-termo={termo} data-nav>{termo}</button>)}</div>
+      </div>
+      <nav class="pesquisa__bloco" aria-label={f.perdido}>
+        <p class="pesquisa__rotulo">{f.perdido}</p>
+        <div class="pesquisa__chips pesquisa__chips--secao">
+          {cats.map((c) => <a href={u(`${prefixo(lang)}/${slugCategoria(c, lang)}/`)} data-nav>{nomeCategoria(c, lang)}</a>)}
+          <a href={u(PAGINAS.novidades[lang])} data-nav>{t.novidades}</a>
+        </div>
+      </nav>
+    </div>
+
+    <div data-achados hidden>
+      <div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label={f.sugestoes}></div>
+      <div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div>
+      <ul class="pesquisa__lista" data-lista></ul>
+      <button class="pesquisa__mais" type="button" data-mais data-nav hidden>{f.verMais}</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  import { criarBusca, normalizar, raiz, type Achado, type Resultado } from '../lib/busca';
+
+  type Motor = ReturnType<typeof criarBusca>;
+  const motores = new Map<string, Promise<Motor>>();
+  const PASSO = 8;
+
+  function criar<K extends keyof HTMLElementTagNameMap>(tag: K, classe = '', texto = '') {
+    const el = document.createElement(tag);
+    if (classe) el.className = classe;
+    if (texto) el.textContent = texto;
+    return el;
+  }
+
+  /** Escreve o texto com as palavras procuradas em destaque, sem usar HTML. */
+  function destacar(el: HTMLElement, texto: string, marcar: string[]) {
+    texto.split(/([\p{L}\p{N}]+)/u).forEach((parte, i) => {
+      const p = i % 2 ? raiz(normalizar(parte)) : '';
+      const achou = p && marcar.some((m) => p === m || (m.length >= 3 && p.startsWith(m)));
+      el.append(achou ? criar('mark', '', parte) : parte);
+    });
+  }
+
+  for (const caixa of document.querySelectorAll<HTMLElement>('[data-pesquisa]')) {
+    const { lang, indice, termos, frases } = JSON.parse(caixa.dataset.pesquisa!) as {
+      lang: 'pt' | 'en';
+      indice: string;
+      termos: string[];
+      frases: Record<string, string>;
+    };
+    const naCapa = caixa.dataset.modo === 'capa';
+    const el = <T extends HTMLElement = HTMLElement>(s: string) => caixa.querySelector<T>(s)!;
+    const campo = el<HTMLInputElement>('input');
+    const forma = el<HTMLFormElement>('form');
+    const painel = el('[data-painel]');
+    const status = el('[data-status]');
+    const inicio = el('[data-inicio]');
+    const achadosEl = el('[data-achados]');
+    const sugestoes = el('[data-sugestoes]');
+    const filtros = el('[data-filtros]');
+    const lista = el('[data-lista]');
+    const mais = el<HTMLButtonElement>('[data-mais]');
+    const limpar = el<HTMLButtonElement>('[data-limpar]');
+    const recentes = el('[data-recentes]');
+    const chave = `buscas:${lang}`;
+
+    let pedido = 0;
+    let resultado: Resultado | undefined;
+    let visiveis: Achado[] = [];
+    let secao = '';
+    let soConfirmadas = false;
+
+    // o índice só é baixado quando alguém usa a busca, e uma vez só por página
+    function carregar(): Promise<Motor> {
+      if (!motores.has(indice)) {
+        const motor = fetch(indice)
+          .then((r) => (r.ok ? r.json() : Promise.reject(new Error(String(r.status)))))
+          .then((itens) => criarBusca(itens, lang));
+        motor.catch(() => motores.delete(indice));
+        motores.set(indice, motor);
+      }
+      return motores.get(indice)!;
+    }
+
+    // últimas buscas: ficam só no aparelho da pessoa
+    function lerRecentes(): string[] {
+      try {
+        const v = JSON.parse(localStorage.getItem(chave) ?? '[]');
+        return Array.isArray(v) ? v.filter((x) => typeof x === 'string').slice(0, 5) : [];
+      } catch {
+        return [];
+      }
+    }
+    function guardar() {
+      const q = campo.value.trim();
+      if (q.length < 2) return;
+      try {
+        localStorage.setItem(chave, JSON.stringify([q, ...lerRecentes().filter((x) => normalizar(x) !== normalizar(q))].slice(0, 5)));
+      } catch {}
+    }
+
+    function chip(termo: string) {
+      const b = criar('button', '', termo);
+      b.type = 'button';
+      b.dataset.termo = termo;
+      b.dataset.nav = '';
+      return b;
+    }
+
+    function mostrarInicio(aviso = '') {
+      status.textContent = aviso;
+      inicio.hidden = false;
+      achadosEl.hidden = true;
+      painel.scrollTop = 0;
+      const ultimas = lerRecentes();
+      recentes.hidden = !ultimas.length;
+      el('[data-recentes-lista]').replaceChildren(...ultimas.map(chip));
+    }
+
+    function mostrarSugestoes(q: string) {
+      const partes = normalizar(q).split(' ');
+      const iguais = termos.filter((termo) => {
+        const n = normalizar(termo);
+        return n !== partes.join(' ') && partes.every((p) => n.split(' ').some((w) => w.startsWith(p)));
+      });
+      sugestoes.replaceChildren(...iguais.slice(0, 4).map(chip));
+      sugestoes.hidden = !iguais.length;
+    }
+
+    function mostrarFiltros(achados: Achado[]) {
+      const contagem = new Map<string, number>();
+      for (const a of achados) contagem.set(a.item.c, (contagem.get(a.item.c) ?? 0) + 1);
+      const botao = (texto: string, ativo: boolean, aoClicar: () => void) => {
+        const b = criar('button', '', texto);
+        b.type = 'button';
+        b.setAttribute('aria-pressed', String(ativo));
+        b.addEventListener('click', () => {
+          const i = [...filtros.children].indexOf(b);
+          aoClicar();
+          desenhar();
+          (filtros.children[i] as HTMLElement | undefined)?.focus({ preventScroll: true });
+        });
+        return b;
+      };
+      filtros.replaceChildren(
+        botao(`${frases.tudo} (${achados.length})`, !secao && !soConfirmadas, () => {
+          secao = '';
+          soConfirmadas = false;
+        }),
+        botao(frases.confirmadas, soConfirmadas, () => {
+          soConfirmadas = !soConfirmadas;
+        }),
+        ...[...contagem].map(([nome, n]) => botao(`${nome} (${n})`, secao === nome, () => {
+          secao = secao === nome ? '' : nome;
+        })),
+      );
+      filtros.hidden = achados.length < 2;
+    }
+
+    function linhaResultado({ item, trecho }: Achado, primeiro: boolean) {
+      const linha = criar('li');
+      const link = criar('a', `achado${primeiro ? ' achado--primeiro' : ''}`);
+      link.href = item.u + (trecho?.ancora ? `#${trecho.ancora}` : '');
+      link.dataset.nav = '';
+
+      if (item.i) {
+        const img = criar('img');
+        img.src = item.i;
+        img.alt = '';
+        img.width = 96;
+        img.height = 54;
+        img.loading = 'lazy';
+        link.append(img);
+      }
+      const corpo = criar('span', 'achado__corpo');
+      const topo = criar('span', 'achado__topo');
+      if (primeiro) topo.append(criar('em', '', frases.melhor));
+      topo.append(
+        criar('span', '', item.c),
+        criar('span', item.ok ? 'achado__ok' : 'achado__espera', item.ok ? frases.confirmado : frases.verificacao),
+      );
+      const titulo = criar('b');
+      destacar(titulo, item.t, resultado!.marcar);
+      const texto = criar('small');
+      if (trecho?.titulo) texto.append(criar('strong', '', `${trecho.titulo}: `));
+      destacar(texto, trecho?.texto ?? item.r, resultado!.marcar);
+      corpo.append(topo, titulo, texto);
+      link.append(corpo);
+      linha.append(link);
+      return linha;
+    }
+
+    function mostrarMais() {
+      const de = lista.children.length;
+      lista.append(...visiveis.slice(de, de + PASSO).map((a, i) => linhaResultado(a, de + i === 0)));
+      mais.hidden = lista.children.length >= visiveis.length;
+    }
+
+    function desenhar() {
+      if (!resultado) return;
+      visiveis = resultado.achados.filter((a) => (!secao || a.item.c === secao) && (!soConfirmadas || a.item.ok));
+      mostrarFiltros(resultado.achados);
+      const n = visiveis.length;
+      const avisos = [];
+      if (resultado.correcao) avisos.push(frases.correcao.replace('{q}', resultado.correcao));
+      if (resultado.parcial) avisos.push(frases.parcial);
+      else avisos.push(n === 1 ? frases.um : frases.varios.replace('{n}', String(n)));
+      status.textContent = avisos.join(' ');
+      inicio.hidden = true;
+      achadosEl.hidden = false;
+      lista.replaceChildren();
+      mostrarMais();
+    }
+
+    async function procurar() {
+      const vez = ++pedido;
+      const q = campo.value.trim();
+      limpar.hidden = !campo.value;
+      painel.hidden = false;
+      secao = '';
+      soConfirmadas = false;
+      if (q.length < 2) return mostrarInicio();
+      if (!resultado) status.textContent = frases.carregando;
+      try {
+        const buscar = await carregar();
+        if (vez !== pedido) return;
+        resultado = buscar(q);
+        if (!resultado.achados.length) return mostrarInicio(frases.nada);
+        mostrarSugestoes(q);
+        desenhar();
+        painel.scrollTop = 0;
+      } catch {
+        if (vez === pedido) mostrarInicio(frases.erro);
+      }
+    }
+
+    function abrir() {
+      carregar().catch(() => {});
+      if (!painel.hidden && naCapa) return;
+      painel.hidden = false;
+      if (campo.value.trim().length < 2) mostrarInicio();
+      // no celular, sobe a busca para as sugestões não ficarem atrás do teclado
+      if (naCapa && matchMedia('(max-width: 900px)').matches) forma.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    }
+
+    campo.addEventListener('focus', abrir);
+    campo.addEventListener('click', abrir);
+    campo.addEventListener('input', procurar);
+
+    forma.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (!campo.value.trim()) {
+        campo.focus();
+        return abrir();
+      }
+      guardar();
+      campo.blur(); // fecha o teclado do celular para mostrar o resultado
+      void procurar();
+    });
+
+    limpar.addEventListener('click', () => {
+      campo.value = '';
+      campo.focus();
+      void procurar();
+    });
+
+    caixa.addEventListener('click', (e) => {
+      const alvo = e.target as Element;
+      const termo = alvo.closest<HTMLElement>('[data-termo]')?.dataset.termo;
+      if (termo) {
+        campo.value = termo;
+        // o botão clicado some junto com as sugestões: o foco volta para o campo, sem abrir o teclado no celular
+        if (matchMedia('(pointer: fine)').matches) campo.focus({ preventScroll: true });
+        guardar();
+        void procurar();
+      } else if (alvo.closest('[data-esquecer]')) {
+        try {
+          localStorage.removeItem(chave);
+        } catch {}
+        mostrarInicio();
+        campo.focus({ preventScroll: true });
+      } else if (alvo.closest('a.achado')) {
+        guardar();
+      }
+    });
+
+    mais.addEventListener('click', () => {
+      const primeiroNovo = lista.children.length;
+      mostrarMais();
+      lista.children[primeiroNovo]?.querySelector('a')?.focus();
+    });
+
+    // setas andam pelas sugestões e pelos resultados; Esc fecha
+    caixa.addEventListener('keydown', (e) => {
+      if (e.isComposing) return;
+      if (e.key === 'Escape' && naCapa && !painel.hidden) {
+        e.preventDefault();
+        campo.focus();
+        painel.hidden = true;
+        return;
+      }
+      if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') return;
+      const opcoes = [...caixa.querySelectorAll<HTMLElement>('[data-nav]')].filter((o) => o.getClientRects().length);
+      if (!opcoes.length) return;
+      e.preventDefault();
+      const atual = opcoes.indexOf(document.activeElement as HTMLElement);
+      const proximo = e.key === 'ArrowDown' ? Math.min(atual + 1, opcoes.length - 1) : atual - 1;
+      if (proximo < 0) campo.focus();
+      else opcoes[proximo].focus();
+    });
+
+    if (naCapa) {
+      // composedPath guarda o caminho mesmo se o botão clicado sair da página
+      const fora = (e: Event) => {
+        if (!e.composedPath().includes(caixa)) painel.hidden = true;
+      };
+      document.addEventListener('click', fora);
+      document.addEventListener('focusin', fora);
+    } else {
+      const janela = caixa.closest('dialog');
+      if (!janela) continue;
+      const abrirJanela = () => {
+        if (janela.open) return;
+        janela.showModal();
+        campo.focus(); // dentro do clique, para o teclado do celular abrir
+        campo.select();
+        void procurar();
+      };
+      document.querySelectorAll('[data-abrir-busca]').forEach((b) => b.addEventListener('click', abrirJanela));
+      janela.querySelector('[data-fechar]')?.addEventListener('click', () => janela.close());
+      janela.addEventListener('click', (e) => {
+        // fundo escuro fecha; link para a própria página também
+        if (e.target === janela || (e.target as Element).closest('a[href]')) janela.close();
+      });
+      // tecla "/" abre a busca em qualquer página
+      document.addEventListener('keydown', (e) => {
+        if (e.key !== '/' || e.ctrlKey || e.metaKey || e.altKey) return;
+        if ((e.target as Element).closest?.('input, textarea, select, [contenteditable]')) return;
+        e.preventDefault();
+        abrirJanela();
+      });
+    }
+  }
+</script>
