@@ -29,7 +29,7 @@ export const SITE = {
   analyticsId: 'G-LT5SX099HQ',   // Google Analytics 4 (conta pardinhocortes)
 
   // Números dos blocos de anúncio criados no painel do AdSense (opcional).
-  // Vazio = formato automático. Exemplo: { faixa: '1234567890', retangulo: '2345678901' }
+  // Vazio = só anúncios automáticos (ligados no painel em 22/11/2026), sem espaço reservado. Exemplo: { faixa: '1234567890', retangulo: '2345678901' }
   adsBlocos: {},
 
   // Links de afiliado (ganho além do AdSense). Vazio = bloco não aparece.

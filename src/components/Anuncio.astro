@@ -1,7 +1,9 @@
 ---
 // Espaço de anúncio do Google AdSense.
 // - Sem adsenseId em site.config.mjs: no ar não aparece nada; no modo de teste aparece uma caixa mostrando o lugar.
-// - Com adsenseId: carrega o anúncio. Se houver o número do bloco (adsBlocos), usa o bloco; senão, usa formato automático.
+// - Com adsenseId e número do bloco (adsBlocos): desenha o bloco.
+// - Sem número do bloco: não desenha nada. Quem mostra anúncio é o Auto ads, pelo script do Base.astro
+//   (um <ins> sem data-ad-slot deixa buraco de 280 a 600 px e dá erro de push).
 import { SITE } from '../../site.config.mjs';
 interface Props { formato: 'faixa' | 'retangulo' | 'arranha' | 'artigo' | 'grade' }
 const { formato } = Astro.props;
@@ -17,13 +19,13 @@ const demo = !SITE.adsenseId && import.meta.env.DEV;
 ---
 
 {
-  SITE.adsenseId && (
+  SITE.adsenseId && bloco && (
     <div class={`anuncio anuncio--${formato}`}>
       <ins
         class="adsbygoogle"
         style="display:block"
         data-ad-client={SITE.adsenseId}
-        data-ad-slot={bloco || undefined}
+        data-ad-slot={bloco}
         data-ad-format={formato === 'artigo' ? 'fluid' : 'auto'}
         data-ad-layout={formato === 'artigo' ? 'in-article' : undefined}
         data-full-width-responsive="true"
