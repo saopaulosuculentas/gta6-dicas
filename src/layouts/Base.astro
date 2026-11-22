@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import Pesquisa from '../components/Pesquisa.astro';
+import Analytics from '../components/Analytics.astro';
 import { SITE, INDEXAR, CATEGORIAS } from '../../site.config.mjs';
 import { u, todasDicas, ultimaRodada, videosLidos, dataHora, langDaUrl } from '../lib/util';
 import { T, PAGINAS, nomeCategoria, slugCategoria, prefixo, type Categoria } from '../lib/i18n';
@@ -89,22 +90,10 @@ const pag = (k: keyof typeof PAGINAS) => u(PAGINAS[k][lang]);
       href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap"
       rel="stylesheet"
     />
+    {SITE.analyticsId && !import.meta.env.DEV && <Analytics id={SITE.analyticsId} />}
     {
       SITE.adsenseId && (
         <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseId}`} crossorigin="anonymous" />
-      )
-    }
-    {
-      SITE.analyticsId && !import.meta.env.DEV && (
-        <>
-          <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.analyticsId}`} />
-          <script is:inline define:vars={{ gaId: SITE.analyticsId }}>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', gaId);
-          </script>
-        </>
       )
     }
     {blocos.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
