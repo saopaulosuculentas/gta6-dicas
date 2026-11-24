@@ -16,13 +16,16 @@ fontes:
   - { tipo: site, canal: "Windows Central", url: "https://www.windowscentral.com/gaming/xbox/grand-theft-auto-6-xbox-review", titulo: "GTA 6 review: A bittersweet symphony of absolute excellence", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030", titulo: "Live Updates On GTA 6: The Biggest Launch In Gaming History", data: "2026-11-18T12:40:07-03:00" }
   - { tipo: youtube, canal: "Digital Foundry", url: "https://www.youtube.com/watch?v=F3lxGD8HX2k", titulo: "Grand Theft Auto 6 - Xbox Series X|S Versions Finally Revealed - DF Tech Review", minuto: "4:47", data: "2026-11-18T10:36:39-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/", titulo: "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running", data: "2026-11-24T08:23:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-play-gta-6-on-your-pc-or-phone-via-remote-play-on-xbox/", titulo: "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox", data: "2026-11-24T10:45:00-03:00" }
 descoberto_em: "2026-11-19T16:55:00-03:00"
-atualizado_em: "2026-11-19T16:55:00-03:00"
+atualizado_em: "2026-11-24T11:50:00-03:00"
 historico:
+  - { data: "2026-11-24T11:50:00-03:00", nota: "Added the Cyberleek leaked build news (not playable) and Microsoft confirming Xbox Remote Play." }
   - { data: "2026-11-19T16:55:00-03:00", nota: "Published as confirmed: platforms from PlayStation, Xbox and Rockstar Support; Game Pass answer from the official Xbox FAQ." }
 perguntas:
   - { p: "Is GTA 6 on PS4?", r: "No. PlayStation says GTA 6 is only playable on PS5 consoles and won't be available on PS4." }
-  - { p: "Can you play GTA 6 on PC?", r: "Not right now. Rockstar lists only PS5 and Xbox Series X|S, and no PC version has been announced." }
+  - { p: "Can you play GTA 6 on PC?", r: "Not right now. Rockstar lists only PS5 and Xbox Series X|S, and no PC version has been announced. The clips of it running on PC come from a leaked build that isn't playable yet." }
   - { p: "Is GTA 6 on Game Pass?", r: "No. Xbox says you have to buy the game. Game Pass members can only spend their monthly cloud hours streaming a copy they own." }
   - { p: "Can you play GTA 6 on Xbox One?", r: "Only through Xbox Cloud Gaming, with the game purchased and cloud playtime available. It doesn't install or run natively on Xbox One." }
 ---
@@ -39,7 +42,7 @@ You can't play GTA 6 on PC or PS4, and it isn't on Game Pass. The game runs on *
 | Xbox Series S | Yes |
 | PS4 | No |
 | Xbox One | Cloud streaming only |
-| PC | No version announced |
+| PC | No version announced (the leaked build isn't playable) |
 | Game Pass | Not included |
 
 ## PS4: no
@@ -61,7 +64,9 @@ The official Xbox FAQ answers this one directly: GTA 6 isn't available with Game
 
 ## PC: not announced
 
-Rockstar's support page only lists PS5 and Xbox Series X|S. On launch day, Kotaku still described a PC port as only a rumor, so there's no official version or date. Rockstar does say the game supports Remote Play on PlayStation and Xbox, which streams from a console you already own.
+Rockstar's support page only lists PS5 and Xbox Series X|S. On launch day, Kotaku still described a PC port as only a rumor, so there's no official version or date. Rockstar does say the game supports Remote Play on PlayStation and Xbox, which streams from a console you already own. According to GameSpot, Microsoft has now confirmed Xbox Remote Play support.
+
+**What about the videos of GTA 6 running on PC?** On November 23, the leaker Cyberleek released the executable for the leaked Xbox build, and fan groups are trying to get it running. So far it only boots to a black screen or shows the menus. It isn't playable, and every "GTA 6 PC" download is fake or unfinished. Full story in [GTA 6 on PC: the Cyberleek leak explained](../gta-6-pc-leak-cyberleek-port/).
 
 ## Before you buy
 

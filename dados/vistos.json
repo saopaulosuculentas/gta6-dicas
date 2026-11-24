@@ -2238,5 +2238,45 @@
     "resultado": "lido",
     "nota": "rodada 24/11: Moses, Wyman e registro (SpaceQT descartado: narracao sobre imagens genericas)",
     "lido_em": "2026-11-24T07:42:49-03:00"
+  },
+  "Ltk8EBw1KEI": {
+    "quando": "2026-11-24T11:48:59-03:00",
+    "titulo": "GTA 6 Is Running on a PC. Here's Why You Can't Play It Yet.",
+    "canal": "Dr. Josh C. Simmons",
+    "resultado": "lido",
+    "nota": "Contexto do port de PC (recompilação); usado como pano de fundo da notícia do Cyberleek",
+    "lido_em": "2026-11-24T11:55:58-03:00"
+  },
+  "P0o-Fh-VSxo": {
+    "quando": "2026-11-24T11:49:07-03:00",
+    "titulo": "Is GTA 6 Really PORTED to PC ? (fact checked)",
+    "canal": "Code Bear",
+    "resultado": "lido",
+    "nota": "Fonte da notícia do PC: etapas do port, clipes falsos e golpes",
+    "lido_em": "2026-11-24T11:55:58-03:00"
+  },
+  "W3ikbV7U3j0": {
+    "quando": "2026-11-24T11:49:13-03:00",
+    "titulo": "Modders Got GTA 6 Booting on PC Overnight…",
+    "canal": "Undocumented Behavior",
+    "resultado": "lido",
+    "nota": "Contexto do port de PC; nada novo além do Code Bear",
+    "lido_em": "2026-11-24T11:55:58-03:00"
+  },
+  "f0KK_4AaqLQ": {
+    "quando": "2026-11-24T11:49:21-03:00",
+    "titulo": "I Played GTA VI at 60 FPS",
+    "canal": "Linus Tech Tips",
+    "resultado": "lido",
+    "nota": "Fonte: clipe de 60 FPS é PS5 passando por PC com geração de quadros",
+    "lido_em": "2026-11-24T11:55:58-03:00"
+  },
+  "0VhEYE40AMY": {
+    "quando": "2026-11-24T11:49:29-03:00",
+    "titulo": "I Played GTA 6 at \"60 FPS\"",
+    "canal": "Hardware Unboxed",
+    "resultado": "lido",
+    "nota": "Fonte: 60 FPS via placa de captura e geração de quadros, jogo roda no console",
+    "lido_em": "2026-11-24T11:55:58-03:00"
   }
 }
