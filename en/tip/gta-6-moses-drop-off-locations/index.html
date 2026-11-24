@@ -1,0 +1,179 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6 Moses Drop-Offs: All 7 Car Locations | Macetes GTA 6</title><meta name="description" content="In Chapter 2, Moses asks for 7 cars that never show on the map. Here's where each one is, how to sell to him without wasting money and the fully customized car he gives you at the end."><link rel="canonical" href="https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="GTA 6 Moses Drop-Off Locations: All 7 Cars and the Secret Sultan Reward"><meta property="og:description" content="In Chapter 2, Moses asks for 7 cars that never show on the map. Here's where each one is, how to sell to him without wasting money and the fully customized car he gives you at the end."><meta property="og:url" content="https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/port-gellhorn.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="GTA 6 Moses Drop-Off Locations: All 7 Cars and the Secret Sultan Reward"><meta name="twitter:description" content="In Chapter 2, Moses asks for 7 cars that never show on the map. Here's where each one is, how to sell to him without wasting money and the fully customized car he gives you at the end."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/port-gellhorn.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/entregas-do-moses-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6 (English)" href="/en/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Where are Moses' cars in GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Around Port Gellhorn and up north: the Yosemite 1500 being towed on Port Gellhorn's west side, the Hellion 95 in the south, the Crawler 82 at the north roundabout, the Futo 85 on Draper Island, the Vamos in a Grayson garage, the Nightblade in an Ambrosia biker warehouse and the Bandito in Buckskin Swamp."}},{"@type":"Question","name":"What do you get for finishing Moses' drop-offs?","acceptedAnswer":{"@type":"Answer","text":"According to Mislead, once all 7 are delivered you go back to his shop and open the door on the right: a fully customized Sultan is waiting for you to keep."}},{"@type":"Question","name":"Does Moses buy cars with trackers?","acceptedAnswer":{"@type":"Answer","text":"No. Stick to low-key cars with no tracker, and sleep at a safehouse to skip his cooldown between sales."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"GTA 6 Moses Drop-Off Locations: All 7 Cars and the Secret Sultan Reward","description":"In Chapter 2, Moses asks for 7 cars that never show on the map. Here's where each one is, how to sell to him without wasting money and the fully customized car he gives you at the end.","datePublished":"2026-11-24T10:40:00.000Z","dateModified":"2026-11-24T10:40:00.000Z","inLanguage":"en","mainEntityOfPage":"https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/","image":"https://macetesgta6.com.br/img/oficial/port-gellhorn.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://macetesgta6.com.br/en/"},{"@type":"ListItem","position":2,"name":"Money","item":"https://macetesgta6.com.br/en/money/"},{"@type":"ListItem","position":3,"name":"GTA 6 Moses Drop-Off Locations: All 7 Cars and the Secret Sultan Reward","item":"https://macetesgta6.com.br/en/tip/gta-6-moses-drop-off-locations/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/en/" aria-label="Macetes GTA 6, home page"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Sections"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Search</button><a href="/en/cheats/">Cheats</a><a href="/en/easter-eggs/">Easter eggs</a><a href="/en/secrets-and-locations/">Secrets &amp; locations</a><a href="/en/money/">Money</a><a href="/en/tips/">Tips</a><a href="/en/guides/">Guides</a><a href="/en/news/">Latest</a><a class="idioma" href="/dica/entregas-do-moses-gta-6/" hreflang="pt-BR" lang="pt-BR" aria-label="Language"><span aria-hidden="true">EN</span> | <b>PT</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Last check: <strong>Nov 24, 7:47 AM BRT</strong></span><span><strong>134</strong> tips live</span><span><strong>111</strong> confirmed</span><span><strong>221</strong> videos and streams read</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="You are here"><a href="/en/">Home</a> <span>/</span> <a href="/en/money/">Money</a></nav><h1>GTA 6 Moses Drop-Off Locations: All 7 Cars and the Secret Sultan Reward</h1><p class="dica__resumo">In Chapter 2, Moses asks for 7 cars that never show on the map. Here&#39;s where each one is, how to sell to him without wasting money and the fully customized car he gives you at the end.</p><div class="dica__meta"><span class="selo selo--em-verificacao">Unverified · 2 sources</span><span>Updated <time datetime="2026-11-24T10:40:00.000Z">Nov 24, 7:40 AM BRT</time></span><span>PS5 and Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/port-gellhorn.webp" alt="Port Gellhorn, home of Moses' garage. This image is for illustration." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Port Gellhorn, home of Moses&#39; garage. This image is for illustration.<span>Image: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">see the source</a></span></figcaption></figure><article class="texto"><p>In <strong>Chapter 2</strong>, <strong>Moses</strong>, who runs a garage in <strong>Port Gellhorn</strong>, asks you to steal <strong>7 cars</strong> for him. The catch: <strong>none of them show on your map</strong>. Finish the list and he hands you a <strong>fully customized car</strong>.</p>
+<p>The locations come from <strong>Mislead</strong>, in a TikTok video with over 500,000 views. That’s one source for the locations so far, so this page is <strong>unverified</strong>. The selling tips come from <strong>Vice Clips</strong>.</p>
+<h2 id="all-7-cars">All 7 cars</h2>
+<table>
+<thead>
+<tr>
+<th>Car</th>
+<th>Where it is</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Declasse <strong>Yosemite 1500</strong></td>
+<td>West side of Port Gellhorn, next to a small inlet. It may be <strong>getting towed</strong>: just get in anyway.</td>
+</tr>
+<tr>
+<td>Annis <strong>Hellion 95</strong></td>
+<td>Far south of Port Gellhorn, in front of an <strong>L-shaped house</strong>.</td>
+</tr>
+<tr>
+<td>Canis <strong>Crawler 82</strong></td>
+<td>The roundabout in <strong>north Port Gellhorn</strong>. It’s the first one the game sends you after, and it counts.</td>
+</tr>
+<tr>
+<td>Karin <strong>Futo 85</strong></td>
+<td><strong>Draper Island</strong>, next to Port Gellhorn, inside the long building on the south end. Sometimes there are armed guards.</td>
+</tr>
+<tr>
+<td>Declasse <strong>Vamos</strong></td>
+<td><strong>Grayson</strong>, Lummox County, among the small houses on the far right: a single garage at a run-down spot covered in <strong>stop signs</strong>. The garage is locked.</td>
+</tr>
+<tr>
+<td>Western <strong>Nightblade</strong></td>
+<td><strong>Ambrosia</strong>, inside the <strong>bikers’ warehouse</strong>, with plenty of armed guys around.</td>
+</tr>
+<tr>
+<td>BF <strong>Bandito</strong></td>
+<td><strong>Buckskin Swamp</strong>. A group of rednecks may be driving it around, so you might have to chase it down and take it.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Car not there?</strong> If the purple marker doesn’t appear when you get close, you still need to wait for <strong>Moses’ next text</strong>. He unlocks the requests a few at a time.</p>
+<p><strong>Lost a car or got arrested with it?</strong> It ends up in the <strong>Port Gellhorn impound lot</strong> (or another impound marked on the map). Steal it back and deliver it anyway.</p>
+<h2 id="the-reward-moses-sultan">The reward: Moses’ Sultan</h2>
+<p>According to Mislead, once all 7 are delivered, go back to his garage and head to the <strong>door on the right</strong>. Moses lets you open it, and inside is a <strong>fully customized Sultan</strong> for you to keep.</p>
+<h2 id="selling-to-moses">Selling to Moses</h2>
+<p><strong>Vice Clips</strong> sums up the rules: <strong>low-key cars only, no trackers</strong>, and <strong>sleep at a safehouse</strong> to skip his cooldown between sales.</p>
+<p>They also found four cars around Port Gellhorn worth over <strong>$20,000</strong> to Moses in one go:</p>
+<table>
+<thead>
+<tr>
+<th>Car</th>
+<th>Max value in the video</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Orange Caracara in a gang compound</td>
+<td>$5,855</td>
+</tr>
+<tr>
+<td>Caracara behind a broken fence (shoot the gate switch to drive it out)</td>
+<td>$6,490</td>
+</tr>
+<tr>
+<td>Firebug <strong>Dominator</strong>, the most valuable</td>
+<td>$7,205</td>
+</tr>
+<tr>
+<td>Chino, nobody guarding it</td>
+<td>$2,850</td>
+</tr>
+</tbody>
+</table>
+<p>Even shot up, the cars sold close to their max.</p>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../gta-6-how-to-sell-cars/">How to sell cars in GTA 6</a>, including registration and your free first one</li>
+<li><a href="../gta-6-rare-car-locations-randy/">Randy’s rare car list</a>, the Chapter 3 buyer</li>
+</ul>
+</article><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Quick answers</h2><details><summary>Where are Moses&#39; cars in GTA 6?</summary><p>Around Port Gellhorn and up north: the Yosemite 1500 being towed on Port Gellhorn&#39;s west side, the Hellion 95 in the south, the Crawler 82 at the north roundabout, the Futo 85 on Draper Island, the Vamos in a Grayson garage, the Nightblade in an Ambrosia biker warehouse and the Bandito in Buckskin Swamp.</p></details><details><summary>What do you get for finishing Moses&#39; drop-offs?</summary><p>According to Mislead, once all 7 are delivered you go back to his shop and open the door on the right: a fully customized Sultan is waiting for you to keep.</p></details><details><summary>Does Moses buy cars with trackers?</summary><p>No. Stick to low-key cars with no tracker, and sleep at a safehouse to skip his cooldown between sales.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">More in Money</h2></div><div class="grade"><a class="cartao" href="/en/tip/gta-6-how-to-sell-cars/"><div class="cartao__img"><img src="/img/como-vender-carro-gta-6/oficina-do-moses.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Money</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>How to Sell Cars in GTA 6 (Moses, Randy and Car Registration)</h3><p>Sell stolen cars at a Pay &#39;n&#39; Spray (3 a day), to Moses or to Randy. Here&#39;s what they pay, how to register a car you want to keep, and how to get one out of the impound.</p><div class="cartao__pe"><time datetime="2026-11-24T10:45:00.000Z" data-relativo>Nov 24, 7:45 AM BRT</time><span>12 sources</span></div></a><a class="cartao" href="/en/tip/gta-6-fence-locations/"><div class="cartao__img"><img src="/img/onde-vender-itens-roubados-gta-6/notas-marcadas.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Money</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>All GTA 6 Fence Locations: Where to Sell Stolen Goods</h3><p>GTA 6 has 5 fences for drugs, jewelry and marked bills, plus 2 car buyers. Each fence pays best for a different item, and some only pay after you leave.</p><div class="cartao__pe"><time datetime="2026-11-23T23:05:00.000Z" data-relativo>Nov 23, 8:05 PM BRT</time><span>9 sources</span></div></a><a class="cartao" href="/en/tip/gta-6-bank-atm-deposit/"><div class="cartao__img"><img src="/img/banco-caixa-eletronico-gta-6/caixa-eletronico.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Money</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>GTA 6 Bank Account and ATMs: How to Deposit and Protect Your Cash</h3><p>Your GTA 6 bank account unlocks in the Chapter 1 mission Buck Me, and then any ATM takes deposits. Until then, hide your cash under the bedroom floorboards in Key Lento.</p><div class="cartao__pe"><time datetime="2026-11-20T14:11:00.000Z" data-relativo>Nov 20, 11:11 AM BRT</time><span>10 sources</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>Sources</h2><ul class="fontes"><li><b>Mislead (TikTok)</b><a href="https://www.tiktok.com/@mislead/video/7711169493476609293" target="_blank" rel="noopener nofollow">Moses has a SECRET Sultan reward in GTA 6</a><small>November 22, 2026</small></li><li><b>Vice Clips (TikTok)</b><a href="https://www.tiktok.com/@viceclips555/video/7711075144990526733" target="_blank" rel="noopener nofollow">GTA 6 money tip: 4 cars around Port Gellhorn that Moses pays over $20,000</a><small>November 22, 2026</small></li></ul></div><div class="caixa"><h2>Status</h2><p><strong style="color: var(--ambar)">Unverified.</strong> Only one source has shown this so far. If another confirms it, the badge changes; if it turns out false, the tip comes down.</p><ul class="historico"><li><time datetime="2026-11-24T10:40:00.000Z">Nov 24, 7:40 AM BRT</time>Published as unverified: the 7 car locations come from Mislead (TikTok) and the selling tips from Vice Clips. The Vamos garage code hasn&#39;t been shown on screen in any video we checked, so it&#39;s left out.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Search"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Close search">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;en&quot;,&quot;indice&quot;:&quot;/en/search.json&quot;,&quot;termos&quot;:[&quot;Mandy's house&quot;,&quot;chapter 3 missions&quot;,&quot;best car to sell to Moses&quot;,&quot;Paul Walker car&quot;,&quot;Randy's cars&quot;,&quot;mission list&quot;,&quot;sell cars&quot;,&quot;how many chapters&quot;,&quot;bowling alley safe code&quot;,&quot;weapon locations&quot;,&quot;make money&quot;,&quot;good ending&quot;,&quot;key cloner&quot;,&quot;impound&quot;,&quot;how to save&quot;,&quot;cheat codes&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Looking for something specific? Or feeling lost?&quot;,&quot;chamada&quot;:&quot;Search here&quot;,&quot;exemplo&quot;:&quot;Weapon, car, safe, mission...&quot;,&quot;buscar&quot;:&quot;Search&quot;,&quot;limpar&quot;:&quot;Clear&quot;,&quot;mais&quot;:&quot;Most searched&quot;,&quot;maisNota&quot;:&quot;on Google&quot;,&quot;tambem&quot;:&quot;People also look for&quot;,&quot;recentes&quot;:&quot;Your recent searches&quot;,&quot;esquecer&quot;:&quot;Clear&quot;,&quot;perdido&quot;:&quot;Feeling lost? Start with a section&quot;,&quot;sugestoes&quot;:&quot;Suggestions&quot;,&quot;tudo&quot;:&quot;All&quot;,&quot;confirmadas&quot;:&quot;Confirmed only&quot;,&quot;carregando&quot;:&quot;Searching...&quot;,&quot;um&quot;:&quot;1 result&quot;,&quot;varios&quot;:&quot;{n} results&quot;,&quot;parcial&quot;:&quot;Nothing had every word. These are the closest:&quot;,&quot;correcao&quot;:&quot;Showing results for \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Nothing found for that. Try another word or pick one of the options below.&quot;,&quot;erro&quot;:&quot;Search did not load. Check your connection and try again.&quot;,&quot;melhor&quot;:&quot;Best match&quot;,&quot;confirmado&quot;:&quot;Confirmed&quot;,&quot;verificacao&quot;:&quot;Unverified&quot;,&quot;verMais&quot;:&quot;Show more results&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Looking for something specific? Or feeling lost? <span class="sol">Search here</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Weapon, car, safe, mission..." aria-label="Looking for something specific? Or feeling lost? Search here" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Clear" hidden>×</button><button class="pesquisa__botao" type="submit">Search</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Your recent searches <button type="button" data-esquecer>Clear</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Most searched <small>on Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="Mandy's house" data-nav><i aria-hidden="true">1</i>Mandy&#39;s house</button></li><li><button type="button" data-termo="chapter 3 missions" data-nav><i aria-hidden="true">2</i>chapter 3 missions</button></li><li><button type="button" data-termo="best car to sell to Moses" data-nav><i aria-hidden="true">3</i>best car to sell to Moses</button></li><li><button type="button" data-termo="Paul Walker car" data-nav><i aria-hidden="true">4</i>Paul Walker car</button></li><li><button type="button" data-termo="Randy's cars" data-nav><i aria-hidden="true">5</i>Randy&#39;s cars</button></li><li><button type="button" data-termo="mission list" data-nav><i aria-hidden="true">6</i>mission list</button></li><li><button type="button" data-termo="sell cars" data-nav><i aria-hidden="true">7</i>sell cars</button></li><li><button type="button" data-termo="how many chapters" data-nav><i aria-hidden="true">8</i>how many chapters</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">People also look for</p><div class="pesquisa__chips"><button type="button" data-termo="bowling alley safe code" data-nav>bowling alley safe code</button><button type="button" data-termo="weapon locations" data-nav>weapon locations</button><button type="button" data-termo="make money" data-nav>make money</button><button type="button" data-termo="good ending" data-nav>good ending</button><button type="button" data-termo="key cloner" data-nav>key cloner</button><button type="button" data-termo="impound" data-nav>impound</button><button type="button" data-termo="how to save" data-nav>how to save</button><button type="button" data-termo="cheat codes" data-nav>cheat codes</button></div></div><nav class="pesquisa__bloco" aria-label="Feeling lost? Start with a section"><p class="pesquisa__rotulo">Feeling lost? Start with a section</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/en/cheats/" data-nav>Cheats</a><a href="/en/easter-eggs/" data-nav>Easter eggs</a><a href="/en/secrets-and-locations/" data-nav>Secrets &amp; locations</a><a href="/en/money/" data-nav>Money</a><a href="/en/tips/" data-nav>Tips</a><a href="/en/guides/" data-nav>Guides</a><a href="/en/news/" data-nav>Latest</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Suggestions"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Show more results</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Independent fan site. Every tip shows where it came from and whether more than one source has confirmed it.</p><p>Not affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of their owners.</p></div><div><h2>Sections</h2><ul><li><a href="/en/cheats/">Cheats</a></li><li><a href="/en/easter-eggs/">Easter eggs</a></li><li><a href="/en/secrets-and-locations/">Secrets &amp; locations</a></li><li><a href="/en/money/">Money</a></li><li><a href="/en/tips/">Tips</a></li><li><a href="/en/guides/">Guides</a></li><li><a href="/en/news/">Latest</a></li></ul></div><div><h2>The site</h2><ul><li><a href="/en/how-we-verify/">How we verify</a></li><li><a href="/en/about/">About</a></li><li><a href="/en/contact/">Contact</a></li><li><a href="/en/privacy-policy/">Privacy policy</a></li><li><a href="/en/terms/">Terms of use</a></li><li><a href="/dica/entregas-do-moses-gta-6/" hreflang="pt-BR">Português</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Original text; embedded videos belong to their creators.</div></div></footer><script>(function(){const ingles = true;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>

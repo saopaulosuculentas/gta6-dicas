@@ -1,0 +1,216 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6 Wyman: onde achar as 15 peças dos carros clássicos</title><meta name="description" content="Na edição especial ou Ultimate, o Wyman monta 5 carros clássicos com as 15 peças que você escaneia pelo mapa. Veja como liberar, onde ficam as peças, quanto custa e o que ganha no fim."><link rel="canonical" href="https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="Carros clássicos do Wyman no GTA 6: as 15 peças, quanto custa e a jaqueta de brinde"><meta property="og:description" content="Na edição especial ou Ultimate, o Wyman monta 5 carros clássicos com as 15 peças que você escaneia pelo mapa. Veja como liberar, onde ficam as peças, quanto custa e o que ganha no fim."><meta property="og:url" content="https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/grassrivers.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Carros clássicos do Wyman no GTA 6: as 15 peças, quanto custa e a jaqueta de brinde"><meta name="twitter:description" content="Na edição especial ou Ultimate, o Wyman monta 5 carros clássicos com as 15 peças que você escaneia pelo mapa. Veja como liberar, onde ficam as peças, quanto custa e o que ganha no fim."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/grassrivers.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-wyman-classic-car-locations/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-wyman-classic-car-locations/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Como liberar os carros do Wyman no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"No capítulo 2, fale com o Wyman no Starlet Motel e faça a primeira corrida do Thrillbilly Mud Club. Depois ele manda uma mensagem sobre os carros clássicos. Só vale para a edição especial ou a Ultimate."}},{"@type":"Question","name":"Quanto custa montar os carros do Wyman?","acceptedAnswer":{"@type":"Answer","text":"US$ 1.500 por carro, segundo o LunarGaming. Depois dos quatro primeiros, mais US$ 1.000 pelo quinto carro, que vem com uma jaqueta de brinde."}},{"@type":"Question","name":"Precisa de alguma ferramenta para as peças do Wyman?","acceptedAnswer":{"@type":"Answer","text":"Sim. Uma das peças está dentro de um contêiner que só abre com a ferramenta de corte, liberada no meio do capítulo 3."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Carros clássicos do Wyman no GTA 6: as 15 peças, quanto custa e a jaqueta de brinde","description":"Na edição especial ou Ultimate, o Wyman monta 5 carros clássicos com as 15 peças que você escaneia pelo mapa. Veja como liberar, onde ficam as peças, quanto custa e o que ganha no fim.","datePublished":"2026-11-24T10:45:00.000Z","dateModified":"2026-11-24T10:45:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/","image":"https://macetesgta6.com.br/img/oficial/grassrivers.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Segredos e locais","item":"https://macetesgta6.com.br/segredos-e-locais/"},{"@type":"ListItem","position":3,"name":"Carros clássicos do Wyman no GTA 6: as 15 peças, quanto custa e a jaqueta de brinde","item":"https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-wyman-classic-car-locations/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>24/11 às 07:47</strong></span><span><strong>152</strong> dicas no ar</span><span><strong>129</strong> confirmadas</span><span><strong>221</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/segredos-e-locais/">Segredos e locais</a></nav><h1>Carros clássicos do Wyman no GTA 6: as 15 peças, quanto custa e a jaqueta de brinde</h1><p class="dica__resumo">Na edição especial ou Ultimate, o Wyman monta 5 carros clássicos com as 15 peças que você escaneia pelo mapa. Veja como liberar, onde ficam as peças, quanto custa e o que ganha no fim.</p><div class="dica__meta"><span class="selo selo--em-verificacao">Em verificação · 2 fontes</span><span>Atualizado em <time datetime="2026-11-24T10:45:00.000Z">24/11 às 07:45</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/grassrivers.webp" alt="Interior de Leonida, onde ficam várias peças. A imagem é ilustrativa." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Interior de Leonida, onde ficam várias peças. A imagem é ilustrativa.<span>Imagem: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">ver a fonte</a></span></figcaption></figure><article class="texto"><p>O <strong>Wyman</strong>, o mecânico do Thrillbilly Mud Club, monta <strong>5 carros clássicos</strong> para você. Para isso, você acha e <strong>escaneia 15 peças</strong> espalhadas pelo mapa. Essa coleção é da <strong>edição especial ou da Ultimate</strong> do GTA 6.</p>
+<p>O guia é do <strong>LunarGaming</strong>. Os locais das peças vêm do <strong>Clips Leonida</strong>, que usa as imagens do mesmo canal. Ainda falta um segundo canal independente, por isso está em verificação.</p>
+<h2 id="como-liberar">Como liberar</h2>
+<ol>
+<li>No <strong>capítulo 2</strong>, fale com o Wyman no <strong>Starlet Motel</strong>.</li>
+<li>Faça a <strong>primeira corrida do Thrillbilly Mud Club</strong>.</li>
+<li>Espere a <strong>mensagem do Wyman</strong> sobre os carros clássicos. A partir daí, já dá para caçar as peças.</li>
+</ol>
+<h2 id="como-funciona">Como funciona</h2>
+<ul>
+<li>Não precisa terminar um carro antes de achar as peças do próximo: dá para pegar as 15 de uma vez, e ele monta um depois do outro.</li>
+<li>Ele cobra <strong>US$ 1.500 por carro</strong> para montar.</li>
+<li>Depois dos <strong>quatro primeiros</strong>, você paga mais <strong>US$ 1.000</strong> e leva o <strong>quinto carro</strong> e uma <strong>jaqueta</strong> de brinde. O Clips Leonida diz que o quinto é um <strong>Deviant</strong> e a jaqueta é a <strong>Patriot Jacket</strong>.</li>
+<li><strong>Tem espera:</strong> o Wyman leva pelo menos um dia de jogo para montar cada carro, e mais um dia entre você buscar um e ele começar o próximo. Boa parte do tempo é esperar a mensagem dele.</li>
+<li><strong>Uma peça exige a ferramenta de corte</strong>, para abrir um contêiner. Ela só libera no meio do <strong>capítulo 3</strong>.</li>
+</ul>
+<h2 id="onde-ficam-as-15-peças">Onde ficam as 15 peças</h2>
+<p>Os locais abaixo são do Clips Leonida, com o mapa no vídeo. A legenda automática erra alguns nomes, então use o vídeo para achar o ponto exato.</p>
+<table>
+<thead>
+<tr>
+<th>Carro</th>
+<th>Peça</th>
+<th>Onde</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Transgressor</td>
+<td>1</td>
+<td>Kelly County, na Gellhorn Avenue</td>
+</tr>
+<tr>
+<td>Transgressor</td>
+<td>2</td>
+<td>Kelly County, ao norte do Barracuda Sound</td>
+</tr>
+<tr>
+<td>Transgressor</td>
+<td>3</td>
+<td>Sul de Port Gellhorn</td>
+</tr>
+<tr>
+<td>Riata</td>
+<td>1</td>
+<td>Na estrada entre Hamlet e Key Lento</td>
+</tr>
+<tr>
+<td>Riata</td>
+<td>2</td>
+<td>Key Lento, na Sunset Drive</td>
+</tr>
+<tr>
+<td>Riata</td>
+<td>3</td>
+<td>Ilha da pista de pouso a oeste de Key Lento, na Cangrejo Street</td>
+</tr>
+<tr>
+<td>Mamba GT</td>
+<td>1</td>
+<td>Sul de Kelly County, a leste de Port Gellhorn</td>
+</tr>
+<tr>
+<td>Mamba GT</td>
+<td>2</td>
+<td>Sul de Leonard County, perto do Lake Leonida</td>
+</tr>
+<tr>
+<td>Mamba GT</td>
+<td>3</td>
+<td>Norte de Kelly County, ao norte de Port Gellhorn</td>
+</tr>
+<tr>
+<td>Mamba GT</td>
+<td>4</td>
+<td>Lummox County, num píer de madeira, <strong>à noite</strong></td>
+</tr>
+<tr>
+<td>Quarto carro</td>
+<td>1</td>
+<td>Barracuda Sound, a oeste de Port Gellhorn</td>
+</tr>
+<tr>
+<td>Quarto carro</td>
+<td>2</td>
+<td>Costa oeste, de frente para o Golfo de Leonida</td>
+</tr>
+<tr>
+<td>Quarto carro</td>
+<td>3</td>
+<td>Mariana County</td>
+</tr>
+<tr>
+<td>Quarto carro</td>
+<td>4</td>
+<td>Vice-Dale County</td>
+</tr>
+<tr>
+<td>Quarto carro</td>
+<td>5</td>
+<td>Vice-Dale County, na Southwest 7th Avenue</td>
+</tr>
+</tbody>
+</table>
+<p>O nome do quarto carro não ficou claro na fala do vídeo, por isso não escrevemos.</p>
+<p>Os carros você pode registrar e guardar como qualquer outro. Veja <a href="../como-vender-carro-gta-6/">como vender carro e registrar no GTA 6</a> e o que vem na <a href="../bonus-edicao-ultimate-como-pegar-gta-6/">edição Ultimate</a>.</p>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="uEb1_rhWjmI" data-inicio="0" aria-label="Tocar o vídeo de LunarGaming a partir de 0:00"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Ver no minuto 0:00</b><small>Canal LunarGaming</small></button></div><figcaption>&quot;GTA 6 – How To Get All Of Wyman&#39;s Car Collection (All 5 Classic Cars)&quot;, de LunarGaming. O vídeo pertence ao criador e toca direto do YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Como liberar os carros do Wyman no GTA 6?</summary><p>No capítulo 2, fale com o Wyman no Starlet Motel e faça a primeira corrida do Thrillbilly Mud Club. Depois ele manda uma mensagem sobre os carros clássicos. Só vale para a edição especial ou a Ultimate.</p></details><details><summary>Quanto custa montar os carros do Wyman?</summary><p>US$ 1.500 por carro, segundo o LunarGaming. Depois dos quatro primeiros, mais US$ 1.000 pelo quinto carro, que vem com uma jaqueta de brinde.</p></details><details><summary>Precisa de alguma ferramenta para as peças do Wyman?</summary><p>Sim. Uma das peças está dentro de um contêiner que só abre com a ferramenta de corte, liberada no meio do capítulo 3.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Segredos e locais</h2></div><div class="grade"><a class="cartao" href="/dica/carro-paul-walker-eclipse-gta-6/"><div class="cartao__img"><img src="/img/carros-raros-gta-6/garagem-eclipse.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Carro do Paul Walker no GTA 6: onde achar o Eclipse de Velozes e Furiosos</h3><p>O carro do Paul Walker está no GTA 6: uma homenagem ao Eclipse verde de Velozes e Furiosos numa garagem em Vespucci Island, nas Rialto Islands. Espere ter o Moses para registrar e ficar com ele.</p><div class="cartao__pe"><time datetime="2026-11-24T10:40:00.000Z" data-relativo>24/11 às 07:40</time><span>12 fontes</span></div></a><a class="cartao" href="/dica/como-pegar-tanque-gta-6/"><div class="cartao__img"><img src="/img/como-pegar-tanque-gta-6/rhino-base.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Como pegar um tanque no GTA 6: onde fica o Rhino e o troféu Challenging Tank</h3><p>O tanque Rhino do GTA 6 fica na base militar Mile Zero Air Station. Entre pela rampa, vá até a fileira de tanques e aperte triângulo. Pegar um libera o troféu Challenging Tank.</p><div class="cartao__pe"><time datetime="2026-11-24T10:40:00.000Z" data-relativo>24/11 às 07:40</time><span>3 fontes</span></div></a><a class="cartao" href="/dica/tanque-gratis-bunker-secreto-gta-6/"><div class="cartao__img"><img src="/img/tanque-gratis-bunker-secreto-gta-6/tanque-no-hangar.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Tanque grátis para sempre no GTA 6: a missão secreta dos bunkers e as senhas</h3><p>Uma missão escondida que começa num memorial de Vice City leva a dois bunkers. No fim você ganha a pistola lendária Russo&#39;s 1922, um fuzil e um tanque que volta sempre. Senhas 010317 e 085355.</p><div class="cartao__pe"><time datetime="2026-11-24T10:30:00.000Z" data-relativo>24/11 às 07:30</time><span>2 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>LunarGaming</b><a href="https://www.youtube.com/watch?v=uEb1_rhWjmI" target="_blank" rel="noopener nofollow">GTA 6 – How To Get All Of Wyman&#39;s Car Collection (All 5 Classic Cars) (minuto 0:00)</a><small>20 de novembro de 2026</small></li><li><b>Clips Leonida (TikTok)</b><a href="https://www.tiktok.com/@clipsleonida/video/7711039647089954061" target="_blank" rel="noopener nofollow">You asked where all 15 of Wyman&#39;s classic car parts are in GTA 6</a><small>22 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--ambar)">Em verificação.</strong> Por enquanto só uma fonte mostrou. Se outra confirmar, o selo muda; se cair, a dica sai do ar.</p><ul class="historico"><li><time datetime="2026-11-24T10:45:00.000Z">24/11 às 07:45</time>Publicada em verificação: o guia é do LunarGaming, e o vídeo do Clips Leonida com os locais das peças usa as imagens dele. Falta um segundo canal independente.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-wyman-classic-car-locations/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>
