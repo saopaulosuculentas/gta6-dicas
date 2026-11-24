@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://macetesgta6.com.br/dica/gta-6-pc-build-vazada-cyberleek/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Macetes GTA 6</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T14:50:00Z</news:publication_date>
+      <news:title>GTA 6 no PC: o que se sabe da build vazada do Cyberleek e por que ainda não dá para jogar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://macetesgta6.com.br/en/tip/gta-6-pc-leak-cyberleek-port/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Macetes GTA 6</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T14:50:00Z</news:publication_date>
+      <news:title>GTA 6 on PC: What We Know About the Cyberleek Xbox Leak and Why You Can&apos;t Play It Yet</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://macetesgta6.com.br/dica/carros-classicos-wyman-gta-6/</loc>
     <news:news>
       <news:publication>
@@ -273,72 +295,6 @@
       </news:publication>
       <news:publication_date>2026-11-23T23:00:00Z</news:publication_date>
       <news:title>2 GTA 6 Loot Spots With a Legendary Rifle, Big Cash and a Free Supercar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/dica/rifle-black-eagle-m306-onde-achar-gta-6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>Onde achar o Black Eagle Import M306 no GTA 6 (rifle com silenciador)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/dica/senha-cofre-boliche-gta-6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>Senha do cofre do boliche no GTA 6: 0300 (Kingpin Bowling)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/dica/smuggler-gorse-assassin-nipper-onde-achar-gta-6/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>Onde achar a Assassin Nipper .38 e a escopeta Smuggler Gorse 425 no GTA 6</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/en/tip/gta-6-black-eagle-m306-location/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>GTA 6 Black Eagle Import M306 Location (Free Suppressed Rifle)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/en/tip/gta-6-bowling-alley-safe-code/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>GTA 6 Bowling Alley Safe Code: 0300 (Kingpin Bowling)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://macetesgta6.com.br/en/tip/gta-6-smuggler-gorse-assassin-nipper-location/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Macetes GTA 6</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T13:40:00Z</news:publication_date>
-      <news:title>GTA 6 Assassin Nipper .38 and Smuggler Gorse 425 Locations</news:title>
     </news:news>
   </url>
 </urlset>
