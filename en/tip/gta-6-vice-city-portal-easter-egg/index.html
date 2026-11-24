@@ -1,0 +1,265 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6 Vice City Portal Easter Egg: Tommy&#39;s Shirt and Bike</title><meta name="description" content="GTA 6 hides a portal that sends Jason to the PS2-era Malibu Club. Here's the tower, the 12 substations and which switch to hit, the power plant hours and the rewards."><link rel="canonical" href="https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="GTA 6 Vice City Portal Easter Egg: How to Visit 2002 Vice City"><meta property="og:description" content="GTA 6 hides a portal that sends Jason to the PS2-era Malibu Club. Here's the tower, the 12 substations and which switch to hit, the power plant hours and the rewards."><meta property="og:url" content="https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/vice-city-2.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="GTA 6 Vice City Portal Easter Egg: How to Visit 2002 Vice City"><meta name="twitter:description" content="GTA 6 hides a portal that sends Jason to the PS2-era Malibu Club. Here's the tower, the 12 substations and which switch to hit, the power plant hours and the rewards."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/vice-city-2.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/portal-vice-city-ps2-easter-egg-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6 (English)" href="/en/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you get to old Vice City in GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Power up the tower in the south of the map, hit the 12 electrical substations in the order that spells Life Is Passing Me By, then go to Reactor 2 at the power plant between 7 p.m. and 6 a.m. A pink portal there sends Jason to the 2002 Malibu Club."}},{"@type":"Question","name":"What time does the GTA 6 Vice City portal open?","acceptedAnswer":{"@type":"Answer","text":"The text reads Reactor 2 1906. Dan Allen Gaming reads that as 7 p.m. to 6 a.m., and the portal won't open during the day."}},{"@type":"Question","name":"How do you get Tommy Vercetti's shirt in GTA 6?","acceptedAnswer":{"@type":"Answer","text":"It's the reward for the secret Vice City portal, along with a chopper motorcycle. You get both after Jason comes back from the 2002 Malibu Club."}},{"@type":"Question","name":"Who found the GTA 6 Vice City portal?","acceptedAnswer":{"@type":"Answer","text":"Kotaku credits content creator Memeio, who spent days hunting down the substations. TmarTn2 credits Memeio too."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"GTA 6 Vice City Portal Easter Egg: How to Visit 2002 Vice City","description":"GTA 6 hides a portal that sends Jason to the PS2-era Malibu Club. Here's the tower, the 12 substations and which switch to hit, the power plant hours and the rewards.","datePublished":"2026-11-23T23:10:00.000Z","dateModified":"2026-11-23T23:20:00.000Z","inLanguage":"en","mainEntityOfPage":"https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/","image":"https://macetesgta6.com.br/img/oficial/vice-city-2.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://macetesgta6.com.br/en/"},{"@type":"ListItem","position":2,"name":"Easter eggs","item":"https://macetesgta6.com.br/en/easter-eggs/"},{"@type":"ListItem","position":3,"name":"GTA 6 Vice City Portal Easter Egg: How to Visit 2002 Vice City","item":"https://macetesgta6.com.br/en/tip/gta-6-vice-city-portal-easter-egg/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/en/" aria-label="Macetes GTA 6, home page"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Sections"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Search</button><a href="/en/cheats/">Cheats</a><a href="/en/easter-eggs/">Easter eggs</a><a href="/en/secrets-and-locations/">Secrets &amp; locations</a><a href="/en/money/">Money</a><a href="/en/tips/">Tips</a><a href="/en/guides/">Guides</a><a href="/en/news/">Latest</a><a class="idioma" href="/dica/portal-vice-city-ps2-easter-egg-gta-6/" hreflang="pt-BR" lang="pt-BR" aria-label="Language"><span aria-hidden="true">EN</span> | <b>PT</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Last check: <strong>Nov 24, 6:58 AM BRT</strong></span><span><strong>131</strong> tips live</span><span><strong>108</strong> confirmed</span><span><strong>210</strong> videos and streams read</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="You are here"><a href="/en/">Home</a> <span>/</span> <a href="/en/easter-eggs/">Easter eggs</a></nav><h1>GTA 6 Vice City Portal Easter Egg: How to Visit 2002 Vice City</h1><p class="dica__resumo">GTA 6 hides a portal that sends Jason to the PS2-era Malibu Club. Here&#39;s the tower, the 12 substations and which switch to hit, the power plant hours and the rewards.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed · 4 sources</span><span>Updated <time datetime="2026-11-23T23:20:00.000Z">Nov 23, 8:20 PM BRT</time></span><span>PS5 and Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/vice-city-2.webp" alt="Vice City at night, in an official GTA 6 image. It shows the city, not the portal." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Vice City at night, in an official GTA 6 image. It shows the city, not the portal.<span>Image: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">see the source</a></span></figcaption></figure><article class="texto"><p><strong>GTA 6 has a hidden portal that drops Jason into the 2002, PS2-era version of Vice City.</strong> You land in the original Malibu Club, blocky graphics and all, and come home with <strong>Tommy Vercetti’s blue Hawaiian shirt</strong> and a <strong>chopper motorcycle</strong>. Kotaku credits creator Memeio with figuring it out.</p>
+<p>Fair warning: it’s a long one. You power up a tower in the south, hit a switch at <strong>12 electrical substations</strong> in a set order, then head to a power plant <strong>between 7 p.m. and 6 a.m.</strong> Kotaku’s writer needed about 30 minutes of flying with Memeio’s guide. Dan Allen Gaming says to set aside an hour.</p>
+<h2 id="before-you-start">Before you start</h2>
+<ul>
+<li><strong>Save first.</strong> Dan Allen Gaming saves right before the tower.</li>
+<li><strong>Grab a helicopter.</strong> By car, every leg takes several minutes. Dan Allen thinks there are a couple of helis in the bottom left of the map.</li>
+<li><strong>No fast travel.</strong> The 12 substations have to be done in one sitting.</li>
+<li><strong>Don’t die.</strong> Dan Allen stresses this near the end, and Misleading has a whole section on dying and fast travel (5:12).</li>
+</ul>
+<h2 id="rewards">Rewards</h2>
+<ul>
+<li><strong>Tommy’s blue shirt</strong> from Vice City (Kotaku).</li>
+<li>A <strong>chopper</strong> modeled on the American-flag bike Tommy gets early in the 2002 game (Kotaku). TmarTn2 lists it as the Malibu Zombie Bobber.</li>
+<li>A <strong>phone call from Kent Paul</strong> afterward, according to the TmarTn2 (17:42) and Misleading (7:54) chapters.</li>
+</ul>
+<h2 id="step-1-the-tower-in-the-south">Step 1: the tower in the south</h2>
+<p>It starts at a tower in the <strong>southern part of the map</strong>. Misleading calls it the radio tower.</p>
+<ol>
+<li>Check the poster. It references <strong>“Life Is Passing Me By”</strong>, the PC cheat that sped up the clock in the original game.</li>
+<li>Pull the <strong>lever</strong>, then press the <strong>button</strong>. A short sound from Vice City plays.</li>
+<li>When the TV shows the <strong>Malibu</strong>, the easter egg is live (Dan Allen Gaming).</li>
+</ol>
+<h2 id="step-2-the-12-substations">Step 2: the 12 substations</h2>
+<p>Each substation has an <strong>LPL</strong> sign and is often fenced in. Letters are painted on each one, and together they spell <strong>LIFE IS PASSING ME BY</strong>. Visit them in the order that spells the phrase and hit <strong>one</strong> switch on the panel at each.</p>
+<p>The panels are marked <strong>W, A, D</strong> and a <strong>dot</strong>. The right one follows the old PS2 cheat: Dan Allen points out that D stands for Circle, and the cheat opened with Circle, Circle. <strong>Hit the wrong switch or go out of order and you have to start over</strong>, he warns.</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Switch (Dan Allen)</th>
+<th>Where, per Dan Allen</th>
+<th>Dan Allen</th>
+<th>TmarTn2</th>
+<th>Misleading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>D</td>
+<td>Shown on the map only</td>
+<td>1:14</td>
+<td>2:20</td>
+<td>0:39</td>
+</tr>
+<tr>
+<td>2</td>
+<td>D</td>
+<td>Shown on the map only</td>
+<td>1:33</td>
+<td>3:29</td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Dot</td>
+<td>Shown on the map only</td>
+<td>2:25</td>
+<td>4:34</td>
+<td>2:07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A</td>
+<td>Shown on the map only</td>
+<td>2:53</td>
+<td>5:19</td>
+<td>2:19</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Dot</td>
+<td>Shown on the map only</td>
+<td>3:31</td>
+<td>6:27</td>
+<td>2:34</td>
+</tr>
+<tr>
+<td>6</td>
+<td>A</td>
+<td>Shown on the map only</td>
+<td>3:56</td>
+<td>7:11</td>
+<td>2:56</td>
+</tr>
+<tr>
+<td>7</td>
+<td>A</td>
+<td>East side of Hamlet: through the gates, behind the power lines</td>
+<td>4:10</td>
+<td>8:04</td>
+<td>3:11</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A</td>
+<td>Shown on the map only</td>
+<td>4:35</td>
+<td>8:49</td>
+<td>3:29</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Dot</td>
+<td>West side of Hamlet</td>
+<td>4:59</td>
+<td>10:55</td>
+<td>3:54</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Not called out</td>
+<td>Far top left of the map</td>
+<td>5:27</td>
+<td>11:30</td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>11</td>
+<td>D</td>
+<td>Back in Hamlet; the switches sit very close together</td>
+<td>5:57</td>
+<td>12:04</td>
+<td>4:33</td>
+</tr>
+<tr>
+<td>12</td>
+<td>W</td>
+<td>Shown on the map only</td>
+<td>6:18</td>
+<td>13:05</td>
+<td>4:50</td>
+</tr>
+</tbody>
+</table>
+<p>Dan Allen doesn’t say which switch he hits at the 10th stop, so pause his video at 5:27 and check before you press anything. Spot names come from auto-generated captions, so use the timestamps to see each location on the map.</p>
+<p>The cops can get involved, too. Kotaku’s writer picked up a wanted level along the way and lost it by hiding in a dumpster.</p>
+<h2 id="step-3-the-text-and-reactor-2">Step 3: the text and Reactor 2</h2>
+<p>Hit the 12th switch and a <strong>text from “Unknown”</strong> arrives: <strong>“Reactor 2 1906.”</strong> Dan Allen reads it as <strong>Reactor 2 at the power plant, from 7 p.m. to 6 a.m.</strong> The portal won’t open during the day. If the text came through, you’ve done it: you can save and go whenever you like.</p>
+<ol>
+<li>Wait for night. Dan Allen showed up around 10 p.m.</li>
+<li>Fly in by <strong>helicopter</strong> and <strong>parachute</strong> down onto the plant so you don’t get spotted. That was the easiest way he found.</li>
+<li>Behind a <strong>metal door</strong> you’ll find a huge <strong>pink portal</strong>. Step through and a cutscene takes over.</li>
+</ol>
+<h2 id="inside-2002-vice-city">Inside 2002 Vice City</h2>
+<p>Jason ends up in the <strong>Malibu Club</strong> from the original game, with PS2-style animation.</p>
+<ul>
+<li>You can dance on the floor.</li>
+<li>You can try to order a drink. Kotaku found Jason can’t hold the glass, since PS2-era hands had no fingers, so he spills it.</li>
+<li>Head up the <strong>back stairs</strong> to find <strong>Kent Paul</strong>. Before you can chat, a new portal pulls Jason back to 2026.</li>
+</ul>
+<p>Back in the present, the shirt and the bike are yours (TmarTn2 16:53, Misleading 7:27).</p>
+<h2 id="what-we-still-dont-know">What we still don’t know</h2>
+<p>Exact addresses for the substations haven’t been published in writing, which is why the table points you to the video timestamps. The switch for the 10th stop isn’t spoken in Dan Allen’s guide. We’ll update this page when a source we can check spells those out.</p>
+<p>For more secrets, see the <a href="../gta-6-easter-eggs-list/">GTA 6 easter eggs list</a>, including the <a href="../gta-6-mario-easter-egg-hats/">Mario block</a> that gives Jason and Lucia matching caps.</p>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="4KwBs_RkilM" data-inicio="74" aria-label="Play the video by Dan Allen Gaming from 1:14"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Watch at 1:14</b><small>Channel Dan Allen Gaming</small></button></div><figcaption>&quot;GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)&quot; by Dan Allen Gaming. The video belongs to its creator and plays straight from YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Quick answers</h2><details><summary>How do you get to old Vice City in GTA 6?</summary><p>Power up the tower in the south of the map, hit the 12 electrical substations in the order that spells Life Is Passing Me By, then go to Reactor 2 at the power plant between 7 p.m. and 6 a.m. A pink portal there sends Jason to the 2002 Malibu Club.</p></details><details><summary>What time does the GTA 6 Vice City portal open?</summary><p>The text reads Reactor 2 1906. Dan Allen Gaming reads that as 7 p.m. to 6 a.m., and the portal won&#39;t open during the day.</p></details><details><summary>How do you get Tommy Vercetti&#39;s shirt in GTA 6?</summary><p>It&#39;s the reward for the secret Vice City portal, along with a chopper motorcycle. You get both after Jason comes back from the 2002 Malibu Club.</p></details><details><summary>Who found the GTA 6 Vice City portal?</summary><p>Kotaku credits content creator Memeio, who spent days hunting down the substations. TmarTn2 credits Memeio too.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">More in Easter eggs</h2></div><div class="grade"><a class="cartao" href="/en/tip/gta-6-easter-eggs-list/"><div class="cartao__img"><img src="/img/oficial/vice-city-1.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>GTA 6 Easter Eggs: Every Secret Found So Far</h3><p>Every GTA 6 easter egg found so far: the Vice City portal, the Mario block, Bigfoot (the Skunk Ape), the radio tower egg, the jet ski dog, the alien lab, Dexter and more.</p><div class="cartao__pe"><time datetime="2026-11-23T23:20:00.000Z" data-relativo>Nov 23, 8:20 PM BRT</time><span>15 sources</span></div></a><a class="cartao" href="/en/tip/gta-6-satan-boss-fight-easter-egg/"><div class="cartao__img"><img src="/img/easter-egg-satanas-inferno-gta-6/casa-amarela.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>GTA 6 Satan Boss Fight Easter Egg: How to Start the Ritual, Beat Satan and Get the Shotgun</h3><p>At a yellow house in Port Gellhorn after midnight, two metalheads invite you to a ritual that turns into a Doom-style trip through hell. Beat Satan for a unique red shotgun and a permanent health boost.</p><div class="cartao__pe"><time datetime="2026-11-23T23:15:00.000Z" data-relativo>Nov 23, 8:15 PM BRT</time><span>2 sources</span></div></a><a class="cartao" href="/en/tip/gta-6-mario-easter-egg-hats/"><div class="cartao__img"><img src="/img/oficial/mount-kalaga.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>GTA 6 Mario Easter Egg: Where to Find the Block With Jason and Lucia&#39;s Hats</h3><p>The GTA 6 Mario easter egg is a hidden block in the brick ruins southwest of Moreau, Lummox County. Break it for two caps: a J for Jason and an L for Lucia.</p><div class="cartao__pe"><time datetime="2026-11-23T23:10:00.000Z" data-relativo>Nov 23, 8:10 PM BRT</time><span>3 sources</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>Sources</h2><ul class="fontes"><li><b>Kotaku</b><a href="https://kotaku.com/gta-6-contains-a-very-hidden-secret-that-teleports-you-back-in-time-to-vice-city-on-the-ps2-2000759500" target="_blank" rel="noopener nofollow">GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2</a><small>November 23, 2026</small></li><li><b>Dan Allen Gaming</b><a href="https://www.youtube.com/watch?v=4KwBs_RkilM&amp;t=74s" target="_blank" rel="noopener nofollow">GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide) (at 1:14)</a><small>November 23, 2026</small></li><li><b>TmarTn2</b><a href="https://www.youtube.com/watch?v=5BW8LOnL1GE&amp;t=140s" target="_blank" rel="noopener nofollow">GTA 6 - Play as Tommy Vercetti GTA Multiverse Easter Egg Guide (at 2:20)</a><small>November 23, 2026</small></li><li><b>Misleading</b><a href="https://www.youtube.com/watch?v=t3zvakxz0js&amp;t=39s" target="_blank" rel="noopener nofollow">GTA 6&#39;s Secret Portal Takes You Back to Vice City! (Full Guide) (at 0:39)</a><small>November 23, 2026</small></li></ul></div><div class="caixa"><h2>Status</h2><p><strong style="color: var(--menta)">Confirmed.</strong> This shows up in 4 different sources.</p><ul class="historico"><li><time datetime="2026-11-23T23:20:00.000Z">Nov 23, 8:20 PM BRT</time>Published as confirmed: Kotaku played it through and Dan Allen Gaming walks the same route to the same portal and rewards. Switches for 11 of the 12 substations come from Dan Allen&#39;s narration; the 10th isn&#39;t called out, and exact addresses aren&#39;t confirmed in writing yet.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Search"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Close search">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;en&quot;,&quot;indice&quot;:&quot;/en/search.json&quot;,&quot;termos&quot;:[&quot;Mandy's house&quot;,&quot;chapter 3 missions&quot;,&quot;best car to sell to Moses&quot;,&quot;Paul Walker car&quot;,&quot;Randy's cars&quot;,&quot;mission list&quot;,&quot;sell cars&quot;,&quot;how many chapters&quot;,&quot;bowling alley safe code&quot;,&quot;weapon locations&quot;,&quot;make money&quot;,&quot;good ending&quot;,&quot;key cloner&quot;,&quot;impound&quot;,&quot;how to save&quot;,&quot;cheat codes&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Looking for something specific? Or feeling lost?&quot;,&quot;chamada&quot;:&quot;Search here&quot;,&quot;exemplo&quot;:&quot;Weapon, car, safe, mission...&quot;,&quot;buscar&quot;:&quot;Search&quot;,&quot;limpar&quot;:&quot;Clear&quot;,&quot;mais&quot;:&quot;Most searched&quot;,&quot;maisNota&quot;:&quot;on Google&quot;,&quot;tambem&quot;:&quot;People also look for&quot;,&quot;recentes&quot;:&quot;Your recent searches&quot;,&quot;esquecer&quot;:&quot;Clear&quot;,&quot;perdido&quot;:&quot;Feeling lost? Start with a section&quot;,&quot;sugestoes&quot;:&quot;Suggestions&quot;,&quot;tudo&quot;:&quot;All&quot;,&quot;confirmadas&quot;:&quot;Confirmed only&quot;,&quot;carregando&quot;:&quot;Searching...&quot;,&quot;um&quot;:&quot;1 result&quot;,&quot;varios&quot;:&quot;{n} results&quot;,&quot;parcial&quot;:&quot;Nothing had every word. These are the closest:&quot;,&quot;correcao&quot;:&quot;Showing results for \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Nothing found for that. Try another word or pick one of the options below.&quot;,&quot;erro&quot;:&quot;Search did not load. Check your connection and try again.&quot;,&quot;melhor&quot;:&quot;Best match&quot;,&quot;confirmado&quot;:&quot;Confirmed&quot;,&quot;verificacao&quot;:&quot;Unverified&quot;,&quot;verMais&quot;:&quot;Show more results&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Looking for something specific? Or feeling lost? <span class="sol">Search here</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Weapon, car, safe, mission..." aria-label="Looking for something specific? Or feeling lost? Search here" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Clear" hidden>×</button><button class="pesquisa__botao" type="submit">Search</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Your recent searches <button type="button" data-esquecer>Clear</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Most searched <small>on Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="Mandy's house" data-nav><i aria-hidden="true">1</i>Mandy&#39;s house</button></li><li><button type="button" data-termo="chapter 3 missions" data-nav><i aria-hidden="true">2</i>chapter 3 missions</button></li><li><button type="button" data-termo="best car to sell to Moses" data-nav><i aria-hidden="true">3</i>best car to sell to Moses</button></li><li><button type="button" data-termo="Paul Walker car" data-nav><i aria-hidden="true">4</i>Paul Walker car</button></li><li><button type="button" data-termo="Randy's cars" data-nav><i aria-hidden="true">5</i>Randy&#39;s cars</button></li><li><button type="button" data-termo="mission list" data-nav><i aria-hidden="true">6</i>mission list</button></li><li><button type="button" data-termo="sell cars" data-nav><i aria-hidden="true">7</i>sell cars</button></li><li><button type="button" data-termo="how many chapters" data-nav><i aria-hidden="true">8</i>how many chapters</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">People also look for</p><div class="pesquisa__chips"><button type="button" data-termo="bowling alley safe code" data-nav>bowling alley safe code</button><button type="button" data-termo="weapon locations" data-nav>weapon locations</button><button type="button" data-termo="make money" data-nav>make money</button><button type="button" data-termo="good ending" data-nav>good ending</button><button type="button" data-termo="key cloner" data-nav>key cloner</button><button type="button" data-termo="impound" data-nav>impound</button><button type="button" data-termo="how to save" data-nav>how to save</button><button type="button" data-termo="cheat codes" data-nav>cheat codes</button></div></div><nav class="pesquisa__bloco" aria-label="Feeling lost? Start with a section"><p class="pesquisa__rotulo">Feeling lost? Start with a section</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/en/cheats/" data-nav>Cheats</a><a href="/en/easter-eggs/" data-nav>Easter eggs</a><a href="/en/secrets-and-locations/" data-nav>Secrets &amp; locations</a><a href="/en/money/" data-nav>Money</a><a href="/en/tips/" data-nav>Tips</a><a href="/en/guides/" data-nav>Guides</a><a href="/en/news/" data-nav>Latest</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Suggestions"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Show more results</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Independent fan site. Every tip shows where it came from and whether more than one source has confirmed it.</p><p>Not affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of their owners.</p></div><div><h2>Sections</h2><ul><li><a href="/en/cheats/">Cheats</a></li><li><a href="/en/easter-eggs/">Easter eggs</a></li><li><a href="/en/secrets-and-locations/">Secrets &amp; locations</a></li><li><a href="/en/money/">Money</a></li><li><a href="/en/tips/">Tips</a></li><li><a href="/en/guides/">Guides</a></li><li><a href="/en/news/">Latest</a></li></ul></div><div><h2>The site</h2><ul><li><a href="/en/how-we-verify/">How we verify</a></li><li><a href="/en/about/">About</a></li><li><a href="/en/contact/">Contact</a></li><li><a href="/en/privacy-policy/">Privacy policy</a></li><li><a href="/en/terms/">Terms of use</a></li><li><a href="/dica/portal-vice-city-ps2-easter-egg-gta-6/" hreflang="pt-BR">Português</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Original text; embedded videos belong to their creators.</div></div></footer><script>(function(){const ingles = true;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6: 4 locais com arma lendária e dinheiro</title><meta name="description" content="Quatro operações ilegais do mapa do GTA 6 com arma lendária, cofre, relógio de luxo e até carro destrancado sem rastreador: Chatfield Storage, Balsero, Little Cuba e Vespucci Island."><link rel="canonical" href="https://macetesgta6.com.br/dica/locais-de-roubo-arma-lendaria-dinheiro-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="4 locais de roubo do GTA 6 com arma lendária, dinheiro e carro sem rastreador"><meta property="og:description" content="Quatro operações ilegais do mapa do GTA 6 com arma lendária, cofre, relógio de luxo e até carro destrancado sem rastreador: Chatfield Storage, Balsero, Little Cuba e Vespucci Island."><meta property="og:url" content="https://macetesgta6.com.br/dica/locais-de-roubo-arma-lendaria-dinheiro-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/vice-city-2.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="4 locais de roubo do GTA 6 com arma lendária, dinheiro e carro sem rastreador"><meta name="twitter:description" content="Quatro operações ilegais do mapa do GTA 6 com arma lendária, cofre, relógio de luxo e até carro destrancado sem rastreador: Chatfield Storage, Balsero, Little Cuba e Vespucci Island."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/vice-city-2.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/locais-de-roubo-arma-lendaria-dinheiro-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-legendary-weapon-loot-locations/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-legendary-weapon-loot-locations/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Onde achar arma lendária no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Muitas ficam dentro das operações ilegais marcadas no mapa: a Chatfield Storage & Logistics tem uma pistola lendária com silenciador e a casa ao norte de Little Cuba tem um fuzil lendário Guardian Brothers. Veja também a lista completa de armas únicas."}},{"@type":"Question","name":"Qual a senha do cofre da Chatfield Storage no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"5800. O número está no notebook de dentro do contêiner vermelho, e o vídeo mostra os quatro dígitos no cofre do prédio central."}},{"@type":"Question","name":"Tem carro sem rastreador de graça no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Tem. Na Chatfield Storage há um Emerus roxo com nitro e, na mansão de Vespucci Island, um Emerus vermelho, os dois destrancados e sem rastreador. Na casa de Little Cuba há um Mercedes com nitro, também sem rastreador."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"4 locais de roubo do GTA 6 com arma lendária, dinheiro e carro sem rastreador","description":"Quatro operações ilegais do mapa do GTA 6 com arma lendária, cofre, relógio de luxo e até carro destrancado sem rastreador: Chatfield Storage, Balsero, Little Cuba e Vespucci Island.","datePublished":"2026-11-23T23:00:00.000Z","dateModified":"2026-11-23T23:00:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/locais-de-roubo-arma-lendaria-dinheiro-gta-6/","image":"https://macetesgta6.com.br/img/oficial/vice-city-2.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Segredos e locais","item":"https://macetesgta6.com.br/segredos-e-locais/"},{"@type":"ListItem","position":3,"name":"4 locais de roubo do GTA 6 com arma lendária, dinheiro e carro sem rastreador","item":"https://macetesgta6.com.br/dica/locais-de-roubo-arma-lendaria-dinheiro-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-legendary-weapon-loot-locations/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>24/11 às 06:58</strong></span><span><strong>148</strong> dicas no ar</span><span><strong>125</strong> confirmadas</span><span><strong>210</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/segredos-e-locais/">Segredos e locais</a></nav><h1>4 locais de roubo do GTA 6 com arma lendária, dinheiro e carro sem rastreador</h1><p class="dica__resumo">Quatro operações ilegais do mapa do GTA 6 com arma lendária, cofre, relógio de luxo e até carro destrancado sem rastreador: Chatfield Storage, Balsero, Little Cuba e Vespucci Island.</p><div class="dica__meta"><span class="selo selo--em-verificacao">Em verificação · 4 fontes</span><span>Atualizado em <time datetime="2026-11-23T23:00:00.000Z">23/11 às 20:00</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/vice-city-2.webp" alt="Vice City, onde ficam quatro dos cinco locais. A imagem é ilustrativa e não mostra os locais." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Vice City, onde ficam quatro dos cinco locais. A imagem é ilustrativa e não mostra os locais.<span>Imagem: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">ver a fonte</a></span></figcaption></figure><article class="texto"><p>O mapa do GTA 6 marca <strong>operações ilegais</strong> de gangues que você pode invadir. Algumas guardam bem mais do que dinheiro: arma <strong>lendária</strong>, cofre, relógio de luxo e até carro destrancado <strong>sem rastreador</strong>. Juntamos aqui quatro que perfis do TikTok mostraram entre 21 e 22/11, com o caminho de cada um.</p>
+<p>Cada local foi mostrado por um perfil só, por isso a página está <strong>em verificação</strong>. Valores em dinheiro são os que apareceram no vídeo; no seu jogo podem mudar.</p>
+<h2 id="resumo-rápido">Resumo rápido</h2>
+<table>
+<thead>
+<tr>
+<th>Local</th>
+<th>Onde</th>
+<th>O que tem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chatfield Storage &amp; Logistics</td>
+<td>Docas a leste de Vice City</td>
+<td>Pistola lendária com silenciador, cofre (senha 5800), Emerus roxo com nitro</td>
+</tr>
+<tr>
+<td>Prédio com contêineres</td>
+<td>Sudeste de Balsero, Vice City</td>
+<td>Submetralhadora lendária com silenciador e mira, relógio, mapa de 2 cofres</td>
+</tr>
+<tr>
+<td>Casa com portão</td>
+<td>Logo ao norte de Little Cuba</td>
+<td>Fuzil lendário Guardian Brothers, colete, bolsas de espólio, Mercedes com nitro</td>
+</tr>
+<tr>
+<td>Mansão</td>
+<td>Vespucci Island</td>
+<td>Fuzil lendário, colete, 2 cofres, Emerus vermelho</td>
+</tr>
+</tbody>
+</table>
+<h2 id="chatfield-storage--logistics-pistola-lendária-e-cofre-5800">Chatfield Storage &amp; Logistics (pistola lendária e cofre 5800)</h2>
+<p>Mostrado pelo <strong>Mineirin de Leonida</strong>. No mapa, o local aparece como <strong>Chatfield Storage &amp; Logistics</strong>, uma doca que uma gangue usa para mover carros roubados.</p>
+<ol>
+<li>Marque o local no mapa e vá até lá.</li>
+<li>Suba no <strong>contêiner vermelho</strong> e pule a cerca para a área dos carregamentos.</li>
+<li>Os guardas protegem o lugar: elimine-os antes de seguir.</li>
+<li>Entre no contêiner vermelho e abra o <strong>notebook</strong>. Ele mostra a senha do cofre: <strong>5800</strong>. No vídeo, os quatro dígitos aparecem na tela quando o cofre abre.</li>
+<li>Suba ao andar de cima do <strong>prédio central</strong>. Na mesa está a <strong>pistola lendária com silenciador</strong>, e ao lado fica o cofre. Com a senha, o vídeo tirou cerca de <strong>US$ 10.000</strong>.</li>
+<li>Volte aos contêineres e procure o <strong>Emerus roxo</strong>. Ele já vem destrancado, <strong>com nitro e sem rastreador</strong>: é só entrar e sair dirigindo. Segundo o perfil, o carro vale uns US$ 30.000.</li>
+</ol>
+<h2 id="e-a-ak-dourada-perto-de-watson-bay">E a AK dourada perto de Watson Bay?</h2>
+<p>O Garcia Gamer e o T5G também mostraram um “local secreto” com <strong>fuzil dourado</strong>, lança-granadas, relógio e cofre perto de Watson Bay, entrando pelo buraco da cerca. É o <strong>Palmer Fishing Warehouse</strong>, em Bobcat Key, que já está na página de armas: veja o caminho em <a href="../armas-unicas-onde-achar-gta-6/">fuzil KZ59 dourado do Palmer Fishing Warehouse</a>.</p>
+<h2 id="prédio-dos-contêineres-no-sudeste-de-balsero-submetralhadora-lendária">Prédio dos contêineres no sudeste de Balsero (submetralhadora lendária)</h2>
+<p>Também do <strong>Garcia Gamer</strong>.</p>
+<ol>
+<li>Vá ao <strong>sudeste de Balsero</strong>, em Vice City. Para entrar, suba nos <strong>contêineres</strong>.</li>
+<li>Leve arma com silenciador: dá para fazer tudo sem alarme.</li>
+<li>Use o <strong>elevador amarelo</strong> até o telhado e entre pela porta de lá.</li>
+<li>Na primeira sala à esquerda, um homem está perto do cofre. Elimine-o em silêncio para ganhar o bônus de furtividade e o dinheiro da sala. Numa mesa branca fica um <strong>relógio de luxo</strong>.</li>
+<li>Na parede há um <strong>mapa</strong> que mostra mais dois lugares com cofre e as senhas deles.</li>
+<li>Saindo da sala, abra a <strong>maleta de armas</strong>: dentro está uma <strong>submetralhadora lendária</strong> no estilo MP5, já com <strong>silenciador e mira</strong>.</li>
+<li>Desça até a cozinha: há mais dinheiro em pacotes nas mesas e na traseira de um caminhão. O perfil fala em uns <strong>US$ 10.000</strong> no total.</li>
+</ol>
+<h2 id="casa-logo-ao-norte-de-little-cuba-fuzil-lendário-guardian-brothers">Casa logo ao norte de Little Cuba (fuzil lendário Guardian Brothers)</h2>
+<p>Mostrado pelo <strong>1deflay</strong>, em vídeo em inglês.</p>
+<ol>
+<li>Vá ao ponto <strong>logo acima de Little Cuba</strong>, em Vice City. Uma van marrom entra numa área com portão.</li>
+<li>Siga até os fundos e pule o <strong>muro sem espetos</strong>. Desse lado não há inimigos.</li>
+<li>Lá está um <strong>Mercedes AMG com nitro</strong>, destrancado e sem rastreador (o perfil diz que vende por US$ 8.500).</li>
+<li>Use os aparelhos de ar-condicionado do lado de fora para subir ao <strong>telhado</strong> e desça pelo buraco: tem um relógio e outras coisas na mesa.</li>
+<li>Um andar abaixo, a sala da esquerda tem dinheiro. Depois vá ao cofre: há uma pessoa nele. Chegue por trás em silêncio para ganhar o bônus.</li>
+<li>No mesmo andar, desça por uma sala até onde estão <strong>três inimigos</strong>. Com arma silenciada, ninguém dá alarme.</li>
+<li>Nos fundos ficam um <strong>colete</strong> e o <strong>fuzil lendário Guardian Brothers</strong>. Na mesa do meio, as <strong>bolsas de espólio</strong>: duas deram <strong>US$ 12.600 cada</strong> no vídeo.</li>
+<li>Saia pela porta vermelha com a placa de saída. O Mercedes fica à esquerda.</li>
+</ol>
+<h2 id="mansão-de-vespucci-island-fuzil-lendário-e-emerus">Mansão de Vespucci Island (fuzil lendário e Emerus)</h2>
+<p>Mostrado pelo <strong>mrgunsenburner</strong>, em vídeo em inglês. Segundo ele, dá para fazer em qualquer ponto da história.</p>
+<ol>
+<li>Marque <strong>Vespucci Island</strong>, logo à direita de Vice City.</li>
+<li>Pule o muro da <strong>esquerda</strong> e suba as escadas. Leve pistola com silenciador.</li>
+<li>Elimine os <strong>dois guardas</strong> de cima e entre pela porta.</li>
+<li>Siga até o <strong>escritório dos fundos, à direita</strong>. Lá estão o <strong>fuzil lendário</strong>, que fica com você mesmo no capítulo 1, e um <strong>colete</strong> na parede ao lado.</li>
+<li>Há <strong>dois cofres</strong>, um de cada lado da sala, com dinheiro.</li>
+<li>Volte à garagem: o <strong>Emerus vermelho</strong> está destrancado e sem rastreador. Abra o portão e saia com ele.</li>
+</ol>
+<p>Vespucci Island é a mesma ilha da garagem do <a href="../carro-paul-walker-eclipse-gta-6/">carro do Paul Walker</a>.</p>
+<h2 id="antes-de-ir">Antes de ir</h2>
+<ul>
+<li>Os carros sem rastreador são ótimos para vender ou guardar. Veja <a href="../como-vender-carro-gta-6/">como vender carro no GTA 6</a>.</li>
+<li>As armas lendárias ficam na roda de armas e não aceitam modificação. A lista completa, por região, está em <a href="../armas-unicas-onde-achar-gta-6/">armas lendárias e únicas do GTA 6</a>.</li>
+<li>Outro saque bom do começo do jogo é o <a href="../galpao-dinheiro-fuzil-inicio-gta-6/">galpão com dinheiro e fuzil</a>.</li>
+</ul>
+</article><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Onde achar arma lendária no GTA 6?</summary><p>Muitas ficam dentro das operações ilegais marcadas no mapa: a Chatfield Storage &amp; Logistics tem uma pistola lendária com silenciador e a casa ao norte de Little Cuba tem um fuzil lendário Guardian Brothers. Veja também a lista completa de armas únicas.</p></details><details><summary>Qual a senha do cofre da Chatfield Storage no GTA 6?</summary><p>5800. O número está no notebook de dentro do contêiner vermelho, e o vídeo mostra os quatro dígitos no cofre do prédio central.</p></details><details><summary>Tem carro sem rastreador de graça no GTA 6?</summary><p>Tem. Na Chatfield Storage há um Emerus roxo com nitro e, na mansão de Vespucci Island, um Emerus vermelho, os dois destrancados e sem rastreador. Na casa de Little Cuba há um Mercedes com nitro, também sem rastreador.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Segredos e locais</h2></div><div class="grade"><a class="cartao" href="/dica/armas-unicas-onde-achar-gta-6/"><div class="cartao__img"><img src="/img/armas-unicas-gta-6/hunters-laird-350.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Armas lendárias e únicas do GTA 6: localização e como pegar</h3><p>Localização das armas lendárias e únicas do GTA 6, por região: M306 com silenciador, KZ59 dourado, Assassin Nipper .38, Smuggler Gorse 425, Dirty Drifter, snipers e outras.</p><div class="cartao__pe"><time datetime="2026-11-24T09:55:00.000Z" data-relativo>24/11 às 06:55</time><span>18 fontes</span></div></a><a class="cartao" href="/dica/senha-cofre-brooks-boatworks-gta-6/"><div class="cartao__img"><img src="/img/oficial/port-gellhorn.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Senha do cofre do Brooks Boatworks no GTA 6: 6823 (Manutenção de barcos Brooks)</h3><p>A senha do cofre do Brooks Boatworks (Manutenção de barcos Brooks) no GTA 6 é 6823. Veja onde está o mapa com as senhas, onde fica o cofre e onde pegar o fuzil Clunker 556.</p><div class="cartao__pe"><time datetime="2026-11-23T23:37:00.000Z" data-relativo>23/11 às 20:37</time><span>3 fontes</span></div></a><a class="cartao" href="/dica/senha-cofre-motel-la-cascara-gta-6/"><div class="cartao__img"><img src="/img/oficial/port-gellhorn.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Segredos e locais</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Senha do cofre do Motel La Cascara no GTA 6: 6969 (Port Gellhorn)</h3><p>A senha do cofre do Motel La Cascara no GTA 6 é 6969. Veja onde ela está anotada, como chegar ao cofre no alto do motel e onde pegar a submetralhadora Scrapper VF5C.</p><div class="cartao__pe"><time datetime="2026-11-23T23:37:00.000Z" data-relativo>23/11 às 20:37</time><span>5 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>Mineirin de Leonida (TikTok)</b><a href="https://www.tiktok.com/@m1neirin/video/7710713215059086598" target="_blank" rel="noopener nofollow">CARRO SECRETO e mais 10.000$ no GTA 6!</a><small>21 de novembro de 2026</small></li><li><b>Garcia Gamer (TikTok)</b><a href="https://www.tiktok.com/@garcia.gamerj/video/7711134426893225224" target="_blank" rel="noopener nofollow">Este local secreto de saque no GTA 6 tem $10.000 em dinheiro, uma lendária MP5 com silenciador e mira</a><small>22 de novembro de 2026</small></li><li><b>1deflay (TikTok)</b><a href="https://www.tiktok.com/@1deflay/video/7710945980979498254" target="_blank" rel="noopener nofollow">Get $50,000 AND a LEGENDARY AR in GTA 6! (Secret Location)</a><small>22 de novembro de 2026</small></li><li><b>mrgunsenburner (TikTok)</b><a href="https://www.tiktok.com/@mrgunsenburner/video/7710735542647868686" target="_blank" rel="noopener nofollow">This SECRET MANSION Has a FREE SUPERCAR + LEGENDARY BURST AR In GTA 6</a><small>21 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--ambar)">Em verificação.</strong> Por enquanto só uma fonte mostrou. Se outra confirmar, o selo muda; se cair, a dica sai do ar.</p><ul class="historico"><li><time datetime="2026-11-23T23:00:00.000Z">23/11 às 20:00</time>Publicada em verificação: cada local foi mostrado por um perfil do TikTok. A senha 5800 da Chatfield Storage aparece na tela do vídeo.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-legendary-weapon-loot-locations/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>
