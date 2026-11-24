@@ -27,10 +27,14 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "1:04", data: "2026-11-20T15:00:07-03:00" }
   - { tipo: youtube, canal: "Vexies", url: "https://www.youtube.com/watch?v=WH8IfSdpB0w", titulo: "15 Secret Weapons NOBODY Told Me About (GTA 6)", minuto: "1:13", data: "2026-11-21T14:55:42-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "9:32", data: "2026-11-20T17:42:19-03:00" }
+  - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "6:18", data: "2026-11-22T12:57:35-03:00" }
+  - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:15", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/", titulo: "GTA 6 Bowling Alley safe code", data: "2026-11-21T10:49:00-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-24T06:55:00-03:00"
 historico:
+  - { data: "2026-11-24T06:55:00-03:00", nota: "Clunker 556 now has two channels (ConCon): it's in the Brooks Boatworks office. Added the Scrapper VF5C at the La Cascara Motel (GosuNoob and ConCon)." }
+  - { data: "2026-11-23T20:00:00-03:00", nota: "Two new unverified spots from TikTok: the Guardian Brothers AR north of Little Cuba and the legendary rifle in the Vespucci Island mansion. Details in legendary weapon loot locations." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Vexies' video: table by region, sea lion house shotgun, Drug Mule KZ-59, combat knife, Watson Bay, Stoner K17 and Dirty Drifter, plus a second source for the boat wrecks and the Cockroach Extreme location. Also the Gutterland Moreland 850 (PC Gamer) and the Kolt gold guns (RaidAway)." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "New Arekkz Gaming video: where the M306 warehouse is (Black Eagle store near the Griffin Shooting Range) and the forklift route, a second source for the gold KZ59 at the fishing warehouse, and four new spots (manor rifle south of Grassrivers, boat wreck shotgun and Nipper .38, Little Cuba shipping yard burst pistol and the Port Gellhorn Clunker 556). The fishing warehouse safe code was removed: the two channels heard different numbers and it may change between games." }
   - { data: "2026-11-20T11:00:00-03:00", nota: "Added the Kingfishers Laird 350 name and the Manatee Motel location (Millzaa and Rodwenn), the Turnt Nipper .38 from the glider in Bobcat Bight (Arekkz Gaming and BennyCentral), the W-22 at Wetman Bay, second sources for the swamp cabin and the Griffin Shooting Range trailer, three guns from BennyCentral, RageGamingVideos' shotgun and the note that unique weapons can't be modified. Linked the gun store and secret early items guides." }
@@ -75,7 +79,10 @@ Not every unique gun is hidden: some are **sold in gun stores** (see the section
 | Balsero | Conspiracist Type 9 | Bunker across from Griffin Shooting Range |
 | Balsero | [Black Eagle Import M306](../gta-6-black-eagle-m306-location/) | Black Eagle store warehouse |
 | Little Cuba | Guardian ES 18 | Port shipping yard |
-| Port Gellhorn | Clunker 556 | Hut by the port bridge |
+| North of Little Cuba | [Legendary Guardian Brothers AR](../gta-6-legendary-weapon-loot-locations/) | Gated house (unverified) |
+| Vespucci Island | [Legendary assault rifle](../gta-6-legendary-weapon-loot-locations/) | Mansion office (unverified) |
+| Port Gellhorn | Clunker 556 | Brooks Boatworks: office at the top of the small building's outside stairs |
+| Port Gellhorn | [Scrapper VF5C](../gta-6-la-cascara-motel-safe-code/) | Rooftop hut at the La Cascara Motel |
 | Port Gellhorn | [Gutterland Moreland 850](../gta-6-bowling-alley-safe-code/) | Kingpin Bowling pool table |
 | Port Gellhorn | Gold weapon | Brooks Boatworks |
 | Near Ambrosia | Stoner K17 | Motel nightstand |
@@ -309,13 +316,17 @@ Only Arekkz Gaming has shown this one. It's a silver, gold and ivory burst pisto
 
 ## Clunker 556 rifle (Port Gellhorn, no fight)
 
-Only Arekkz Gaming has shown this one. It's a rifle that already comes loaded with attachments, and you can take it without a fight. It's easy to get early in Chapter 2, once Lucia joins.
+Shown by Arekkz Gaming and ConCon. It's a rifle that already comes loaded with attachments, and you can take it without a fight. The spot is **Brooks Boatworks**: in ConCon's video the screen reads **Clunker 556 Assault Rifle** as he grabs it from a desk in the office with the monitors, at the top of the small building's outside stairs. It's the same room as the wall map with the [safe codes](../gta-6-brooks-boatworks-safe-code/). It's easy to get early in Chapter 2, once Lucia joins.
 
 1. Go to the robbery opportunity next to the port bridge in **Port Gellhorn**.
 2. Park outside the warehouse by the **blue tarp fences**, around the corner from the main entrance, so nobody sees you.
 3. Hop the blue tarp fence, run past the warehouse and go through the **hole in the next fence**.
 4. Take it slow to the marked **small hut**: the rifle is inside.
 5. If you want, take the **orange truck** in the yard: it's great off-road and also sells.
+
+## Scrapper VF5C SMG (La Cascara Motel, Port Gellhorn)
+
+Shown by GosuNoob and ConCon in Chapter 2. It's a compact military SMG sitting **on a table in the rooftop hut** of the La Cascara Motel, next to the 6969 safe. The route to the roof is in [La Cascara Motel safe code](../gta-6-la-cascara-motel-safe-code/).
 
 ## Sea lion house shotgun (Key Lento)
 

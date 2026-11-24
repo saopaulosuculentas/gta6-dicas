@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=c3EZuDNC6Zc", titulo: "GTA 6 Gameplay: How to Pull Off the Perfect Robbery! (GTA 6 Money)", minuto: "6:50", data: "2026-11-18T17:00:35-03:00" }
   - { tipo: youtube, canal: "FuriousFade", url: "https://www.youtube.com/watch?v=rPA0QpIjEHA", titulo: "FINDING HIDDEN STASHES WITH CRAZY LOOT IN GTA 6!", minuto: "36:20", data: "2026-11-19T18:46:12-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "1:01", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-20T11:04:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "The November 23 patch fixes partners not handing over bags so you could sell them to a fence (Kotaku). Linked to the patch notes page." }
   - { data: "2026-11-20T11:04:00-03:00", nota: "Added how to sell at Donnie's: bags go in the toolbox next to his trailer, the prompt shows your total up front ($11,600 in FuriousFade's video) and the cash lands in your mailbox. BennyCentral saw Donnie pay $800 more than Brian for the same bag." }
   - { data: "2026-11-19T16:22:00-03:00", nota: "Brian's lockup code 7700, shown by KhrazeGaming, DooDooPoo and JoblessGarrett." }
   - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmed with GamesRadar+: loot by robbery type, the Drop-offs tab in the index and mailbox payouts." }
@@ -92,6 +94,10 @@ Not every fence pays on the spot:
 
 - **Send your partner:** hand the goods to Jason or Lucia (whoever you're not playing) and tell them to fence it. They take care of it, but you get **a bit less money**.
 - **Garage pickup:** after **two Payday Loan jobs for Yasmani**, you can leave stolen goods in one of your [garages](../gta-6-garage-locations-prices/) and someone comes to collect them. That convenience comes with an **extra fee**.
+
+## Partner wouldn't hand over the bags?
+
+That was a bug. At launch, your partner could hang on to the bags instead of passing them to you, which left you with nothing to sell to the fence. GTA 6's first patch, released on November 23, fixes it, according to Rockstar's notes as reported by Kotaku. If it happened to you, update the game. See [everything else the patch changed](../gta-6-patch-notes-update/).
 
 ## Why it matters
 

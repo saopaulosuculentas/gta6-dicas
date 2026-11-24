@@ -27,9 +27,12 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:58", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:38", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/noticias/2026/11/gta-6-recebe-primeira-atualizacao-hoje-23-saiba-tamanho-e-o-que-vem-edjogos.ghtml", titulo: "GTA 6 recebe primeira atualização hoje (23); saiba tamanho e patch notes", data: "2026-11-23T12:53:00-03:00" }
 descoberto_em: "2026-11-18T18:05:00-03:00"
-atualizado_em: "2026-11-20T11:08:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "A atualização de 23/11 corrige um erro em que não dava para perder o nível de procurado (Kotaku e TechTudo). Link para a página da atualização." }
   - { data: "2026-11-20T11:08:00-03:00", nota: "Furar sinal vermelho na frente da viatura não deu nada (Milo). Oficina de personalização recusa carro conhecido numa área de busca, com o aviso na tela (Elanip). Fuga de cinco estrelas de barco pela costa, com o combate acessível ligado (JuiceHead)." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Acrescentados os 5 tipos de estrela e a cor da área de busca (MrBossFTW), o tapa no celular de quem vai chamar a polícia (MrBossFTW), a repintura por US$ 200 (Mr Lawrence) e o aviso de que não dá para começar missão procurado (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Acrescentados: polícia fora do minimapa, testemunhas e câmeras (MrDalekJD); ícones de câmera, arma à mostra e dupla (GamingBolt); estrelas vazadas (KhrazeGaming); arma longa na mão assusta e faz chamarem a polícia (KhrazeGaming, GamingBolt, CKX e Combo Infinito); teste do Thalera neutralizando rosto e traje; menus de trajes no guarda-roupa e no porta-malas; loja fechada depois de confusão (CKX)." }
@@ -154,6 +157,10 @@ Carro roubado continua roubado até você registrar. Veja [como roubar carro no 
 5. Coloque ou tire óculos e boné.
 6. Guarde a arma e, se estiver com a Lucia, separe a dupla.
 7. Espere a pressão baixar antes de voltar à região.
+
+## As estrelas não sumiam de jeito nenhum?
+
+Pode ter sido um erro do jogo. A primeira atualização do GTA 6, de 23/11, corrige um problema em que **não dava para perder o nível de procurado**, segundo as notas da Rockstar trazidas pelo Kotaku e pelo TechTudo. Se você fazia tudo do passo a passo acima e as estrelas continuavam, atualize o jogo. Veja [o que mais mudou na atualização](../atualizacao-gta-6-patch-notas/).
 
 ## Procurado não começa missão
 

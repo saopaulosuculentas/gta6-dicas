@@ -24,9 +24,11 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:58", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: youtube, canal: "Elanip", url: "https://www.youtube.com/watch?v=KiMhnybuev0", titulo: "GTA 6 - Finding Secrets & Completing Story Missions", minuto: "2:41:42", data: "2026-11-19T16:59:39-03:00" }
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:38", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-20T11:08:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "The November 23 patch fixes a bug that kept players from losing their wanted level (Kotaku). Linked to the patch notes page." }
   - { data: "2026-11-20T11:08:00-03:00", nota: "Running a red light in front of a cop did nothing (Milo). Mod shops turn away a known car inside a heat area, with the on-screen message (Elanip). A five-star escape by boat along the coast with Accessible Combat on (JuiceHead)." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "Added the 5 wanted star states and search zone colors (MrBossFTW), slapping the phone out of a witness's hand (MrBossFTW), the $200 respray price (Mr Lawrence) and the fact that you can't start a mission while wanted (Bombastic)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Added: cops off the minimap, witnesses and cameras (MrDalekJD); heat icons for CCTV, a visible weapon and both characters (GamingBolt, MrDalekJD); hollow stars (KhrazeGaming); long guns scaring people into calling the cops (KhrazeGaming, GamingBolt); spare outfits in the trunk (BennyCentral, KultZ)." }
@@ -109,6 +111,10 @@ KhrazeGaming turns this into a trick before a robbery: he walks around with a lo
 MrDalekJD's habit: put on sunglasses and a cap before you do anything dodgy. That way you always have something to take off when you need to vanish.
 
 When they lose your description, you'll hear the radio say they lost sight of you.
+
+## Stars that just wouldn't go away?
+
+It may have been a bug. GTA 6's first patch, released on November 23, fixes an issue where players **couldn't lose their wanted level**, according to Rockstar's notes as reported by Kotaku. If you did everything in the steps above and the stars stuck around, update the game. See [everything else the patch changed](../gta-6-patch-notes-update/).
 
 ## You can't start a mission while wanted
 

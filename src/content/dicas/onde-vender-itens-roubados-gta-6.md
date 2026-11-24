@@ -16,9 +16,12 @@ fontes:
   - { tipo: youtube, canal: "JoblessGarrett", url: "https://www.youtube.com/watch?v=c3EZuDNC6Zc", titulo: "GTA 6 Gameplay: How to Pull Off the Perfect Robbery! (GTA 6 Money)", minuto: "6:50", data: "2026-11-18T17:00:35-03:00" }
   - { tipo: youtube, canal: "FuriousFade", url: "https://www.youtube.com/watch?v=rPA0QpIjEHA", titulo: "FINDING HIDDEN STASHES WITH CRAZY LOOT IN GTA 6!", minuto: "36:20", data: "2026-11-19T18:46:12-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "1:01", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/noticias/2026/11/gta-6-recebe-primeira-atualizacao-hoje-23-saiba-tamanho-e-o-que-vem-edjogos.ghtml", titulo: "GTA 6 recebe primeira atualização hoje (23); saiba tamanho e patch notes", data: "2026-11-23T12:53:00-03:00" }
 descoberto_em: "2026-11-19T11:49:00-03:00"
-atualizado_em: "2026-11-20T11:04:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "A atualização de 23/11 corrige o erro do parceiro que não entregava as bolsas para vender ao receptador (Kotaku e TechTudo). Link para a página da atualização." }
   - { data: "2026-11-20T11:04:00-03:00", nota: "Entrou como vender no Donnie: as bolsas vão na caixa de ferramentas ao lado do trailer, o aviso mostra o total antes (US$ 11.600 no vídeo do FuriousFade) e o dinheiro chega na caixa de correio. O BennyCentral viu o Donnie pagar US$ 800 a mais que o Brian pela mesma bolsa." }
   - { data: "2026-11-19T16:22:00-03:00", nota: "Senha 7700 do depósito do Brian, mostrada por KhrazeGaming, DooDooPoo e JoblessGarrett." }
   - { data: "2026-11-19T16:03:00-03:00", nota: "Confirmada com o guia do GamesRadar+: o que cada tipo de roubo rende, aba Drop-offs no índice e pagamento pela caixa de correio." }
@@ -93,6 +96,10 @@ Nem todo receptador paga na hora:
 
 - **Mandar o parceiro:** entregue a mercadoria para o Jason ou para a Lucia (quem você não estiver controlando) e peça para ele ou ela vender. O parceiro resolve sozinho, mas o dinheiro vem **um pouco menor**.
 - **Retirada na garagem:** depois de fazer **dois trabalhos de Payday Loan para o Yasmani**, você pode deixar a mercadoria numa das suas [garagens](../garagens-gta-6-locais-e-precos/) e alguém passa para buscar. Essa comodidade tem uma **taxa extra**.
+
+## Parceiro não entregava as bolsas?
+
+Era um erro do jogo. Na versão de lançamento, o parceiro podia ficar com as bolsas e não passar para você, e aí não dava para vendê-las ao receptador. A primeira atualização do GTA 6, de 23/11, corrige isso, segundo as notas da Rockstar trazidas pelo Kotaku e pelo TechTudo. Se aconteceu com você, atualize o jogo. Veja [o que mais mudou na atualização](../atualizacao-gta-6-patch-notas/).
 
 ## Por que isso importa
 

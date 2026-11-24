@@ -15,9 +15,12 @@ fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions", titulo: "Grand Theft Auto VI Platforms, Editions, and Versions", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "Digital Foundry", url: "https://www.youtube.com/watch?v=F3lxGD8HX2k", titulo: "Grand Theft Auto 6 - Xbox Series X|S Versions Finally Revealed - DF Tech Review", minuto: "10:49", data: "2026-11-18T10:36:39-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/", titulo: 'PS5 error CE-108255-1 is ruining GTA 6 for some players, and Rockstar and Sony aren''t very helpful: "Try updating your game"', data: "2026-11-19T18:35:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/noticias/2026/11/gta-6-recebe-primeira-atualizacao-hoje-23-saiba-tamanho-e-o-que-vem-edjogos.ghtml", titulo: "GTA 6 recebe primeira atualização hoje (23); saiba tamanho e patch notes", data: "2026-11-23T12:53:00-03:00" }
 descoberto_em: "2026-11-19T16:55:00-03:00"
-atualizado_em: "2026-11-20T10:48:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "Novo: a primeira atualização do GTA 6, de 23/11, corrige vários travamentos (Kotaku e TechTudo). As notas não citam o erro CE-108255-1. Link para a página da atualização." }
   - { data: "2026-11-20T10:48:00-03:00", nota: "Novo: o erro CE-108255-1 do PS5, que derruba o jogo depois de cenas do começo da história e não sai com os passos comuns, segundo o GamesRadar+. Link para a página do erro." }
   - { data: "2026-11-19T16:55:00-03:00", nota: "Publicada como confirmada: passos das páginas de suporte do GTA VI da PlayStation, do suporte do Xbox e da Rockstar." }
 perguntas:
@@ -30,6 +33,10 @@ perguntas:
 Quando o GTA 6 trava, fecha sozinho ou não sai do carregamento, comece pelo básico: veja se a rede da PlayStation ou do Xbox está fora do ar e reinicie o jogo. Se não resolver, no **PS5** o passo oficial é **restaurar as licenças**, e no **Xbox** é **desligar o console por completo**, segurando o botão por 10 segundos.
 
 A Rockstar não publicou uma lista própria de erros do GTA 6. A página de suporte dela manda quem tem erro no console para as páginas da Sony e da Microsoft. Os passos abaixo são os dessas páginas oficiais. Os nomes dos menus estão em inglês, como aparecem nelas; no console em português eles vêm traduzidos.
+
+## Antes de tudo: atualize o jogo
+
+Em 23 de novembro saiu a primeira atualização do GTA 6, a 01.002.002 no PS5 e a 1.0.2.2 no Xbox, segundo o TechTudo. Pelas notas da Rockstar, trazidas pelo Kotaku e pelo TechTudo, ela corrige **vários problemas que faziam o jogo fechar**, além do salvamento automático e de ligações que não chegavam. Se o seu jogo fecha sozinho, confira se a atualização foi instalada antes de seguir os passos abaixo. A lista completa está em [GTA 6 atualização: o que mudou](../atualizacao-gta-6-patch-notas/).
 
 ## Primeiro: veja se o problema é seu
 
@@ -76,7 +83,8 @@ Vários jogadores de PS5 relatam esse código. Segundo o GamesRadar+, que juntou
 - o jogo fecha **depois de certas cenas do começo da história** e volta a fechar no mesmo ponto, então a pessoa não consegue avançar;
 - aparece no PS5 comum e no modelo digital ou Slim;
 - **limpar o cache, reconstruir o banco de dados, reinstalar e restaurar as licenças não resolveram** nos relatos;
-- a página da Sony para esse código só manda **atualizar o jogo** e, se não der certo, procurar o reparo da PlayStation. Até 19/11 não havia atualização do GTA 6 para baixar.
+- a página da Sony para esse código só manda **atualizar o jogo** e, se não der certo, procurar o reparo da PlayStation. Até 19/11 não havia atualização do GTA 6 para baixar;
+- a primeira atualização saiu em 23/11 e corrige vários travamentos, mas as notas **não citam este código**. Segundo o Kotaku, não está claro se ele foi resolvido.
 
 A própria matéria escreve o número de dois jeitos (CE-108255-1 no título e CE-108225-1 no texto), então confira o código exato na sua tela antes de pesquisar. O que se sabe até agora está em [erro CE-108255-1 no GTA 6](../erro-ce-108255-1-gta-6/).
 

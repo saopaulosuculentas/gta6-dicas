@@ -26,10 +26,16 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "1:04", data: "2026-11-20T15:00:07-03:00" }
   - { tipo: youtube, canal: "Vexies", url: "https://www.youtube.com/watch?v=WH8IfSdpB0w", titulo: "15 Secret Weapons NOBODY Told Me About (GTA 6)", minuto: "1:13", data: "2026-11-21T14:55:42-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "9:32", data: "2026-11-20T17:42:19-03:00" }
+  - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=-NVWgFahF6Q", titulo: "30 Secrets & Easter Eggs In GTA 6! #2", minuto: "9:17", data: "2026-11-22T20:18:41-03:00" }
+  - { tipo: site, canal: "Garcia Gamer (TikTok)", url: "https://www.tiktok.com/@garcia.gamerj/video/7710716286954704136", titulo: "Este LOCAL SECRETO de SAQUE no GTA 6 = AK DOURADA", data: "2026-11-21T16:57:00-03:00" }
+  - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "6:18", data: "2026-11-22T12:57:35-03:00" }
+  - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:15", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/", titulo: "GTA 6 Bowling Alley safe code", data: "2026-11-21T10:49:00-03:00" }
 descoberto_em: "2026-11-19T16:18:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-24T06:55:00-03:00"
 historico:
+  - { data: "2026-11-24T06:55:00-03:00", nota: "Clunker 556 virou dois canais (ConCon): fica no escritório do Brooks Boatworks. Entrou a Scrapper VF5C do La Cascara Motel (GosuNoob e ConCon)." }
+  - { data: "2026-11-23T20:00:00-03:00", nota: "Quatro locais novos vistos no TikTok, em verificação: Chatfield Storage, Balsero, norte de Little Cuba e Vespucci Island (detalhes em locais de roubo com arma lendária). O Garcia Gamer (TikTok) e o T5G mostraram de novo o Palmer Fishing Warehouse, com o fuzil dourado." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Vídeo do Vexies: tabela por região, escopeta do leão-marinho, Drug Mule KZ-59, faca de combate, Watson Bay, Stoner K17 e Dirty Drifter; segunda fonte dos barcos naufragados e local da Cockroach Extreme. Também a Gutterland Moreland 850 (PC Gamer) e as armas douradas da Kolt (RaidAway)." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "Novo vídeo do Arekkz Gaming: onde fica o armazém do M306 (loja Black Eagle perto do Griffin Shooting Range) e o caminho da empilhadeira, segunda fonte do KZ59 dourado do armazém de pesca e quatro locais novos (fuzil do casarão ao sul de Grassrivers, escopeta e Nipper .38 dos barcos naufragados, pistola de rajada do estaleiro de Little Cuba e Clunker 556 de Port Gellhorn). A senha do cofre do armazém de pesca saiu da página: os dois canais ouviram números diferentes e ela pode mudar de jogo para jogo." }
   - { data: "2026-11-20T11:00:00-03:00", nota: "Entraram o nome Kingfishers Laird 350 e o local do Manatee Motel (Millzaa e Rodwenn), a Turnt Nipper .38 do planador em Bobcat Bight (Arekkz Gaming e BennyCentral), o W-22 em Wetman Bay, a segunda fonte da cabana do pântano e do trailer do Griffin Shooting Range, três armas do BennyCentral, a escopeta do RageGamingVideos e o aviso de que arma única não aceita modificação. Links para as lojas de armas e os itens secretos do começo." }
@@ -73,8 +79,13 @@ Nem toda arma única fica escondida: algumas são **vendidas nas lojas de armas*
 | Vice-Dale | Cockroach Extreme | Depósito acima de Tequesta |
 | Balsero | Conspiracist Type 9 | Bunker em frente ao Griffin Shooting Range |
 | Balsero | [Black Eagle Import M306](../rifle-black-eagle-m306-onde-achar-gta-6/) | Armazém da loja Black Eagle |
+| Balsero | [Submetralhadora lendária com silenciador e mira](../locais-de-roubo-arma-lendaria-dinheiro-gta-6/) | Maleta no prédio dos contêineres, no sudeste (em verificação) |
+| Docas a leste de Vice City | [Pistola lendária com silenciador](../locais-de-roubo-arma-lendaria-dinheiro-gta-6/) | Chatfield Storage & Logistics, prédio central (em verificação) |
 | Little Cuba | Guardian ES 18 | Estaleiro do porto |
-| Port Gellhorn | Clunker 556 | Casinha ao lado da ponte do porto |
+| Norte de Little Cuba | [Fuzil lendário Guardian Brothers](../locais-de-roubo-arma-lendaria-dinheiro-gta-6/) | Casa com portão (em verificação) |
+| Vespucci Island | [Fuzil lendário](../locais-de-roubo-arma-lendaria-dinheiro-gta-6/) | Escritório da mansão (em verificação) |
+| Port Gellhorn | Clunker 556 | Brooks Boatworks: escritório no alto da escada externa do prédio pequeno |
+| Port Gellhorn | [Scrapper VF5C](../senha-cofre-motel-la-cascara-gta-6/) | Casinha do terraço do La Cascara Motel |
 | Port Gellhorn | [Gutterland Moreland 850](../senha-cofre-boliche-gta-6/) | Mesa de sinuca do Kingpin Bowling |
 | Port Gellhorn | Arma dourada | Brooks Boatworks |
 | Perto de Ambrosia | Stoner K17 | Criado-mudo de um motel |
@@ -254,6 +265,8 @@ O BennyCentral e o Arekkz Gaming mostraram este fuzil. É outro KZ59 dourado, co
 3. O computador do térreo mostra a senha do cofre do escritório. O BennyCentral leu um número diferente do que o Arekkz e o Vexies leram, e ainda não conferimos na tela qual é o certo: **leia no computador do seu jogo**. O cofre deu entre US$ 3.000 e US$ 5.000 ao Arekkz, e ele acha que se renova depois de alguns dias.
 4. O caminho do Arekkz é pela água, do lado da ponte: suba pelo pequeno cais dos fundos, que funciona como porta dos fundos do prédio principal. Embaixo da escada há um **lança-granadas** (comum: guarde no porta-malas) e, no andar de cima, um **relógio de luxo** na mesa, que vale bem na loja de penhores.
 
+Em 21 e 22/11, o Garcia Gamer (TikTok) e o T5G mostraram o mesmo armazém, entrando agachado por um **buraco na cerca** e chamando o fuzil de "AK dourada".
+
 O Vexies fez o mesmo roubo. O caminho do vídeo é **contornar o portão pela esquerda**: o canal pega o lança-granadas no térreo e acha o fuzil dourado no andar de cima, perto de um relógio de ouro. No galpão da esquerda há mais carga para levar e, atrás, um barco para fugir.
 
 ## Sniper da casa do colecionador de armas (Key Lento)
@@ -308,13 +321,17 @@ Só o Arekkz Gaming mostrou. É uma pistola de rajada prata, dourada e marfim; n
 
 ## Fuzil Clunker 556 (Port Gellhorn, sem briga)
 
-Só o Arekkz Gaming mostrou. É um fuzil já cheio de acessórios, e dá para pegar sem lutar. Fica fácil no começo do capítulo 2, quando a Lucia entra na história.
+Mostrado pelo Arekkz Gaming e pelo ConCon. É um fuzil já cheio de acessórios, e dá para pegar sem lutar. O lugar é o **Brooks Boatworks**: no vídeo do ConCon, a tela mostra o nome **Clunker 556 Assault Rifle** quando ele pega a arma numa mesa do escritório com monitores, no alto da escada externa do prédio pequeno. É a mesma sala do mapa com as [senhas dos cofres](../senha-cofre-brooks-boatworks-gta-6/). Fica fácil no começo do capítulo 2, quando a Lucia entra na história.
 
 1. Vá a **Port Gellhorn**, à oportunidade de roubo ao lado da ponte do porto.
 2. Pare o carro do lado de fora do armazém, perto das **cercas com lona azul**, virando a esquina da entrada principal, para ninguém ver você.
 3. Pule a cerca de lona azul, passe pelo armazém e atravesse o **buraco da cerca** seguinte.
 4. Vá com calma até a **casinha** marcada: o fuzil está lá dentro.
 5. Se quiser, leve o **caminhão laranja** do pátio: é bom fora de estrada e também dá para vender.
+
+## Submetralhadora Scrapper VF5C (La Cascara Motel, Port Gellhorn)
+
+Mostrada pelo GosuNoob e pelo ConCon, no capítulo 2. É uma submetralhadora militar compacta e fica **numa mesa da casinha do terraço** do La Cascara Motel, perto do cofre de senha 6969. O caminho até o terraço está em [senha do cofre do La Cascara Motel](../senha-cofre-motel-la-cascara-gta-6/).
 
 ## Escopeta da casa do leão-marinho (Key Lento)
 

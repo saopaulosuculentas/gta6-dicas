@@ -13,8 +13,9 @@ fontes:
   - { tipo: youtube, canal: "DPJ", url: "https://www.youtube.com/watch?v=5DseNL71Wro", titulo: "GTA 6 - How To Get PAUL WALKER'S FAST & FURIOUS ECLIPSE! (Car Location Guide)", minuto: "1:02", data: "2026-11-19T13:43:54-03:00" }
   - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "3:31", data: "2026-11-20T17:00:37-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-21T11:33:00-03:00"
+atualizado_em: "2026-11-23T20:20:00-03:00"
 historico:
+  - { data: "2026-11-23T20:20:00-03:00", nota: "Street names fixed from Nerpah's narration: Flamingo Parkway, Tequesta Retreat and Galerina St. Added where to track the list and that the Growler sits on the top level." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "Now verified: Nerpah shows the same cars, spots and times as How to Everything. Police station name fixed to Crosstown (NW 9th Street). Added the Toros (6:30 to 7:30 p.m.) and Banshee (3 to 4 a.m.) time windows, the Dale Mamba mission, the note that the key cloner does not work on the Mamba GT, and that damage lowers Randy's payout." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Published as unverified: wish list locations from How to Everything; registering rare cars from DPJ." }
 perguntas:
@@ -25,7 +26,7 @@ perguntas:
   - { p: "Can you keep Randy's cars?", r: "Yes. Delivering to Randy is optional. To keep one, register it with Moses in Port Gellhorn." }
 ---
 
-**Randy**, the high-end car buyer in Balsero (unlocked in Chapter 3), keeps a **wish list** of rare cars. Each one sits in a set spot, sometimes only at a certain time. How to Everything and Nerpah both cover the same cars, with the same spots and times. Most open with the **key cloner**; see [how to steal cars](../gta-6-how-to-steal-cars/) for when you get it.
+**Randy**, the high-end car buyer in Balsero (unlocked in Chapter 3), keeps a **wish list** of rare cars. Each one sits in a set spot, sometimes only at a certain time. How to Everything and Nerpah both cover the same cars, with the same spots and times. Most open with the **key cloner**; see [how to steal cars](../gta-6-how-to-steal-cars/) for when you get it. Once the list unlocks, Nerpah tracks it from the map under **Robberies > Randy's Wish List**.
 
 You don't have to hand them over: you can keep the car instead. For where Randy is, see [fence locations](../gta-6-fence-locations/).
 
@@ -36,13 +37,13 @@ You don't have to hand them over: you can keep the car instead. For where Randy 
 | Bravado Banshee | Outside the Sweet Bay Inn, East Buckley Drive, Capri | 3 to 4 a.m. |
 | Pegassi Tempesta | NE 3rd Street, Vice City (Vice-Dale County), during a tow truck event | Around 1 p.m. |
 | Pegassi Infernus | 7th floor of the Crosstown police station garage (NW 9th Street) | Any time |
-| Pegassi Vacca | Villa on Flamingo Peak Way, Waning Sands, east of Bellville (Leonard County) | Any time |
-| Bravado Gauntlet Hellfire | M7 junkyard east of Boone Speedway, off Galena St, Hamlet | Any time |
+| Pegassi Vacca | Villa on Flamingo Parkway, Waning Sands, east of Bellville (Leonard County) | Any time |
+| Bravado Gauntlet Hellfire | M7 junkyard east of Boone Speedway, off Galerina St, Hamlet | Any time |
 | Mamba GT | Mansion in Leaf Links, Vice Beach | Added to the list in the Dale Mamba mission |
 | Ascot Paragon | Outside the Banana Hole bar, Shore Drive, Ocean Beach | Around 6 p.m. |
 | Pegassi Furia | Mansion on Palomino Lane, Peacock Estates, Peacock Bay | Any time |
-| Pegassi Toros | Outside the Pegassi Residence, Bayside Drive, Costa Retreat (west of Gloriana Key) | 6:30 to 7:30 p.m. |
-| Pfister Growler | Multi-story car park on Fig Street, Ocean Beach | Around 5 p.m. |
+| Pegassi Toros | Outside the Pegassi Residence, Bayside Drive, Tequesta Retreat (west of Gloriana Key) | 6:30 to 7:30 p.m. |
+| Pfister Growler | Top level of the multi-story car park on Fig Street, Ocean Beach | Around 5 p.m. |
 
 ## How to get each one
 

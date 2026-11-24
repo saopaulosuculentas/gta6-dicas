@@ -21,9 +21,12 @@ fontes:
   - { tipo: youtube, canal: "GamingBolt", url: "https://www.youtube.com/watch?v=_YF0U8_g7AY", titulo: "GTA 6 - 15 BEST Tips and Tricks You'll Wish You Knew Sooner", minuto: "4:10", data: "2026-11-19T08:00:31-03:00" }
   - { tipo: youtube, canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=o0SPFLsPQS8", titulo: "TESTANDO O NOVO CELULAR DO GTA 6! APP SECRETO PRA ROUBAR CARROS, WHATSAPP E REDE SOCIAL!", minuto: "6:44", data: "2026-11-19T12:23:05-03:00" }
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "7:52", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/noticias/2026/11/gta-6-recebe-primeira-atualizacao-hoje-23-saiba-tamanho-e-o-que-vem-edjogos.ghtml", titulo: "GTA 6 recebe primeira atualização hoje (23); saiba tamanho e patch notes", data: "2026-11-23T12:53:00-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-20T10:48:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "A atualização de 23/11 corrige o erro que deixava a barra do levantamento terra da academia sem uso (Kotaku e TechTudo). Link para a página da atualização." }
   - { data: "2026-11-20T10:48:00-03:00", nota: "JuiceHead: a opção Simplified Mini Games, na aba Jogabilidade, tira o tempo certo dos gatilhos nos exercícios; e as barras de proteína do armário se repõem sozinhas. Link para a página de dificuldade." }
   - { data: "2026-11-19T18:04:00-03:00", nota: "BelotoPlays também abriu o app de fitness: força, cárdio e foco com descrição de cada um, musculatura, gordura corporal e equilíbrio calórico." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "Novo: treino completo com 3 exercícios e 3 dias seguidos (MrDalekJD), aparelho trava depois da série e teto diário de força (Arekkz), montar o saco de pancada, repetições e peso no deck (Thalera), pós-treino. Repetições e peso agora mostram as duas versões: 10 na academia (Canal do Nego) e 3 no deck (Thalera); cuidado com o peso (BelotoPlays) e peso máximo (Thalera)." }
@@ -70,6 +73,8 @@ O Canal do Nego testou os aparelhos da academia, o BelotoPlays mostrou os da cas
 | Crucifixo e puxada frontal | Mesmo esquema: segurar e soltar devagar |
 | Kettlebell | Segure para subir e solte no ponto mais alto |
 | Saco de pancada (casa) | Aperte quadrado. Treina o fôlego |
+
+**A barra do levantamento terra não funcionava?** Era um erro do jogo. A primeira atualização do GTA 6, de 23/11, corrige o problema que impedia usar a barra do levantamento terra na academia, segundo as notas da Rockstar trazidas pelo Kotaku e pelo TechTudo. Atualize o jogo e tente de novo. Veja [o que mais mudou na atualização](../atualizacao-gta-6-patch-notas/).
 
 No agachamento, o Thalera explica que às vezes é preciso apertar X para dar aquela força final na repetição. Se errar o tempo ou o fôlego acabar no meio, aparece "Série malsucedida" e você recomeça. Quando cansar, **beba água**: recupera o fôlego e você volta a treinar mais rápido.
 

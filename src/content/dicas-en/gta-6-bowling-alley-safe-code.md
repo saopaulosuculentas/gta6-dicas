@@ -36,7 +36,7 @@ It isn't in the bowling alley. The notepad by the safe points you to **Brooks Bo
 3. Climb the stairs.
 4. Check the **map on the wall** next to the whiteboard.
 
-That map also lists the codes for **La Cascara Motel** and for Brooks Boatworks itself, so note all three if you make the trip.
+That map also lists the codes for the [La Cascara Motel](../gta-6-la-cascara-motel-safe-code/) (6969) and for [Brooks Boatworks](../gta-6-brooks-boatworks-safe-code/) itself (6823), so note all three if you make the trip.
 
 ## Opening it without the code
 

@@ -1,7 +1,7 @@
 ---
 titulo: "Senha do cofre no GTA 6: como descobrir o código e abrir o cofre nos roubos"
 titulo_seo: "Senha do cofre no GTA 6: como descobrir e abrir"
-resumo: "Cada cofre do GTA 6 tem a sua senha, e algumas são fixas, como a do boliche. Veja como achar o número com o modo foco ou ameaçando um funcionário."
+resumo: "Cada cofre do GTA 6 tem a sua senha. Algumas são fixas: boliche 0300, Motel La Cascara 6969 e Brooks Boatworks 6823. Veja como achar as outras com o modo foco ou ameaçando um funcionário."
 categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
@@ -15,14 +15,18 @@ fontes:
   - { tipo: youtube, canal: "Combo Infinito", url: "https://www.youtube.com/watch?v=JpGbwdHM6lE", titulo: "GTA 6 AO VIVO: Explorando Leonida, Fazendo Assaltos e Caçando Segredos SEM SPOILERS! PS5 base", minuto: "25:52", data: "2026-11-19T11:39:01-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/", titulo: "GTA 6 Bowling Alley safe code", data: "2026-11-21T10:49:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code/", titulo: "How to get into the GTA 6 Bowling Alley safe", data: "2026-11-20T13:55:00-03:00" }
+  - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:27", data: "2026-11-21T09:15:30-03:00" }
+  - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "5:51", data: "2026-11-22T12:57:35-03:00" }
+  - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "12:04", data: "2026-11-20T17:42:19-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-23T20:37:00-03:00"
 historico:
+  - { data: "2026-11-23T20:37:00-03:00", nota: "Acrescentadas as senhas fixas do Motel La Cascara (6969: ConCon, GosuNoob e outros) e do Brooks Boatworks (6823: ConCon e RaidAway), com links para as páginas próprias, e o código 92665 do notebook do capítulo 3." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Correção: a página dizia que toda senha de roubo era sorteada. Segundo o PC Gamer, muitas são fixas, como a do Kingpin Bowling (0300, também no GamesRadar+)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmada: o MrDalekJD e o Arekkz Gaming mostram o foco destacando a senha e o cofre e o funcionário que entrega o código sob ameaça; o Combo Infinito achou a senha anotada na parede. Acrescentados os exemplos de senha que mudam de um lugar para outro e o aviso de levar tudo do cofre." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada em verificação. Como achar a senha, segundo o PC Gamer; o Gameplayrj abriu um cofre de loja na live." }
 perguntas:
-  - { p: "Qual é a senha do cofre no GTA 6?", r: "Não existe uma senha que abra todos. Cada cofre tem a sua, e o PC Gamer diz que muitas senhas de roubo são fixas: a do Kingpin Bowling é 0300. Nas missões da história, o jogo já dá a senha." }
+  - { p: "Qual é a senha do cofre no GTA 6?", r: "Não existe uma senha que abra todos. Cada cofre tem a sua, e muitas senhas de roubo são fixas: Kingpin Bowling 0300, Motel La Cascara 6969 e Brooks Boatworks 6823. Nas missões da história, o jogo já dá a senha." }
   - { p: "Como descobrir a senha do cofre no GTA 6?", r: "Use o modo foco (L3 e R3) para achar o papel com o código, muitas vezes num quadro do escritório ou com um segurança desacordado. Ou aponte a arma para um funcionário e escolha Senha do cofre." }
   - { p: "Como saber se uma loja tem cofre no GTA 6?", r: "Selecione o lugar no mapa. Ele mostra se tem cofre, o nível de segurança e o valor aproximado do que tem dentro." }
   - { p: "As senhas de cofre que aparecem nos vídeos funcionam no meu jogo?", r: "Só se for o mesmo cofre e a senha dele for fixa. Na live do Combo Infinito, um cofre abriu com 8794 e outro com 1046. Na dúvida, procure o número no local." }
@@ -53,6 +57,12 @@ Segundo o Arekkz Gaming, alguns atendentes contam por conta própria que a loja 
 Esta página dizia que toda senha de roubo era sorteada. **Estava errado.** O PC Gamer publicou em 21/11 que a do boliche, como a de muitos outros roubos, **não é sorteada**.
 
 - **Kingpin Bowling: 0300**, com o mesmo número no PC Gamer e no GamesRadar+. Veja [a senha do cofre do boliche](../senha-cofre-boliche-gta-6/).
+- **Motel La Cascara: 6969.** Abriu o cofre nos vídeos do GosuNoob, do ConCon e de outros canais. Veja [a senha do cofre do Motel La Cascara](../senha-cofre-motel-la-cascara-gta-6/).
+- **Brooks Boatworks (Manutenção de barcos Brooks): 6823.** O ConCon e o RaidAway abriram o cofre com esse número. Veja [a senha do cofre do Brooks Boatworks](../senha-cofre-brooks-boatworks-gta-6/).
+
+Os três números estão escritos à mão num **mapa de Port Gellhorn** pendurado no escritório do Brooks Boatworks, como mostra o ConCon. Ao examinar o mapa, o jogo guarda as senhas.
+
+Não é cofre, mas também pede código: o **notebook do apartamento do capítulo 3** abre com Muffins, Queen, 15 e revela o número **92665**, de uma garagem em La Perle com um carro rosa. Veja [a senha do notebook do capítulo 3](../senha-notebook-capitulo-3-gta-6/).
 
 Isso não quer dizer que todas sejam fixas. Se um número de vídeo não funcionar, procure a senha no seu jogo.
 

@@ -35,7 +35,7 @@ O número não fica no boliche. O bloco de notas ao lado do cofre aponta para o 
 3. Suba a escada.
 4. Olhe o **mapa na parede**, ao lado do quadro branco.
 
-O mesmo mapa traz as senhas do **La Cascara Motel** e do próprio Brooks Boatworks. Se for lá, anote as três.
+O mesmo mapa traz as senhas do [La Cascara Motel](../senha-cofre-motel-la-cascara-gta-6/) (6969) e do próprio [Brooks Boatworks](../senha-cofre-brooks-boatworks-gta-6/) (6823). Se for lá, anote as três.
 
 ## Como abrir sem a senha
 

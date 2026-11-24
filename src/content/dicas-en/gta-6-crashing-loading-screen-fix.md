@@ -16,9 +16,11 @@ fontes:
   - { tipo: oficial, canal: "Rockstar Games", url: "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions", titulo: "Grand Theft Auto VI Platforms, Editions, and Versions", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "Digital Foundry", url: "https://www.youtube.com/watch?v=F3lxGD8HX2k", titulo: "Grand Theft Auto 6 - Xbox Series X|S Versions Finally Revealed - DF Tech Review", minuto: "10:49", data: "2026-11-18T10:36:39-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/ps5-error-ce-108255-1-is-ruining-gta-6-for-some-players-and-rockstar-and-sony-arent-very-helpful-try-updating-your-game/", titulo: 'PS5 error CE-108255-1 is ruining GTA 6 for some players, and Rockstar and Sony aren''t very helpful: "Try updating your game"', data: "2026-11-19T18:35:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480", titulo: "GTA 6's First Post-Launch Update Fixes 7 Bugs", data: "2026-11-23T12:00:00-03:00" }
 descoberto_em: "2026-11-19T16:55:00-03:00"
-atualizado_em: "2026-11-20T10:48:00-03:00"
+atualizado_em: "2026-11-23T20:05:00-03:00"
 historico:
+  - { data: "2026-11-23T20:05:00-03:00", nota: "Added the first GTA 6 patch (November 23), which fixes several crashes according to Kotaku. The notes don't mention CE-108255-1. Linked to the patch notes page." }
   - { data: "2026-11-20T10:48:00-03:00", nota: "Added the PS5 error CE-108255-1, which crashes the game after early story scenes and survives the usual fixes, per GamesRadar+. Linked to the error page." }
   - { data: "2026-11-19T16:55:00-03:00", nota: "Published as confirmed: steps from PlayStation's GTA VI support pages, Xbox Support and Rockstar Support." }
 perguntas:
@@ -31,6 +33,10 @@ perguntas:
 If GTA 6 is crashing, freezing or stuck on a loading screen, start simple: check whether PlayStation Network or Xbox services are down, then restart the game. If that doesn't do it, the official fix on **PS5** is to **restore your licenses**, and on **Xbox** it's a **full power cycle**, holding the console's power button for 10 seconds.
 
 Rockstar hasn't published its own list of GTA 6 errors. Its support page points console errors to Sony's and Microsoft's help pages, so every step below comes from those official pages.
+
+## First, make sure the game is updated
+
+GTA 6 got its first patch on November 23. According to Rockstar's notes, as reported by Kotaku, it fixes **several issues that made the game crash**, along with autosave problems and phone calls that never came through. If your game keeps closing on its own, check that the update is installed before you work through the steps below. The full list is in [GTA 6 patch notes](../gta-6-patch-notes-update/).
 
 ## Step one: rule out an outage
 
@@ -77,7 +83,8 @@ A number of PS5 players are hitting this one. GamesRadar+ found more than a doze
 - the game crashes **after specific story scenes early on**, then crashes again at the same point, so you're stuck;
 - it shows up on base PS5 consoles as well as Digital and Slim models;
 - **clearing the cache, rebuilding the database, reinstalling and restoring licenses didn't help** anyone in those reports;
-- Sony's page for the code only says to **update the game**, then contact PlayStation Repairs if that fails. As of November 19 there was no GTA 6 patch to download.
+- Sony's page for the code only says to **update the game**, then contact PlayStation Repairs if that fails. As of November 19 there was no GTA 6 patch to download;
+- the first patch arrived on November 23 with several crash fixes, but the notes **don't mention this code**. Kotaku says it's unclear whether it's been resolved.
 
 The article itself spells the code two ways (CE-108255-1 in the headline, CE-108225-1 in the body), so check the exact number on your screen before you search. What we know so far is on our [CE-108255-1 error page](../gta-6-ce-108255-1-error/).
 
