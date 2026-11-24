@@ -11,9 +11,11 @@ imagens:
   - { arquivo: "dificuldade-modo-facil-gta-6/velocidade-de-movimento.webp", legenda: "Movement Speed em Run: empurrar o analógico até o fim já faz o personagem correr.", canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", minuto: "3:46" }
 fontes:
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:24", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6-has-an-impressive-number-of-accessibility-options-to-make-the-game-less-frustrating-2000758984", titulo: "GTA 6 Has An Impressive Number Of Accessibility Options", data: "2026-11-20T12:00:00-03:00" }
 descoberto_em: "2026-11-20T10:33:00-03:00"
-atualizado_em: "2026-11-20T10:33:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Entrou o Kotaku: caminho do menu, opção Unrestricted do piloto automático e que nada disso desliga troféus ou salvamento." }
   - { data: "2026-11-20T10:33:00-03:00", nota: "Publicada em verificação: opções de jogabilidade mostradas pelo JuiceHead, com os textos do menu conferidos nos quadros do vídeo. Falta um segundo canal." }
 perguntas:
   - { p: "Dá para mudar a dificuldade do GTA 6?", r: "Dá para deixar o jogo mais fácil pela aba Jogabilidade das configurações. A opção mais forte é Accessible Combat, que reduz a vida dos inimigos e o dano que o seu personagem leva." }
@@ -36,6 +38,8 @@ Quem mostrou foi o JuiceHead, jogando no Xbox. Os nomes estão em inglês, como 
 | Auto Drive | Leva você sozinho até o destino. Veja o [piloto automático](../piloto-automatico-gta-6/). |
 
 Na hora de salvar, o jogo avisa que essas mudanças podem ter um grande impacto na experiência. Se você não salvar, tudo volta como estava.
+
+**Não desliga troféu nem salvamento.** Segundo o Kotaku, essas opções já vêm liberadas desde o começo e não impedem troféus nem salvar o jogo, ao contrário dos códigos. O caminho é Pausa > Settings (fim da lista) > R1/RB até **Gameplay** > seção **Accessibility**, no final. O piloto automático (**Auto Drive**) tem a opção **Unrestricted**, que deixa usar até em perseguição.
 
 ## Combate acessível na prática
 

@@ -12,8 +12,9 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "2:35", data: "2026-11-18T15:15:08-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=iO_WVL3jVx8", titulo: "GTA 6 - How to Get a TANK & FIGHTER JET! Military Base Location (6 Star Wanted Level)", minuto: "1:32", data: "2026-11-18T19:01:21-03:00" }
 descoberto_em: "2026-11-20T10:54:00-03:00"
-atualizado_em: "2026-11-20T10:54:00-03:00"
+atualizado_em: "2026-11-24T07:40:00-03:00"
 historico:
+  - { data: "2026-11-24T07:40:00-03:00", nota: "Link para o tanque grátis do bunker secreto." }
   - { data: "2026-11-20T10:54:00-03:00", nota: "Publicada como confirmada: Maka91Productions, Arekkz Gaming e MrDalekJD mostram onde ficam os Rhinos, como entrar e o troféu Challenging Tank. A matéria do GameSpot sobre o tema não pôde ser lida." }
 perguntas:
   - { p: "Onde tem tanque no GTA 6?", r: "Na base militar Mile Zero Air Station, em Mariana County, no canto sudoeste do mapa. Os Rhinos ficam estacionados num canto da base, junto com blindados menores." }
@@ -25,6 +26,8 @@ perguntas:
 Para pegar um tanque no GTA 6, vá à base militar **Mile Zero Air Station**, no canto sudoeste do mapa, entre pela rampa de terra e siga até a fileira de **tanques Hauners Rhino**. Perto de um deles, aperte **triângulo** (Y no Xbox) para entrar. Pouco depois de entrar, sai o troféu **Challenging Tank**. Maka91Productions, Arekkz Gaming e MrDalekJD fizeram o caminho completo em vídeo.
 
 Os nomes de veículos e do troféu estão em inglês. No jogo em português eles podem aparecer traduzidos.
+
+> **Quer um tanque sem invadir a base?** Uma missão secreta que começa num memorial de Vice City termina num bunker com um tanque que fica seu para sempre. Veja [tanque grátis no bunker secreto](../tanque-gratis-bunker-secreto-gta-6/).
 
 ## Antes de ir
 

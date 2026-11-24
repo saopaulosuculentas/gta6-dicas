@@ -3,7 +3,7 @@ titulo: "Código para aumentar o nível de procurado no GTA 6"
 titulo_seo: "Código de procurado do GTA 6 (aumentar estrelas)"
 resumo: "O código de procurado do GTA 6 aumenta as estrelas da polícia na hora. Sequência: esquerda, baixo, direita, baixo, cima, direita, cima. Libera depois de perder 3 estrelas 50 vezes."
 categoria: codigos
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 codigo:
   ps5: [esquerda, baixo, direita, baixo, cima, direita, cima]
@@ -14,9 +14,11 @@ imagens:
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546", titulo: "The Most Helpful GTA 6 Cheat Codes and How to Access Them", data: "2026-11-19T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Virou confirmado: o Kotaku traz a mesma sequência e o mesmo desbloqueio do GamesRadar+." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Publicado em verificação: por enquanto só o GamesRadar+ mostrou a sequência." }
 perguntas:
   - { p: "Tem código para tirar o procurado no GTA 6?", r: "Nas listas publicadas até agora, não. Só há códigos para aumentar o procurado e o heat." }

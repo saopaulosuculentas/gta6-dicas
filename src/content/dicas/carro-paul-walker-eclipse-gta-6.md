@@ -21,9 +21,11 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:46", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: youtube, canal: "tonyboy", url: "https://www.youtube.com/watch?v=qkqTV7Qu_fI", titulo: "DESCOBRINDO LUGARES SECRETOS RSRSRS - GTA 6", minuto: "2:27:48", data: "2026-11-19T22:38:04-03:00" }
   - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "1:28", data: "2026-11-20T17:00:37-03:00" }
+  - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=F8QqCqhDw8w", titulo: "GTA 6 - Dom's Charger (Fast & Furious Secret Car) Location Guide", minuto: "0:12", data: "2026-11-22T22:17:02-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-21T11:33:00-03:00"
+atualizado_em: "2026-11-24T07:40:00-03:00"
 historico:
+  - { data: "2026-11-24T07:40:00-03:00", nota: "Entrou o Charger do Dom em Grayson, Lummox County (Maka91Productions), em verificação." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "Entrou o Nerpah, que mostra o mesmo carro em Vespucci Island: desligar o painel do alarme na parede antes de abrir a garagem e dar a partida na ligação direta, sem clonador. Nova pergunta para quem procura o carro do Brian." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Nome no mapa do jogo: Maibatsu '97 Penumbra FF (Imack Studios). Placa HAD YOU na tela (Milo, Millzaa). Cobra no porta-malas mostrada pelo KingAlexHD e pelo Millzaa, que ensina a se livrar dela. Na live do tonyboy, o Moses registra o carro de graça e avisa que o próximo é pago: isso explica os US$ 6.750 do DPJ e o registro grátis do GamesRadar+." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Entrou o GamesRadar+: confirma Vespucci Island; o alarme da garagem desliga na parede à esquerda da entrada; snap gun e slim jim evitam os alarmes; levar o carro como o primeiro ao Moses deixa o registro de graça (o DPJ pagou uns US$ 6.750); depois, qualquer Pay 'n' Spray registra pagando." }
@@ -93,6 +95,17 @@ Mais sobre as duas ferramentas em [slim jim e snap gun](../slim-jim-snap-gun-gta
 O próprio jogo avisa, nos vídeos do Android Gamer e do CH4P4X: **veículos que não são seus, estacionados na casa do Jason, não serão salvos**. A oficina também avisa que todo dinheiro gasto num carro que não é seu se perde. Conserto e personalização, só depois de registrar.
 
 O carro tem **neon verde** embaixo, como no filme.
+
+## O Charger do Dom (em verificação)
+
+O Eclipse não é o único carro de *Velozes e Furiosos* no jogo. O **Maka91Productions** achou o **Charger do Dom**, que no jogo é um **Bravado**:
+
+- Fica na **garagem de uma casa abandonada em Grayson**, no meio da cidade, em **Lummox County**, perto do canto de cima à esquerda do mapa.
+- Está **trancado**, mas **sem alarme e sem rastreador**: dá para pegar já no capítulo 2, registrar e guardar.
+- Vem enferrujado, como no filme. Para deixá-lo igual ao do Dom, pinte de **preto** numa Pay 'n' Spray.
+- A placa da frente diz **DAY TWO**, referência a carro que sai da fábrica e no dia seguinte já está modificado.
+
+Até agora só esse canal mostrou, por isso este trecho está em verificação.
 
 ## Vale a pena?
 

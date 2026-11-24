@@ -3,7 +3,7 @@ titulo: "GTA 6 Raise Wanted Level Cheat"
 titulo_seo: "GTA 6 Wanted Level Cheat for PS5 and Xbox"
 resumo: "The GTA 6 raise wanted level cheat is Left, Down, Right, Down, Up, Right, Up. Raises your wanted level (police stars). Unlock it when you lose a 3-star wanted level 50 times."
 categoria: codigos
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "codigo-nivel-de-procurado-gta-6"
 codigo:
@@ -15,9 +15,11 @@ imagens:
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546", titulo: "The Most Helpful GTA 6 Cheat Codes and How to Access Them", data: "2026-11-19T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Now confirmed: Kotaku lists the same button sequence and unlock as GamesRadar+." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified: only one English source has shown the sequence so far." }
 perguntas:
   - { p: "Is there a cheat to lower your wanted level in GTA 6?", r: "Not in the lists published so far. There are only cheats to raise your wanted level and your heat." }

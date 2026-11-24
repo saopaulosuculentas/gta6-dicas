@@ -25,6 +25,8 @@ perguntas:
 
 To get a tank in GTA 6, head to the **Mile Zero Air Station** military base in the southwest corner of the map, jump the fence using the dirt ramp and drive over to the row of **Hauners Rhino** tanks. Walk up to one and press **Triangle** (Y on Xbox) to climb in. A few moments later the **Challenging Tank** trophy pops. Maka91Productions, Arekkz Gaming and MrDalekJD all ran the full route on video.
 
+
+> **Want a tank without raiding the base?** A secret quest that starts at a Vice City memorial ends in a bunker with a tank you keep for good. See [GTA 6 free tank in the secret bunker](../gta-6-free-tank-secret-bunker/).
 ## Before you go
 
 - **Make a backup save.** Arekkz Gaming saved to a separate slot first. After his rampage in the tank, his Jason's [criminal profile](../gta-6-criminal-profile-explained/) had turned to **Psycho**. The trophy sticks to your account, so you can load the old save afterwards.

@@ -20,9 +20,13 @@ fontes:
   - { tipo: youtube, canal: "Typical Gamer", url: "https://www.youtube.com/watch?v=fwQa5kmCJIc", titulo: "1 Hour of GTA 6 Free Roam! Rare Cars & Planes (No Spoilers)", minuto: "38:50", data: "2026-11-20T00:37:49-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
+  - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=7N4DYyKM9vI", titulo: "How to Steal, Sell or Register an untracked Car (Chapter 2) ► GTA 6", minuto: "1:25", data: "2026-11-20T12:15:08-03:00" }
+  - { tipo: youtube, canal: "LunarGaming", url: "https://www.youtube.com/watch?v=k_fpkdNaH_0", titulo: "GTA 6 - How To Steal or Keep ANY CAR & Remove The Trackers (Complete Guide)", minuto: "2:56", data: "2026-11-20T10:26:01-03:00" }
+  - { tipo: site, canal: "Max Vianna (TikTok)", url: "https://www.tiktok.com/@maxviannayt/video/7711485546580823316", titulo: "DÁ PRA PEGAR UMA LAMBORGHINI E UMA ARMA LENDÁRIA NO CAPÍTULO 2 DE GTA 6!", data: "2026-11-23T18:42:39-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-20T10:58:00-03:00"
+atualizado_em: "2026-11-24T07:45:00-03:00"
 historico:
+  - { data: "2026-11-24T07:45:00-03:00", nota: "Entraram o primeiro registro grátis no Moses (ConCon e Max Vianna), a entrega pelo Scooter Bros e o rastreador avançado (LunarGaming); link para as entregas do Moses." }
   - { data: "2026-11-20T10:58:00-03:00", nota: "Pay 'n' Spray de La Perle pelo Typical Gamer: o menu tem registro e venda; um Progen Royal Ruby Emerus valia US$ 30.000 e custava US$ 29.900 para registrar. Com GTA+, carro próprio vendido na Pay 'n' Spray rende 10% a mais; carros da edição Ultimate não podem ser vendidos (GamesRadar+ e PC Gamer)." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Entrou a venda em série para o Moses perto da oficina Watkins Auto Parts, pelo Ashy: carro sem rastreador na esquina, slim jim longe dos membros de gangue, pagamento de US$ 670 e cerca de US$ 700 na conta do banco, limite de entregas e venda com a Lucia. Os valores do Ashy aparecem ao lado da faixa do PC Gamer." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Publicada confirmada: onde vender e quanto rende pelo PC Gamer; registro só no capítulo 2 pelo MrDalekJD; Pay 'n' Spray e o monster truck pelo GamingBolt; preço do registro e troca de placa pelo DPJ; pátio da polícia pelo Kotaku e pelo BennyCentral; garagem do Moses pelo GameSpot." }
@@ -46,6 +50,8 @@ Os nomes de missões, lojas e apps estão em inglês, como saíram nos sites. No
 | Randy | Só alguns carros caros e chamativos | Capítulo 3, 16ª missão (Steal the Zorruso for Randy), em Balsero, Vice City |
 
 Os dados são do PC Gamer. Os carros que o Randy quer, e onde achar cada um, estão em [carros raros da lista do Randy](../carros-raros-lista-do-randy-gta-6/).
+
+Os **7 carros que o Moses pede** no capítulo 2 estão em [entregas do Moses](../entregas-do-moses-gta-6/).
 
 ## Antes de vender: escaneie com o Waink It
 
@@ -87,6 +93,13 @@ Carro raro vale bem mais. O Typical Gamer, na metade da história, achou um **Pr
 Segundo o GamesRadar+ e o PC Gamer, quem assina o **GTA+** recebe **10% a mais** ao vender na Pay 'n' Spray um carro que já é seu. Tem uma exceção, pelo GamesRadar+: os carros que vêm com a **edição Ultimate não podem ser vendidos**. O que mais a assinatura libera está em [o que o GTA+ libera no GTA 6](../gta-plus-gta-6-o-que-libera/).
 
 ## Ficar com o carro: o registro
+
+**O primeiro registro no Moses é de graça.** O ConCon e o Max Vianna mostram que o primeiro carro que você registra na oficina do Moses não custa nada; os seguintes pagam o preço cheio. Escolha bem: leve um carro que você quer de verdade, ou pelo menos um caro de registrar. A pintura (respray) na oficina dele também sai de graça, segundo o ConCon. O WAiNK mostra, além do valor de venda, **quanto custa registrar** cada carro.
+
+**Carro registrado vem até você.** No app **Scooter Bros**, escolha o carro e pague a entrega: para o ConCon saiu US$ 110.
+
+**Rastreador avançado:** os carros esportivos e superesportivos têm um rastreador que chama a polícia. Segundo o LunarGaming, você só pode roubá-los com o **clonador de chave**, que vem numa missão do Randy no capítulo 3, e só pode ficar com eles ou vendê-los depois de terminar as missões de carros do Randy.
+
 
 - **No capítulo 1 não dá.** O MrDalekJD avisa que você fica com o carro inicial. Dá para roubar carros na rua, mas eles não ficam salvos. O DPJ também acha que um carro sem registro some quando você carrega o jogo de novo.
 - **Sem registro, o carro continua roubado.** A polícia segue tratando o carro como roubado até você registrar, segundo o MrDalekJD.

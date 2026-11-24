@@ -3,7 +3,7 @@ titulo: "Código de força de veículo no GTA 6: batidas arremessam"
 titulo_seo: "Código de força de veículo do GTA 6"
 resumo: "O código de força de veículo do GTA 6 faz cada batida arremessar quem for atingido. Sequência: baixo, cima, esquerda, esquerda, direita, baixo, esquerda, cima, baixo."
 categoria: codigos
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 codigo:
   ps5: [baixo, cima, esquerda, esquerda, direita, baixo, esquerda, cima, baixo]
@@ -14,9 +14,11 @@ imagens:
   - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546", titulo: "The Most Helpful GTA 6 Cheat Codes and How to Access Them", data: "2026-11-19T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Virou confirmado: o Kotaku traz a mesma sequência e o mesmo desbloqueio do GamesRadar+." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Publicado em verificação: por enquanto só o GamesRadar+ mostrou a sequência." }
 perguntas:
   - { p: "Como liberar o código de força de veículo no GTA 6?", r: "Segundo o GamesRadar+ e o PC Gamer, é preciso matar 25 pessoas com um veículo, depois de zerar a história." }

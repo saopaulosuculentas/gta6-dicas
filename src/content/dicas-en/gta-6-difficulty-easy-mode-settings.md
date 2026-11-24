@@ -12,9 +12,11 @@ imagens:
   - { arquivo: "dificuldade-modo-facil-gta-6/velocidade-de-movimento.webp", legenda: "Movement Speed set to Run: pushing the left stick all the way makes your character run.", canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", minuto: "3:46" }
 fontes:
   - { tipo: youtube, canal: "JuiceHead", url: "https://www.youtube.com/watch?v=-w07AtZRddc", titulo: "15 Secret Features GTA 6 Never Tells You About (Day 1 Tips)", minuto: "4:24", data: "2026-11-19T20:37:45-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6-has-an-impressive-number-of-accessibility-options-to-make-the-game-less-frustrating-2000758984", titulo: "GTA 6 Has An Impressive Number Of Accessibility Options", data: "2026-11-20T12:00:00-03:00" }
 descoberto_em: "2026-11-20T10:33:00-03:00"
-atualizado_em: "2026-11-20T10:33:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Added Kotaku: menu path, the Unrestricted Auto Drive option, and that none of this blocks trophies or saving." }
   - { data: "2026-11-20T10:33:00-03:00", nota: "Published as unverified: gameplay options shown by JuiceHead, with the menu text checked in the video frames. Needs a second channel." }
 perguntas:
   - { p: "Can you change the difficulty in GTA 6?", r: "You can make it easier from the Gameplay tab in the settings. The biggest switch is Accessible Combat, which lowers enemy health and the damage your character takes." }
@@ -66,3 +68,7 @@ Right below are **Combat Movement Speed**, which does the same in a fight, and *
 ## Simplified Mini Games and working out
 
 Lifting weights normally asks you to time the triggers. With **Simplified Mini Games** on, JuiceHead says the timing part goes away, which helps a lot if you plan to train every day. Training also raises your health and stamina; JuiceHead covers that in the same video.
+
+## These settings don't cost you trophies
+
+According to Kotaku, these options are unlocked from the start and don't block trophies or saving, unlike cheats. The path is Pause > Settings (bottom of the list) > R1/RB to **Gameplay** > the **Accessibility** section at the end. **Auto Drive** has an **Unrestricted** setting that lets you use it even during chases.

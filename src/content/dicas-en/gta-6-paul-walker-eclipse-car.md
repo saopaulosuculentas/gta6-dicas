@@ -19,9 +19,11 @@ fontes:
   - { tipo: youtube, canal: "Millzaa", url: "https://www.youtube.com/watch?v=GDOev2tWm78", titulo: "Get RICH Early in GTA 6 With THESE INSANE Secret Money Spots + Legendary Guns", minuto: "9:26", data: "2026-11-19T20:00:17-03:00" }
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "5:46", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: youtube, canal: "Nerpah", url: "https://www.youtube.com/watch?v=8Ost1vByu3s", titulo: "*ALL* 22 RARE CAR LOCATIONS in GTA 6 - Unlock Fastest Cars (Free Car Locations)", minuto: "1:28", data: "2026-11-20T17:00:37-03:00" }
+  - { tipo: youtube, canal: "Maka91Productions", url: "https://www.youtube.com/watch?v=F8QqCqhDw8w", titulo: "GTA 6 - Dom's Charger (Fast & Furious Secret Car) Location Guide", minuto: "0:12", data: "2026-11-22T22:17:02-03:00" }
 descoberto_em: "2026-11-19T16:20:00-03:00"
-atualizado_em: "2026-11-21T11:33:00-03:00"
+atualizado_em: "2026-11-24T07:40:00-03:00"
 historico:
+  - { data: "2026-11-24T07:40:00-03:00", nota: "Added Dom's Charger in Grayson, Lummox County (Maka91Productions), unverified." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "Added Nerpah, who shows the same car on Vespucci Island: disable the alarm panel on the wall before opening the garage and hotwire it, no key cloner needed. New question for people searching for Brian's car." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "In-game map name: Maibatsu '97 Penumbra FF (Imack Studios). HAD YOU plate shown on screen (Milo, Millzaa). The trunk snake is now shown by KingAlexHD and Millzaa, who explains how to shake it off." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Added GamesRadar+: confirms Vespucci Island; the garage alarm switches off on the wall to your left; the snap gun and slim jim avoid the alarms; bringing it to Moses as your first car makes registration free (DPJ paid about $6,750); later, any Pay 'n' Spray registers cars for a fee." }
@@ -82,6 +84,17 @@ GamesRadar+ adds a few tips on the alarms:
 - **Slim jim:** Moses hands it over at the start of Chapter 2. It makes breaking into the car easier and stops the car alarm, which can keep the police away. It's optional too. Once inside, you hotwire the car and drive off.
 
 Both tools are covered in [slim jim and snap gun](../gta-6-slim-jim-snap-gun/).
+
+## Dom's Charger (unverified)
+
+The Eclipse isn't the only *Fast & Furious* car in the game. **Maka91Productions** found **Dom's Charger**, a **Bravado** in game:
+
+- It's in the **garage of a run-down house in Grayson**, in the middle of town in **Lummox County**, near the top left of the map.
+- It's **locked** but has **no alarm and no tracker**, so you can grab it as early as Chapter 2, register it and keep it.
+- It comes rusty, just like in the movie. Paint it **black** at a Pay 'n' Spray to match Dom's.
+- The front plate reads **DAY TWO**, a nod to cars that leave the factory one day and are already modified the next.
+
+Only one channel has shown it so far, so this part is unverified.
 
 ## Is it worth it?
 

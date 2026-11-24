@@ -26,9 +26,11 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "3:18", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/", titulo: "GTA 6 fast travel: How to get around the map quickly", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=eoeUJUSH_RE", titulo: "HOW TO FAST TRAVEL ANYWHERE IN GTA 6!", minuto: "1:47", data: "2026-11-19T06:10:04-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100", titulo: "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn't Tell You About", data: "2026-11-20T12:00:00-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-20T11:06:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Entraram 4 atalhos do Kotaku: rádio, faróis, gritar com motoristas e andar no convés do barco." }
   - { data: "2026-11-20T11:06:00-03:00", nota: "Fone: na tela a loja é Zeke's Gadgets (a página dizia Zeke's Electronics, pelo NorZZa); Clef Earbuds por US$ 119, como ligar e desligar pelo inventário e áudio separado do carro (JuiceHead). Tocar duas vezes em triângulo ao sair mantém motor e rádio ligados (JuiceHead). Sirene da viatura abre caminho (Milo). Viagem: Paradise Taxi só aceita dinheiro vivo, RydeMe cobra do BuckMe, BuckMe Premium dá 20% no RydeMe, ônibus e trem também pulam a viagem (GamesRadar+); táxi de Vice City à casa do Jason por US$ 268 (Imack Studios). Links para as páginas de piloto automático e viagem rápida." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: pedágio de US$ 5 (de graça com carro roubado ou de amigo), espantar cão de ataque atirando no chão, petisco de animal no caixa das lojas, entrada pelo telhado e segurar quadrado para empurrar carro pesado." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Entraram piloto automático, Paradise Taxi e RydeMe, portas no foco, gasolina, nado rápido, assobio, Snapmatic, veículo cinza, catálogo do Waink It e conversa com L2 (MrDalekJD, BennyCentral, KhrazeGaming, GamingBolt, NorZZa, Thalera, CKX). Joey confirmado por 3 canais. Desvirar carro, porta na cara e botão de pular a viagem mostram as duas versões." }
@@ -56,6 +58,15 @@ Foi assim que o MrDalekJD, o BennyCentral e o KhrazeGaming fizeram, sem apertar 
 O MrBossFTW junta as duas ideias: comece empurrando andando contra o carro e, se ele for pesado, **segure quadrado** para carregar um empurrão mais forte. Se ainda assim não virar, tente pelo outro lado ou bata com outro carro nele.
 
 Não funciona se o carro for **pesado demais**, se acabar o **fôlego** ou numa **ladeira forte**. O mesmo comando serve para **empurrar carro sem gasolina** e para jogar um **barco ou jet ski** da areia para a água. Você não precisa pagar reboque, e isso é útil numa fuga: com a polícia atrás de você, o app de chamar o carro fica bloqueado.
+
+## Atalhos de controle que o jogo não ensina
+
+O Kotaku listou estes:
+
+- **Rádio:** toque duas vezes para a **esquerda no direcional** para ligar ou desligar.
+- **Faróis:** no carro, toque duas vezes em **bolinha** (B no Xbox) para alternar entre apagado, baixo e alto.
+- **Gritar com motorista:** clique o **R3** (analógico direito).
+- **Andar no barco em movimento:** pilotando, toque duas vezes em **triângulo** (Y no Xbox): o personagem levanta e anda pelo convés com o barco seguindo.
 
 ## Sentar em qualquer lugar
 

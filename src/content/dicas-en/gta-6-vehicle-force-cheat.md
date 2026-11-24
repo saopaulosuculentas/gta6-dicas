@@ -3,7 +3,7 @@ titulo: "GTA 6 Vehicle Force Cheat"
 titulo_seo: "GTA 6 Vehicle Force Cheat for PS5 and Xbox"
 resumo: "The GTA 6 vehicle force cheat is Down, Up, Left, Left, Right, Down, Left, Up, Down. Vehicle collisions launch targets. Unlock it when you kill 25 enemies (or pedestrians) with a vehicle."
 categoria: codigos
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "codigo-forca-de-veiculo-gta-6"
 codigo:
@@ -15,9 +15,11 @@ imagens:
   - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/the-most-helpful-gta-6-cheat-codes-and-how-to-access-them-2000758546", titulo: "The Most Helpful GTA 6 Cheat Codes and How to Access Them", data: "2026-11-19T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Now confirmed: Kotaku lists the same button sequence and unlock as GamesRadar+." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified: only one English source has shown the sequence so far." }
 perguntas:
   - { p: "How do you unlock vehicle force in GTA 6?", r: "By killing 25 people with a vehicle, after beating the story." }

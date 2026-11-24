@@ -17,8 +17,9 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "3:22", data: "2026-11-18T16:35:15-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Aviso: o Kotaku termina a sequência com cima, não com baixo. Ainda não conferimos na tela." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Publicado como confirmado: a sequência aparece igual no GamesRadar+ e no PC Gamer." }
 perguntas:
   - { p: "Tem código de veículo no GTA 6?", r: "Sim, são 21. Cada um libera com um desafio, e a maioria das sequências ainda não foi publicada. A da escavadeira é esquerda, cima, direita, baixo, esquerda, direita, direita, baixo." }
@@ -47,3 +48,7 @@ Segundo o GamesRadar+, o requisito é **encontrar a HVY Bulldozer no jogo**, par
 - A sequência aparece igual no GamesRadar+ e no PC Gamer, que jogaram até liberar os códigos. Por isso o selo é "Confirmado".
 
 Veja também [como usar e desbloquear os códigos do GTA 6](../codigos-gta-6-como-usar/) e a [lista completa dos 61 códigos](../todos-os-codigos-gta-6-lista-completa/).
+
+## Atenção: uma fonte diverge
+
+O Kotaku publica esta sequência terminando com **cima**, e não com **baixo**. As outras fontes desta página terminam com baixo. Até conferirmos num vídeo com a tela do celular do jogo, mantemos a versão acima. Se não funcionar, troque o último botão por cima.

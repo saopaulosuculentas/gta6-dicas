@@ -21,9 +21,12 @@ fontes:
   - { tipo: youtube, canal: "Typical Gamer", url: "https://www.youtube.com/watch?v=fwQa5kmCJIc", titulo: "1 Hour of GTA 6 Free Roam! Rare Cars & Planes (No Spoilers)", minuto: "38:50", data: "2026-11-20T00:37:49-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gtaplus-subscription-gta-6-exclusive-unlocks-benefits/", titulo: "All GTA 6 rewards for GTA+ members", data: "2026-11-18T13:36:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/", titulo: "GTA+ for GTA 6 singleplayer is like subscription-based horse armor", data: "2026-11-19T22:01:00-03:00" }
+  - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=7N4DYyKM9vI", titulo: "How to Steal, Sell or Register an untracked Car (Chapter 2) ► GTA 6", minuto: "1:25", data: "2026-11-20T12:15:08-03:00" }
+  - { tipo: youtube, canal: "LunarGaming", url: "https://www.youtube.com/watch?v=k_fpkdNaH_0", titulo: "GTA 6 - How To Steal or Keep ANY CAR & Remove The Trackers (Complete Guide)", minuto: "2:56", data: "2026-11-20T10:26:01-03:00" }
 descoberto_em: "2026-11-19T16:36:00-03:00"
-atualizado_em: "2026-11-20T10:58:00-03:00"
+atualizado_em: "2026-11-24T07:45:00-03:00"
 historico:
+  - { data: "2026-11-24T07:45:00-03:00", nota: "Added the free first registration at Moses (ConCon), Scooter Bros delivery and advanced trackers (LunarGaming), plus a link to the Moses drop-offs." }
   - { data: "2026-11-20T10:58:00-03:00", nota: "Added the La Perle Pay 'n' Spray from Typical Gamer: its menu both registers and buys cars; a Progen Royal Ruby Emerus was worth $30,000 and cost $29,900 to register. With GTA+, owned cars sold at a Pay 'n' Spray fetch 10% more, and Ultimate Edition cars can't be sold (GamesRadar+ and PC Gamer)." }
   - { data: "2026-11-19T18:16:00-03:00", nota: "Added Ashy's repeat sales to Moses near Watkins Auto Parts: a tracker-free car on the corner, the slim jim out of sight of the gang members, $670 and about $700 paid straight into the bank account, the delivery cap, and selling as Lucia. Ashy's payouts now sit next to PC Gamer's range." }
   - { data: "2026-11-19T16:36:00-03:00", nota: "Published as confirmed: where to sell and payouts from PC Gamer; registration locked until Chapter 2 per MrDalekJD; Pay 'n' Spray and the monster truck from GamingBolt; registration cost and new plates from DPJ; impound from Kotaku and BennyCentral; Moses' garage from GameSpot." }
@@ -45,6 +48,8 @@ You can sell a stolen car in three places in GTA 6: a **Pay 'n' Spray**, which t
 | Randy | Only certain flashy, expensive cars | Chapter 3, mission 16 (Steal the Zorruso for Randy), Balsero, Vice City |
 
 All of that comes from PC Gamer. The cars on Randy's list, and where to find them, are in our [Randy rare car guide](../gta-6-rare-car-locations-randy/).
+
+The **7 cars Moses asks for** in Chapter 2 are in [Moses drop-off locations](../gta-6-moses-drop-off-locations/).
 
 ## Scan the car first with Waink It
 
@@ -86,6 +91,13 @@ Rare cars are a different story. Typical Gamer, about halfway through the campai
 According to GamesRadar+ and PC Gamer, **GTA+** members get **10% more** when they sell a car they own at a Pay 'n' Spray. GamesRadar+ notes one exception: cars that come with the **Ultimate Edition can't be sold**. The rest of the membership perks are in [every GTA+ reward in GTA 6](../gta-6-gta-plus-rewards/).
 
 ## Keeping a car: registration
+
+**Your first registration at Moses is free.** ConCon shows that the first car you register at Moses' garage costs nothing; after that you pay full price. Choose well: bring a car you actually want, or at least one that's pricey to register. His respray is free too, according to ConCon. WAiNK shows the **registration cost** of each car along with its sell value.
+
+**Registered cars come to you.** In the **Scooter Bros** app, pick the car and pay the delivery fee: it was $110 for ConCon.
+
+**Advanced trackers:** sports and super cars carry a tracker that pings the cops. According to LunarGaming, you can only steal them with the **key cloner**, which you get in a Randy mission in Chapter 3, and you can only keep or sell them after finishing Randy's car missions.
+
 
 - **Not in Chapter 1.** MrDalekJD says you're stuck with the starter car. You can steal cars off the street, but they aren't saved for good. DPJ also thinks an unregistered car is gone once you reload your game.
 - **Unregistered means still stolen.** The police keep treating the car as stolen until it's registered, MrDalekJD says.

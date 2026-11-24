@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/", titulo: "Rockstar prepared \"several variations\" for GTA 6 story moments based on how you treat Lucia and Jason's relationship", data: "2026-11-19T21:45:00-03:00" }
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333", titulo: "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler", data: "2026-11-18T11:00:00-03:00" }
+  - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/gta-6-tem-quantos-finais-entenda-se-jason-e-lucia-morrem-no-jogo-edjogos.ghtml", titulo: "GTA 6 tem quantos finais? Entenda se Jason e Lucia morrem no jogo", data: "2026-11-24T00:00:00-03:00" }
 descoberto_em: "2026-11-20T10:44:00-03:00"
-atualizado_em: "2026-11-20T10:44:00-03:00"
+atualizado_em: "2026-11-24T07:45:00-03:00"
 historico:
+  - { data: "2026-11-24T07:45:00-03:00", nota: "Entrou o TechTudo de 24/11: 7 finais já descobertos, 4 mais comuns, e as condições ainda não estão claras; perfis Psycho e Irredeemable ligados a finais ruins." }
   - { data: "2026-11-20T10:44:00-03:00", nota: "Publicada confirmada: número de finais e o que pesa neles pelo GameSpot; variações de cena pelo GamesRadar+; o Kotaku viu dois finais diferentes." }
 perguntas:
   - { p: "Quantos finais tem o GTA 6?", r: "Pelo menos 4, segundo jogadores e jornalistas que já zeraram, citados pelo GameSpot. A Rockstar confirmou que existe mais de um." }
@@ -33,6 +35,8 @@ O GTA 6 tem **pelo menos 4 finais**, segundo jornalistas e jogadores que já ter
 - **Kotaku:** o repórter também viu **2 finais** e conta que eles seguem rumos bem diferentes.
 
 O número pode subir conforme mais gente terminar o jogo de jeitos diferentes.
+
+**Atualização de 24/11:** o TechTudo conta **7 finais** já descobertos pelos jogadores, sendo **4 os mais comuns**. A própria matéria avisa que as condições exatas ainda não estão claras. Ela aponta os mesmos pesos desta página: relacionamento no nível 4, US$ 2 milhões na poupança da família e o perfil criminal; os perfis **Psycho** e **Irredeemable** ficam ligados aos finais ruins.
 
 ## O que decide o final
 

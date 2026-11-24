@@ -22,9 +22,11 @@ fontes:
   - { tipo: youtube, canal: "Milo", url: "https://www.youtube.com/watch?v=WETztjepZqM", titulo: "Testing GTA 6 Secrets You SHOULD Know!", minuto: "3:18", data: "2026-11-20T03:44:43-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-how-to-fast-travel/", titulo: "GTA 6 fast travel: How to get around the map quickly", data: "2026-11-18T21:00:00-03:00" }
   - { tipo: youtube, canal: "Imack Studios", url: "https://www.youtube.com/watch?v=eoeUJUSH_RE", titulo: "HOW TO FAST TRAVEL ANYWHERE IN GTA 6!", minuto: "1:47", data: "2026-11-19T06:10:04-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100", titulo: "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn't Tell You About", data: "2026-11-20T12:00:00-03:00" }
 descoberto_em: "2026-11-19T14:40:00-03:00"
-atualizado_em: "2026-11-20T11:06:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Added 4 Kotaku shortcuts: radio, headlights, yelling at drivers and walking the deck of a moving boat." }
   - { data: "2026-11-20T11:06:00-03:00", nota: "Headphones: the store sign reads Zeke's Gadgets (the page said Zeke's Electronics, per NorZZa); Clef Earbuds for $119, toggled from your loadout, with audio kept separate from the car (JuiceHead). Double-tap Triangle when getting out to leave the engine and radio running (JuiceHead). Cop car sirens clear traffic (Milo). Travel: Paradise Taxi takes cash only, RydeMe bills BuckMe, BuckMe Premium knocks 20% off RydeMe, buses and trains let you skip too (GamesRadar+); a $268 cab from Vice City to Jason's house (Imack Studios). Linked the auto drive and fast travel guides." }
   - { data: "2026-11-19T17:01:00-03:00", nota: "MrBossFTW: $5 tolls (free in a stolen or borrowed car), scaring off attack dogs by shooting the ground, pet snacks at store counters, rooftop entrances and holding Square to shove a heavy car." }
   - { data: "2026-11-19T16:28:00-03:00", nota: "Now confirmed: MrDalekJD, BennyCentral and KhrazeGaming show car flipping, the car menu and trunk outfits. Added autopilot, Paradise Taxi, Joey's free repairs, door colors in focus, fuel, fast swimming, whistling, headphones and the door-check move. Flipping and the taxi skip button show both versions." }
@@ -165,3 +167,12 @@ At the surface, tap **sprint** to swim faster, which drains stamina. Once it's e
 - **Shave at home:** the mirror in your safehouse bathroom trims your beard and hair. New styles need a barber.
 
 For the rest of the early game, see the [beginner tips](../gta-6-beginner-tips/) and the [GTA 6 index guide](../gta-6-index-find-missions/).
+
+## Control shortcuts the game doesn't teach you
+
+Kotaku rounded these up:
+
+- **Radio:** double-tap **left on the d-pad** to turn it on or off.
+- **Headlights:** in a car, double-tap **circle** (B on Xbox) to cycle off, low and high beams.
+- **Yell at drivers:** click **R3**.
+- **Walk around a moving boat:** while driving one, double-tap **triangle** (Y on Xbox) to stand up and walk the deck as the boat keeps going.

@@ -11,9 +11,11 @@ fontes:
   - { tipo: youtube, canal: "Saimon Oliveira", url: "https://www.youtube.com/watch?v=_yFd9YrgxGE", titulo: "COMO TROCAR DE PERSONAGEM NO GTA 6! Veja Como Fazer!", minuto: "0:00", data: "2026-11-18T10:06:30-03:00" }
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=T1vPOG71oHk", titulo: "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)", minuto: "19:29", data: "2026-11-19T07:27:23-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "5:46", data: "2026-11-18T22:26:16-03:00" }
+  - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/grand-theft-auto-6-gta6-swap-characters-jason-lucia-unlock-2000758845", titulo: "When Can You Freely Play As Lucia In GTA 6?", data: "2026-11-20T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-19T16:16:00-03:00"
+atualizado_em: "2026-11-24T07:50:00-03:00"
 historico:
+  - { data: "2026-11-24T07:50:00-03:00", nota: "Entrou o Kotaku: a troca livre libera no capítulo 2, depois da missão Breakfast Run." }
   - { data: "2026-11-19T16:16:00-03:00", nota: "MrDalekJD: a primeira vez com a Lucia é na missão Day Release, no fim do capítulo 1, e a troca livre só libera bem depois. Ele cita só o direcional para a direita, sem o R1; as duas versões estão na página. Thalera: o começo é só com o Jason." }
   - { data: "2026-11-19T08:51:00-03:00", nota: "Publicada em verificação. Fonte: Saimon Oliveira (Xbox)." }
 perguntas:
@@ -29,6 +31,8 @@ Para trocar entre **Jason e Lucia** no GTA 6, segure **RB** (no PS5, **R1**) e a
 1. Segure **RB** no Xbox (ou **R1** no PS5).
 2. Aperte o **direcional para a direita**.
 3. Escolha Jason ou Lucia nas opções que aparecem.
+
+**Quando a troca livre libera:** segundo o Kotaku, no **capítulo 2**, depois da missão **Breakfast Run**. Algumas missões ainda exigem um personagem certo. O Kotaku também cita segurar a **direita no direcional** para trocar.
 
 ## Juntos é mais rápido
 
