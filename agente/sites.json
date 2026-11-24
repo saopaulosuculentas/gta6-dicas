@@ -1,5 +1,5 @@
 {
-  "_como_usar": "Sites grandes que valem como fonte. 'oficial' = Rockstar, Take-Two ou a loja do console: uma fonte oficial já confirma. 'imprensa' = redação grande: conta como uma fonte (precisa de uma segunda, de outro site ou canal, para virar confirmado). Site fora desta lista não entra como fonte.",
+  "_como_usar": "Sites grandes que valem como fonte. 'oficial' = Rockstar, Take-Two ou a loja do console: uma fonte oficial já confirma. 'imprensa' = redação grande: conta como uma fonte (precisa de uma segunda, de outro site ou canal, para virar confirmado). Site fora desta lista não entra como fonte. PowerPyx e GTABase entraram em 24/11/2026 com OK do Luan: guias com imagens do jogo, contam como uma fonte cada (como a imprensa).",
   "oficial": [
     "rockstargames.com",
     "support.rockstargames.com",
@@ -27,7 +27,9 @@
     "meups.com.br",
     "techtudo.com.br",
     "ge.globo.com",
-    "adrenaline.com.br"
+    "adrenaline.com.br",
+    "powerpyx.com",
+    "gtabase.com"
   ],
   "buscas": [
     "GTA 6 cheat codes confirmed list",
