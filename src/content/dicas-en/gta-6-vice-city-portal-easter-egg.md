@@ -13,9 +13,11 @@ fontes:
   - { tipo: youtube, canal: "Dan Allen Gaming", url: "https://www.youtube.com/watch?v=4KwBs_RkilM", titulo: "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)", minuto: "1:14", data: "2026-11-23T12:48:36-03:00" }
   - { tipo: youtube, canal: "TmarTn2", url: "https://www.youtube.com/watch?v=5BW8LOnL1GE", titulo: "GTA 6 - Play as Tommy Vercetti GTA Multiverse Easter Egg Guide", minuto: "2:20", data: "2026-11-23T14:41:02-03:00" }
   - { tipo: youtube, canal: "Misleading", url: "https://www.youtube.com/watch?v=t3zvakxz0js", titulo: "GTA 6's Secret Portal Takes You Back to Vice City! (Full Guide)", minuto: "0:39", data: "2026-11-23T09:44:53-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-a-terrifying-unkillable-npc-heres-how-to-find-him/", titulo: "GTA 6 Has A Terrifying Unkillable NPC, Here's How To Find Him", data: "2026-11-23T14:50:00-03:00" }
 descoberto_em: "2026-11-23T20:10:00-03:00"
-atualizado_em: "2026-11-23T20:20:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Added the unkillable NPC at the same tower as Step 1 (GameSpot only for now)." }
   - { data: "2026-11-23T20:20:00-03:00", nota: "Published as confirmed: Kotaku played it through and Dan Allen Gaming walks the same route to the same portal and rewards. Switches for 11 of the 12 substations come from Dan Allen's narration; the 10th isn't called out, and exact addresses aren't confirmed in writing yet." }
 perguntas:
   - { p: "How do you get to old Vice City in GTA 6?", r: "Power up the tower in the south of the map, hit the 12 electrical substations in the order that spells Life Is Passing Me By, then go to Reactor 2 at the power plant between 7 p.m. and 6 a.m. A pink portal there sends Jason to the 2002 Malibu Club." }
@@ -91,6 +93,16 @@ Jason ends up in the **Malibu Club** from the original game, with PS2-style anim
 - Head up the **back stairs** to find **Kent Paul**. Before you can chat, a new portal pulls Jason back to 2026.
 
 Back in the present, the shirt and the bike are yours (TmarTn2 16:53, Misleading 7:27).
+
+## Same tower: the man who won't die
+
+According to GameSpot, the radio tower from Step 1 hides another secret. **Only GameSpot has shown it so far**, so treat it as unverified.
+
+1. Climb the ladder to the **very top of the tower**.
+2. Aim down the sights of any gun and zoom in to look for a man in a **plain t-shirt and glasses** below.
+3. Whether you shoot him or not, he looks at you and makes a **throat-slitting** gesture. Creepy music kicks in and he **sprints after you**.
+
+He **can't be killed** by bullets, falls or distance, and he **kills you with one punch**. According to GameSpot, the chase only ends if you die some other way: the writer jumped off the tower and he didn't come back after the respawn. It doesn't seem to reference anything; it's a Rockstar joke.
 
 ## What we still don't know
 

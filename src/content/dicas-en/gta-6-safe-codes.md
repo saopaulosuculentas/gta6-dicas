@@ -17,9 +17,11 @@ fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:27", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "5:51", data: "2026-11-22T12:57:35-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "12:04", data: "2026-11-20T17:42:19-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/", titulo: "GTA 6 Yasmani's Jewelry Jobs Walkthrough", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Added the fixed codes for Yasmani's jewelry stores (1680, 6815 and 0104, from PowerPyx), with a link to their page." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Added the fixed codes for La Cascara Motel (6969: ConCon, GosuNoob and others) and Brooks Boatworks (6823: ConCon and RaidAway), with links to their own pages, plus the 92665 code from the Chapter 3 laptop." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Correction: this page said every robbery code was randomized. PC Gamer says many are fixed, such as Kingpin Bowling (0300, also at GamesRadar+)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmed: MrDalekJD shows that Focus highlights notes with safe codes, and Arekkz Gaming shows clerks handing over the combination at gunpoint." }
@@ -56,6 +58,8 @@ This page used to say every robbery code was randomized. **That was wrong.** On 
 - **Brooks Boatworks: 6823.** ConCon and RaidAway both opened the safe with it. See the [Brooks Boatworks safe code](../gta-6-brooks-boatworks-safe-code/).
 
 All three numbers are handwritten on a **Port Gellhorn map** pinned up in the Brooks Boatworks office, as ConCon shows. Examining the map saves the codes to your game.
+
+**Yasmani's jewelry stores** in Chapter 3 have fixed codes too: **Casa de Empeño 1680**, **Richardson Jewelry 6815** and **Donovan Banks & Co. 0104**. See [Yasmani's jewelry store safe codes](../gta-6-yasmani-jewelry-safe-codes/).
 
 It isn't a safe, but it does need a code: the **Chapter 3 apartment laptop** unlocks with Muffins, Queen, 15 and gives you **92665**, the code for a La Perle lock-up with a pink car inside. See the [Chapter 3 laptop password](../gta-6-chapter-3-laptop-password/).
 

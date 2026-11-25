@@ -18,9 +18,11 @@ fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:27", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "5:51", data: "2026-11-22T12:57:35-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "12:04", data: "2026-11-20T17:42:19-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/", titulo: "GTA 6 Yasmani's Jewelry Jobs Walkthrough", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:51:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Entraram as senhas fixas das joalherias do Yasmani (1680, 6815 e 0104, do PowerPyx), com link para a página delas." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Acrescentadas as senhas fixas do Motel La Cascara (6969: ConCon, GosuNoob e outros) e do Brooks Boatworks (6823: ConCon e RaidAway), com links para as páginas próprias, e o código 92665 do notebook do capítulo 3." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Correção: a página dizia que toda senha de roubo era sorteada. Segundo o PC Gamer, muitas são fixas, como a do Kingpin Bowling (0300, também no GamesRadar+)." }
   - { data: "2026-11-19T16:20:00-03:00", nota: "Confirmada: o MrDalekJD e o Arekkz Gaming mostram o foco destacando a senha e o cofre e o funcionário que entrega o código sob ameaça; o Combo Infinito achou a senha anotada na parede. Acrescentados os exemplos de senha que mudam de um lugar para outro e o aviso de levar tudo do cofre." }
@@ -64,7 +66,9 @@ Os três números estão escritos à mão num **mapa de Port Gellhorn** pendurad
 
 Não é cofre, mas também pede código: o **notebook do apartamento do capítulo 3** abre com Muffins, Queen, 15 e revela o número **92665**, de uma garagem em La Perle com um carro rosa. Veja [a senha do notebook do capítulo 3](../senha-notebook-capitulo-3-gta-6/).
 
-Isso não quer dizer que todas sejam fixas. Se um número de vídeo não funcionar, procure a senha no seu jogo.
+As **joalherias do Yasmani**, no capítulo 3, também têm senha fixa: **Casa de Empeño 1680**, **Richardson Jewelry 6815** e **Donovan Banks & Co. 0104**. Veja [as senhas das joalherias do Yasmani](../senhas-joalherias-yasmani-gta-6/).
+
+Isso não quer dizer que todas sejam fixas. Nos roubos comuns de loja e banco, o GameSpot diz que a senha é **sorteada** e muda até se você roubar o mesmo lugar duas vezes. Se um número de vídeo não funcionar, procure a senha no seu jogo.
 
 ## Não existe senha que sirva para todo cofre
 

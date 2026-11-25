@@ -12,9 +12,11 @@ fontes:
   - { tipo: youtube, canal: "Dan Allen Gaming", url: "https://www.youtube.com/watch?v=4KwBs_RkilM", titulo: "GTA 6 - How to Unlock the Secret Vice City Portal Easter Egg (Full Guide)", minuto: "1:14", data: "2026-11-23T12:48:36-03:00" }
   - { tipo: youtube, canal: "Nexxuz World", url: "https://www.youtube.com/watch?v=qlymwZ0Ykrg", titulo: "MÁQUINA del TIEMPO SECRETA EN GTA 6 - EASTER EGG", minuto: "1:40", data: "2026-11-23T19:12:56-03:00" }
   - { tipo: youtube, canal: "TmarTn2", url: "https://www.youtube.com/watch?v=5BW8LOnL1GE", titulo: "GTA 6 - Play as Tommy Vercetti GTA Multiverse Easter Egg Guide", minuto: "16:53", data: "2026-11-23T14:41:02-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-a-terrifying-unkillable-npc-heres-how-to-find-him/", titulo: "GTA 6 Has A Terrifying Unkillable NPC, Here's How To Find Him", data: "2026-11-23T14:50:00-03:00" }
 descoberto_em: "2026-11-23T20:10:00-03:00"
-atualizado_em: "2026-11-23T20:20:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Entrou o NPC que não morre, na mesma torre do Passo 1 (só o GameSpot por enquanto)." }
   - { data: "2026-11-23T20:20:00-03:00", nota: "Entrou o vídeo do Dan Allen Gaming: ele e o Nexxuz World dão o mesmo botão em 11 das 12 subestações, e a mensagem Reactor 2 1906 quer dizer das 19h às 6h. O botão da 10ª só aparece no Nexxuz World." }
   - { data: "2026-11-23T20:10:00-03:00", nota: "Publicada como confirmada: o Kotaku e o vídeo do Nexxuz World mostram o mesmo portal, o Malibu Club de 2002 e os mesmos prêmios." }
 perguntas:
@@ -95,6 +97,16 @@ Uma cena leva o Jason ao **Malibu Club** do Vice City original, com os bonecos d
 ## Na volta
 
 Segundo o Nexxuz World, o Jason reaparece no Malibu Club da Leonida de hoje, já com a roupa do Tommy liberada e a moto disponível para guardar.
+
+## Na mesma torre: o homem que não morre
+
+Segundo o GameSpot, a torre de rádio do Passo 1 esconde outro segredo. **Só o GameSpot mostrou até agora**, então trate como em verificação.
+
+1. Suba a escada até o **topo da torre**.
+2. Mire com qualquer arma e use o zoom para procurar um homem de **camiseta lisa e óculos** lá embaixo.
+3. Atirando ou não, ele olha para você e faz o gesto de **cortar a garganta**. Começa uma música sinistra e ele **corre atrás de você**.
+
+Ele **não morre** com tiro, queda nem distância, e **mata com um soco**. Segundo o GameSpot, a perseguição só acaba quando você morre de outro jeito: quem escreveu o guia se jogou da torre e, depois de voltar, ele não apareceu mais. Não parece ser referência a nada; é uma brincadeira da Rockstar.
 
 ## O que ainda falta confirmar
 

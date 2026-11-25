@@ -18,8 +18,9 @@ fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=E1gMkGMnGAY", titulo: "GTA 6 - How To Get a TANK & Fighter JET! (Location & Achievement Guide)", minuto: "3:23", data: "2026-11-18T15:15:08-03:00" }
   - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=mM8RsaIBo1k", titulo: "GTA 6 Every WAiNK Location: All 108 Scans for the You WAiNKer Trophy (Full Guide)", minuto: "0:00", data: "2026-11-20T01:36:31-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T11:01:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Links to the new platinum guide and the 100% checklist." }
   - { data: "2026-11-20T11:01:00-03:00", nota: "New section on The Truth Is Out There: it pops during the UFO abduction (GameSpot) and has also popped at a lighthouse with ghosts (Milo) and at the haunted hotel safe (Robbin Rams). Added how Challenging Tank unlocks (Maka91Productions and Arekkz Gaming) and the 108 scannables behind You WAiNKer! (vAnother Level). Links to the dream, lab, tank and WAiNK pages." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as confirmed: PC Gamer and GamesRadar+ list the same 55 trophies, and GamesRadar+ adds the grade and Gamerscore of each." }
 perguntas:
@@ -140,5 +141,7 @@ Players have caught this one unlocking in three different situations:
 Nobody has explained yet why the same trophy shows up in such different places. After the abduction, the alien story carries on with the [alien dream](../gta-6-alien-dream-sequence-code/) and the [secret alien lab](../gta-6-alien-lab-code-2314/).
 
 ## Platinum
+
+The full roadmap, with time, difficulty and the quick trophies, is in the [platinum trophy guide](../gta-6-platinum-trophy-guide-roadmap/). What counts for A Long Road is in the [100% completion checklist](../gta-6-100-percent-completion-checklist/).
 
 **Vice Got a Price!** is the platinum, and it unlocks once you have every other trophy. Going by the descriptions alone, the longest hauls are A Long Road (100%), Cunning Stunts (250 stunts), The Shootist (42 gold medals), You WAiNKer! (100 locations) and Actions Speak Louder.

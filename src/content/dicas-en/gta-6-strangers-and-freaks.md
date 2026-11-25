@@ -1,7 +1,7 @@
 ---
-titulo: "GTA 6 Strangers and Freaks: Side Missions Found So Far"
-titulo_seo: "GTA 6 Strangers and Freaks: Side Missions Found So Far"
-resumo: "The GTA 6 Strangers & Freaks trophy asks for 8 stranger mission strands. There's no official list yet. Here's what players have found on day one: Shirley, Kirk, Kenton and street encounters."
+titulo: "GTA 6 Strangers and Freaks: The 8 Mission Strands That Count for the Trophy"
+titulo_seo: "GTA 6 Strangers and Freaks: All 8 Trophy Strands"
+resumo: "The GTA 6 Strangers & Freaks trophy asks for 8 stranger strands. Here are the ones that count (Kirk, Kyle, Alvan, Yago, Pete, Dr. Merle, Freddie and Papa Audacity) and where each starts."
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
@@ -23,13 +23,16 @@ fontes:
   - { tipo: youtube, canal: "MrBossFTW", url: "https://www.youtube.com/watch?v=JJPxm1aKBIc", titulo: "This Gym Bro Will Give You FREE Money At The Beginning Of GTA 6 If You Do This One Simple Thing!", minuto: "0:12", data: "2026-11-18T20:00:12-03:00" }
   - { tipo: youtube, canal: "KhrazeGaming", url: "https://www.youtube.com/watch?v=LHDZV2JouEY", titulo: "How To Get Legendary WEAPONS & Make Money Early in GTA 6!", minuto: "0:36", data: "2026-11-18T17:35:43-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "4:46", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: youtube, canal: "Jojo Gaming Guides", url: "https://www.youtube.com/watch?v=to4yUIJ4lh0", titulo: "How To Get The Strangers & Freaks Trophy - All 8 Starter Points Of The Missions You Need! - GTA 6", minuto: "0:53", data: "2026-11-24T16:41:10-03:00" }
 descoberto_em: "2026-11-19T16:56:00-03:00"
-atualizado_em: "2026-11-20T11:10:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Added the 8 strands that count for the trophy (PowerPyx and Jojo Gaming Guides match 8 for 8). Shirley, Kenton and characters with their own trophy do not count." }
   - { data: "2026-11-20T11:10:00-03:00", nota: "New street encounter: Jimmy, the drunk in a captain's hat who tries to rob you with a Bullhead spear gun; you can take both the spear gun and the hat (BennyCentral)." }
   - { data: "2026-11-19T16:56:00-03:00", nota: "Published as confirmed: the 8-strand trophy from GamesRadar+ and PC Gamer; side missions found so far gathered from Arekkz, OutlawGarry, RageGamingVideos, MrDalekJD, JFM, KultZ, WiLLiSGaming, MrBossFTW, KhrazeGaming and Kotaku. List is incomplete." }
 perguntas:
-  - { p: "How many stranger missions are in GTA 6?", r: "The Strangers & Freaks trophy asks for 8 stranger mission strands. Whether there are more than 8 isn't known yet, since no full list has been published." }
+  - { p: "How many stranger missions are in GTA 6?", r: "The Strangers & Freaks trophy asks for 8 strands. According to PowerPyx and Jojo Gaming Guides, the ones that count are Kirk, Kyle, Alvan, Yago, Pilot Pete, Dr. Merle, Freddie and Papa Audacity." }
   - { p: "Where do you find stranger missions in GTA 6?", r: "In the Exploration tab of the map index, which lists optional quests and favors for your neighbors. Shouting or commotion on the street is often someone who needs help, too." }
   - { p: "What is the first stranger mission in GTA 6?", r: "The easiest is neighbor Shirley, on the corner by Jason's house. She wants a bottle of rum from the Three Sheets liquor store." }
 ---
@@ -44,7 +47,34 @@ Stranger missions in GTA 6 are requests from characters you run into around the 
 
 The word to notice is **strands**. A single stranger can have more than one mission in a row, like Shirley does.
 
-## Found so far
+## The 8 that count
+
+PowerPyx and Jojo Gaming Guides landed on the **same list of 8**. Not every favor counts: according to PowerPyx, the questlines for Moses, Tyrone, Yasmani, Andy, Billy and Eddie **don't count** as strangers. All of them are still available after the story.
+
+| Stranger | Missions | When it opens, per Jojo |
+|---|---|---|
+| **Kirk** (Skunk Ape) | Search for the Skunk Ape, the tree effigies and Mr. Mangrove | Chapter 1 |
+| **Kyle** | McKittrick Farm, collecting chemicals and checking on him | Chapter 2 |
+| **Alvan** | Gellhorn's missing tourists and the trophy room | Chapter 2 |
+| **Yago** | A street race, mentoring him, racing him and backing him up | Chapter 3 |
+| **Pilot Pete** | Recovering Pete's plane and the deliveries | You help him in Chapter 1, but the strand only opens after Chapter 4 |
+| **Dr. Merle** (No Flushers) | The Final Flush, at Frank's Waffles | Any chapter |
+| **Freddie** | Retesting his bunker defenses | Any chapter |
+| **Papa Audacity** | The Unknown Stuntman stunts through to the launch party | Chapter 3 |
+
+**Where each one starts:**
+
+- **Kirk:** scan a branch effigy in the swamp and call the number it saves. See the [Skunk Ape mission guide](../gta-6-skunk-ape-mission-sniper-rifle/).
+- **Yago:** join a street race; afterward he asks you to mentor him. The race against him has a time limit.
+- **Dr. Merle:** scan the QR code in the public restroom on Corsair Key.
+- **Freddie:** break into his bunker. See [how to unlock hurricanes](../gta-6-hurricane-freddie-bunker/).
+- **Papa Audacity:** do his stunts; each one unlocks the next. Jojo says few players know this strand counts.
+
+You can see how many you've done in the **trophy tracker** in the trophy list.
+
+## Other missions found so far
+
+These aren't on PowerPyx's list, but they're worth doing for the rewards.
 
 ### Shirley, the neighbor
 
@@ -59,7 +89,7 @@ A hidden quest in the Grassrivers swamps. JFM shows it starting when you find an
 
 ### Kenton, the treasure hunter
 
-Kenton shows up after the story mission Hey Arnold!, at his dive shop on the Key Lento beach, according to KultZ. He teaches you to dive for wrecks, and WiLLiSGaming says he **calls again later** with more dive spots. There's even a trophy just for him, **This Was No Boat Accident**, for finishing Kenton's final mission. Nobody has confirmed whether his strand counts as a stranger strand. More in [sunken treasure and shipwrecks](../gta-6-sunken-treasure-shipwrecks/).
+Kenton shows up after the story mission Hey Arnold!, at his dive shop on the Key Lento beach, according to KultZ. He teaches you to dive for wrecks, and WiLLiSGaming says he **calls again later** with more dive spots. There's even a trophy just for him, **This Was No Boat Accident**, for finishing Kenton's final mission. According to PowerPyx, his strand isn't one of the 8 for Strangers & Freaks. More in [sunken treasure and shipwrecks](../gta-6-sunken-treasure-shipwrecks/).
 
 ## Street encounters
 
@@ -72,11 +102,11 @@ These pop up in the open world. It's not known whether they count toward the tro
 
 ## Other strands on the trophy list
 
-Besides Kenton, the trophy list has awards for finishing the **final mission** of four more characters: **Andy** (Road to Rehabilitation), **Billy** (The Lone Rider), **Randy** (Supply & Demand) and **Tyrone** (Spin On This!). The list doesn't say which of these count as strangers.
+Besides Kenton, the trophy list has awards for finishing the **final mission** of four more characters: **Andy** (Road to Rehabilitation), **Billy** (The Lone Rider), **Randy** (Supply & Demand) and **Tyrone** (Spin On This!). According to PowerPyx, none of these count for Strangers & Freaks: each has its own trophy.
 
 ## How to find more
 
 - **Map index:** GamesRadar+ says the **Exploration** tab lists optional quests. MrDalekJD shows that favors for your neighbors show up there too.
 - **Listen:** Kotaku's advice is to follow shouting and loud noises. Press **L3 + R3** (focus) to see where a sound is coming from, then go take a look.
 
-This list **isn't complete**. We'll update it as more strands are found.
+See also the [platinum trophy guide](../gta-6-platinum-trophy-guide-roadmap/).

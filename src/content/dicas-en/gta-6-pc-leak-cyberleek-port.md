@@ -1,7 +1,7 @@
 ---
 titulo: "GTA 6 on PC: What We Know About the Cyberleek Xbox Leak and Why You Can't Play It Yet"
 titulo_seo: "Is GTA 6 Running on PC? The Cyberleek Leak Explained"
-resumo: "Cyberleek released the Xbox build's executable and fans are racing to run GTA 6 on PC. So far it only reaches a black screen or the menus. Here's what's real, what's fake and the official way to play on PC."
+resumo: "Cyberleek released the Xbox build's executable and fans are racing to run GTA 6 on PC. The most-cited project was taken down and nobody has a public playable build. Here's what's real and the official way to play."
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
@@ -15,12 +15,17 @@ fontes:
   - { tipo: youtube, canal: "Code Bear", url: "https://www.youtube.com/watch?v=P0o-Fh-VSxo", titulo: "Is GTA 6 Really PORTED to PC ? (fact checked)", minuto: "0:44", data: "2026-11-24T04:44:39-03:00" }
   - { tipo: youtube, canal: "Linus Tech Tips", url: "https://www.youtube.com/watch?v=f0KK_4AaqLQ", titulo: "I Played GTA VI at 60 FPS", minuto: "0:14", data: "2026-11-20T12:12:44-03:00" }
   - { tipo: youtube, canal: "Hardware Unboxed", url: "https://www.youtube.com/watch?v=0VhEYE40AMY", titulo: "I Played GTA 6 at \"60 FPS\"", minuto: "0:11", data: "2026-11-24T07:00:01-03:00" }
+  - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/", titulo: "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server", data: "2026-11-24T07:40:00-03:00" }
+  - { tipo: youtube, canal: "Optimus", url: "https://www.youtube.com/watch?v=lc_CU1qt1qo", titulo: "Rockstar Just Shut Down A GTA6 PC Port (Leonida)", minuto: "1:14", data: "2026-11-24T18:15:24-03:00" }
+  - { tipo: youtube, canal: "WiLLiSGaming", url: "https://www.youtube.com/watch?v=1sD3O9fe3Gw", titulo: "GTA 6 News - The PC Port Is Playable… and Rockstar Is Coming!", minuto: "3:01", data: "2026-11-24T10:38:22-03:00" }
+  - { tipo: youtube, canal: "ApTreX", url: "https://www.youtube.com/watch?v=WyJ5S9xHj50", titulo: "GTA 6 PC PORT IS FINALLY PLAYABLE! (BUT THERE'S A CATCH)", minuto: "2:42", data: "2026-11-25T04:00:10-03:00" }
 descoberto_em: "2026-11-24T11:50:00-03:00"
-atualizado_em: "2026-11-24T11:50:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Update: Project Leonida was taken down and its creator quit (GamesRadar+ and Optimus); a private group says it can walk around the map with broken graphics (WiLLiSGaming and ApTreX). Still no playable public build." }
   - { data: "2026-11-24T11:50:00-03:00", nota: "Published as news: the executable leak and project status come from GameSpot and GamesRadar+; the stages and fake clips from Code Bear's fact check. No download links or instructions." }
 perguntas:
-  - { p: "Can you play GTA 6 on PC yet?", r: "No. As of November 24, no project has shown anyone playing on PC. The furthest anyone got is the game booting to a black screen, or its menus running." }
+  - { p: "Can you play GTA 6 on PC yet?", r: "No. As of November 25 there's no playable, public PC version. The most-cited project, Project Leonida, was taken down, and a private group claims it can walk around the map with broken graphics and low frame rates, unverified." }
   - { p: "What did Cyberleek release?", r: "The executable (.exe) for the Xbox build they had already leaked. It was the missing file needed to start the game, and it came out on November 23." }
   - { p: "Is it safe to download GTA 6 for PC?", r: "No. There's no playable version to download, so every GTA 6 PC download is fake or unfinished, and many carry malware. It's also piracy." }
   - { p: "When is the official GTA 6 PC release?", r: "Rockstar hasn't announced one. According to GameSpot, rumors point to early 2027." }
@@ -37,6 +42,15 @@ Rockstar **hasn't announced** a PC version. This page is news only: **no links, 
 - They promised to drop it if their memecoin hit a certain market cap. According to Code Bear, it never got there, and the file came out anyway on **November 23**.
 - According to GameSpot, Cyberleek has been taunting Take-Two for failing to stop the leaks, and already cashed out **hundreds of thousands of dollars** from the coin in August and October.
 - In the message that came with the file, quoted by GamesRadar+, Cyberleek themselves tells people to verify any file before trusting it.
+
+## Update, November 25: the most-cited project was taken down
+
+- **Project Leonida**, the most-cited project, is over. According to GamesRadar+, its **server disappeared**, so did the original repository, and its creator announced they were stepping away. They say Rockstar took the server down. Rockstar hasn't commented.
+- Before it went down, a video attributed to the project showed the **opening sequence and first-time setup** running on PC, according to GamesRadar+. Optimus says the server lasted less than a day.
+- **Copies of the code are still around** and other groups keep going. One says the game boots, runs its menus at 30 fps and loads the world, but rendering fails there.
+- A **private group** says it can walk around the map with a controller and talk to characters, according to WiLLiSGaming and ApTreX. Both say the picture is **broken**, with missing textures and failing lighting, and ApTreX cites **5 to 10 frames per second**. None of this has been independently verified, and that build **isn't public**.
+
+**Bottom line: there's still no playable, public PC version.** Any file that promises one is a scam.
 
 ## Does it run on PC?
 

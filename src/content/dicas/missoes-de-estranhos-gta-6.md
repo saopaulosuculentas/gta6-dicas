@@ -1,7 +1,7 @@
 ---
-titulo: "Missões de estranhos do GTA 6 (Strangers and Freaks): o que já foi achado"
-titulo_seo: "Missões de estranhos no GTA 6 (Strangers and Freaks)"
-resumo: "O troféu Strangers & Freaks do GTA 6 pede 8 linhas de missões de estranhos. A lista oficial ainda não saiu. Veja as que já foram achadas: Shirley, Kirk, Kenton e encontros na rua."
+titulo: "Missões de estranhos do GTA 6 (Strangers and Freaks): as 8 que contam para o troféu"
+titulo_seo: "Strangers and Freaks no GTA 6: as 8 missões do troféu"
+resumo: "O troféu Strangers & Freaks do GTA 6 pede 8 linhas de missões de estranhos. Veja quais contam (Kirk, Kyle, Alvan, Yago, Pete, Dr. Merle, Freddie e Papa Audacity) e onde começa cada uma."
 categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
@@ -24,13 +24,16 @@ fontes:
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=pTApeSMIw8k", titulo: "As MELHORES DICAS PRA COMEÇAR BEM no GTA 6!", minuto: "32:19", data: "2026-11-18T22:26:16-03:00" }
   - { tipo: youtube, canal: "Thalera - Dicas GTA 6", url: "https://www.youtube.com/watch?v=8fWEQcOpHys", titulo: "5 DICAS PRA COMEÇAR BEM NO GTA 6!", minuto: "1:44", data: "2026-11-18T23:01:21-03:00" }
   - { tipo: youtube, canal: "BennyCentral", url: "https://www.youtube.com/watch?v=od4yuK67yhk", titulo: "GTA 6 - 63 HUGE Tips You NEED to Know (Free Weapons & Fast Money)", minuto: "4:46", data: "2026-11-19T20:45:16-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: youtube, canal: "Jojo Gaming Guides", url: "https://www.youtube.com/watch?v=to4yUIJ4lh0", titulo: "How To Get The Strangers & Freaks Trophy - All 8 Starter Points Of The Missions You Need! - GTA 6", minuto: "0:53", data: "2026-11-24T16:41:10-03:00" }
 descoberto_em: "2026-11-19T16:56:00-03:00"
-atualizado_em: "2026-11-20T11:10:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Entrou a lista das 8 sequências que contam para o troféu (PowerPyx e Jojo Gaming Guides batem 8 de 8). Shirley, Kenton e os personagens com troféu próprio não contam." }
   - { data: "2026-11-20T11:10:00-03:00", nota: "Novo encontro na rua: Jimmy, o bêbado de quepe de capitão que tenta assaltar você com o arpão Bullhead; dá para pegar o arpão e o quepe (BennyCentral)." }
   - { data: "2026-11-19T16:56:00-03:00", nota: "Publicada confirmada: troféu das 8 linhas pelo GamesRadar+ e pelo PC Gamer; missões já achadas reunidas a partir de Arekkz, OutlawGarry, RageGamingVideos, MrDalekJD, JFM, WiLLiSGaming, MrBossFTW, KhrazeGaming, Thalera e Kotaku. Lista incompleta." }
 perguntas:
-  - { p: "Quantas missões de estranhos tem o GTA 6?", r: "O troféu Strangers & Freaks pede 8 linhas de missões de estranhos. Se existem mais que 8, ainda não se sabe, porque a lista completa não foi publicada." }
+  - { p: "Quantas missões de estranhos tem o GTA 6?", r: "O troféu Strangers & Freaks pede 8 linhas. Segundo o PowerPyx e o Jojo Gaming Guides, as que contam são as do Kirk, Kyle, Alvan, Yago, Pilot Pete, Dr. Merle, Freddie e Papa Audacity." }
   - { p: "Onde achar missões de estranhos no GTA 6?", r: "Na aba Exploração do índice do mapa, que lista missões opcionais e favores para os vizinhos. Gritos e barulhos na rua também costumam ser alguém pedindo ajuda." }
   - { p: "Qual é a primeira missão de estranho do GTA 6?", r: "A mais fácil é a da vizinha Shirley, na esquina da casa do Jason: ela pede uma garrafa de rum da loja Three Sheets." }
 ---
@@ -47,7 +50,36 @@ Os nomes de missões, lugares e troféus estão em inglês, como saíram nos gui
 
 O troféu fala em linhas (mission strands), ou seja, sequências: um mesmo estranho pode ter mais de uma missão, como a Shirley.
 
-## Já achadas
+## As 8 que contam
+
+O PowerPyx e o Jojo Gaming Guides chegaram à **mesma lista de 8**. Nem todo pedido de ajuda conta: segundo o PowerPyx, as linhas do Moses, Tyrone, Yasmani, Andy, Billy e Eddie **não contam** como estranhos. Todas continuam disponíveis depois do fim da história.
+
+| Estranho | Missões | Quando abre, segundo o Jojo |
+|---|---|---|
+| **Kirk** (Skunk Ape) | Procurar o Skunk Ape, as efígies e o Mr. Mangrove | Capítulo 1 |
+| **Kyle** | Fazenda McKittrick, buscar químicos e ver como ele está | Capítulo 2 |
+| **Alvan** | Turistas desaparecidos de Gellhorn e a sala de troféus | Capítulo 2 |
+| **Yago** | Corrida de rua, ser mentor dele, correr contra ele e dar cobertura | Capítulo 3 |
+| **Pilot Pete** | Recuperar o avião do Pete e as entregas | Você ajuda no capítulo 1, mas a linha só abre depois do capítulo 4 |
+| **Dr. Merle** (No Flushers) | The Final Flush, no Frank's Waffles | Qualquer capítulo |
+| **Freddie** | Testar de novo as defesas do bunker | Qualquer capítulo |
+| **Papa Audacity** | As manobras do Unknown Stuntman até a festa de lançamento | Capítulo 3 |
+
+**Onde começa cada uma:**
+
+- **Kirk:** escaneie uma efígie de galhos no pântano e ligue para o número que fica salvo. Veja a [missão do Skunk Ape](../missao-skunk-ape-rifle-sniper-gta-6/).
+- **Kyle:** é o do [Hulk vermelho](../hulk-vermelho-gta-6/), que começa pelo panfleto de piloto no motel.
+- **Alvan:** os [turistas desaparecidos](../turistas-desaparecidos-assassino-gta-6/).
+- **Yago:** entre numa corrida de rua; depois ele pede que você seja o mentor dele. A corrida contra ele tem prazo.
+- **Dr. Merle:** escaneie o código QR do banheiro público de Corsair Key. Veja o passo a passo em [como aumentar o fôlego](../aumentar-vida-folego-foco-gta-6/).
+- **Freddie:** invada o bunker dele. Veja [como liberar os furacões](../bunker-freddie-furacao-gta-6/).
+- **Papa Audacity:** faça as manobras dele; cada uma libera a próxima. O Jojo diz que pouca gente sabe que essa conta.
+
+Dá para ver quantas você já fez no **acompanhamento do troféu**, na lista de troféus.
+
+## Outras missões que já foram achadas
+
+Estas não estão na lista do PowerPyx, mas valem pelo prêmio.
 
 ### Shirley, a vizinha
 
@@ -64,7 +96,7 @@ Uma missão escondida nos pântanos de Grassrivers. O JFM mostra que ela começa
 
 ### Kenton, o caçador de tesouros
 
-O Kenton aparece depois da missão Hey Arnold!, na loja de mergulho da praia de Key Lento, segundo o KultZ. Ele ensina a mergulhar em naufrágios e, segundo o WiLLiSGaming, **liga de novo mais tarde** com mais pontos para mergulhar. A lista de troféus tem um troféu só para ele, **This Was No Boat Accident**, por terminar a última missão do Kenton. Ninguém confirmou se a linha dele conta como estranho.
+O Kenton aparece depois da missão Hey Arnold!, na loja de mergulho da praia de Key Lento, segundo o KultZ. Ele ensina a mergulhar em naufrágios e, segundo o WiLLiSGaming, **liga de novo mais tarde** com mais pontos para mergulhar. A lista de troféus tem um troféu só para ele, **This Was No Boat Accident**, por terminar a última missão do Kenton. Segundo o PowerPyx, a linha dele não entra nas 8 do Strangers & Freaks.
 
 ## Encontros na rua
 
@@ -77,11 +109,11 @@ Estes aparecem do nada no mapa. Não se sabe se contam para o troféu.
 
 ## Outras sequências na lista de troféus
 
-Além do Kenton, a lista de troféus tem troféus por terminar a **última missão** de quatro personagens: **Andy** (Road to Rehabilitation), **Billy** (The Lone Rider), **Randy** (Supply & Demand) e **Tyrone** (Spin On This!). A lista não diz quais dessas sequências contam como estranhos.
+Além do Kenton, a lista de troféus tem troféus por terminar a **última missão** de quatro personagens: **Andy** (Road to Rehabilitation), **Billy** (The Lone Rider), **Randy** (Supply & Demand) e **Tyrone** (Spin On This!). Segundo o PowerPyx, nenhuma dessas conta para o Strangers & Freaks: cada uma tem o seu troféu.
 
 ## Como achar mais
 
 - **Índice do mapa:** a aba **Exploração** lista missões opcionais, segundo o GamesRadar+. O MrDalekJD mostra que os favores para os vizinhos aparecem ali.
 - **Ouça a rua:** o Kotaku recomenda prestar atenção em gritos e barulhos. Aperte **L3 + R3** (foco) para ver de onde vem o som e vá conferir.
 
-Esta lista **não está completa**. Vamos atualizar conforme as outras linhas forem achadas.
+Veja também o [guia da platina](../guia-platina-gta-6/).

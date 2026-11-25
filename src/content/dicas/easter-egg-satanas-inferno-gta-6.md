@@ -10,9 +10,11 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "MrDalekJD", url: "https://www.youtube.com/watch?v=ccnkCxGBHKc", titulo: "GTA 6 SECRET SATAN BOSS FIGHT EASTER EGG GUIDE! (PERMANENT Health Boost & Legendary Shotgun)", minuto: "0:27", data: "2026-11-22T22:58:07-03:00" }
   - { tipo: youtube, canal: "T5G", url: "https://www.youtube.com/watch?v=-NVWgFahF6Q", titulo: "30 Secrets & Easter Eggs In GTA 6! #2", minuto: "5:38", data: "2026-11-22T20:18:41-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-how-to-go-to-hell-and-fight-satan/", titulo: "GTA 6: How To Go To Hell And Fight Satan", data: "2026-11-24T10:50:00-03:00" }
 descoberto_em: "2026-11-23T20:15:00-03:00"
-atualizado_em: "2026-11-23T20:15:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Entrou o GameSpot como mais uma fonte do caminho para o inferno e do bônus de vida." }
   - { data: "2026-11-23T20:15:00-03:00", nota: "Publicada confirmada: MrDalekJD (guia completo) e T5G mostram a mesma casa de Port Gellhorn, o ritual e a luta com o Satanás." }
 perguntas:
   - { p: "Onde fica a casa do Satanás no GTA 6?", r: "No norte de Port Gellhorn, nas ruas ao norte da Gellhorn Avenue, de frente para a Draper Bay, ao norte do roubo Stash House. É uma casa amarela de um andar, com o quintal cheio de entulho." }

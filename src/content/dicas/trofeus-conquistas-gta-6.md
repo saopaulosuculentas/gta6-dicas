@@ -18,8 +18,9 @@ fontes:
   - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=mM8RsaIBo1k", titulo: "GTA 6 Every WAiNK Location: All 108 Scans for the You WAiNKer Trophy (Full Guide)", minuto: "0:00", data: "2026-11-20T01:36:31-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/misterio-do-galpao-de-capri-no-gta-6-saiba-a-localizacao-e-como-resolver-edjogos.ghtml", titulo: "Mistério do Galpão de Capri no GTA 6; saiba a localização e como resolver", data: "2026-11-19T00:03:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-21T11:33:00-03:00"
+atualizado_em: "2026-11-25T05:00:00-03:00"
 historico:
+  - { data: "2026-11-25T05:00:00-03:00", nota: "Links para o novo guia da platina e para a lista dos 100%." }
   - { data: "2026-11-21T11:33:00-03:00", nota: "Mais um lugar onde o The Truth Is Out There sai: o ritual do galpão de Capri, segundo o TechTudo (em verificação)." }
   - { data: "2026-11-20T11:01:00-03:00", nota: "Nova seção sobre o The Truth Is Out There: sai na abdução (GameSpot) e também saiu no farol dos fantasmas (Milo) e no cofre do hotel assombrado (Robbin Rams). Entraram como sai o Challenging Tank (Maka91Productions e Arekkz Gaming) e os 108 escaneáveis do You WAiNKer! (vAnother Level). Links para o sonho, o laboratório, o tanque e o WAiNK." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada como confirmada: a mesma lista de 55 troféus no PC Gamer e na GamesRadar+, que também traz o tipo e o Gamerscore de cada um." }
@@ -144,5 +145,7 @@ Este troféu já apareceu em quatro situações diferentes:
 Ninguém explicou ainda por que o mesmo troféu sai em lugares tão diferentes. Depois da abdução, a história dos alienígenas continua no [sonho do alien](../sonho-do-alien-gta-6/) e no [laboratório alienígena](../laboratorio-alienigena-codigo-2314-gta-6/).
 
 ## Platina
+
+O roteiro completo, com tempo, dificuldade e os troféus rápidos, está no [guia da platina](../guia-platina-gta-6/). O que conta para o A Long Road está em [GTA 6 100%](../checklist-100-por-cento-gta-6/).
 
 **Vice Got a Price!** é a platina: sai quando você pega todos os outros troféus. Pela própria descrição, os que mais tomam tempo são A Long Road (100%), Cunning Stunts (250 manobras), The Shootist (42 medalhas de ouro), You WAiNKer! (100 lugares) e Actions Speak Louder.
