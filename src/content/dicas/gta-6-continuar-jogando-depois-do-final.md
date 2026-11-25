@@ -3,16 +3,20 @@ titulo: "Dá para continuar jogando o GTA 6 depois do final? Como funciona o pó
 titulo_seo: "GTA 6: dá para continuar jogando depois do final?"
 resumo: "Sim. Depois da missão final e dos créditos, o GTA 6 volta para o momento antes do final e deixa você jogar à vontade. Dá para ver outro final, buscar os 100% e liberar códigos."
 categoria: guias
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 imagens:
   - { arquivo: "gta-6-continuar-jogando-depois-do-final/mundo-aberto.webp", legenda: "Exploração livre no mundo aberto do GTA 6, que continua disponível depois do final.", canal: "DubStepZz", url: "https://www.youtube.com/watch?v=foYHrm5PYME", minuto: "6:00" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333", titulo: "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler", data: "2026-11-18T11:00:57-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
+  - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", titulo: "What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal's Drive (Spoilers)", minuto: "0:27", data: "2026-11-20T17:54:22-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Virou confirmada: o vAnother Level mostra a mesma volta para antes da missão final. Entraram o que continua disponível, os 4 códigos que liberam ao zerar (PowerPyx) e como ver outro final sem save novo." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Entrou o GameSpot: a Rockstar confirmou que há mais de um final, já são pelo menos 4 e o melhor pede relacionamento no máximo e US$ 2 milhões na poupança. Link para a página de finais. A volta para antes da missão final segue só no Kotaku, por isso a página continua em verificação." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada em verificação: como o jogo trata o final, segundo o Kotaku, que já jogou até o fim." }
 perguntas:
@@ -49,6 +53,24 @@ Terminar a missão final abre duas coisas que antes estavam travadas:
 
 - **Os 100% do jogo.** Só dá para completar tudo depois do final. Isso vale também para o troféu A Long Road, que está na [lista de troféus e conquistas](../trofeus-conquistas-gta-6/).
 - **Os códigos.** Os desafios que revelam os códigos do jogo só aparecem depois da história. Veja [todos os códigos do GTA 6](../todos-os-codigos-gta-6-lista-completa/) e [como usar os códigos](../codigos-gta-6-como-usar/).
+
+## O que continua disponível
+
+O vAnother Level passou mais de duas horas no pós-jogo de outro jogador e mostra o que fica aberto. Sem spoiler da história:
+
+- **Os dois personagens** continuam jogáveis.
+- **Missões de personagens:** o Randy segue com os carros, e o Kenton e o Bret continuam com as missões deles. O PowerPyx confirma que todo personagem ligado a troféu continua disponível.
+- **Roubos:** bancos, Payday Loans e joalherias.
+- **Missões opcionais** que ficaram para trás, como ser mentor do Yago e recuperar o avião do Pete.
+- **A poupança** ganha uma meta nova, com teto de **US$ 2 milhões**.
+
+Segundo o vAnother Level e o PowerPyx, **nada do 100% é perdível**: tudo dá para fazer depois do final.
+
+## Códigos que liberam ao zerar
+
+Depois do final aparece a aba **Códigos** no menu de Progresso, com os **61 códigos**. Segundo o PowerPyx, quatro liberam na hora, ao terminar a história: **US$ 250 mil**, **foco ilimitado**, **força de ataque** e **mudar o clima**. Os outros pedem desafios. O vAnother Level lembra o aviso do jogo: com código ativo, **troféus não saem e o jogo não salva** naquela sessão. Veja [todos os códigos](../todos-os-codigos-gta-6-lista-completa/).
+
+**Para ver outro final**, o vAnother Level diz que não precisa de save novo: é só jogar de novo as duas últimas missões.
 
 ## Precisa limpar o mapa antes do final?
 

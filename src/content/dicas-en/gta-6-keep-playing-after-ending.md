@@ -3,7 +3,7 @@ titulo: "Can You Keep Playing GTA 6 After the Ending? How the Post-Game Works"
 titulo_seo: "Can You Keep Playing GTA 6 After the Ending?"
 resumo: "Yes. Once the final mission and credits are done, GTA 6 rewinds to just before the finale and lets you roam free. You can replay the ending, chase 100% and unlock cheats."
 categoria: guias
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "gta-6-continuar-jogando-depois-do-final"
 imagens:
@@ -11,9 +11,13 @@ imagens:
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333", titulo: "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don't Worry, That's Not A Spoiler", data: "2026-11-18T11:00:57-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
+  - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", titulo: "What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal's Drive (Spoilers)", minuto: "0:27", data: "2026-11-20T17:54:22-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Now confirmed: vAnother Level shows the same return to before the final mission. Added what stays available, the 4 cheats that unlock on finishing (PowerPyx) and how to see another ending without a new save." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Added GameSpot: Rockstar confirmed there's more than one ending, the count is at least 4, and the best one needs a maxed relationship plus $2 million in savings. Linked the endings page. The rewind to before the final mission still rests on Kotaku alone, so the page stays unverified." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: how the game handles its ending, according to Kotaku, which has already played to the end." }
 perguntas:
@@ -48,6 +52,24 @@ Beating the final mission opens up two things that were locked before:
 
 - **100% completion.** You can only finish everything after the ending. That includes the A Long Road trophy from our [GTA 6 trophy and achievement list](../gta-6-trophies-achievements-list/).
 - **Cheat codes.** The challenges that reveal the game's cheats only show up once the story is done. See [every GTA 6 cheat](../all-gta-6-cheats-list/) and [how to use cheats](../how-to-use-cheats-gta-6/).
+
+## What stays available
+
+vAnother Level spent more than two hours in another player's post-game and shows what's still open. No story spoilers:
+
+- **Both characters** stay playable.
+- **Character questlines:** Randy keeps the car jobs coming, and Kenton and Bret still have their missions. PowerPyx confirms every trophy-related character is still around.
+- **Robberies:** banks, Payday Loans and jewelry stores.
+- **Optional missions** you skipped, like mentoring Yago and recovering Pete's plane.
+- **Your savings** get a new goal, capped at **$2 million**.
+
+According to vAnother Level and PowerPyx, **nothing for 100% is missable**: it can all be done after the ending.
+
+## Cheats that unlock when you finish
+
+After the ending, a **Cheats** tab shows up in the Progress menu with all **61 cheats**. According to PowerPyx, four unlock the moment you finish the story: **$250,000**, **unlimited focus**, **attack force** and **cycle weather**. The rest need challenges. vAnother Level points out the game's warning: with a cheat active, **trophies don't unlock and the game won't save** that session. See [every GTA 6 cheat](../all-gta-6-cheats-list/).
+
+**To see another ending**, vAnother Level says you don't need a new save: just replay the last two missions.
 
 ## Do you need to clear the map first?
 

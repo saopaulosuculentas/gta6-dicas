@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Entrou o PowerPyx, com a mesma lista de 61 e as mesmas sequências. Saíram as marcas de fonte única de aumentar procurado e força de veículo (o Kotaku confirmou em 24/11) e de MTL Pumper, Cataclysm e Faded Glory (o PowerPyx confirma)." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Lista completa publicada a partir do GamesRadar+, do PC Gamer e do TechTudo. 18 sequências conhecidas, 43 ainda não publicadas." }
 perguntas:
   - { p: "Quantos códigos tem o GTA 6?", r: "São 61 códigos: 10 de jogador, 11 de combate, 3 de ambiente, 21 de veículos e 16 filtros de tela, segundo o GamesRadar+ e o PC Gamer." }
@@ -44,7 +46,7 @@ Atenção: ativar qualquer código **desliga os troféus e o salvamento** até v
 | [US$ 250 mil](../codigo-dinheiro-gta-6/) | cima, direita, baixo, esquerda, cima, esquerda, baixo, direita | Zerar a história |
 | Bêbado (você e o parceiro) | ainda não publicada | Gastar US$ 2.500 em bebida |
 | [Aumentar heat](../codigo-nivel-de-heat-gta-6/) | esquerda, baixo, direita, baixo, cima, baixo, cima | Perder 3 estrelas de procurado 25 vezes |
-| [Aumentar procurado](../codigo-nivel-de-procurado-gta-6/) | esquerda, baixo, direita, baixo, cima, direita, cima (só GamesRadar+) | Perder 3 estrelas de procurado 50 vezes |
+| [Aumentar procurado](../codigo-nivel-de-procurado-gta-6/) | esquerda, baixo, direita, baixo, cima, direita, cima | Perder 3 estrelas de procurado 50 vezes |
 | [Foco ilimitado](../codigo-foco-ilimitado-gta-6/) | baixo, cima, cima, baixo, cima, baixo, cima, baixo, cima, direita | Zerar a história |
 | Sem dano de queda | ainda não publicada | Sobreviver a 20 quedas de 12 metros (40 pés) |
 | Paraquedas | ainda não publicada | 50 saltos de paraquedas ou base jump de 90 metros (300 pés) ou mais |
@@ -66,7 +68,7 @@ Atenção: ativar qualquer código **desliga os troféus e o salvamento** até v
 | Lança-foguetes Hauners H-AT | ainda não publicada | Explodir 100 veículos |
 | [Força de ataque](../codigo-forca-de-ataque-gta-6/) | baixo, cima, esquerda, esquerda, direita, baixo, baixo, cima, baixo | Zerar a história |
 | [Bolas explosivas](../codigo-bolas-explosivas-gta-6/) | baixo, cima, esquerda, esquerda, direita, baixo, baixo, cima, direita | Acertar 20 inimigos com explosão |
-| [Força de veículo](../codigo-forca-de-veiculo-gta-6/) | baixo, cima, esquerda, esquerda, direita, baixo, esquerda, cima, baixo (só GamesRadar+) | Matar 25 pessoas com um veículo |
+| [Força de veículo](../codigo-forca-de-veiculo-gta-6/) | baixo, cima, esquerda, esquerda, direita, baixo, esquerda, cima, baixo | Matar 25 pessoas com um veículo |
 
 ## Códigos de ambiente (3)
 
@@ -91,7 +93,7 @@ Cada um faz o veículo aparecer onde você está.
 | Vapid Dominator 1965 | ainda não publicada | Todos os desafios de condicionamento físico |
 | Progen Emerus | ainda não publicada | Todos os desafios de veículo |
 | Flamingo inflável | ainda não publicada | Destruir 50 flamingos de cocaína |
-| Caminhão MTL Pumper | esquerda, cima, direita, baixo, esquerda, direita, direita, cima (só GamesRadar+) | Encontrar o caminhão (registro no Progresso) |
+| Caminhão MTL Pumper | esquerda, cima, direita, baixo, esquerda, direita, direita, cima | Encontrar o caminhão (registro no Progresso) |
 | Táxi Vapid Stainer G2 | ainda não publicada | 5 desafios de esportes |
 | Jato Hauners P-996 Lazer | ainda não publicada | Todos os desafios do jogo |
 | [Escavadeira HVY Bulldozer](../codigo-escavadeira-gta-6/) | esquerda, cima, direita, baixo, esquerda, direita, direita, baixo | Encontrar a escavadeira (registro no Progresso) |
@@ -115,7 +117,7 @@ Filtros só mudam o visual; não alteram a jogabilidade.
 | Pinhole | Câmera pinhole | ainda não publicada | 25 operações de gangue com o parceiro |
 | Neon Jungle | Luzes neon | ainda não publicada | Achar os 16 veículos Girlypop |
 | Yesteryear | TV antiga preto e branco | ainda não publicada | Encontrar o Ridgway |
-| Cataclysm | Fumaça escura no mundo | baixo, baixo, cima, direita, direita, cima, esquerda, esquerda, direita, direita (só GamesRadar+) | Encontrar o Vamos da Martha (registro no Progresso) |
+| Cataclysm | Fumaça escura no mundo | baixo, baixo, cima, direita, direita, cima, esquerda, esquerda, direita, direita | Encontrar o Vamos da Martha (registro no Progresso) |
 | Videotape | Fita de vídeo | ainda não publicada | 50 atividades com o parceiro |
 | Dark Mirror | Mundo de cabeça para baixo e escuro | ainda não publicada | Ganhar US$ 500 mil vendendo veículos |
 | Migraine | Imagem borrada e distorcida | ainda não publicada | Sobreviver 6 minutos com 6 estrelas de procurado |
@@ -123,7 +125,7 @@ Filtros só mudam o visual; não alteram a jogabilidade.
 | Bubblegum | Roxo e amarelo com brilho | ainda não publicada | Achar as 24 figurinhas do Vice City Flamingos |
 | Fast Forward | Borrão de movimento e nuvens rápidas | ainda não publicada | 50 meditações |
 | Fisheye | Olho de peixe | ainda não publicada | Pescar 100 peixes |
-| Faded Glory | TV antiga colorida | baixo, baixo, cima, direita, direita, cima, esquerda, esquerda, esquerda, direita (só GamesRadar+) | Roubar 50 lojas com o parceiro |
+| Faded Glory | TV antiga colorida | baixo, baixo, cima, direita, direita, cima, esquerda, esquerda, esquerda, direita | Roubar 50 lojas com o parceiro |
 | Pixel Art | Imagem pixelada | ainda não publicada | Ganhar US$ 250 mil vendendo colecionáveis |
 | Hellscape | Mundo vermelho e laranja, com calor | ainda não publicada | Roubar 100 viaturas da polícia |
 

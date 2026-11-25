@@ -17,9 +17,11 @@ fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "3:22", data: "2026-11-18T16:35:15-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-24T07:50:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "PowerPyx prints the same sequence, ending in down. Only Kotaku differs." }
   - { data: "2026-11-24T07:50:00-03:00", nota: "Heads-up: Kotaku ends the sequence with up instead of down. Not checked on screen yet." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: the same sequence shows up in Bubs, GamesRadar+ and PC Gamer." }
 perguntas:
@@ -50,5 +52,7 @@ According to GamesRadar+, you need to **find the HVY Bulldozer in the world so i
 See also [how to use and unlock cheats in GTA 6](../how-to-use-cheats-gta-6/) and the [full list of all 61 cheats](../all-gta-6-cheats-list/).
 
 ## Heads-up: one source differs
+
+**Update:** PowerPyx also prints the sequence ending in **down**, the same as this page. Only Kotaku differs.
 
 Kotaku prints this sequence ending in **up** rather than **down**. Our other sources end in down. Until we check it against a video showing the in-game phone, we keep the version above. If it doesn't work, swap the last button for up.

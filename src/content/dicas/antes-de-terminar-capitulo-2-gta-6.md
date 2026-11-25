@@ -10,9 +10,12 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "ABTW", url: "https://www.youtube.com/watch?v=yfrAG7Qh__k", titulo: "DON'T Finish Chapter 2 in GTA 6 Until You Do THIS!", minuto: "0:22", data: "2026-11-22T13:00:31-03:00" }
   - { tipo: youtube, canal: "Modo Secreto", url: "https://www.youtube.com/watch?v=M-PwPtXVxxI", titulo: "NÃO termine o capítulo 2 do GTA 6 antes de fazer isso (sem spoilers)", minuto: "0:47", data: "2026-11-23T17:15:06-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-time-passes-in-gta-6-and-all-missable-content/", titulo: "How Time Passes In GTA 6 And All Missable Content", data: "2026-11-20T11:13:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:05:00-03:00"
 historico:
+  - { data: "2026-11-25T09:05:00-03:00", nota: "Link para a página do capítulo 3." }
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Entrou o GameSpot: ao terminar o capítulo 2, o esconderijo dele fica inacessível, como no capítulo 1." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Publicada como confirmada: o ABTW e o Modo Secreto mostram o mesmo ponto sem volta (todas as missões principais e US$ 15 mil), as duas cartas do motel, o colar da Linda e a meta de US$ 5 mil da poupança." }
 perguntas:
   - { p: "Quando acaba o capítulo 2 do GTA 6?", r: "Quando você entra no quarto do Starlet Motel e pega a mala. A missão aparece depois de todas as principais do capítulo e de juntar US$ 15 mil." }
@@ -29,7 +32,7 @@ O ABTW e o Modo Secreto mostram a mesma lista.
 
 - A tarefa de mudar para **Vice City** aparece quando você termina **todas as missões principais** do capítulo e junta **US$ 15 mil**.
 - No caso do ABTW, ela apareceu quando caíram os **US$ 10 mil da Vicky**, da missão **Afternoon Delight**. O dinheiro dessa missão cai no dia seguinte.
-- Entrar no quarto e **pegar a mala** começa a última missão. A partir daí, o **Starlet Motel fica lacrado**. Port Gellhorn continua aberta.
+- Entrar no quarto e **pegar a mala** começa a última missão. A partir daí, o **Starlet Motel fica lacrado**. Port Gellhorn continua aberta. O GameSpot confirma: o esconderijo do capítulo 2 fica inacessível, como o do capítulo 1.
 
 ## 1. Salve num espaço separado
 
@@ -75,5 +78,6 @@ Diferente do capítulo 1, desta vez **o dinheiro e o carro vão junto** para Vic
 ## Veja também
 
 - [O que fazer antes de terminar o capítulo 1](../antes-de-terminar-capitulo-1-gta-6/)
+- [O que fazer antes de terminar o capítulo 3](../antes-de-terminar-capitulo-3-gta-6/)
 - [Entregas do Moses](../entregas-do-moses-gta-6/)
 - [Senhas dos cofres de Port Gellhorn](../senha-do-cofre-gta-6/)

@@ -16,9 +16,11 @@ imagens:
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "2:18", data: "2026-11-18T16:35:15-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-24T07:50:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "PowerPyx also calls this sequence No Reload, like this page. Only Kotaku uses another name." }
   - { data: "2026-11-24T07:50:00-03:00", nota: "Heads-up: Kotaku calls this same sequence Infinite Ammo. Not checked on screen yet." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: the same sequence shows up in Bubs and GamesRadar+." }
 perguntas:
@@ -48,5 +50,7 @@ According to GamesRadar+, you need to **win 25 gold medals at shooting ranges**.
 See also [how to use and unlock cheats in GTA 6](../how-to-use-cheats-gta-6/) and the [full list of all 61 cheats](../all-gta-6-cheats-list/).
 
 ## Heads-up: the name varies between sources
+
+**Update:** PowerPyx also calls this sequence **No Reload**, and its Infinite Ammo ends in down three times, as on this site. Only Kotaku swaps the names.
 
 Kotaku prints **this exact sequence** under the name **Infinite Ammo**. Our other sources call it no reload and give a different sequence, ending in down three times, for infinite ammo. Until we check it on screen, we keep the names as they are.

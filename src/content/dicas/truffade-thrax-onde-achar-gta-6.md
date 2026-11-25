@@ -11,9 +11,11 @@ fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-find-the-truffade-thrax-in-gta-6/", titulo: "How To Find The Truffade Thrax In GTA 6", data: "2026-11-24T17:54:00-03:00" }
   - { tipo: youtube, canal: "Mercena GTA V", url: "https://www.youtube.com/watch?v=vGzZGXGDl0k", titulo: "GTA 6 - Localização SUPER CARRO GRÁTIS!!! BUGATTI VEYRON", minuto: "0:24", data: "2026-11-23T17:07:04-03:00" }
   - { tipo: youtube, canal: "Japeta", url: "https://www.youtube.com/watch?v=_Zbxh9aT4X4", titulo: "Como pegar o TRUFFADE THRAX (BUGATTI DIVO) O Carro Mais Rápido e Raro do GTA 6", minuto: "2:04", data: "2026-11-23T11:16:28-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=e2ZSHASkA5A", titulo: "GTA 6 - WARNING: Don't Make These Chapter 3 Mistakes - Best Missable Supercar, Bike, Clothes Unlock!", minuto: "3:56", data: "2026-11-23T21:30:09-03:00" }
 descoberto_em: "2026-11-25T05:12:00-03:00"
-atualizado_em: "2026-11-25T05:12:00-03:00"
+atualizado_em: "2026-11-25T09:05:00-03:00"
 historico:
+  - { data: "2026-11-25T09:05:00-03:00", nota: "Entrou o RageGamingVideos: mostra o mesmo caminho pelas 10 marcas No Flusher, o código 8554013 e o registro de US$ 70 mil do Thrax do Andrew Node." }
   - { data: "2026-11-25T05:12:00-03:00", nota: "Publicada como confirmada: o Thrax do Andrew Node em Starfish Island, sem rastreador e com registro de US$ 70 mil, aparece no GameSpot e no vídeo do Mercena; o do autódromo, no GameSpot e no Japeta. O do Randy e o caminho pelos sinais No Flusher vêm só do GameSpot. Não ensinamos o atalho por falha do jogo que os dois citam." }
 perguntas:
   - { p: "Onde achar o Truffade Thrax no GTA 6?", r: "O que dá para registrar é o do Andrew Node, numa mansão de Starfish Island, em Vice City. O do Randy fica no Dalton Island Club, e um terceiro aparece por sorte perto do Boone Speedway." }
@@ -46,6 +48,8 @@ A mansão fica em **Starfish Island**, no distrito de **Vice-Dale**. No mapa, é
 3. Com as 10, abra um **galpão em Ocean Beach** com o código **8554013**.
 4. No galpão tem um **notebook** com o **endereço do Andrew Node**.
 5. Vá à mansão em Starfish Island, abra a garagem e leve o **Thrax azul**.
+
+O RageGamingVideos mostra o mesmo caminho: as marcas de vaso sanitário riscado nas calçadas de Vice Beach, o código **8554013** e o registro de **US$ 70 mil**.
 
 **Seguranças:** o Mercena mostra seguranças na mansão. Dá para entrar escondido ou na força, mas não deixe nenhum chamar a polícia. Ele esperou sobrar um segurança no portão, assobiou encostado nele e o nocauteou quando o portão abriu.
 

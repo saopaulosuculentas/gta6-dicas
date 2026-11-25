@@ -3,7 +3,7 @@ titulo: "GTA 6 Body Armor Cheat"
 titulo_seo: "GTA 6 Body Armor Cheat for PS5 and Xbox"
 resumo: "The GTA 6 body armor cheat is Down, Up, Left, Up, Up, Up, Up, Up, Down, Down. Adds body armor to your character. Unlock it when you complete 100 workouts."
 categoria: codigos
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "codigo-colete-gta-6"
 codigo:
@@ -15,9 +15,11 @@ imagens:
   - { arquivo: "oficial/jason.webp", legenda: "Jason in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Now confirmed: PowerPyx prints the same sequence and the same unlock (100 workouts)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as unverified: only one English source has shown the sequence so far." }
 perguntas:
   - { p: "How do you unlock the armor cheat in GTA 6?", r: "According to GamesRadar+, by completing 100 workouts." }
@@ -42,6 +44,6 @@ According to GamesRadar+, you need to **complete 100 workouts**. Progress you ma
 - No cheat works before you beat the main story (91 missions, according to PC Gamer). After that, a Cheats option appears in the Progress tab of the pause menu.
 - Using any cheat turns off trophies, achievements and saving until you quit the game. Save first.
 - Workouts at the gym and on the equipment at Jason's house count. See the [beginner tips](../gta-6-beginner-tips/).
-- So far only GamesRadar+ has shown this sequence in English, so it is marked unverified.
+- PowerPyx prints the same sequence and unlock as GamesRadar+, so it is confirmed.
 
 See also [how to use and unlock cheats in GTA 6](../how-to-use-cheats-gta-6/) and the [full list of all 61 cheats](../all-gta-6-cheats-list/).

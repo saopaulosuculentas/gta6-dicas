@@ -16,9 +16,11 @@ fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "3:22", data: "2026-11-18T16:35:15-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-24T07:50:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "O PowerPyx publica a mesma sequência, terminada em baixo. Só o Kotaku diverge." }
   - { data: "2026-11-24T07:50:00-03:00", nota: "Aviso: o Kotaku termina a sequência com cima, não com baixo. Ainda não conferimos na tela." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Publicado como confirmado: a sequência aparece igual no GamesRadar+ e no PC Gamer." }
 perguntas:
@@ -50,5 +52,7 @@ Segundo o GamesRadar+, o requisito é **encontrar a HVY Bulldozer no jogo**, par
 Veja também [como usar e desbloquear os códigos do GTA 6](../codigos-gta-6-como-usar/) e a [lista completa dos 61 códigos](../todos-os-codigos-gta-6-lista-completa/).
 
 ## Atenção: uma fonte diverge
+
+**Atualização:** o PowerPyx também publica a sequência terminando em **baixo**, igual à desta página. Só o Kotaku diverge.
 
 O Kotaku publica esta sequência terminando com **cima**, e não com **baixo**. As outras fontes desta página terminam com baixo. Até conferirmos num vídeo com a tela do celular do jogo, mantemos a versão acima. Se não funcionar, troque o último botão por cima.

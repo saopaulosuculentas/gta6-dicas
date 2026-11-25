@@ -3,16 +3,18 @@ titulo: "What to Do Before Finishing Chapter 2 in GTA 6: What You Lose When You 
 titulo_seo: "GTA 6: What to Do Before Finishing Chapter 2"
 resumo: "Picking up the case at the Starlet Motel ends Chapter 2 and boards up the motel. Before that, pay Linda, grab the two motel cards, hit the savings goal and save in a separate slot."
 categoria: dicas
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "antes-de-terminar-capitulo-2-gta-6"
 imagens:
   - { arquivo: "antes-de-terminar-capitulo-2-gta-6/port-gellhorn-carro.webp", legenda: "Driving through Port Gellhorn, the Chapter 2 area.", canal: "ABTW", url: "https://www.youtube.com/watch?v=yfrAG7Qh__k", minuto: "0:30" }
 fontes:
   - { tipo: youtube, canal: "ABTW", url: "https://www.youtube.com/watch?v=yfrAG7Qh__k", titulo: "DON'T Finish Chapter 2 in GTA 6 Until You Do THIS!", minuto: "0:22", data: "2026-11-22T13:00:31-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-time-passes-in-gta-6-and-all-missable-content/", titulo: "How Time Passes In GTA 6 And All Missable Content", data: "2026-11-20T11:13:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Now confirmed: GameSpot also says the Chapter 2 safehouse becomes inaccessible once the chapter ends, matching ABTW." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Published as unverified: for now this comes from ABTW's video only. It shows the point of no return (all main missions and $15,000), the two motel cards, Linda and the necklace, and the $5,000 savings goal." }
 perguntas:
   - { p: "When does Chapter 2 end in GTA 6?", r: "When you go into the room at the Starlet Motel and pick up the case. That mission shows up once you've finished all the chapter's main missions and have $15,000." }
@@ -29,7 +31,7 @@ For now, this list comes from ABTW's video only.
 
 - The task to move to **Vice City** shows up once you finish **all the main missions** in the chapter and have **$15,000**.
 - For ABTW, it appeared when **Vicky's $10,000** from the **Afternoon Delight** mission came in. That mission pays out the next day.
-- Going into the room and **picking up the case** starts the last mission. From then on, the **Starlet Motel is boarded up**. Port Gellhorn stays open.
+- Going into the room and **picking up the case** starts the last mission. From then on, the **Starlet Motel is boarded up**. Port Gellhorn stays open. GameSpot confirms the Chapter 2 safehouse becomes inaccessible, just like Chapter 1's.
 
 ## 1. Save in a separate slot
 

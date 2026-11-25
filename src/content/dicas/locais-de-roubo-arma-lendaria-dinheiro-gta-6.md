@@ -12,9 +12,12 @@ fontes:
   - { tipo: site, canal: "Garcia Gamer (TikTok)", url: "https://www.tiktok.com/@garcia.gamerj/video/7711134426893225224", titulo: "Este local secreto de saque no GTA 6 tem $10.000 em dinheiro, uma lendária MP5 com silenciador e mira", data: "2026-11-22T20:00:00-03:00" }
   - { tipo: site, canal: "1deflay (TikTok)", url: "https://www.tiktok.com/@1deflay/video/7710945980979498254", titulo: "Get $50,000 AND a LEGENDARY AR in GTA 6! (Secret Location)", data: "2026-11-22T07:51:00-03:00" }
   - { tipo: site, canal: "mrgunsenburner (TikTok)", url: "https://www.tiktok.com/@mrgunsenburner/video/7710735542647868686", titulo: "This SECRET MANSION Has a FREE SUPERCAR + LEGENDARY BURST AR In GTA 6", data: "2026-11-21T18:12:00-03:00" }
+  - { tipo: youtube, canal: "Maxemilio Gaming", url: "https://www.youtube.com/watch?v=JBRUQw47ZKw", titulo: "GTA 6 – Chatfield Storage & Logistics Undetected Guide | ALL Valuables & Hidden Safe Code", minuto: "4:00", data: "2026-11-22T13:43:23-03:00" }
+  - { tipo: youtube, canal: "Bosco Play", url: "https://www.youtube.com/watch?v=98M9bicQoco", titulo: "Como pegar CARRO LENDÁRIO e DINHEIRO FÁCIL no GTA 6 (Progen Emerus)", minuto: "2:30", data: "2026-11-21T19:43:15-03:00" }
 descoberto_em: "2026-11-23T20:00:00-03:00"
-atualizado_em: "2026-11-23T20:00:00-03:00"
+atualizado_em: "2026-11-25T09:02:00-03:00"
 historico:
+  - { data: "2026-11-25T09:02:00-03:00", nota: "A Chatfield Storage ficou confirmada: o Maxemilio Gaming e o Bosco Play acham a mesma senha 5800, a pistola lendária e o Emerus roxo. Link para a página nova do Emerus." }
   - { data: "2026-11-23T20:00:00-03:00", nota: "Publicada em verificação: cada local foi mostrado por um perfil do TikTok. A senha 5800 da Chatfield Storage aparece na tela do vídeo." }
 perguntas:
   - { p: "Onde achar arma lendária no GTA 6?", r: "Muitas ficam dentro das operações ilegais marcadas no mapa: a Chatfield Storage & Logistics tem uma pistola lendária com silenciador e a casa ao norte de Little Cuba tem um fuzil lendário Guardian Brothers. Veja também a lista completa de armas únicas." }
@@ -45,6 +48,8 @@ Mostrado pelo **Mineirin de Leonida**. No mapa, o local aparece como **Chatfield
 4. Entre no contêiner vermelho e abra o **notebook**. Ele mostra a senha do cofre: **5800**. No vídeo, os quatro dígitos aparecem na tela quando o cofre abre.
 5. Suba ao andar de cima do **prédio central**. Na mesa está a **pistola lendária com silenciador**, e ao lado fica o cofre. Com a senha, o vídeo tirou cerca de **US$ 10.000**.
 6. Volte aos contêineres e procure o **Emerus roxo**. Ele já vem destrancado, **com nitro e sem rastreador**: é só entrar e sair dirigindo. Segundo o perfil, o carro vale uns US$ 30.000.
+
+O Maxemilio Gaming e o Bosco Play mostram o mesmo lugar, a mesma senha **5800** e o mesmo carro, que se chama **Purple Drank Emerus**. Veja o passo a passo completo em [Emerus roxo grátis e senha 5800](../emerus-roxo-gratis-chatfield-gta-6/).
 
 ## E a AK dourada perto de Watson Bay?
 

@@ -12,9 +12,11 @@ fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "1:13", data: "2026-11-18T16:35:15-03:00" }
+  - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-25T08:59:00-03:00"
 historico:
+  - { data: "2026-11-25T08:59:00-03:00", nota: "Added PowerPyx, with the same 61 cheats and the same sequences. Removed the single-source marks on MTL Pumper, Cataclysm and Faded Glory (PowerPyx matches) and on raise wanted level and vehicle force (Kotaku matched on November 24)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Full list published from GamesRadar+, PC Gamer and Bubs. 18 known sequences, 43 not published yet." }
 perguntas:
   - { p: "How many cheats are in GTA 6?", r: "61: 10 player cheats, 11 combat, 3 environment, 21 vehicle spawns and 16 screen filters, according to GamesRadar+ and PC Gamer." }
@@ -45,7 +47,7 @@ Heads up: using any cheat **turns off trophies, achievements and saving** until 
 | [$250,000](../gta-6-money-cheat/) | Up, Right, Down, Left, Up, Left, Down, Right | Beat the story |
 | Drunk (you and your partner) | not published yet | Spend $2,500 on alcohol |
 | [Raise heat level](../gta-6-raise-heat-cheat/) | Left, Down, Right, Down, Up, Down, Up | Lose a 3-star wanted level 25 times |
-| [Raise wanted level](../gta-6-raise-wanted-level-cheat/) | Left, Down, Right, Down, Up, Right, Up (GamesRadar+ only) | Lose a 3-star wanted level 50 times |
+| [Raise wanted level](../gta-6-raise-wanted-level-cheat/) | Left, Down, Right, Down, Up, Right, Up | Lose a 3-star wanted level 50 times |
 | [Unlimited focus](../gta-6-unlimited-focus-cheat/) | Down, Up, Up, Down, Up, Down, Up, Down, Up, Right | Beat the story |
 | No fall damage | not published yet | Survive a 40 ft freefall 20 times |
 | Parachute | not published yet | 50 skydives or base jumps from 300 ft or higher |
@@ -67,7 +69,7 @@ Heads up: using any cheat **turns off trophies, achievements and saving** until 
 | Hauners H-AT launcher | not published yet | Blow up 100 vehicles |
 | [Attack force](../gta-6-attack-force-cheat/) | Down, Up, Left, Left, Right, Down, Down, Up, Down | Beat the story |
 | [Exploding balls](../gta-6-exploding-balls-cheat/) | Down, Up, Left, Left, Right, Down, Down, Up, Right | Hit 20 enemies with explosive damage |
-| [Vehicle force](../gta-6-vehicle-force-cheat/) | Down, Up, Left, Left, Right, Down, Left, Up, Down (GamesRadar+ only) | Kill 25 people with a vehicle |
+| [Vehicle force](../gta-6-vehicle-force-cheat/) | Down, Up, Left, Left, Right, Down, Left, Up, Down | Kill 25 people with a vehicle |
 
 ## Environment cheats (3)
 
@@ -92,7 +94,7 @@ Each one spawns the vehicle where you are.
 | '65 Vapid Dominator | not published yet | All fitness challenges |
 | Progen Emerus | not published yet | All vehicle challenges |
 | Inflatable Flamingo | not published yet | Destroy 50 cocaine flamingos |
-| MTL Pumper | Left, Up, Right, Down, Left, Right, Right, Up (GamesRadar+ only) | Find it so it is logged in the Progress menu |
+| MTL Pumper | Left, Up, Right, Down, Left, Right, Right, Up | Find it so it is logged in the Progress menu |
 | Vapid Stanier G2 Taxi | not published yet | 5 sports challenges |
 | Hauners P-996 Lazer | not published yet | Complete all challenges |
 | [HVY Bulldozer](../gta-6-bulldozer-cheat/) | Left, Up, Right, Down, Left, Right, Right, Down | Find it so it is logged in the Progress menu |
@@ -116,7 +118,7 @@ Filters only change the look of the game, not the gameplay.
 | Pinhole | Pinhole camera | not published yet | 25 gang operations with your partner |
 | Neon Jungle | Neon highlights | not published yet | Find all 16 Girlypop vehicles |
 | Yesteryear | Black and white CRT TV | not published yet | Discover the Ridgway |
-| Cataclysm | Murky smoke | Down, Down, Up, Right, Right, Up, Left, Left, Right, Right (GamesRadar+ only) | Discover Martha's Vamos |
+| Cataclysm | Murky smoke | Down, Down, Up, Right, Right, Up, Left, Left, Right, Right | Discover Martha's Vamos |
 | Videotape | VHS look | not published yet | 50 activities with your partner |
 | Dark Mirror | Upside-down, black world | not published yet | Make $500,000 selling vehicles |
 | Migraine | Blurry, distorted | not published yet | Survive 6 minutes with a 6-star wanted level |
@@ -124,7 +126,7 @@ Filters only change the look of the game, not the gameplay.
 | Bubblegum | Purple and yellow sparkle | not published yet | Find all 24 Vice City Flamingos cards |
 | Fast Forward | Motion blur, fast clouds | not published yet | Complete 50 meditations |
 | Fisheye | Fisheye lens | not published yet | Catch 100 fish |
-| Faded Glory | Color CRT TV | Down, Down, Up, Right, Right, Up, Left, Left, Left, Right (GamesRadar+ only) | Rob 50 stores with your partner |
+| Faded Glory | Color CRT TV | Down, Down, Up, Right, Right, Up, Left, Left, Left, Right | Rob 50 stores with your partner |
 | Pixel Art | Pixelated | not published yet | Make $250,000 selling collectibles |
 | Hellscape | Red and orange heat haze | not published yet | Steal 100 police vehicles |
 

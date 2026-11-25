@@ -3,16 +3,18 @@ titulo: "Where to Find the Truffade Thrax in GTA 6, the Fastest Car: Locations a
 titulo_seo: "GTA 6 Truffade Thrax Location: Where to Find the Fastest Car"
 resumo: "The Truffade Thrax is the fastest stock car in GTA 6. Here's where to find Andrew Node's, the one you can register, plus Randy's and the one that can spawn by luck near Boone Speedway."
 categoria: segredos-e-locais
-status: em-verificacao
+status: confirmado
 plataformas: [ps5, xbox]
 pt: "truffade-thrax-onde-achar-gta-6"
 imagens:
   - { arquivo: "truffade-thrax-onde-achar-gta-6/thrax-andrew-node.webp", legenda: "Andrew Node's Truffade Thrax in the garage, with the scanner readout: no tracker and a $70,000 registration.", canal: "Mercena GTA V", url: "https://www.youtube.com/watch?v=vGzZGXGDl0k", minuto: "2:50" }
 fontes:
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/how-to-find-the-truffade-thrax-in-gta-6/", titulo: "How To Find The Truffade Thrax In GTA 6", data: "2026-11-24T17:54:00-03:00" }
+  - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=e2ZSHASkA5A", titulo: "GTA 6 - WARNING: Don't Make These Chapter 3 Mistakes - Best Missable Supercar, Bike, Clothes Unlock!", minuto: "3:56", data: "2026-11-23T21:30:09-03:00" }
 descoberto_em: "2026-11-25T05:12:00-03:00"
-atualizado_em: "2026-11-25T05:12:00-03:00"
+atualizado_em: "2026-11-25T09:05:00-03:00"
 historico:
+  - { data: "2026-11-25T09:05:00-03:00", nota: "Now confirmed: RageGamingVideos shows the same No Flusher route, the 8554013 code and Andrew Node's $70,000 registration." }
   - { data: "2026-11-25T05:12:00-03:00", nota: "Published as unverified: for now this comes from GameSpot only. Andrew Node's Thrax on Starfish Island has no tracker and costs $70,000 to register. Randy's, the route through the No Flusher signs and the random one near Boone Speedway also come from GameSpot. We don't teach the glitch shortcut GameSpot mentions." }
 perguntas:
   - { p: "Where do you find the Truffade Thrax in GTA 6?", r: "The one you can register belongs to Andrew Node and sits in a mansion on Starfish Island, in Vice City. Randy's is at the Dalton Island Club, and a third one can spawn near Boone Speedway, but only by luck." }
@@ -23,7 +25,7 @@ perguntas:
 
 **The Truffade Thrax is the fastest stock car in GTA 6**, according to GameSpot. There's more than one on the map, but the one you can **register as your own** belongs to **Andrew Node** and sits in a mansion on **Starfish Island**, in Vice City. It has **no tracker**, and registering it costs **$70,000**.
 
-For now, this comes from GameSpot only.
+GameSpot and RageGamingVideos both show Andrew Node's Thrax, the No Flusher route and the 8554013 code.
 
 ## Every Thrax on the map
 
