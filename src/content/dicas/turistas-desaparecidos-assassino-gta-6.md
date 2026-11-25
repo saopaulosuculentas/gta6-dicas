@@ -6,12 +6,14 @@ categoria: segredos-e-locais
 status: em-verificacao
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "turistas-desaparecidos-assassino-gta-6/sala-da-investigacao.webp", legenda: "Uma das salas da investigação dos turistas desaparecidos.", canal: "I.Eat.Games.", url: "https://www.youtube.com/watch?v=zVYs8kleLg8", minuto: "2:30" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, onde começa a investigação. A imagem é ilustrativa e não mostra a missão.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/gta-6-turistas-desaparecidos-edjogos.ghtml", titulo: "GTA 6 | Turistas desaparecidos de Port Gellhorn: como resolver o mistério", data: "2026-11-23T00:00:00-03:00" }
 descoberto_em: "2026-11-23T20:05:00-03:00"
-atualizado_em: "2026-11-23T20:05:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-23T20:05:00-03:00", nota: "Publicada em verificação, com o guia do TechTudo." }
 perguntas:
   - { p: "Como começar a missão dos turistas desaparecidos no GTA 6?", r: "A partir do capítulo 2, com Jason e Lucia morando no Starlet Motel, examine os cartazes de desaparecidos na recepção do motel. Depois vá ao galpão abandonado do outro lado da garagem do Moses, em Port Gellhorn." }

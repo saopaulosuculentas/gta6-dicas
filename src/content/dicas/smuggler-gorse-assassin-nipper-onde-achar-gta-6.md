@@ -6,13 +6,15 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "smuggler-gorse-assassin-nipper-onde-achar-gta-6/smuggler-gorse-425.webp", legenda: "A ficha da escopeta Smuggler Gorse 425.", canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", minuto: "13:57" }
   - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys, em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "13:57", data: "2026-11-20T15:00:07-03:00" }
   - { tipo: youtube, canal: "Vexies", url: "https://www.youtube.com/watch?v=WH8IfSdpB0w", titulo: "15 Secret Weapons NOBODY Told Me About (GTA 6)", minuto: "4:00", data: "2026-11-21T14:55:42-03:00" }
 descoberto_em: "2026-11-22T10:40:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Publicada como confirmada: Arekkz Gaming e Vexies pegaram as duas armas nos mesmos barcos." }
 perguntas:
   - { p: "Onde fica a Assassin Nipper .38 no GTA 6?", r: "Num compartimento escondido do barco naufragado na ponta da ilhota do sul, no grupo de ilhas perto da Mile Zero Air Station." }

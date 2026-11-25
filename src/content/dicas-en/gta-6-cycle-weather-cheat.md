@@ -12,14 +12,16 @@ codigo:
   texto: "Open the in-game phone (Up on the D-pad), hold L1 + R1 (LB + RB on Xbox) and enter the sequence on the D-pad."
 efeito: "Cycles through the weather conditions."
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "The in-game phone, where you enter cheats.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - { arquivo: "oficial/grassrivers.webp", legenda: "Grassrivers in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "2:30", data: "2026-11-18T16:35:15-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Published as confirmed: the same sequence shows up in Bubs, GamesRadar+ and PC Gamer." }
 perguntas:
   - { p: "How do you change the weather in GTA 6?", r: "With the cheat Down, Right, Up, Down, Right, Up, Right on the in-game phone while holding L1 and R1. It unlocks when you reveal the whole map." }

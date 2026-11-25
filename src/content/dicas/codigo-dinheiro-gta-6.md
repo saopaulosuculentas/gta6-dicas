@@ -11,6 +11,7 @@ codigo:
   texto: "Abra o celular do jogo (direcional para cima), segure L1 + R1 e digite a sequência no direcional."
 efeito: "Coloca US$ 250.000 na carteira na hora."
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "O celular do jogo, por onde se digitam os códigos.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - { arquivo: "oficial/ambrosia.webp", legenda: "Ambrosia em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
@@ -18,8 +19,9 @@ fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "1:38", data: "2026-11-18T16:35:15-03:00" }
 descoberto_em: "2026-11-18T16:18:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Confirmado: a mesma sequência aparece no TechTudo, GamesRadar+ e PC Gamer, que jogaram até liberar os códigos." }
   - { data: "2026-11-18T16:18:00-03:00", nota: "Código publicado, em verificação. Fonte: TechTudo." }
 perguntas:

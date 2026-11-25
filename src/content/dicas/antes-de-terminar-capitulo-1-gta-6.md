@@ -6,14 +6,16 @@ categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "casa-do-jason-o-que-fazer-gta-6/deck.webp", legenda: "O deck da casa do Jason, onde o capítulo 1 começa.", canal: "BelotoPlays", url: "https://www.youtube.com/watch?v=c-15fTE2IHw", minuto: "7:45" }
   - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys, onde fica a casa do Jason no capítulo 1. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "Play Zone (TikTok)", url: "https://www.tiktok.com/@play.zone/video/7711019487214013716", titulo: "Todo o seu dinheiro some no Capítulo 2 de GTA 6, então faça isso!", data: "2026-11-22T12:33:56-03:00" }
   - { tipo: site, canal: "Killão (TikTok)", url: "https://www.tiktok.com/@killaobr/video/7711024372756172050", titulo: "7 COISAS QUE VOCÊ PODE PERDER NO CAPÍTULO 1 DE GTA 6!", data: "2026-11-22T12:52:56-03:00" }
   - { tipo: site, canal: "CJ RINDO (TikTok)", url: "https://www.tiktok.com/@_cjrindo/video/7711130051038809362", titulo: "VOCÊ SAIU DA CASA DO JASON SEM FAZER ISSO?!", data: "2026-11-22T19:43:20-03:00" }
 descoberto_em: "2026-11-24T07:35:00-03:00"
-atualizado_em: "2026-11-24T07:35:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-24T07:35:00-03:00", nota: "Publicada confirmada: Play Zone, Killão e CJ RINDO mostram que o dinheiro fora da poupança some no fim do capítulo 1; o revólver do Donnie, os favores da Shirley e a meditação aparecem em dois deles. Itens citados por um canal só estão marcados no texto." }
 perguntas:
   - { p: "O dinheiro some no capítulo 2 do GTA 6?", r: "Some. Segundo três canais, no fim do capítulo 1 vão embora o dinheiro na mão, o escondido em casa e o saldo comum do BuckMe. Só a poupança da família (Family Savings) passa para o capítulo 2." }

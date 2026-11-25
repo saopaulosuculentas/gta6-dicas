@@ -11,13 +11,15 @@ codigo:
   texto: "Abra o celular do jogo (direcional para cima), segure L1 + R1 (no Xbox, LB + RB) e digite a sequência no direcional."
 efeito: "Aumenta o nível de heat (atenção da polícia) em todo o mapa."
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "O celular do jogo, por onde se digitam os códigos.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - { arquivo: "oficial/vice-city-1.webp", legenda: "Vice City em imagem oficial do GTA 6 divulgada pela Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-19T08:14:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Publicado como confirmado: a sequência aparece igual no GamesRadar+ e no PC Gamer." }
 perguntas:
   - { p: "Como liberar o código de heat no GTA 6?", r: "Segundo o GamesRadar+, é preciso perder um nível de procurado de 3 estrelas 25 vezes, depois de zerar a história." }

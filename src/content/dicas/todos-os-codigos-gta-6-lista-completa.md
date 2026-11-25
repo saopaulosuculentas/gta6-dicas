@@ -6,6 +6,7 @@ categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "O celular do jogo, por onde se digitam os códigos.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - {arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason e Lucia, os protagonistas do GTA 6, em imagem oficial.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots"}
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
@@ -13,8 +14,9 @@ fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/codigos-do-gta-6-veja-macetes-e-cheatsedjogos.ghtml", titulo: "Lista de códigos do GTA 6", data: "2026-11-18T08:04:00-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T08:14:00-03:00"
-atualizado_em: "2026-11-25T08:59:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T08:59:00-03:00", nota: "Entrou o PowerPyx, com a mesma lista de 61 e as mesmas sequências. Saíram as marcas de fonte única de aumentar procurado e força de veículo (o Kotaku confirmou em 24/11) e de MTL Pumper, Cataclysm e Faded Glory (o PowerPyx confirma)." }
   - { data: "2026-11-19T08:14:00-03:00", nota: "Lista completa publicada a partir do GamesRadar+, do PC Gamer e do TechTudo. 18 sequências conhecidas, 43 ainda não publicadas." }
 perguntas:

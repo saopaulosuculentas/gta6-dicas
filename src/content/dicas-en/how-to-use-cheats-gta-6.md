@@ -7,14 +7,16 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "codigos-gta-6-como-usar"
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "The in-game phone, where you enter cheats.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - { arquivo: "oficial/jason.webp", legenda: "Jason Duval in Leonida, in an official GTA 6 image.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/", titulo: "All GTA 6 cheats and how to unlock them", data: "2026-11-18T08:00:00-03:00" }
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "0:48", data: "2026-11-18T16:35:15-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-19T10:05:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Guide published: GamesRadar+, PC Gamer and Bubs agree on how to enter and unlock cheats." }
 perguntas:
   - { p: "How do you enter cheats in GTA 6?", r: "Press Up on the D-pad to open your phone, hold L1 and R1 (LB and RB on Xbox) and enter the sequence on the D-pad." }

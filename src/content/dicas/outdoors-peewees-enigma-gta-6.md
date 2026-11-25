@@ -6,14 +6,16 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "outdoors-peewees-enigma-gta-6/outdoor-peewees.webp", legenda: "A Lucia olhando um dos outdoors do Peewees.", canal: "PowerPyx", url: "https://www.youtube.com/watch?v=InRbr6N0W3k", minuto: "0:15" }
   - { arquivo: "oficial/grassrivers.webp", legenda: "Grassrivers, o pântano na divisa com Mariana County, em imagem oficial do GTA 6. Ela ilustra a região de um dos outdoors; não mostra o painel.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/guia/2026/11/gta-6-or-outdoors-do-peewees-saiba-localizacao-e-como-resolver-enigma-edjogos.ghtml", titulo: "GTA 6 | Outdoors do Peewees: saiba localização e como resolver enigma", data: "2026-11-22T00:03:00-03:00" }
   - { tipo: youtube, canal: "PowerPyx", url: "https://www.youtube.com/watch?v=InRbr6N0W3k", titulo: "GTA 6 - All Peewees Billboards Locations (Waink Scans)", minuto: "0:00", data: "2026-11-22T19:53:39-03:00" }
   - { tipo: youtube, canal: "Jun Guides", url: "https://www.youtube.com/watch?v=n5soDOSSiFE", titulo: "GTA 6 Peewees Grand Prize Puzzle Solution (+Calorie Maxxing T-Shirt & Cap)", minuto: "1:26", data: "2026-11-22T12:16:21-03:00" }
 descoberto_em: "2026-11-23T20:10:00-03:00"
-atualizado_em: "2026-11-23T20:10:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-23T20:10:00-03:00", nota: "Publicada como confirmada: o TechTudo e o vídeo do PowerPyx dão os mesmos 4 condados e o mesmo prêmio de roupa; o Jun Guides mostra o boné e a camiseta Calorie Maxxing." }
 perguntas:
   - { p: "Onde ficam os outdoors do Peewees no GTA 6?", r: "São 4: em Vice-Dale (rampa da US-10, oeste de Balsero), em Mariana (canteiro da US-82, na divisa com Grassrivers), em Lummox (sobre a US-628, a sudoeste) e em Leonard (entre a ferrovia e a SR-27, no noroeste de Waning Sands)." }

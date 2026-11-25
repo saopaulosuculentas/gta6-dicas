@@ -7,13 +7,15 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "smuggler-gorse-assassin-nipper-onde-achar-gta-6"
 imagens:
+  - { arquivo: "smuggler-gorse-assassin-nipper-onde-achar-gta-6/smuggler-gorse-425.webp", legenda: "The Smuggler Gorse 425 shotgun stats card.", canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", minuto: "13:57" }
   - { arquivo: "oficial/leonida-keys.webp", legenda: "Leonida Keys, in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=NsJ4RIdL0x8", titulo: "GTA 6 - 9 Secret & GOLD Weapons You NEED To Get! (All Unique  Locations)", minuto: "13:57", data: "2026-11-20T15:00:07-03:00" }
   - { tipo: youtube, canal: "Vexies", url: "https://www.youtube.com/watch?v=WH8IfSdpB0w", titulo: "15 Secret Weapons NOBODY Told Me About (GTA 6)", minuto: "4:00", data: "2026-11-21T14:55:42-03:00" }
 descoberto_em: "2026-11-22T10:40:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Published as confirmed: Arekkz Gaming and Vexies took both guns from the same wrecks." }
 perguntas:
   - { p: "Where is the Assassin Nipper .38 in GTA 6?", r: "In a hidden compartment inside the wreck at the tip of the southern islet, in the island group near Mile Zero Air Station." }

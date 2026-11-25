@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "todos-os-codigos-gta-6-lista-completa"
 imagens:
+  - { arquivo: "codigos-gta-6-como-usar/celular-do-jogo.webp", legenda: "The in-game phone, where you enter cheats.", canal: "GuideZone", url: "https://www.youtube.com/watch?v=jTQeLJf6uBA", minuto: "0:25" }
   - { arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason and Lucia, the two protagonists of GTA 6, in an official image.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/", titulo: "All GTA 6 cheats and how to unlock them for PS5 and Xbox", data: "2026-11-18T12:08:00-03:00" }
@@ -14,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "Bubs", url: "https://www.youtube.com/watch?v=ORAc8ODl3mY", titulo: "*NEW* GTA 6 UNLIMITED MONEY/HEALTH! INFINITE VEHICLES! ALL CHEAT CODES", minuto: "1:13", data: "2026-11-18T16:35:15-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-cheats/", titulo: "GTA 6 All Cheats", data: "2026-11-18T12:00:00-03:00" }
 descoberto_em: "2026-11-19T10:05:00-03:00"
-atualizado_em: "2026-11-25T08:59:00-03:00"
+atualizado_em: "2026-11-25T09:39:00-03:00"
 historico:
+  - { data: "2026-11-25T09:39:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T08:59:00-03:00", nota: "Added PowerPyx, with the same 61 cheats and the same sequences. Removed the single-source marks on MTL Pumper, Cataclysm and Faded Glory (PowerPyx matches) and on raise wanted level and vehicle force (Kotaku matched on November 24)." }
   - { data: "2026-11-19T10:05:00-03:00", nota: "Full list published from GamesRadar+, PC Gamer and Bubs. 18 known sequences, 43 not published yet." }
 perguntas:
