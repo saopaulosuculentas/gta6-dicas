@@ -1,0 +1,234 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Platina do GTA 6: roteiro, tempo e troféus rápidos</title><meta name="description" content="A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais."><link rel="canonical" href="https://macetesgta6.com.br/dica/guia-platina-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já"><meta property="og:description" content="A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais."><meta property="og:url" content="https://macetesgta6.com.br/dica/guia-platina-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/vice-city-1.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já"><meta name="twitter:description" content="A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/vice-city-1.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/guia-platina-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-platinum-trophy-guide-roadmap/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-platinum-trophy-guide-roadmap/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quanto tempo leva para platinar o GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Cerca de 200 horas, segundo o PowerPyx: de 60 a 80 horas de história, umas 100 horas de 100% e mais umas 10 de limpeza."}},{"@type":"Question","name":"A platina do GTA 6 é difícil?","acceptedAnswer":{"@type":"Answer","text":"O PowerPyx dá nota 4 de 10. O mais trabalhoso é o A Long Road, o troféu dos 100%."}},{"@type":"Question","name":"Tem troféu perdível no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Não. Segundo o PowerPyx, nenhum troféu é perdível, e tudo continua disponível depois da história."}},{"@type":"Question","name":"Código desativa troféu no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Sim. Com código ativo, o jogo não dá troféus e não salva naquela sessão."}},{"@type":"Question","name":"Precisa jogar online para platinar o GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Não. Os 55 troféus são do modo história."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já","description":"A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais.","datePublished":"2026-11-25T08:00:00.000Z","dateModified":"2026-11-25T08:00:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/guia-platina-gta-6/","image":"https://macetesgta6.com.br/img/oficial/vice-city-1.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Guias","item":"https://macetesgta6.com.br/guias/"},{"@type":"ListItem","position":3,"name":"Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já","item":"https://macetesgta6.com.br/dica/guia-platina-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-platinum-trophy-guide-roadmap/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>25/11 às 05:12</strong></span><span><strong>164</strong> dicas no ar</span><span><strong>140</strong> confirmadas</span><span><strong>258</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/guias/">Guias</a></nav><h1>Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já</h1><p class="dica__resumo">A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado · 3 fontes</span><span>Atualizado em <time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/vice-city-1.webp" alt="Vice City em imagem oficial do GTA 6. A imagem é ilustrativa." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Vice City em imagem oficial do GTA 6. A imagem é ilustrativa.<span>Imagem: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">ver a fonte</a></span></figcaption></figure><article class="texto"><p><strong>A platina do GTA 6 leva cerca de 200 horas e tem dificuldade 4 de 10</strong>, segundo o PowerPyx. São <strong>55 troféus</strong>, todos do modo história, e <strong>nenhum é perdível</strong>: o que faltar dá para fazer depois do final, no mundo aberto.</p>
+<p>O roteiro é do PowerPyx. Os troféus rápidos batem com o vídeo do GTA6 Drops.</p>
+<h2 id="números-da-platina">Números da platina</h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Segundo o PowerPyx</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dificuldade</td>
+<td>4 de 10</td>
+</tr>
+<tr>
+<td>Tempo</td>
+<td>Cerca de 200 horas</td>
+</tr>
+<tr>
+<td>Troféus</td>
+<td>55 (1 platina, 2 ouro, 6 prata, 46 bronze)</td>
+</tr>
+<tr>
+<td>Perdíveis</td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td>Online</td>
+<td>Nenhum troféu</td>
+</tr>
+<tr>
+<td>Dificuldade do jogo afeta?</td>
+<td>Não: o jogo tem uma dificuldade só</td>
+</tr>
+<tr>
+<td>Códigos</td>
+<td><strong>Desligam troféus e o salvamento</strong> na sessão</td>
+</tr>
+<tr>
+<td>Mais difícil</td>
+<td>A Long Road (100% de conclusão)</td>
+</tr>
+<tr>
+<td>Saves</td>
+<td>15 manuais e 1 automático</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Dica de save:</strong> como não dá para repetir missão, o PowerPyx sugere guardar um save no começo e no fim de cada capítulo e rodar os outros espaços na limpeza final.</p>
+<h2 id="o-roteiro-em-3-etapas">O roteiro em 3 etapas</h2>
+<ol>
+<li><strong>História, sem pressa (60 a 80 horas).</strong> Faça as missões opcionais quando aparecerem, <strong>escaneie todo veículo novo</strong> com o WAiNK e <strong>estude animais</strong> com o binóculo. Isso adianta os 100%.</li>
+<li><strong>Lista dos 100% (umas 100 horas).</strong> A lista aparece em Progresso depois do final. Veja <a href="../checklist-100-por-cento-gta-6/">tudo o que conta para os 100%</a>. Você precisa de 70 dos 80 desafios, então dá para pular os mais chatos.</li>
+<li><strong>Limpeza (umas 10 horas).</strong> As <strong>missões de estranhos</strong> não contam para os 100%, mas têm troféu. Veja as 8 que contam em <a href="../missoes-de-estranhos-gta-6/">missões de estranhos</a>.</li>
+</ol>
+<h2 id="troféus-que-dá-para-pegar-logo">Troféus que dá para pegar logo</h2>
+<p>Estes saem rápido e não dependem do fim da história:</p>
+<table>
+<thead>
+<tr>
+<th>Troféu</th>
+<th>Como pegar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>In The Beginning…</strong></td>
+<td>No bar do terraço do <strong>Ocean View</strong>, em Ocean Beach, peça um <strong>Apple Martini</strong> e beba. O GTA6 Drops diz para levar o drink até o <strong>parapeito</strong>, olhando a vista</td>
+</tr>
+<tr>
+<td><strong>Challenging Tank</strong></td>
+<td>Roube um <strong>tanque</strong> na <strong>Mile Zero Air Station</strong>, a ilha do sudoeste do mapa. Os tanques ficam no sul da base</td>
+</tr>
+<tr>
+<td><strong>Catch Me If You Can</strong></td>
+<td>No aeroporto de Vice City, entre no avião grande encostado no <strong>terminal E3/E4</strong>, dê ré até a pista, decole e voe uns <strong>1 km</strong> para longe</td>
+</tr>
+<tr>
+<td><strong>The Goodtime State</strong></td>
+<td>Tire a névoa do <strong>mapa inteiro</strong>. O mais rápido é de avião</td>
+</tr>
+<tr>
+<td><strong>The Truth Is Out There</strong></td>
+<td>De madrugada, ache o carro com luzes piscando e siga até o disco voador. Veja a <a href="../disco-voador-abducao-gta-6/">abdução</a></td>
+</tr>
+<tr>
+<td><strong>Capital Offense</strong></td>
+<td>Com o <strong>clonador de chave</strong> (capítulo 3), roube a <strong>Banshee azul</strong> da concessionária do sul de Vice City e saia <strong>atravessando a vitrine</strong></td>
+</tr>
+<tr>
+<td><strong>Sneakthief</strong></td>
+<td>Depois das <a href="../senhas-joalherias-yasmani-gta-6/">joalherias do Yasmani</a>, roube uma joalheria pelos fundos com a snap gun, sem ser visto. Faça antes do Retail Therapy</td>
+</tr>
+<tr>
+<td><strong>Retail Therapy</strong></td>
+<td>Roube 3 lojas seguidas com o parceiro sem perder o nível de procurado. Veja o <a href="../trofeu-retail-therapy-gta-6/">guia do Retail Therapy</a></td>
+</tr>
+<tr>
+<td><strong>Let’s Go Bowling</strong></td>
+<td>No <strong>Kingpin Bowling</strong>, pegue os 3 objetos de valor: o relógio, a escopeta <strong>Gutterball</strong> e o cofre (senha <strong>0300</strong>). Veja a <a href="../senha-cofre-boliche-gta-6/">senha do boliche</a></td>
+</tr>
+<tr>
+<td><strong>Ten Pin</strong></td>
+<td>De moto, derrube <strong>10 pedestres com chutes</strong> em até 60 segundos. Faça em lugar cheio, como Ocean Beach</td>
+</tr>
+<tr>
+<td><strong>Bad Luck, I Guess</strong></td>
+<td>Depois da missão <strong>Credit Check</strong> (capítulo 3), volte com a <strong>Lucia sozinha</strong> à <strong>Payday Loans de Little Cuba</strong>, roube de novo e fuja <strong>a pé</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="troféus-que-pedem-mais-tempo">Troféus que pedem mais tempo</h2>
+<ul>
+<li><strong>Personal Best:</strong> <strong>força no nível 4</strong> com o Jason e com a Lucia. Treinando juntos, o parceiro ganha também. O Jojo Gaming Guides mostra que, no <strong>capítulo 5</strong>, a casa nova tem academia: treine, tome o <strong>shake de proteína</strong> da geladeira, durma e repita.</li>
+<li><strong>The Shootist:</strong> ouro em todos os desafios dos <strong>estandes de tiro</strong>. Segundo o GTA6 Drops, são dois estandes: o <strong>Griffin Shooting Range</strong>, no noroeste de Vice City, e o <strong>Rogers Ranch</strong>, no nordeste de Port Gellhorn. O passe custa <strong>US$ 5</strong>. São 12 desafios e 42 medalhas.</li>
+<li><strong>Gunslinger:</strong> derrube 5 inimigos num único uso do <strong>foco de combate</strong>. Coma ou tome banho antes para encher o foco, use adrenalina e um fuzil, e procure grupos grandes em operações de gangue.</li>
+<li><strong>Hot Together:</strong> despiste <strong>4 estrelas</strong> com o parceiro. O PowerPyx indica o <strong>túnel de trem ao norte de Ambrosia</strong>. Também sai sozinho nos cofres de banco do capítulo 4.</li>
+</ul>
+<h2 id="veja-também">Veja também</h2>
+<ul>
+<li><a href="../trofeus-conquistas-gta-6/">Lista completa dos 55 troféus</a></li>
+<li><a href="../todos-os-codigos-gta-6-lista-completa/">Todos os códigos do GTA 6</a>, lembrando que eles desligam troféus</li>
+</ul>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="fWgDi82l4w8" data-inicio="73" aria-label="Tocar o vídeo de GTA6 Drops a partir de 1:13"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Ver no minuto 1:13</b><small>Canal GTA6 Drops</small></button></div><figcaption>&quot;GTA 6 TROPHY GUIDE: 9 trophies you should unlock first (UFO, tank, cocktail + more)&quot;, de GTA6 Drops. O vídeo pertence ao criador e toca direto do YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Quanto tempo leva para platinar o GTA 6?</summary><p>Cerca de 200 horas, segundo o PowerPyx: de 60 a 80 horas de história, umas 100 horas de 100% e mais umas 10 de limpeza.</p></details><details><summary>A platina do GTA 6 é difícil?</summary><p>O PowerPyx dá nota 4 de 10. O mais trabalhoso é o A Long Road, o troféu dos 100%.</p></details><details><summary>Tem troféu perdível no GTA 6?</summary><p>Não. Segundo o PowerPyx, nenhum troféu é perdível, e tudo continua disponível depois da história.</p></details><details><summary>Código desativa troféu no GTA 6?</summary><p>Sim. Com código ativo, o jogo não dá troféus e não salva naquela sessão.</p></details><details><summary>Precisa jogar online para platinar o GTA 6?</summary><p>Não. Os 55 troféus são do modo história.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Guias</h2></div><div class="grade"><a class="cartao" href="/dica/checklist-100-por-cento-gta-6/"><div class="cartao__img"><img src="/img/oficial/jason-e-lucia.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>GTA 6 100%: a lista completa do que conta e o que você pode pular</h3><p>O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>2 fontes</span></div></a><a class="cartao" href="/dica/equipamentos-gta-6/"><div class="cartao__img"><img src="/img/oficial/lucia.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Equipamentos do GTA 6 e quando liberam: snap gun, clonador de chave e bloqueador de tinta</h3><p>O GTA 6 tem 12 equipamentos, como a snap gun, o clonador de chave e o bloqueador de tinta. Todos liberam pela história. Veja em que missão sai cada um e para que serve.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>2 fontes</span></div></a><a class="cartao" href="/dica/gta-6-pc-build-vazada-cyberleek/"><div class="cartao__img"><img src="/img/oficial/vice-city-2.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>GTA 6 no PC: o que se sabe da build vazada do Cyberleek e por que ainda não dá para jogar</h3><p>O Cyberleek soltou o executável da versão de Xbox, e fãs tentam rodar o GTA 6 no PC. O projeto mais citado foi derrubado, e ninguém tem versão jogável pública. Veja o que é real e o jeito oficial de jogar no PC.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>8 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>PowerPyx</b><a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/" target="_blank" rel="noopener nofollow">GTA 6 (Grand Theft Auto VI) Trophy Guide &amp; Roadmap</a><small>18 de novembro de 2026</small></li><li><b>GTA6 Drops</b><a href="https://www.youtube.com/watch?v=fWgDi82l4w8&amp;t=73s" target="_blank" rel="noopener nofollow">GTA 6 TROPHY GUIDE: 9 trophies you should unlock first (UFO, tank, cocktail + more) (minuto 1:13)</a><small>23 de novembro de 2026</small></li><li><b>Jojo Gaming Guides</b><a href="https://www.youtube.com/watch?v=CiTdEbjcMlk" target="_blank" rel="noopener nofollow">How To Get The Personal Best Trophy - How To Speed Up Your Progression! - GTA 6 (minuto 0:00)</a><small>23 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--menta)">Confirmado.</strong> A informação aparece em 3 fontes diferentes.</p><ul class="historico"><li><time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time>Publicada como confirmada: o roteiro e os números são do PowerPyx; os troféus rápidos (coquetel, tanque, avião, Banshee, OVNI, joalheria e estande de tiro) batem com o vídeo do GTA6 Drops; o Personal Best, com o Jojo Gaming Guides.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-platinum-trophy-guide-roadmap/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>

@@ -1,0 +1,308 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6 100%: checklist completo do que conta</title><meta name="description" content="O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história."><link rel="canonical" href="https://macetesgta6.com.br/dica/checklist-100-por-cento-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="GTA 6 100%: a lista completa do que conta e o que você pode pular"><meta property="og:description" content="O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história."><meta property="og:url" content="https://macetesgta6.com.br/dica/checklist-100-por-cento-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/oficial/jason-e-lucia.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="GTA 6 100%: a lista completa do que conta e o que você pode pular"><meta name="twitter:description" content="O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história."><meta name="twitter:image" content="https://macetesgta6.com.br/img/oficial/jason-e-lucia.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/checklist-100-por-cento-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-100-percent-completion-checklist/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-100-percent-completion-checklist/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Onde vejo o 100% no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Em Progresso > Estatísticas > 100% (Progress > Stats > 100% Completion). A lista só aparece depois de terminar a história, mas tudo o que você faz antes já conta."}},{"@type":"Question","name":"Dá para perder algo do 100% no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Não, segundo o PowerPyx. Tudo o que conta continua disponível depois do final, no mundo aberto."}},{"@type":"Question","name":"O 100% do GTA 6 pede todas as missões secundárias?","acceptedAnswer":{"@type":"Answer","text":"Não. Pede 100 tarefas opcionais quaisquer, e o jogo tem bem mais do que isso. A maioria das missões secundárias e das coleções não é obrigatória."}},{"@type":"Question","name":"Quanto tempo leva para fazer 100% no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"O PowerPyx calcula uns 100 horas depois da história, que leva de 60 a 80 horas. A platina inteira fica perto de 200 horas."}},{"@type":"Question","name":"O que dá o 100% no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"O troféu de ouro A Long Road, que vale 100 de Gamerscore no Xbox."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"GTA 6 100%: a lista completa do que conta e o que você pode pular","description":"O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história.","datePublished":"2026-11-25T07:55:00.000Z","dateModified":"2026-11-25T08:00:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/checklist-100-por-cento-gta-6/","image":"https://macetesgta6.com.br/img/oficial/jason-e-lucia.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Guias","item":"https://macetesgta6.com.br/guias/"},{"@type":"ListItem","position":3,"name":"GTA 6 100%: a lista completa do que conta e o que você pode pular","item":"https://macetesgta6.com.br/dica/checklist-100-por-cento-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-100-percent-completion-checklist/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>25/11 às 05:12</strong></span><span><strong>164</strong> dicas no ar</span><span><strong>140</strong> confirmadas</span><span><strong>258</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/guias/">Guias</a></nav><h1>GTA 6 100%: a lista completa do que conta e o que você pode pular</h1><p class="dica__resumo">O 100% do GTA 6 é mais leve do que parece: boa parte só pede um pedaço de cada coisa. Veja a lista inteira, onde acompanhar no menu e o que vale fazer durante a história.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado · 2 fontes</span><span>Atualizado em <time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/oficial/jason-e-lucia.webp" alt="Jason e Lucia em imagem oficial do GTA 6. A imagem é ilustrativa." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Jason e Lucia em imagem oficial do GTA 6. A imagem é ilustrativa.<span>Imagem: Rockstar Games · <a href="https://www.rockstargames.com/VI/downloads/screenshots" target="_blank" rel="noopener nofollow">ver a fonte</a></span></figcaption></figure><article class="texto"><p><strong>O 100% do GTA 6 pede bem menos do que tudo.</strong> Segundo o PowerPyx, a lista fica perto de <strong>60% do conteúdo real</strong> do jogo: a maioria das missões secundárias não conta, e muitas coleções só pedem uma parte. Fechar a lista dá o troféu de ouro <strong>A Long Road</strong>.</p>
+<p>A lista é do PowerPyx, e o vídeo do vAnother Level mostra os mesmos itens na tela do jogo.</p>
+<h2 id="onde-acompanhar">Onde acompanhar</h2>
+<ul>
+<li>Vá em <strong>Progresso &gt; Estatísticas &gt; 100%</strong> (Progress &gt; Stats &gt; 100% Completion).</li>
+<li>A lista <strong>só aparece depois de terminar a história</strong>, mas tudo o que você faz antes <strong>já conta</strong>.</li>
+<li><strong>Nada é perdível</strong>: tudo continua disponível no mundo aberto depois do final.</li>
+</ul>
+<h2 id="o-que-exige-tudo">O que exige tudo</h2>
+<p>Só cinco coisas pedem 100% de verdade: os <strong>roubos</strong> (operações de gangue, bancos, Payday Loans e cofres de banco), as <strong>33 descobertas subaquáticas</strong>, os <strong>estandes de tiro</strong>, as <strong>corridas de drone</strong> e as <strong>15 caçadas do Bret</strong>. O resto pede só uma parte.</p>
+<h2 id="a-lista-completa">A lista completa</h2>
+<h3 id="história-e-tarefas">História e tarefas</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quanto pede</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>História</td>
+<td>Terminar</td>
+</tr>
+<tr>
+<td>Tarefas opcionais</td>
+<td>100 quaisquer</td>
+</tr>
+<tr>
+<td>Operações ilegais de gangue</td>
+<td>39 de 39</td>
+</tr>
+<tr>
+<td>Bancos</td>
+<td>22 de 22</td>
+</tr>
+<tr>
+<td>Payday Loans</td>
+<td>7 de 7</td>
+</tr>
+<tr>
+<td>Joalherias e lojas de penhor (Smash ‘N’ Grab)</td>
+<td>34 de 35</td>
+</tr>
+<tr>
+<td>Assaltos a lojinhas (Stick Up)</td>
+<td>50 de 91</td>
+</tr>
+<tr>
+<td>Drogas vendidas a receptadores</td>
+<td>US$ 100 mil</td>
+</tr>
+<tr>
+<td>Joias vendidas a receptadores</td>
+<td>US$ 100 mil</td>
+</tr>
+<tr>
+<td>Notas marcadas vendidas</td>
+<td>US$ 250 mil</td>
+</tr>
+<tr>
+<td>Cofres de banco grande</td>
+<td>8 de 8</td>
+</tr>
+<tr>
+<td>Veículos vendidos</td>
+<td>US$ 200 mil</td>
+</tr>
+</tbody>
+</table>
+<h3 id="exploração-e-atividades">Exploração e atividades</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quanto pede</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conjuntos de tesouro do Kenton</td>
+<td>5 de 7</td>
+</tr>
+<tr>
+<td>Coleções de cartas</td>
+<td>15 de 18</td>
+</tr>
+<tr>
+<td>Lugares escaneados com o WAiNK</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Descobertas subaquáticas</td>
+<td>33 de 33</td>
+</tr>
+<tr>
+<td>Revistas, livros e quadrinhos</td>
+<td>30 de 34</td>
+</tr>
+<tr>
+<td>Pontos de meditação</td>
+<td>15 de 18</td>
+</tr>
+<tr>
+<td>Flamingos de cocaína destruídos</td>
+<td>100 de 125</td>
+</tr>
+<tr>
+<td>Playlists únicas</td>
+<td>2 de 2</td>
+</tr>
+<tr>
+<td>Estilos de roupa descobertos</td>
+<td>70 de 79</td>
+</tr>
+<tr>
+<td>Corridas diferentes vencidas</td>
+<td>30 de 40</td>
+</tr>
+<tr>
+<td>Medalhas de ouro em desafios de corrida</td>
+<td>10 de 13</td>
+</tr>
+<tr>
+<td>Medalhas de ouro no estande de tiro</td>
+<td>42 de 42</td>
+</tr>
+<tr>
+<td>Videogames jogados</td>
+<td>4 de 4</td>
+</tr>
+<tr>
+<td>Adversários de sinuca derrotados</td>
+<td>5 de 7</td>
+</tr>
+<tr>
+<td>Minigolfes jogados</td>
+<td>2 de 3</td>
+</tr>
+<tr>
+<td>Cestas de basquete</td>
+<td>90 de 100</td>
+</tr>
+<tr>
+<td>Corridas de drone contra o relógio</td>
+<td>42 de 42</td>
+</tr>
+<tr>
+<td>Manobras (saltos, passar sob ponte, voo entre prédios, base jump)</td>
+<td>300 de 397</td>
+</tr>
+<tr>
+<td>Desafios</td>
+<td>70 de 80</td>
+</tr>
+<tr>
+<td>Caçadas do Bret (Target Decks)</td>
+<td>15 de 15</td>
+</tr>
+</tbody>
+</table>
+<h3 id="descobertas">Descobertas</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quanto pede</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Modelos de veículo escaneados</td>
+<td>200 de 277</td>
+</tr>
+<tr>
+<td>Armas comuns encontradas</td>
+<td>50 de 66</td>
+</tr>
+<tr>
+<td>Animais estudados</td>
+<td>100 de 255</td>
+</tr>
+</tbody>
+</table>
+<h2 id="o-que-fazer-durante-a-história-para-ganhar-tempo">O que fazer durante a história para ganhar tempo</h2>
+<ul>
+<li><strong>Escaneie todo veículo novo</strong> com o app <strong>WAiNK</strong>: segure o botão do celular e depois o de escanear. Barcos e aviões também contam. Começando cedo, os 200 saem sozinhos.</li>
+<li><strong>Estude animais com o binóculo</strong>: escolha o binóculo na roda de armas, dê zoom e segure para estudar. Não precisa caçar. Cada raça de cachorro e de gato conta separado.</li>
+<li><strong>Faça as missões opcionais quando aparecerem.</strong> Elas têm ícone roxo ou ícone preto com letras rosa. Cada entrega de carro para o <strong>Moses</strong> e para o <strong>Randy</strong> conta como uma, e meditar com o Jason e com a Lucia no mesmo ponto conta duas.</li>
+<li><strong>Deixe os cofres de banco grande para o fim.</strong> Eles só liberam no <strong>capítulo 4</strong>, na missão opcional That’s Where The Money Is…, e cada um pode render até <strong>US$ 205 mil</strong>.</li>
+</ul>
+<h2 id="veja-também">Veja também</h2>
+<ul>
+<li><a href="../trofeus-conquistas-gta-6/">Lista de troféus e conquistas do GTA 6</a></li>
+<li><a href="../cartas-colecionaveis-gta-6/">Cartas colecionáveis</a> e <a href="../revistas-livros-quadrinhos-gta-6/">revistas, livros e quadrinhos</a></li>
+<li><a href="../esculturas-waink-gta-6/">Esculturas do WAiNK</a> e <a href="../curiosidades-pontos-turisticos-waink-gta-6/">curiosidades e pontos turísticos do WAiNK</a></li>
+<li><a href="../tesouro-fundo-do-mar-gta-6/">Tesouros no fundo do mar</a> e <a href="../pesca-e-caca-gta-6/">pesca e caça</a></li>
+</ul>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="SFeGsOUCiwo" data-inicio="297" aria-label="Tocar o vídeo de vAnother Level a partir de 4:57"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Ver no minuto 4:57</b><small>Canal vAnother Level</small></button></div><figcaption>&quot;What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal&#39;s Drive (Spoilers)&quot;, de vAnother Level. O vídeo pertence ao criador e toca direto do YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Onde vejo o 100% no GTA 6?</summary><p>Em Progresso &gt; Estatísticas &gt; 100% (Progress &gt; Stats &gt; 100% Completion). A lista só aparece depois de terminar a história, mas tudo o que você faz antes já conta.</p></details><details><summary>Dá para perder algo do 100% no GTA 6?</summary><p>Não, segundo o PowerPyx. Tudo o que conta continua disponível depois do final, no mundo aberto.</p></details><details><summary>O 100% do GTA 6 pede todas as missões secundárias?</summary><p>Não. Pede 100 tarefas opcionais quaisquer, e o jogo tem bem mais do que isso. A maioria das missões secundárias e das coleções não é obrigatória.</p></details><details><summary>Quanto tempo leva para fazer 100% no GTA 6?</summary><p>O PowerPyx calcula uns 100 horas depois da história, que leva de 60 a 80 horas. A platina inteira fica perto de 200 horas.</p></details><details><summary>O que dá o 100% no GTA 6?</summary><p>O troféu de ouro A Long Road, que vale 100 de Gamerscore no Xbox.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Guias</h2></div><div class="grade"><a class="cartao" href="/dica/equipamentos-gta-6/"><div class="cartao__img"><img src="/img/oficial/lucia.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Equipamentos do GTA 6 e quando liberam: snap gun, clonador de chave e bloqueador de tinta</h3><p>O GTA 6 tem 12 equipamentos, como a snap gun, o clonador de chave e o bloqueador de tinta. Todos liberam pela história. Veja em que missão sai cada um e para que serve.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>2 fontes</span></div></a><a class="cartao" href="/dica/gta-6-pc-build-vazada-cyberleek/"><div class="cartao__img"><img src="/img/oficial/vice-city-2.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>GTA 6 no PC: o que se sabe da build vazada do Cyberleek e por que ainda não dá para jogar</h3><p>O Cyberleek soltou o executável da versão de Xbox, e fãs tentam rodar o GTA 6 no PC. O projeto mais citado foi derrubado, e ninguém tem versão jogável pública. Veja o que é real e o jeito oficial de jogar no PC.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>8 fontes</span></div></a><a class="cartao" href="/dica/guia-platina-gta-6/"><div class="cartao__img"><img src="/img/oficial/vice-city-1.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Guias</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Guia da platina do GTA 6: roteiro, tempo, dificuldade e os troféus que dá para pegar já</h3><p>A platina do GTA 6 leva cerca de 200 horas, tem dificuldade 4 de 10 e nenhum troféu perdível. Veja o roteiro em 3 etapas e como pegar os troféus rápidos: coquetel, tanque, avião, Banshee e mais.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>3 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>PowerPyx</b><a href="https://www.powerpyx.com/gta-6-100-completion-checklist-guide/" target="_blank" rel="noopener nofollow">GTA 6 100% Completion Checklist &amp; Guide</a><small>18 de novembro de 2026</small></li><li><b>PowerPyx</b><a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/" target="_blank" rel="noopener nofollow">GTA 6 (Grand Theft Auto VI) Trophy Guide &amp; Roadmap</a><small>18 de novembro de 2026</small></li><li><b>vAnother Level</b><a href="https://www.youtube.com/watch?v=SFeGsOUCiwo&amp;t=297s" target="_blank" rel="noopener nofollow">What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal&#39;s Drive (Spoilers) (minuto 4:57)</a><small>20 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--menta)">Confirmado.</strong> A informação aparece em 2 fontes diferentes.</p><ul class="historico"><li><time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time>Virou confirmada: o vAnother Level mostra a mesma lista no jogo (assaltos, 33 descobertas subaquáticas, 100 flamingos, 90 cestas, 200 veículos, 100 animais).</li><li><time datetime="2026-11-25T07:55:00.000Z">25/11 às 04:55</time>Publicada em verificação: a lista vem do PowerPyx. Falta uma segunda fonte com a lista inteira.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-100-percent-completion-checklist/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>

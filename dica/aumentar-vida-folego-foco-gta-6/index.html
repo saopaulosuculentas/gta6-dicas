@@ -1,0 +1,200 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6: como aumentar vida, fôlego e foco para sempre</title><meta name="description" content="Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer."><link rel="canonical" href="https://macetesgta6.com.br/dica/aumentar-vida-folego-foco-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus"><meta property="og:description" content="Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer."><meta property="og:url" content="https://macetesgta6.com.br/dica/aumentar-vida-folego-foco-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/aumentar-vida-folego-foco-gta-6/fogueira-do-inferno.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus"><meta name="twitter:description" content="Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer."><meta name="twitter:image" content="https://macetesgta6.com.br/img/aumentar-vida-folego-foco-gta-6/fogueira-do-inferno.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/aumentar-vida-folego-foco-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-permanent-health-stamina-focus-boosts/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-permanent-health-stamina-focus-boosts/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Como aumentar a vida máxima no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Faça o easter egg do inferno, que dá vida máxima, e o dos aliens, que aumenta todos os atributos. Os dois ficam para sempre."}},{"@type":"Question","name":"Como aumentar o fôlego no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Três segredos dão fôlego máximo: o morango do Kyle, o parkour do cogumelo e a missão do esgoto dos No Flushers. O dos aliens também aumenta o fôlego."}},{"@type":"Question","name":"O bônus de atributo vale para o Jason e para a Lucia?","acceptedAnswer":{"@type":"Answer","text":"Segundo o Hayashii, vale só para o personagem que fez o segredo. No dos aliens, indo os dois juntos, os dois ganham."}},{"@type":"Question","name":"Qual easter egg aumenta todos os atributos no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"O dos aliens: a abdução, o sonho e o laboratório secreto. No fim, vida, fôlego e foco sobem."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus","description":"Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer.","datePublished":"2026-11-25T08:00:00.000Z","dateModified":"2026-11-25T08:00:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/aumentar-vida-folego-foco-gta-6/","image":"https://macetesgta6.com.br/img/aumentar-vida-folego-foco-gta-6/fogueira-do-inferno.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Easter eggs","item":"https://macetesgta6.com.br/easter-eggs/"},{"@type":"ListItem","position":3,"name":"Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus","item":"https://macetesgta6.com.br/dica/aumentar-vida-folego-foco-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-permanent-health-stamina-focus-boosts/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>25/11 às 05:12</strong></span><span><strong>164</strong> dicas no ar</span><span><strong>140</strong> confirmadas</span><span><strong>258</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/easter-eggs/">Easter eggs</a></nav><h1>Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus</h1><p class="dica__resumo">Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado · 4 fontes</span><span>Atualizado em <time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/aumentar-vida-folego-foco-gta-6/fogueira-do-inferno.webp" alt="A fogueira que abre o caminho para o inferno, um dos segredos que aumentam a vida." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>A fogueira que abre o caminho para o inferno, um dos segredos que aumentam a vida.<span>Imagem: Arekkz Gaming · <a href="https://www.youtube.com/watch?v=f_tiqbq2qp8&amp;t=1070s" target="_blank" rel="noopener nofollow">ver o vídeo (17:50)</a></span></figcaption></figure><article class="texto"><p><strong>Cinco segredos do GTA 6 aumentam vida, fôlego ou foco para sempre.</strong> O dos <strong>aliens</strong> melhora tudo. O do <strong>inferno</strong> dá vida máxima. E três dão fôlego máximo: o <strong>morango do Kyle</strong>, o <strong>parkour do cogumelo</strong> e o <strong>esgoto dos No Flushers</strong>.</p>
+<p>O Arekkz Gaming e o Hayashii mostram os mesmos cinco. <strong>O bônus vale só para o personagem que fez o segredo</strong>, segundo o Hayashii. Se quiser nos dois, repita com o outro, ou vá junto quando o segredo permitir.</p>
+<h2 id="resumo">Resumo</h2>
+<table>
+<thead>
+<tr>
+<th>Segredo</th>
+<th>O que dá</th>
+<th>Quando</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aliens (abdução, sonho e laboratório)</td>
+<td>Vida, fôlego e foco</td>
+<td>Do capítulo 2 em diante, de madrugada</td>
+</tr>
+<tr>
+<td>Inferno</td>
+<td>Vida máxima, escopeta lendária, tatuagem e camiseta</td>
+<td>De noite, em Port Gellhorn</td>
+</tr>
+<tr>
+<td>Morango do Kyle</td>
+<td>Fôlego máximo</td>
+<td>Do capítulo 2 (às vezes antes)</td>
+</tr>
+<tr>
+<td>Parkour do cogumelo</td>
+<td>Fôlego máximo</td>
+<td>A qualquer momento</td>
+</tr>
+<tr>
+<td>Esgoto dos No Flushers</td>
+<td>Fôlego máximo</td>
+<td>A qualquer momento</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-aliens-todos-os-atributos">1. Aliens: todos os atributos</h2>
+<p>É o mais longo, em três partes:</p>
+<ol>
+<li><strong>Abdução:</strong> de madrugada, ache um <strong>carro parado com as luzes piscando</strong> numa estrada rural perto de Port Gellhorn e siga a trilha até o disco voador. Ajude a mulher e busque o carro dela. Sai o troféu <strong>The Truth Is Out There</strong>. Veja o <a href="../disco-voador-abducao-gta-6/">passo a passo da abdução</a>.</li>
+<li><strong>Sonho:</strong> durma até de manhã por 2 a 4 noites até sonhar. No sonho você descobre o <strong>código</strong> do teclado, que muda de jogador para jogador. Veja <a href="../sonho-do-alien-gta-6/">o sonho do alien</a>.</li>
+<li><strong>Laboratório:</strong> use o código no complexo escondido perto de Hamlet, na área inicial. Veja <a href="../laboratorio-alienigena-codigo-2314-gta-6/">o laboratório alienígena</a>.</li>
+</ol>
+<p>Ao sair, <strong>vida, fôlego e foco</strong> sobem. O Hayashii diz que, indo com o parceiro, <strong>os dois ganham</strong>.</p>
+<h2 id="2-inferno-vida-máxima">2. Inferno: vida máxima</h2>
+<p>Numa <strong>garagem em Port Gellhorn</strong>, ao lado de um local de roubo, <strong>de noite</strong>. O Hayashii fez entre meia-noite e 4h. Se estiver fechada, volte na noite seguinte.</p>
+<ol>
+<li>Converse com os dois homens na frente. Uma van para: entre.</li>
+<li>Ande até a <strong>fogueira</strong> e olhe para o fogo.</li>
+<li>Você recebe uma <strong>escopeta com munição infinita</strong> e enfrenta um chefe que chama cabras e monstros que explodem.</li>
+</ol>
+<p>O prêmio é <strong>vida máxima</strong>, a escopeta lendária <strong>Hell Spawn</strong> ao lado do trono, <strong>tatuagens</strong> novas na loja e uma <strong>camiseta</strong>. Veja o <a href="../easter-egg-satanas-inferno-gta-6/">passo a passo do inferno</a>.</p>
+<p><strong>Se morrer no chefe:</strong> o Arekkz diz que você falha e fica sem bônus. O Hayashii diz que volta à fogueira e tenta de novo. Por garantia, salve antes.</p>
+<h2 id="3-morango-do-kyle-fôlego-máximo">3. Morango do Kyle: fôlego máximo</h2>
+<ol>
+<li>No <strong>capítulo 2</strong>, pegue o panfleto de <strong>piloto</strong> na parede da recepção do motel. O Hayashii diz que às vezes aparece antes, num anúncio do Kyle nas redes do celular.</li>
+<li>Faça a <strong>pulverização da plantação</strong> de avião.</li>
+<li>Espere a ligação do <strong>Kyle</strong> e vá buscar uma <strong>van</strong>. Pedem <strong>US$ 5 mil</strong>: dá para pagar, pedir desconto ou levar fiado. O Arekkz pagou US$ 3 mil.</li>
+<li>Leve a van com cuidado até o <strong>celeiro</strong> e <strong>coma o morango</strong>: fôlego máximo.</li>
+</ol>
+<p>O resto dessa história está em <a href="../hulk-vermelho-gta-6/">Hulk vermelho</a>.</p>
+<h2 id="4-parkour-do-cogumelo-fôlego-máximo">4. Parkour do cogumelo: fôlego máximo</h2>
+<p>Numa <strong>obra ao lado de um lago no norte do mapa</strong>:</p>
+<ol>
+<li>Atrás de uns homens, dentro de um <strong>contêiner amarelo</strong>, tem uma <strong>caixa misteriosa com um olho</strong>. Use e <strong>coma o cogumelo</strong>.</li>
+<li>Siga até <strong>puxar a alavanca</strong> de energia.</li>
+<li>Siga a <strong>luz roxa</strong>. Na bifurcação, vá para a <strong>direita</strong>, na direção da luz, e não para o corredor escuro.</li>
+<li>Na sala de <strong>parkour</strong>, se cair, você recomeça. Use pulos com corrida. Na água o fôlego não desce, mas desvie das águas-vivas.</li>
+<li>No fim, você vê <strong>você mesmo</strong> no contêiner. <strong>Pule</strong> em você: fôlego máximo.</li>
+</ol>
+<h2 id="5-esgoto-dos-no-flushers-fôlego-máximo">5. Esgoto dos No Flushers: fôlego máximo</h2>
+<p>É a missão <strong>The Final Flush</strong>, que também conta para o troféu <strong>Strangers &amp; Freaks</strong>, segundo o PowerPyx:</p>
+<ol>
+<li>Vá ao <strong>banheiro público de Corsair Key</strong>, a ilhazinha com um prédio só, perto do começo do jogo. O Arekkz e o Hayashii usaram o <strong>masculino</strong> com o Jason; o Projeto S usou o <strong>feminino</strong> com a Lucia.</li>
+<li><strong>Escaneie o código QR</strong> do panfleto com o celular.</li>
+<li>Responda <strong>“verdade”</strong> à mensagem e vá ao <strong>Frank’s Waffles</strong>.</li>
+<li>Dirija a <strong>van</strong> do homem seguindo as <strong>direções faladas</strong> até a <strong>estação de tratamento de esgoto</strong>, ao sul de Vice-Dale. Estacione embaixo da ponte e vá a pé.</li>
+<li>Evite a entrada principal: contorne pela direita até a <strong>entrada lateral iluminada</strong>.</li>
+<li>Suba a escada. No painel, deixe <strong>os três botões verdes</strong> e acione o botão grande. Abre uma passagem embaixo da bomba.</li>
+<li><strong>Dê a descarga nele</strong> e entre no casulo. Você acorda em casa com <strong>fôlego máximo</strong>.</li>
+</ol>
+<h2 id="veja-também">Veja também</h2>
+<ul>
+<li><a href="../easter-eggs-gta-6-lista/">Lista de easter eggs do GTA 6</a></li>
+<li><a href="../missoes-de-estranhos-gta-6/">Missões de estranhos</a></li>
+<li><a href="../como-ficar-musculoso-gta-6/">Como ficar musculoso no GTA 6</a>, para a força</li>
+</ul>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="f_tiqbq2qp8" data-inicio="0" aria-label="Tocar o vídeo de Arekkz Gaming a partir de 0:00"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Ver no minuto 0:00</b><small>Canal Arekkz Gaming</small></button></div><figcaption>&quot;GTA 6 - 5 Easter Eggs That Give PERMANENT Stat Boosts! (All Locations Walkthrough)&quot;, de Arekkz Gaming. O vídeo pertence ao criador e toca direto do YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Como aumentar a vida máxima no GTA 6?</summary><p>Faça o easter egg do inferno, que dá vida máxima, e o dos aliens, que aumenta todos os atributos. Os dois ficam para sempre.</p></details><details><summary>Como aumentar o fôlego no GTA 6?</summary><p>Três segredos dão fôlego máximo: o morango do Kyle, o parkour do cogumelo e a missão do esgoto dos No Flushers. O dos aliens também aumenta o fôlego.</p></details><details><summary>O bônus de atributo vale para o Jason e para a Lucia?</summary><p>Segundo o Hayashii, vale só para o personagem que fez o segredo. No dos aliens, indo os dois juntos, os dois ganham.</p></details><details><summary>Qual easter egg aumenta todos os atributos no GTA 6?</summary><p>O dos aliens: a abdução, o sonho e o laboratório secreto. No fim, vida, fôlego e foco sobem.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Easter eggs</h2></div><div class="grade"><a class="cartao" href="/dica/farol-assombrado-navio-fantasma-gta-6/"><div class="cartao__img"><img src="/img/farol-assombrado-navio-fantasma-gta-6/farol-de-noite.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Farol assombrado e navio fantasma no GTA 6: onde fica e como achar a faca amaldiçoada</h3><p>Depois da meia-noite, dois fantasmas brigam no alto de um farol em Little Hardin Island. Veja onde fica, a ordem das pistas, onde mergulhar para achar a faca amaldiçoada e como ver o navio fantasma.</p><div class="cartao__pe"><time datetime="2026-11-25T08:10:00.000Z" data-relativo>25/11 às 05:10</time><span>2 fontes</span></div></a><a class="cartao" href="/dica/apartamento-dexter-gta-6/"><div class="cartao__img"><img src="/img/oficial/vice-city-2.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--em-verificacao">Em verificação</span></div><h3>Apartamento do Dexter no GTA 6: onde fica a casa do Dexter Morgan em Vice City</h3><p>O GTA 6 recriou o prédio do Dexter Morgan, da série Dexter, em Vice City. Veja onde fica no mapa, qual é a porta e os outros detalhes da série escondidos por perto.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>1 fonte</span></div></a><a class="cartao" href="/dica/easter-egg-satanas-inferno-gta-6/"><div class="cartao__img"><img src="/img/easter-egg-satanas-inferno-gta-6/casa-amarela.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Easter egg do Satanás no GTA 6: como entrar no inferno, vencer o chefe e ganhar a escopeta</h3><p>Numa casa amarela de Port Gellhorn, de madrugada, dois metaleiros levam você a um ritual que vira uma fase no inferno com chefe final. Quem vence ganha escopeta única, roupa, tatuagens e mais vida.</p><div class="cartao__pe"><time datetime="2026-11-25T08:00:00.000Z" data-relativo>25/11 às 05:00</time><span>3 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>Arekkz Gaming</b><a href="https://www.youtube.com/watch?v=f_tiqbq2qp8" target="_blank" rel="noopener nofollow">GTA 6 - 5 Easter Eggs That Give PERMANENT Stat Boosts! (All Locations Walkthrough) (minuto 0:00)</a><small>22 de novembro de 2026</small></li><li><b>Hayashii</b><a href="https://www.youtube.com/watch?v=s8MxTZbJA20&amp;t=38s" target="_blank" rel="noopener nofollow">Os 5 EASTER EGGS que você PRECISA FAZER no GTA 6! (upgrades de Jason e Lucia) (minuto 0:38)</a><small>24 de novembro de 2026</small></li><li><b>Projeto S</b><a href="https://www.youtube.com/watch?v=g_zmiKVh-J0&amp;t=25s" target="_blank" rel="noopener nofollow">GTA 6 - MISSÃO SECRETA - EXPERIMENTO SECRETO NO ESGOTO! (EASTER EGG) (minuto 0:25)</a><small>23 de novembro de 2026</small></li><li><b>PowerPyx</b><a href="https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/" target="_blank" rel="noopener nofollow">GTA 6 (Grand Theft Auto VI) Trophy Guide &amp; Roadmap</a><small>18 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--menta)">Confirmado.</strong> A informação aparece em 4 fontes diferentes.</p><ul class="historico"><li><time datetime="2026-11-25T08:00:00.000Z">25/11 às 05:00</time>Publicada como confirmada: o Arekkz Gaming e o Hayashii mostram os mesmos 5 segredos e os bônus de cada um. O esgoto também aparece no Projeto S, e o PowerPyx confirma o nome da missão (The Final Flush, no Frank&#39;s Waffles).</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-permanent-health-stamina-focus-boosts/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>
