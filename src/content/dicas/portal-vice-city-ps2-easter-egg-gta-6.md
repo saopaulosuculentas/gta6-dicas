@@ -6,6 +6,7 @@ categoria: easter-eggs
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "portal-vice-city-ps2-easter-egg-gta-6/camisa-do-tommy.webp", legenda: "O Jason com a camisa do Tommy Vercetti, prêmio do portal.", canal: "Shirrako", url: "https://www.youtube.com/watch?v=ZZdJmu00bME", minuto: "3:45" }
   - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City à noite, em imagem oficial do GTA 6. Ela ilustra a cidade; não mostra o portal.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6-contains-a-very-hidden-secret-that-teleports-you-back-in-time-to-vice-city-on-the-ps2-2000759500", titulo: "GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2", data: "2026-11-23T12:00:00-03:00" }
@@ -14,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "TmarTn2", url: "https://www.youtube.com/watch?v=5BW8LOnL1GE", titulo: "GTA 6 - Play as Tommy Vercetti GTA Multiverse Easter Egg Guide", minuto: "16:53", data: "2026-11-23T14:41:02-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-a-terrifying-unkillable-npc-heres-how-to-find-him/", titulo: "GTA 6 Has A Terrifying Unkillable NPC, Here's How To Find Him", data: "2026-11-23T14:50:00-03:00" }
 descoberto_em: "2026-11-23T20:10:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Entrou o NPC que não morre, na mesma torre do Passo 1 (só o GameSpot por enquanto)." }
   - { data: "2026-11-23T20:20:00-03:00", nota: "Entrou o vídeo do Dan Allen Gaming: ele e o Nexxuz World dão o mesmo botão em 11 das 12 subestações, e a mensagem Reactor 2 1906 quer dizer das 19h às 6h. O botão da 10ª só aparece no Nexxuz World." }
   - { data: "2026-11-23T20:10:00-03:00", nota: "Publicada como confirmada: o Kotaku e o vídeo do Nexxuz World mostram o mesmo portal, o Malibu Club de 2002 e os mesmos prêmios." }

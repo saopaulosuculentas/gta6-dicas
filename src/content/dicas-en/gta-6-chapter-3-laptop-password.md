@@ -7,13 +7,15 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "senha-notebook-capitulo-3-gta-6"
 imagens:
+  - { arquivo: "senha-notebook-capitulo-3-gta-6/notebook-mensagem-la-perle.webp", legenda: "The chat on the apartment laptop, with the message about La Perle.", canal: "Diggy", url: "https://www.youtube.com/watch?v=9OUDJGY2Yuc", minuto: "2:10" }
   - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City, home to the Chapter 3 apartment and La Perle, in an official GTA 6 image released by Rockstar Games. It shows the city, not the laptop.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=0YPw7INbstM", titulo: "How to Log in to the Laptop in Chapter 3 House for Free Pink Growler Car for Lucia ► GTA 6", minuto: "1:12", data: "2026-11-22T18:15:05-03:00" }
   - { tipo: youtube, canal: "SimDEX", url: "https://www.youtube.com/watch?v=YLAze0YG_yk", titulo: "HOW TO UNLOCK BOOBIE'S LAPTOP in GTA 6 (PASSWORD & CLUES)", minuto: "0:52", data: "2026-11-21T16:15:19-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Published as confirmed: ConCon and SimDEX both log in with Muffins, Queen and 15. ConCon opens the La Perle garage with 92665." }
 perguntas:
   - { p: "What is the Chapter 3 laptop password in GTA 6?", r: "It's Muffins, Queen, 15. You pick the three parts in that order with the D-pad rather than typing them." }

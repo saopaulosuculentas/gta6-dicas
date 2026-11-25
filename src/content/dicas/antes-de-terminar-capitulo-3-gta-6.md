@@ -6,6 +6,7 @@ categoria: dicas
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "antes-de-terminar-capitulo-3-gta-6/montys-1922-no-chao.webp", legenda: "A pistola dourada Monty's 1922 no chão da sala das fotos.", canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=nRWlNQWkqzg", minuto: "5:45" }
   - { arquivo: "oficial/jason.webp", legenda: "Jason em imagem oficial do GTA 6. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "Caspahz", url: "https://www.youtube.com/watch?v=90ZyeSdyPPk", titulo: "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)", minuto: "4:24", data: "2026-11-24T11:42:32-03:00" }
@@ -14,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "Diggy", url: "https://www.youtube.com/watch?v=9OUDJGY2Yuc", titulo: "DON'T Make This Mistake Before Chapter 3 Ends In GTA 6", minuto: "0:47", data: "2026-11-22T15:04:49-03:00" }
   - { tipo: youtube, canal: "Tylarious", url: "https://www.youtube.com/watch?v=umrx86xI-dw", titulo: "***WARNING*** DO THIS BEFORE YOU COMPLETE CHAPTER 3 IN GTA VI", minuto: "0:36", data: "2026-11-24T20:18:00-03:00" }
 descoberto_em: "2026-11-25T09:05:00-03:00"
-atualizado_em: "2026-11-25T09:05:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T09:05:00-03:00", nota: "Publicada como confirmada só com o que aparece em dois canais: a Monty's 1922 (Caspahz e RageGamingVideos), o Halifax (Caspahz e KhrazeGaming), o prazo da corrida do Yago (Caspahz e KhrazeGaming) e o Growler da Vanessa (Diggy, KhrazeGaming e outros). O que só um canal cita está marcado no texto." }
 perguntas:
   - { p: "O que se perde ao terminar o capítulo 3 do GTA 6?", r: "Segundo os canais, a pistola dourada Monty's 1922 se você não pegar na missão, a missão do Halifax se você recusar e não ligar de volta, e o Growler rosa da garagem de La Perle. A corrida do Yago também tem prazo." }

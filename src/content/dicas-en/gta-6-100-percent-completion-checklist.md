@@ -7,14 +7,16 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "checklist-100-por-cento-gta-6"
 imagens:
+  - { arquivo: "checklist-100-por-cento-gta-6/cofre-de-banco.webp", legenda: "Bags of marked bills inside a large bank vault, one of the 100% items.", canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", minuto: "5:00" }
   - { arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason and Lucia in an official GTA 6 screenshot. This image is for illustration.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/", titulo: "GTA 6 100% Completion Checklist & Guide", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", titulo: "What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal's Drive (Spoilers)", minuto: "4:57", data: "2026-11-20T17:54:22-03:00" }
 descoberto_em: "2026-11-25T04:55:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Now confirmed: vAnother Level shows the same checklist in game (stick-ups, 33 underwater discoveries, 100 flamingos, 90 hoops, 200 vehicles, 100 animals)." }
   - { data: "2026-11-25T04:55:00-03:00", nota: "Published as unverified: the checklist comes from PowerPyx. We still need a second source with the full list." }
 perguntas:

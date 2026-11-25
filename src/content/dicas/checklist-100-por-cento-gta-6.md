@@ -6,14 +6,16 @@ categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "checklist-100-por-cento-gta-6/cofre-de-banco.webp", legenda: "Sacolas de notas marcadas no cofre de um banco grande, um dos itens dos 100%.", canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", minuto: "5:00" }
   - { arquivo: "oficial/jason-e-lucia.webp", legenda: "Jason e Lucia em imagem oficial do GTA 6. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/", titulo: "GTA 6 100% Completion Checklist & Guide", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "vAnother Level", url: "https://www.youtube.com/watch?v=SFeGsOUCiwo", titulo: "What Happens After You Beat GTA 6? Post-Game Explained: Cheats, 100%, Cal's Drive (Spoilers)", minuto: "4:57", data: "2026-11-20T17:54:22-03:00" }
 descoberto_em: "2026-11-25T04:55:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Virou confirmada: o vAnother Level mostra a mesma lista no jogo (assaltos, 33 descobertas subaquáticas, 100 flamingos, 90 cestas, 200 veículos, 100 animais)." }
   - { data: "2026-11-25T04:55:00-03:00", nota: "Publicada em verificação: a lista vem do PowerPyx. Falta uma segunda fonte com a lista inteira." }
 perguntas:

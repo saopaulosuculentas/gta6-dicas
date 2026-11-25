@@ -6,14 +6,16 @@ categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "guia-platina-gta-6/payday-loans-lucia.webp", legenda: "A Lucia roubando a Payday Loans de novo, para o troféu Bad Luck, I Guess.", canal: "PowerPyx", url: "https://www.youtube.com/watch?v=N5chdGZVzGQ", minuto: "0:45" }
   - { arquivo: "oficial/vice-city-1.webp", legenda: "Vice City em imagem oficial do GTA 6. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "GTA6 Drops", url: "https://www.youtube.com/watch?v=fWgDi82l4w8", titulo: "GTA 6 TROPHY GUIDE: 9 trophies you should unlock first (UFO, tank, cocktail + more)", minuto: "1:13", data: "2026-11-23T10:18:42-03:00" }
   - { tipo: youtube, canal: "Jojo Gaming Guides", url: "https://www.youtube.com/watch?v=CiTdEbjcMlk", titulo: "How To Get The Personal Best Trophy - How To Speed Up Your Progression! - GTA 6", minuto: "0:00", data: "2026-11-23T20:10:12-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Publicada como confirmada: o roteiro e os números são do PowerPyx; os troféus rápidos (coquetel, tanque, avião, Banshee, OVNI, joalheria e estande de tiro) batem com o vídeo do GTA6 Drops; o Personal Best, com o Jojo Gaming Guides." }
 perguntas:
   - { p: "Quanto tempo leva para platinar o GTA 6?", r: "Cerca de 200 horas, segundo o PowerPyx: de 60 a 80 horas de história, umas 100 horas de 100% e mais umas 10 de limpeza." }

@@ -6,14 +6,16 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "senhas-joalherias-yasmani-gta-6/cofre-casa-de-empeno.webp", legenda: "O cofre da Casa de Empeño aberto, com a corrente de crânio de búfalo que o Yasmani quer.", canal: "Trophy Tom", url: "https://www.youtube.com/watch?v=G22fobPcL88", minuto: "0:55" }
   - { arquivo: "oficial/vice-city-3.webp", legenda: "Vice City em imagem oficial do GTA 6, onde ficam as três joalherias. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-yasmanis-jewelry-jobs-walkthrough/", titulo: "GTA 6 Yasmani's Jewelry Jobs Walkthrough", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "EKW the gamer", url: "https://www.youtube.com/watch?v=-eLZbZSZizU", titulo: "GTA 6 Safe Codes: Why Robbery Codes Are Random + 6 Fixed Codes That Work", minuto: "4:33", data: "2026-11-19T21:22:05-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/", titulo: "GTA 6 Safe Codes And Robberies Guide", data: "2026-11-18T08:42:00-03:00" }
 descoberto_em: "2026-11-25T04:58:00-03:00"
-atualizado_em: "2026-11-25T04:58:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T04:58:00-03:00", nota: "Publicada como confirmada: as três senhas estão no passo a passo do PowerPyx e aparecem na tela no vídeo do EKW the gamer." }
 perguntas:
   - { p: "Qual a senha do cofre da Casa de Empeño no GTA 6?", r: "1680. O cofre fica no escritório pequeno dos fundos, e guarda a corrente de crânio de búfalo que o Yasmani quer." }

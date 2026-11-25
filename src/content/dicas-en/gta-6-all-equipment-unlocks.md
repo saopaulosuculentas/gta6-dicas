@@ -7,14 +7,16 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "equipamentos-gta-6"
 imagens:
+  - { arquivo: "equipamentos-gta-6/yasmani-snap-gun.webp", legenda: "Yasmani, who hands you the Snap Gun after the first jewelry store.", canal: "Trophy Tom", url: "https://www.youtube.com/watch?v=G22fobPcL88", minuto: "2:20" }
   - { arquivo: "oficial/lucia.webp", legenda: "Lucia in an official GTA 6 screenshot. This image is for illustration.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-equipment/", titulo: "GTA 6 All Equipment", data: "2026-11-19T12:00:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-steal-atm-tow-trucks/", titulo: "How To Tow Away And Steal ATMs In GTA 6", data: "2026-11-24T09:34:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/", titulo: "GTA 6 Safe Codes And Robberies Guide", data: "2026-11-18T08:42:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Published as confirmed: the list comes from PowerPyx, and GameSpot confirms the missions for the Dye Pack Jammer (Credit Check), the Cut-off Tool (Meet the Heders) and the Snap Gun (Chapter 3)." }
 perguntas:
   - { p: "How do you get the Snap Gun in GTA 6?", r: "It unlocks in Chapter 3, in the Yasmani's Jewelry Jobs mission. Hand the first item to Yasmani and he gives you the Snap Gun, which opens doors without setting off the alarm." }

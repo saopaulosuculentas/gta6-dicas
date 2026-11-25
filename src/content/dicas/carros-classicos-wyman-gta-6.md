@@ -6,13 +6,15 @@ categoria: segredos-e-locais
 status: em-verificacao
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "carros-classicos-wyman-gta-6/carro-classico-bandeira.webp", legenda: "Um dos carros clássicos do Wyman, com pintura de bandeira.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=uEb1_rhWjmI", minuto: "1:05" }
   - { arquivo: "oficial/grassrivers.webp", legenda: "Interior de Leonida, onde ficam várias peças. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "LunarGaming", url: "https://www.youtube.com/watch?v=uEb1_rhWjmI", titulo: "GTA 6 – How To Get All Of Wyman's Car Collection (All 5 Classic Cars)", minuto: "0:00", data: "2026-11-20T16:04:50-03:00" }
   - { tipo: site, canal: "Clips Leonida (TikTok)", url: "https://www.tiktok.com/@clipsleonida/video/7711039647089954061", titulo: "You asked where all 15 of Wyman's classic car parts are in GTA 6", data: "2026-11-22T13:52:32-03:00" }
 descoberto_em: "2026-11-24T07:45:00-03:00"
-atualizado_em: "2026-11-24T07:45:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-24T07:45:00-03:00", nota: "Publicada em verificação: o guia é do LunarGaming, e o vídeo do Clips Leonida com os locais das peças usa as imagens dele. Falta um segundo canal independente." }
 perguntas:
   - { p: "Como liberar os carros do Wyman no GTA 6?", r: "No capítulo 2, fale com o Wyman no Starlet Motel e faça a primeira corrida do Thrillbilly Mud Club. Depois ele manda uma mensagem sobre os carros clássicos. Só vale para a edição especial ou a Ultimate." }

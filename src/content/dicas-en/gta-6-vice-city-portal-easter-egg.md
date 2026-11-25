@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "portal-vice-city-ps2-easter-egg-gta-6"
 imagens:
+  - { arquivo: "portal-vice-city-ps2-easter-egg-gta-6/camisa-do-tommy.webp", legenda: "Jason in Tommy Vercetti's shirt, the portal's reward.", canal: "Shirrako", url: "https://www.youtube.com/watch?v=ZZdJmu00bME", minuto: "3:45" }
   - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City at night, in an official GTA 6 image. It shows the city, not the portal.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "Kotaku", url: "https://kotaku.com/gta-6-contains-a-very-hidden-secret-that-teleports-you-back-in-time-to-vice-city-on-the-ps2-2000759500", titulo: "GTA 6 Contains A Very Hidden Secret That Teleports You Back In Time To Vice City On The PS2", data: "2026-11-23T12:00:00-03:00" }
@@ -15,8 +16,9 @@ fontes:
   - { tipo: youtube, canal: "Misleading", url: "https://www.youtube.com/watch?v=t3zvakxz0js", titulo: "GTA 6's Secret Portal Takes You Back to Vice City! (Full Guide)", minuto: "0:39", data: "2026-11-23T09:44:53-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-has-a-terrifying-unkillable-npc-heres-how-to-find-him/", titulo: "GTA 6 Has A Terrifying Unkillable NPC, Here's How To Find Him", data: "2026-11-23T14:50:00-03:00" }
 descoberto_em: "2026-11-23T20:10:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Added the unkillable NPC at the same tower as Step 1 (GameSpot only for now)." }
   - { data: "2026-11-23T20:20:00-03:00", nota: "Published as confirmed: Kotaku played it through and Dan Allen Gaming walks the same route to the same portal and rewards. Switches for 11 of the 12 substations come from Dan Allen's narration; the 10th isn't called out, and exact addresses aren't confirmed in writing yet." }
 perguntas:

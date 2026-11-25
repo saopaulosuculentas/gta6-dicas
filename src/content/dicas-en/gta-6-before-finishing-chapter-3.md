@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "antes-de-terminar-capitulo-3-gta-6"
 imagens:
+  - { arquivo: "antes-de-terminar-capitulo-3-gta-6/montys-1922-no-chao.webp", legenda: "The golden Monty's 1922 pistol on the floor of the photo room.", canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=nRWlNQWkqzg", minuto: "5:45" }
   - { arquivo: "oficial/jason.webp", legenda: "Jason in an official GTA 6 screenshot. This image is for illustration.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "Caspahz", url: "https://www.youtube.com/watch?v=90ZyeSdyPPk", titulo: "GTA 6: Do This BEFORE Chapter 3 Ends (Secrets & Locations)", minuto: "4:24", data: "2026-11-24T11:42:32-03:00" }
@@ -15,8 +16,9 @@ fontes:
   - { tipo: youtube, canal: "Diggy", url: "https://www.youtube.com/watch?v=9OUDJGY2Yuc", titulo: "DON'T Make This Mistake Before Chapter 3 Ends In GTA 6", minuto: "0:47", data: "2026-11-22T15:04:49-03:00" }
   - { tipo: youtube, canal: "Tylarious", url: "https://www.youtube.com/watch?v=umrx86xI-dw", titulo: "***WARNING*** DO THIS BEFORE YOU COMPLETE CHAPTER 3 IN GTA VI", minuto: "0:36", data: "2026-11-24T20:18:00-03:00" }
 descoberto_em: "2026-11-25T09:05:00-03:00"
-atualizado_em: "2026-11-25T09:05:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T09:05:00-03:00", nota: "Published as confirmed using only what two channels show: Monty's 1922 (Caspahz and RageGamingVideos), Halifax (Caspahz and KhrazeGaming), the Yago race deadline (Caspahz and KhrazeGaming) and Vanessa's Growler (Diggy, KhrazeGaming and others). Single-channel claims are flagged in the text." }
 perguntas:
   - { p: "What can you miss in GTA 6 Chapter 3?", r: "According to these channels, the golden Monty's 1922 pistol if you don't grab it during the mission, Halifax's mission if you turn him down and never call back, and the pink Growler in the La Perle garage. The Race Against Yago also has a deadline." }

@@ -7,13 +7,15 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "senha-cofre-boliche-gta-6"
 imagens:
+  - { arquivo: "senha-cofre-boliche-gta-6/escritorio-kingpin-bowling.webp", legenda: "In the Kingpin Bowling office, where the safe is.", canal: "Kibbles Gaming", url: "https://www.youtube.com/watch?v=flrwzNDjwok", minuto: "3:10" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, in an official GTA 6 image released by Rockstar Games.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI" }
 fontes:
   - { tipo: site, canal: "PC Gamer", url: "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code-location/", titulo: "GTA 6 Bowling Alley safe code", data: "2026-11-21T10:49:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bowling-alley-safe-code/", titulo: "How to get into the GTA 6 Bowling Alley safe", data: "2026-11-20T13:55:00-03:00" }
 descoberto_em: "2026-11-22T10:40:00-03:00"
-atualizado_em: "2026-11-22T10:40:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-22T10:40:00-03:00", nota: "Published as confirmed: PC Gamer and GamesRadar+ give the same code and the same place to find it." }
 perguntas:
   - { p: "What is the GTA 6 bowling alley safe code?", r: "It is 0300. PC Gamer says this code is not randomized." }

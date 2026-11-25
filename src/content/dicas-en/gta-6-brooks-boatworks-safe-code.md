@@ -7,13 +7,15 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "senha-cofre-brooks-boatworks-gta-6"
 imagens:
+  - { arquivo: "senha-cofre-brooks-boatworks-gta-6/brooks-boatworks-galpao.webp", legenda: "Looting the Brooks Boatworks warehouse.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=ibfjrQE1_F4", minuto: "2:05" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, where Brooks Boatworks is, in an official GTA 6 image released by Rockstar Games. It shows the area, not the boatyard itself.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:27", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "12:04", data: "2026-11-20T17:42:19-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Published as confirmed: ConCon shows 6823 on the wall map and opens the safe with it; RaidAway opens the same safe with 6823 in his own game." }
 perguntas:
   - { p: "What is the Brooks Boatworks safe code in GTA 6?", r: "It's 6823. ConCon and RaidAway both opened the safe with it in their own playthroughs." }

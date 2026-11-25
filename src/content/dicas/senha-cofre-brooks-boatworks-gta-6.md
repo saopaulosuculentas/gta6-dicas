@@ -6,14 +6,16 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "senha-cofre-brooks-boatworks-gta-6/brooks-boatworks-galpao.webp", legenda: "Saqueando o galpão do Brooks Boatworks.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=ibfjrQE1_F4", minuto: "2:05" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, região do Brooks Boatworks, em imagem oficial do GTA 6 divulgada pela Rockstar Games. A foto mostra a região, não o estaleiro.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "2:27", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: youtube, canal: "RaidAway", url: "https://www.youtube.com/watch?v=e2FT03MGNxI", titulo: "GTA 6 Easy Money Guide – Hidden Cash & Loot Locations", minuto: "12:04", data: "2026-11-20T17:42:19-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/google/amp/guia/2026/11/gangues-gta-6-edjogos.ghtml", titulo: "Gangues de GTA 6: saiba história e localização das operações criminosas", data: "2026-11-18T08:01:00-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Publicada como confirmada: o ConCon mostra o 6823 no mapa da parede e abre o cofre com ele; o RaidAway abre o mesmo cofre com 6823 no jogo dele." }
 perguntas:
   - { p: "Qual é a senha do cofre do Brooks Boatworks no GTA 6?", r: "É 6823. O ConCon e o RaidAway abriram o cofre com esse número, cada um no seu jogo." }

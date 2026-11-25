@@ -7,6 +7,7 @@ status: confirmado
 plataformas: [ps5, xbox]
 pt: "senha-cofre-motel-la-cascara-gta-6"
 imagens:
+  - { arquivo: "senha-cofre-motel-la-cascara-gta-6/motel-la-cascara-dentro.webp", legenda: "Inside the La Cascara Motel during a stealth robbery.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=r5Gm_H7c_Jc", minuto: "2:05" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, home of the La Cascara Motel, in an official GTA 6 image released by Rockstar Games. It shows the area, not the motel itself.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "5:51", data: "2026-11-22T12:57:35-03:00" }
@@ -14,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "Accelerated Ideas", url: "https://www.youtube.com/watch?v=xYhn03r5YYU", titulo: "GTA 6: Chapter 2 La Cascara Motel Safe Code & Location", minuto: "0:03", data: "2026-11-22T18:17:02-03:00" }
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "3:53", data: "2026-11-21T09:15:30-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Published as confirmed: GosuNoob, WoW Quests, Accelerated Ideas and ConCon all open the safe with 6969 in their own games. ConCon shows the number written on the Brooks Boatworks wall map." }
 perguntas:
   - { p: "What is the La Cascara Motel safe code in GTA 6?", r: "It's 6969. Four different channels opened the safe with that number in their own playthroughs." }

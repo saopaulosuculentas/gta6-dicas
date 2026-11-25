@@ -6,14 +6,16 @@ categoria: guias
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "equipamentos-gta-6/yasmani-snap-gun.webp", legenda: "O Yasmani, que entrega a snap gun depois da primeira joalheria.", canal: "Trophy Tom", url: "https://www.youtube.com/watch?v=G22fobPcL88", minuto: "2:20" }
   - { arquivo: "oficial/lucia.webp", legenda: "Lucia em imagem oficial do GTA 6. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-all-equipment/", titulo: "GTA 6 All Equipment", data: "2026-11-19T12:00:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-steal-atm-tow-trucks/", titulo: "How To Tow Away And Steal ATMs In GTA 6", data: "2026-11-24T09:34:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-safe-codes-and-robberies-guide/", titulo: "GTA 6 Safe Codes And Robberies Guide", data: "2026-11-18T08:42:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Publicada como confirmada: a lista é do PowerPyx, e o GameSpot confirma as missões do bloqueador de tinta (Credit Check), da ferramenta de corte (Meet the Heders) e da snap gun (capítulo 3)." }
 perguntas:
   - { p: "Como pegar a snap gun no GTA 6?", r: "Ela libera no capítulo 3, na missão Yasmani's Jewelry Jobs. Entregue a primeira peça ao Yasmani e ele te dá a snap gun, que abre portas sem disparar o alarme." }

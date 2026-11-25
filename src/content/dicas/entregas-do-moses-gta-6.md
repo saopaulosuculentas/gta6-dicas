@@ -6,14 +6,16 @@ categoria: dinheiro
 status: em-verificacao
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "entregas-do-moses-gta-6/waink-montagne-xl.webp", legenda: "O scanner do WAiNK mostrando trava, alarme, rastreador e valor de venda de um carro.", canal: "ABTW", url: "https://www.youtube.com/watch?v=yfrAG7Qh__k", minuto: "3:20" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, onde fica a oficina do Moses. A imagem é ilustrativa.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "Mislead (TikTok)", url: "https://www.tiktok.com/@mislead/video/7711169493476609293", titulo: "Moses has a SECRET Sultan reward in GTA 6", data: "2026-11-22T22:16:21-03:00" }
   - { tipo: site, canal: "O Hilário (TikTok)", url: "https://www.tiktok.com/@ohilario3/video/7711073120211209493", titulo: "O Moses compra o carro que você roubar no GTA 6… mas tem limite por dia", data: "2026-11-22T16:01:57-03:00" }
   - { tipo: site, canal: "Vice Clips (TikTok)", url: "https://www.tiktok.com/@viceclips555/video/7711075144990526733", titulo: "GTA 6 money tip: 4 cars around Port Gellhorn that Moses pays over $20,000", data: "2026-11-22T16:10:08-03:00" }
 descoberto_em: "2026-11-24T07:40:00-03:00"
-atualizado_em: "2026-11-24T07:40:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-24T07:40:00-03:00", nota: "Publicada em verificação: os locais dos 7 carros são do Mislead (TikTok); as regras de venda vêm do O Hilário e do Vice Clips. A senha da garagem do Vamos ainda não foi vista na tela de nenhum vídeo, por isso não entrou." }
 perguntas:
   - { p: "Onde estão os carros do Moses no GTA 6?", r: "Todos em volta de Port Gellhorn e no norte do mapa: o Yosemite 1500 sendo guinchado no lado oeste de Port Gellhorn, o Hellion 95 no sul, o Crawler 82 na rotatória do norte, o Futo 85 em Draper Island, o Vamos numa garagem em Grayson, a Nightblade num galpão de motoqueiros em Ambrosia e o Bandito no Buckskin Swamp." }

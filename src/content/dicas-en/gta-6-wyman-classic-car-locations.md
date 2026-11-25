@@ -7,13 +7,15 @@ status: em-verificacao
 plataformas: [ps5, xbox]
 pt: "carros-classicos-wyman-gta-6"
 imagens:
+  - { arquivo: "carros-classicos-wyman-gta-6/carro-classico-bandeira.webp", legenda: "One of Wyman's classic cars, with a flag paint job.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=uEb1_rhWjmI", minuto: "1:05" }
   - { arquivo: "oficial/grassrivers.webp", legenda: "Inland Leonida, where several parts are. This image is for illustration.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "LunarGaming", url: "https://www.youtube.com/watch?v=uEb1_rhWjmI", titulo: "GTA 6 – How To Get All Of Wyman's Car Collection (All 5 Classic Cars)", minuto: "0:00", data: "2026-11-20T16:04:50-03:00" }
   - { tipo: site, canal: "Clips Leonida (TikTok)", url: "https://www.tiktok.com/@clipsleonida/video/7711039647089954061", titulo: "You asked where all 15 of Wyman's classic car parts are in GTA 6", data: "2026-11-22T13:52:32-03:00" }
 descoberto_em: "2026-11-24T07:45:00-03:00"
-atualizado_em: "2026-11-24T07:45:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-24T07:45:00-03:00", nota: "Published as unverified: the guide is LunarGaming's, and Clips Leonida's part locations video uses his footage. We still need a second independent channel." }
 perguntas:
   - { p: "How do you unlock Wyman's classic cars in GTA 6?", r: "In Chapter 2, talk to Wyman at the Starlet Motel and finish the first Thrillbilly Mud Club race. He then texts you about the classic cars. It's part of the Special or Ultimate Edition." }

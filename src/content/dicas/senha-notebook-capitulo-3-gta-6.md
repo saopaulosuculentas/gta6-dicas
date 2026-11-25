@@ -6,14 +6,16 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "senha-notebook-capitulo-3-gta-6/notebook-mensagem-la-perle.webp", legenda: "A conversa no notebook do apartamento, com o recado sobre La Perle.", canal: "Diggy", url: "https://www.youtube.com/watch?v=9OUDJGY2Yuc", minuto: "2:10" }
   - { arquivo: "oficial/vice-city-2.webp", legenda: "Vice City, onde ficam o apartamento do capítulo 3 e o bairro de La Perle, em imagem oficial do GTA 6 divulgada pela Rockstar Games. A foto mostra a cidade, não o notebook.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=0YPw7INbstM", titulo: "How to Log in to the Laptop in Chapter 3 House for Free Pink Growler Car for Lucia ► GTA 6", minuto: "1:12", data: "2026-11-22T18:15:05-03:00" }
   - { tipo: youtube, canal: "SimDEX", url: "https://www.youtube.com/watch?v=YLAze0YG_yk", titulo: "HOW TO UNLOCK BOOBIE'S LAPTOP in GTA 6 (PASSWORD & CLUES)", minuto: "0:52", data: "2026-11-21T16:15:19-03:00" }
   - { tipo: youtube, canal: "Japeta", url: "https://www.youtube.com/watch?v=5wBhC9zP_DY", titulo: "CONTEÚDO PERDÍVEL! Senha do Notebook + Garagem e Porsche Rosa - GTA 6", minuto: "0:27", data: "2026-11-21T18:21:20-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Publicada como confirmada: ConCon, SimDEX e Japeta entram no notebook com Muffins, Queen e 15. ConCon e Japeta abrem a garagem de La Perle com 92665." }
 perguntas:
   - { p: "Qual é a senha do notebook do capítulo 3 no GTA 6?", r: "É Muffins, Queen, 15. Você escolhe as três partes nessa ordem com o direcional, em vez de digitar." }

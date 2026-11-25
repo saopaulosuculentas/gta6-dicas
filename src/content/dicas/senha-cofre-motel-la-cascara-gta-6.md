@@ -6,6 +6,7 @@ categoria: segredos-e-locais
 status: confirmado
 plataformas: [ps5, xbox]
 imagens:
+  - { arquivo: "senha-cofre-motel-la-cascara-gta-6/motel-la-cascara-dentro.webp", legenda: "Dentro do Motel La Cascara, num roubo sem ser visto.", canal: "LunarGaming", url: "https://www.youtube.com/watch?v=r5Gm_H7c_Jc", minuto: "2:05" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, região do Motel La Cascara, em imagem oficial do GTA 6 divulgada pela Rockstar Games. A foto mostra a região, não o motel.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: youtube, canal: "GosuNoob", url: "https://www.youtube.com/watch?v=7XPFqmXu6mk", titulo: "GTA 6 La Cascara Motel Key Valuables & Safe Code", minuto: "5:51", data: "2026-11-22T12:57:35-03:00" }
@@ -14,8 +15,9 @@ fontes:
   - { tipo: youtube, canal: "ConCon", url: "https://www.youtube.com/watch?v=MkQCwZT5vC8", titulo: "How to get the Safe Code for Bowling Alley, Brooks Boatworks & La Cascara Motel ► GTA 6", minuto: "3:53", data: "2026-11-21T09:15:30-03:00" }
   - { tipo: site, canal: "TechTudo", url: "https://www.techtudo.com.br/google/amp/guia/2026/11/gangues-gta-6-edjogos.ghtml", titulo: "Gangues de GTA 6: saiba história e localização das operações criminosas", data: "2026-11-18T08:01:00-03:00" }
 descoberto_em: "2026-11-23T20:37:00-03:00"
-atualizado_em: "2026-11-23T20:37:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-23T20:37:00-03:00", nota: "Publicada como confirmada: GosuNoob, WoW Quests, Accelerated Ideas e ConCon abrem o cofre com 6969, cada um no seu jogo. O ConCon mostra o número escrito no mapa da parede do Brooks Boatworks." }
 perguntas:
   - { p: "Qual é a senha do cofre do Motel La Cascara no GTA 6?", r: "É 6969. O mesmo número abriu o cofre nos vídeos de quatro canais diferentes." }

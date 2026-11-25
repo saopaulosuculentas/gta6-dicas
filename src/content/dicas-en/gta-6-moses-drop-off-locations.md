@@ -7,13 +7,15 @@ status: em-verificacao
 plataformas: [ps5, xbox]
 pt: "entregas-do-moses-gta-6"
 imagens:
+  - { arquivo: "entregas-do-moses-gta-6/waink-montagne-xl.webp", legenda: "The WAiNK scanner showing a car's lock, alarm, tracker and sell value.", canal: "ABTW", url: "https://www.youtube.com/watch?v=yfrAG7Qh__k", minuto: "3:20" }
   - { arquivo: "oficial/port-gellhorn.webp", legenda: "Port Gellhorn, home of Moses' garage. This image is for illustration.", canal: "Rockstar Games", url: "https://www.rockstargames.com/VI/downloads/screenshots" }
 fontes:
   - { tipo: site, canal: "Mislead (TikTok)", url: "https://www.tiktok.com/@mislead/video/7711169493476609293", titulo: "Moses has a SECRET Sultan reward in GTA 6", data: "2026-11-22T22:16:21-03:00" }
   - { tipo: site, canal: "Vice Clips (TikTok)", url: "https://www.tiktok.com/@viceclips555/video/7711075144990526733", titulo: "GTA 6 money tip: 4 cars around Port Gellhorn that Moses pays over $20,000", data: "2026-11-22T16:10:08-03:00" }
 descoberto_em: "2026-11-24T07:40:00-03:00"
-atualizado_em: "2026-11-24T07:40:00-03:00"
+atualizado_em: "2026-11-25T09:27:00-03:00"
 historico:
+  - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-24T07:40:00-03:00", nota: "Published as unverified: the 7 car locations come from Mislead (TikTok) and the selling tips from Vice Clips. The Vamos garage code hasn't been shown on screen in any video we checked, so it's left out." }
 perguntas:
   - { p: "Where are Moses' cars in GTA 6?", r: "Around Port Gellhorn and up north: the Yosemite 1500 being towed on Port Gellhorn's west side, the Hellion 95 in the south, the Crawler 82 at the north roundabout, the Futo 85 on Draper Island, the Vamos in a Grayson garage, the Nightblade in an Ambrosia biker warehouse and the Bandito in Buckskin Swamp." }
