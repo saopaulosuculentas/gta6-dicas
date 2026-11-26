@@ -1,0 +1,197 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GTA 6 Chapter 4: Mistakes, Free Car and Missables</title><meta name="description" content="In Chapter 4, don't pay for Eddie Acosta's party, finish Bad Driver before Power Play and move your money into savings before picking up the Y Hotel reception message. Here's the list and the right free car."><link rel="canonical" href="https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="GTA 6 Chapter 4: Mistakes to Avoid, the Right Free Car and What You Can Miss"><meta property="og:description" content="In Chapter 4, don't pay for Eddie Acosta's party, finish Bad Driver before Power Play and move your money into savings before picking up the Y Hotel reception message. Here's the list and the right free car."><meta property="og:url" content="https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://macetesgta6.com.br/img/antes-de-terminar-capitulo-4-gta-6/comet-s2-gratis.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="GTA 6 Chapter 4: Mistakes to Avoid, the Right Free Car and What You Can Miss"><meta name="twitter:description" content="In Chapter 4, don't pay for Eddie Acosta's party, finish Bad Driver before Power Play and move your money into savings before picking up the Y Hotel reception message. Here's the list and the right free car."><meta name="twitter:image" content="https://macetesgta6.com.br/img/antes-de-terminar-capitulo-4-gta-6/comet-s2-gratis.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/antes-de-terminar-capitulo-4-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6 (English)" href="/en/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Should you pay Eddie Acosta in GTA 6?","acceptedAnswer":{"@type":"Answer","text":"No. Paying only gets you an image (NFT) on your phone, with no car, mission or money afterward. Refusing costs nothing."}},{"@type":"Question","name":"Which free car should you pick in GTA 6 Chapter 4?","acceptedAnswer":{"@type":"Answer","text":"According to Daylight Heist, the Pfister Comet S2, which has the best speed and acceleration. Lucia picks first, so take the S2 with her."}},{"@type":"Question","name":"What can you miss in GTA 6 Chapter 4?","acceptedAnswer":{"@type":"Answer","text":"The Bad Driver job disappears once you start Power Play, hourglass jobs expire, and your checking account money can freeze near the end of the chapter. Move it into savings first."}},{"@type":"Question","name":"GTA 6 Chapter 4 story seems stuck. What now?","acceptedAnswer":{"@type":"Answer","text":"Check your phone: there may be a BuckMe payment you need to make for the story to continue. You can pay it in parts. Then wait or sleep."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"GTA 6 Chapter 4: Mistakes to Avoid, the Right Free Car and What You Can Miss","description":"In Chapter 4, don't pay for Eddie Acosta's party, finish Bad Driver before Power Play and move your money into savings before picking up the Y Hotel reception message. Here's the list and the right free car.","datePublished":"2026-11-26T07:09:00.000Z","dateModified":"2026-11-26T07:09:00.000Z","inLanguage":"en","mainEntityOfPage":"https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/","image":"https://macetesgta6.com.br/img/antes-de-terminar-capitulo-4-gta-6/comet-s2-gratis.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/en/about/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://macetesgta6.com.br/en/"},{"@type":"ListItem","position":2,"name":"Tips","item":"https://macetesgta6.com.br/en/tips/"},{"@type":"ListItem","position":3,"name":"GTA 6 Chapter 4: Mistakes to Avoid, the Right Free Car and What You Can Miss","item":"https://macetesgta6.com.br/en/tip/gta-6-chapter-4-mistakes-missables/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/en/" aria-label="Macetes GTA 6, home page"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Sections"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Search</button><a href="/en/cheats/">Cheats</a><a href="/en/easter-eggs/">Easter eggs</a><a href="/en/secrets-and-locations/">Secrets &amp; locations</a><a href="/en/money/">Money</a><a href="/en/tips/">Tips</a><a href="/en/guides/">Guides</a><a href="/en/news/">Latest</a><a class="idioma" href="/dica/antes-de-terminar-capitulo-4-gta-6/" hreflang="pt-BR" lang="pt-BR" aria-label="Language"><span aria-hidden="true">EN</span> | <b>PT</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Last check: <strong>Nov 26, 4:10 AM BRT</strong></span><span><strong>152</strong> tips live</span><span><strong>130</strong> confirmed</span><span><strong>291</strong> videos and streams read</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="You are here"><a href="/en/">Home</a> <span>/</span> <a href="/en/tips/">Tips</a></nav><h1>GTA 6 Chapter 4: Mistakes to Avoid, the Right Free Car and What You Can Miss</h1><p class="dica__resumo">In Chapter 4, don&#39;t pay for Eddie Acosta&#39;s party, finish Bad Driver before Power Play and move your money into savings before picking up the Y Hotel reception message. Here&#39;s the list and the right free car.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed · 5 sources</span><span>Updated <time datetime="2026-11-26T07:09:00.000Z">Nov 26, 4:09 AM BRT</time></span><span>PS5 and Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/antes-de-terminar-capitulo-4-gta-6/comet-s2-gratis.webp" alt="Lucia picking the Chapter 4 free car, with the Pfister Comet S2 stats panel." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>Lucia picking the Chapter 4 free car, with the Pfister Comet S2 stats panel.<span>Image: Daylight Heist · <a href="https://www.youtube.com/watch?v=endIEH-Io64&amp;t=40s" target="_blank" rel="noopener nofollow">watch the video (0:40)</a></span></figcaption></figure><article class="texto"><p><strong>GTA 6’s Chapter 4 has a few traps:</strong></p>
+<ul>
+<li>don’t pay for <strong>Eddie Acosta’s</strong> party;</li>
+<li>finish the <strong>Bad Driver</strong> job before the <strong>Power Play</strong> mission;</li>
+<li>move your money into <strong>savings</strong> before you pick up the <strong>Y Hotel reception message</strong>.</li>
+</ul>
+<p>This list only includes what <strong>two or more channels</strong> show, like GTA6Digest, Pixden and SpookyFairy. Make a save in a new slot at the start of the chapter and another before the reception.</p>
+<h2 id="1-dont-pay-at-eddie-acostas-party">1. Don’t pay at Eddie Acosta’s party</h2>
+<p><strong>Eddie Acosta</strong> shows up in Chapter 4 at a bar and invites you to a party at <strong>Heathcliff Heights</strong>. There he takes you to the <strong>rooftop</strong>, locks the door and says you can only leave if you <strong>invest</strong>.</p>
+<ul>
+<li><strong>Paying</strong> only gets you an <strong>image (NFT)</strong> on your phone. No car, mission or money follows. GTA6Digest, Pixden and SpookyFairy all got the same result.</li>
+<li><strong>The price</strong> varies: in gameplay videos the button asked for <strong>$20,000</strong>; written guides say $50,000.</li>
+<li><strong>Intimidating</strong> him does nothing: the door stays locked, according to SpookyFairy.</li>
+<li><strong>Refusing</strong> costs nothing.</li>
+</ul>
+<h2 id="2-finish-bad-driver-before-power-play">2. Finish Bad Driver before Power Play</h2>
+<p><strong>Bad Driver</strong>, Andrea’s job in Millport where you track down Felipe, <strong>disappears for good</strong> once you start the main mission <strong>Power Play</strong>. GTA6Digest and Pixden both warn about it. Its ending has a choice: one option pays <strong>$20,000</strong> and the other unlocks a new job. Save first.</p>
+<h2 id="3-take-the-hourglass-jobs">3. Take the hourglass jobs</h2>
+<p>Jobs with an <strong>hourglass</strong> on the map run on a timer: miss the deadline and they’re gone. One example is a call from an unknown number asking Lucia to pick up <strong>Shayna</strong>. Answer and do it right away, as GTA6Digest and Pixden recommend.</p>
+<h2 id="4-story-seems-stuck-check-your-phone">4. Story seems stuck? Check your phone</h2>
+<p>At one point in the chapter, no main mission shows up on the map. That’s because a <strong>BuckMe payment</strong> has come in that you need to cover for the story to continue. You can <strong>pay in parts</strong> with whatever’s in your account. After the last payment, wait or sleep. GTA6Digest and Pixden both show it.</p>
+<h2 id="5-move-your-money-before-the-y-hotel-reception">5. Move your money before the Y Hotel reception</h2>
+<p>Near the end of the chapter, the map says someone left a <strong>message at the Y Hotel reception</strong>. Once you pick it up, the last missions roll one after another and your <strong>checking account gets frozen</strong>. In Pixden’s game, more than <strong>$277,000</strong> went to zero. Money in the <strong>family savings</strong> is safe, but you can’t withdraw it.</p>
+<p><strong>Before picking up the message:</strong> move what you want to keep into savings, keep only what you’ll spend, and save in a new slot.</p>
+<h2 id="6-other-mistakes-the-channels-flag">6. Other mistakes the channels flag</h2>
+<ul>
+<li><strong>Don’t tailgate the armored truck.</strong> Get too close and you alert it, failing the job. See <a href="../gta-6-how-to-rob-bank-vaults/">how to rob bank vaults</a>.</li>
+<li><strong>Don’t pay to have your car delivered.</strong> The <strong>Y Hotel</strong> has a <strong>free driver</strong>: press the button on the car out front. Your old cars are in a garage in Ocean Beach. <strong>Rental</strong> cars can’t be registered, sold or recovered.</li>
+<li><strong>Weapons you didn’t buy</strong> are lost if you die in combat or get arrested. You can only keep one of each model.</li>
+<li><strong>Watch your criminal profile:</strong> <strong>Irredeemable</strong> is permanent. See the <a href="../gta-6-criminal-profile-explained/">criminal profile</a>.</li>
+<li><strong>Keep Jason and Lucia close:</strong> holding hands, dates, answering messages and doing crimes together help. Ignoring calls hurts.</li>
+</ul>
+<h2 id="the-free-car-which-one-to-pick">The free car: which one to pick</h2>
+<p>In Chapter 4, Jason and Lucia each get <strong>one free car</strong> at a dealership, as Daylight Heist and Pixden show. <strong>Lucia picks first</strong>. Each car has a <strong>stats panel</strong> next to it.</p>
+<p>According to Daylight Heist, who opened the panels:</p>
+<table>
+<thead>
+<tr>
+<th>Car</th>
+<th>Speed</th>
+<th>Acceleration</th>
+<th>Asphalt</th>
+<th>Off-road</th>
+<th>Strength</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pfister Comet S2</strong></td>
+<td>7.8</td>
+<td>8.0</td>
+<td>7.2</td>
+<td>3.6</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Grotti Carbonizzare</td>
+<td>6.3</td>
+<td>7.1</td>
+<td>6.0</td>
+<td>3.6</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Canis Kamacho</td>
+<td>3.7</td>
+<td>n/a</td>
+<td>3.4</td>
+<td>6.7</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>Gallivanter Baller ST-D</td>
+<td>5.3</td>
+<td>6.4</td>
+<td>4.2</td>
+<td>5.0</td>
+<td>3.0</td>
+</tr>
+</tbody>
+</table>
+<p>Take the <strong>Comet S2</strong> first, with Lucia. For the second car, the <strong>Carbonizzare</strong> is better on asphalt and the <strong>Kamacho</strong> off-road. The fifth car, the Comet Retro, wasn’t opened in the video.</p>
+<h2 id="see-also">See also</h2>
+<ul>
+<li><a href="../gta-6-before-finishing-chapter-3/">What to do before finishing Chapter 3</a></li>
+<li><a href="../gta-6-keep-playing-after-ending/">Can you keep playing after the ending?</a></li>
+</ul>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="k8qxMFRDzZ4" data-inicio="11" aria-label="Play the video by GTA6Digest from 0:11"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Watch at 0:11</b><small>Channel GTA6Digest</small></button></div><figcaption>&quot;GTA 6: Don&#39;t Make These 10 Mistakes in Chapter 4&quot; by GTA6Digest. The video belongs to its creator and plays straight from YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Quick answers</h2><details><summary>Should you pay Eddie Acosta in GTA 6?</summary><p>No. Paying only gets you an image (NFT) on your phone, with no car, mission or money afterward. Refusing costs nothing.</p></details><details><summary>Which free car should you pick in GTA 6 Chapter 4?</summary><p>According to Daylight Heist, the Pfister Comet S2, which has the best speed and acceleration. Lucia picks first, so take the S2 with her.</p></details><details><summary>What can you miss in GTA 6 Chapter 4?</summary><p>The Bad Driver job disappears once you start Power Play, hourglass jobs expire, and your checking account money can freeze near the end of the chapter. Move it into savings first.</p></details><details><summary>GTA 6 Chapter 4 story seems stuck. What now?</summary><p>Check your phone: there may be a BuckMe payment you need to make for the story to continue. You can pay it in parts. Then wait or sleep.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">More in Tips</h2></div><div class="grade"><a class="cartao" href="/en/tip/gta-6-before-finishing-chapter-3/"><div class="cartao__img"><img src="/img/antes-de-terminar-capitulo-3-gta-6/montys-1922-no-chao.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Tips</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>What to Do Before Finishing Chapter 3 in GTA 6: Missable Weapons, Cars and Missions</h3><p>Before you wrap up Chapter 3, grab the golden Monty&#39;s 1922, don&#39;t turn Halifax down for good, run the Yago race before it expires and claim the pink Growler. Here&#39;s what you lose and what stays.</p><div class="cartao__pe"><time datetime="2026-11-26T07:09:00.000Z" data-relativo>Nov 26, 4:09 AM BRT</time><span>6 sources</span></div></a><a class="cartao" href="/en/tip/gta-6-xbox-turn-off-auto-upload/"><div class="cartao__img"><img src="/img/oficial/leonida-keys.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Tips</span><span class="selo selo--em-verificacao">Unverified</span></div><h3>GTA 6 on Xbox: Turn Off Automatic Clip Uploads to Avoid a Suspension</h3><p>One player says they got a two-day Xbox suspension over a GTA 6 clip that uploaded on its own. Here&#39;s how to turn off automatic uploads and what Xbox has said about clip suspensions.</p><div class="cartao__pe"><time datetime="2026-11-25T12:05:00.000Z" data-relativo>Nov 25, 9:05 AM BRT</time><span>1 source</span></div></a><a class="cartao" href="/en/tip/gta-6-before-finishing-chapter-2/"><div class="cartao__img"><img src="/img/antes-de-terminar-capitulo-2-gta-6/port-gellhorn-carro.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Tips</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmed</span></div><h3>What to Do Before Finishing Chapter 2 in GTA 6: What You Lose When You Move to Vice City</h3><p>Picking up the case at the Starlet Motel ends Chapter 2 and boards up the motel. Before that, pay Linda, grab the two motel cards, hit the savings goal and save in a separate slot.</p><div class="cartao__pe"><time datetime="2026-11-25T11:59:00.000Z" data-relativo>Nov 25, 8:59 AM BRT</time><span>2 sources</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>Sources</h2><ul class="fontes"><li><b>GTA6Digest</b><a href="https://www.youtube.com/watch?v=k8qxMFRDzZ4&amp;t=11s" target="_blank" rel="noopener nofollow">GTA 6: Don&#39;t Make These 10 Mistakes in Chapter 4 (at 0:11)</a><small>November 22, 2026</small></li><li><b>Pixden</b><a href="https://www.youtube.com/watch?v=v6vQFyUfHl8&amp;t=13s" target="_blank" rel="noopener nofollow">GTA 6: DON&#39;T Make These Mistakes in Chapter 4 (No Spoilers) (at 0:13)</a><small>November 21, 2026</small></li><li><b>SpookyFairy</b><a href="https://www.youtube.com/watch?v=KipVew3av6Q&amp;t=14s" target="_blank" rel="noopener nofollow">GTA 6: Eddie Acosta&#39;s Rooftop Party – Pay or Refuse? (Chapter 4 Guide) (at 0:14)</a><small>November 24, 2026</small></li><li><b>Daylight Heist</b><a href="https://www.youtube.com/watch?v=endIEH-Io64&amp;t=11s" target="_blank" rel="noopener nofollow">GTA 6 Free Supercar (Chapter 4): Don&#39;t Pick the Wrong One (at 0:11)</a><small>November 23, 2026</small></li><li><b>GameSpot</b><a href="https://www.gamespot.com/articles/all-missable-missions-in-gta-6-and-how-to-start-them/" target="_blank" rel="noopener nofollow">All Missable Missions In GTA 6 And How To Start Them</a><small>November 25, 2026</small></li></ul></div><div class="caixa"><h2>Status</h2><p><strong style="color: var(--menta)">Confirmed.</strong> This shows up in 5 different sources.</p><ul class="historico"><li><time datetime="2026-11-26T07:09:00.000Z">Nov 26, 4:09 AM BRT</time>Published as confirmed with what two or more channels show (GTA6Digest, Pixden, SpookyFairy and GameSpot). The free car stats come only from Daylight Heist and are flagged.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Search"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Close search">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;en&quot;,&quot;indice&quot;:&quot;/en/search.json&quot;,&quot;termos&quot;:[&quot;Mandy's house&quot;,&quot;chapter 3 missions&quot;,&quot;best car to sell to Moses&quot;,&quot;Paul Walker car&quot;,&quot;Randy's cars&quot;,&quot;mission list&quot;,&quot;sell cars&quot;,&quot;how many chapters&quot;,&quot;bowling alley safe code&quot;,&quot;weapon locations&quot;,&quot;make money&quot;,&quot;good ending&quot;,&quot;key cloner&quot;,&quot;impound&quot;,&quot;how to save&quot;,&quot;cheat codes&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Looking for something specific? Or feeling lost?&quot;,&quot;chamada&quot;:&quot;Search here&quot;,&quot;exemplo&quot;:&quot;Weapon, car, safe, mission...&quot;,&quot;buscar&quot;:&quot;Search&quot;,&quot;limpar&quot;:&quot;Clear&quot;,&quot;mais&quot;:&quot;Most searched&quot;,&quot;maisNota&quot;:&quot;on Google&quot;,&quot;tambem&quot;:&quot;People also look for&quot;,&quot;recentes&quot;:&quot;Your recent searches&quot;,&quot;esquecer&quot;:&quot;Clear&quot;,&quot;perdido&quot;:&quot;Feeling lost? Start with a section&quot;,&quot;sugestoes&quot;:&quot;Suggestions&quot;,&quot;tudo&quot;:&quot;All&quot;,&quot;confirmadas&quot;:&quot;Confirmed only&quot;,&quot;carregando&quot;:&quot;Searching...&quot;,&quot;um&quot;:&quot;1 result&quot;,&quot;varios&quot;:&quot;{n} results&quot;,&quot;parcial&quot;:&quot;Nothing had every word. These are the closest:&quot;,&quot;correcao&quot;:&quot;Showing results for \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Nothing found for that. Try another word or pick one of the options below.&quot;,&quot;erro&quot;:&quot;Search did not load. Check your connection and try again.&quot;,&quot;melhor&quot;:&quot;Best match&quot;,&quot;confirmado&quot;:&quot;Confirmed&quot;,&quot;verificacao&quot;:&quot;Unverified&quot;,&quot;verMais&quot;:&quot;Show more results&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Looking for something specific? Or feeling lost? <span class="sol">Search here</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Weapon, car, safe, mission..." aria-label="Looking for something specific? Or feeling lost? Search here" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Clear" hidden>×</button><button class="pesquisa__botao" type="submit">Search</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Your recent searches <button type="button" data-esquecer>Clear</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Most searched <small>on Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="Mandy's house" data-nav><i aria-hidden="true">1</i>Mandy&#39;s house</button></li><li><button type="button" data-termo="chapter 3 missions" data-nav><i aria-hidden="true">2</i>chapter 3 missions</button></li><li><button type="button" data-termo="best car to sell to Moses" data-nav><i aria-hidden="true">3</i>best car to sell to Moses</button></li><li><button type="button" data-termo="Paul Walker car" data-nav><i aria-hidden="true">4</i>Paul Walker car</button></li><li><button type="button" data-termo="Randy's cars" data-nav><i aria-hidden="true">5</i>Randy&#39;s cars</button></li><li><button type="button" data-termo="mission list" data-nav><i aria-hidden="true">6</i>mission list</button></li><li><button type="button" data-termo="sell cars" data-nav><i aria-hidden="true">7</i>sell cars</button></li><li><button type="button" data-termo="how many chapters" data-nav><i aria-hidden="true">8</i>how many chapters</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">People also look for</p><div class="pesquisa__chips"><button type="button" data-termo="bowling alley safe code" data-nav>bowling alley safe code</button><button type="button" data-termo="weapon locations" data-nav>weapon locations</button><button type="button" data-termo="make money" data-nav>make money</button><button type="button" data-termo="good ending" data-nav>good ending</button><button type="button" data-termo="key cloner" data-nav>key cloner</button><button type="button" data-termo="impound" data-nav>impound</button><button type="button" data-termo="how to save" data-nav>how to save</button><button type="button" data-termo="cheat codes" data-nav>cheat codes</button></div></div><nav class="pesquisa__bloco" aria-label="Feeling lost? Start with a section"><p class="pesquisa__rotulo">Feeling lost? Start with a section</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/en/cheats/" data-nav>Cheats</a><a href="/en/easter-eggs/" data-nav>Easter eggs</a><a href="/en/secrets-and-locations/" data-nav>Secrets &amp; locations</a><a href="/en/money/" data-nav>Money</a><a href="/en/tips/" data-nav>Tips</a><a href="/en/guides/" data-nav>Guides</a><a href="/en/news/" data-nav>Latest</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Suggestions"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Show more results</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Independent fan site. Every tip shows where it came from and whether more than one source has confirmed it.</p><p>Not affiliated with Rockstar Games or Take-Two Interactive. Grand Theft Auto and GTA are trademarks of their owners.</p></div><div><h2>Sections</h2><ul><li><a href="/en/cheats/">Cheats</a></li><li><a href="/en/easter-eggs/">Easter eggs</a></li><li><a href="/en/secrets-and-locations/">Secrets &amp; locations</a></li><li><a href="/en/money/">Money</a></li><li><a href="/en/tips/">Tips</a></li><li><a href="/en/guides/">Guides</a></li><li><a href="/en/news/">Latest</a></li></ul></div><div><h2>The site</h2><ul><li><a href="/en/how-we-verify/">How we verify</a></li><li><a href="/en/about/">About</a></li><li><a href="/en/contact/">Contact</a></li><li><a href="/en/privacy-policy/">Privacy policy</a></li><li><a href="/en/terms/">Terms of use</a></li><li><a href="/dica/antes-de-terminar-capitulo-4-gta-6/" hreflang="pt-BR">Português</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Original text; embedded videos belong to their creators.</div></div></footer><script>(function(){const ingles = true;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Project Rumba no GTA 6: passo a passo e senhas</title><meta name="description" content="Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. Veja as senhas 09-06-07 e 0612, a ordem das escolhas, a pistola Duke 1922 e o bônus de foco no fim."><link rel="canonical" href="https://macetesgta6.com.br/dica/project-rumba-gta-6/"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="theme-color" content="#0d0916"><meta property="og:type" content="article"><meta property="og:site_name" content="Macetes GTA 6"><meta property="og:title" content="Project Rumba no GTA 6: o segredo do bunker que aumenta o foco para sempre, passo a passo"><meta property="og:description" content="Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. Veja as senhas 09-06-07 e 0612, a ordem das escolhas, a pistola Duke 1922 e o bônus de foco no fim."><meta property="og:url" content="https://macetesgta6.com.br/dica/project-rumba-gta-6/"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://macetesgta6.com.br/img/project-rumba-gta-6/relogio-da-recepcao.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Project Rumba no GTA 6: o segredo do bunker que aumenta o foco para sempre, passo a passo"><meta name="twitter:description" content="Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. Veja as senhas 09-06-07 e 0612, a ordem das escolhas, a pistola Duke 1922 e o bônus de foco no fim."><meta name="twitter:image" content="https://macetesgta6.com.br/img/project-rumba-gta-6/relogio-da-recepcao.webp"><link rel="alternate" hreflang="pt-BR" href="https://macetesgta6.com.br/dica/project-rumba-gta-6/"><link rel="alternate" hreflang="en" href="https://macetesgta6.com.br/en/tip/gta-6-project-rumba/"><link rel="alternate" hreflang="x-default" href="https://macetesgta6.com.br/en/tip/gta-6-project-rumba/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="alternate" type="application/rss+xml" title="Macetes GTA 6" href="/rss.xml"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Saira+Extra+Condensed:wght@600;700;800&family=Yellowtail&display=swap" rel="stylesheet"><script>(function(){const gaId = "G-LT5SX099HQ";
+
+  (function () {
+    var ACEITOU = 1, RECUSOU = 2, NAO_SE_APLICA = 3; // googlefc.ConsentModePurposeStatusEnum
+    var PAISES = 'AT BE BG HR CY CZ DK EE FI FR DE GR HU IS IE IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE GB CH GF GP MQ RE YT MF'.split(' ');
+    // fusos da Europa que não começam com "Europe/"
+    var FUSOS = 'Atlantic/Canary Atlantic/Madeira Atlantic/Azores Atlantic/Reykjavik Atlantic/Faroe Atlantic/Faeroe Arctic/Longyearbyen Asia/Nicosia Asia/Famagusta Africa/Ceuta America/Cayenne America/Guadeloupe America/Martinique America/Marigot Indian/Reunion Indian/Mayotte'.split(' ');
+
+    var fuso = '';
+    try { fuso = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
+    // sem fuso confiável (vazio, UTC, Etc/...) trata como Europa: na dúvida, espera
+    var espera = !/^[A-Za-z]+\/.+/.test(fuso) || /^(Europe|Etc)\//.test(fuso) || FUSOS.indexOf(fuso) > -1;
+    var carregado = false;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    // segunda trava, pela localização que o próprio Google vê (VPN, viajante com relógio de outro país)
+    gtag('consent', 'default', { analytics_storage: 'denied', region: PAISES });
+
+    function ligar() {
+      window['ga-disable-' + gaId] = false;
+      if (carregado) return;
+      carregado = true;
+      gtag('js', new Date());
+      gtag('config', gaId);
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+      document.head.appendChild(s);
+    }
+
+    function pausar() {
+      window['ga-disable-' + gaId] = true;
+    }
+
+    function apagarCookies() {
+      var host = location.hostname;
+      document.cookie.split(';').forEach(function (c) {
+        var nome = c.split('=')[0].trim();
+        if (nome !== '_ga' && nome.indexOf('_ga_') !== 0) return;
+        ['', '; domain=' + host, '; domain=.' + host].forEach(function (d) {
+          document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + d;
+        });
+      });
+    }
+
+    function decidir() {
+      var fc = window.googlefc;
+      var valor = fc.getGoogleConsentModeValues ? fc.getGoogleConsentModeValues().analyticsStoragePurposeConsentStatus : 0;
+      if (valor === ACEITOU) {
+        gtag('consent', 'update', { analytics_storage: 'granted' });
+        ligar();
+      } else if (valor === RECUSOU) {
+        gtag('consent', 'update', { analytics_storage: 'denied' });
+        pausar();
+        apagarCookies();
+      } else if (valor === NAO_SE_APLICA || !espera) {
+        ligar();
+      } else {
+        pausar(); // sem resposta ou opção desligada no AdSense
+      }
+    }
+
+    var fila = ((window.googlefc = window.googlefc || {}).callbackQueue = window.googlefc.callbackQueue || []);
+    fila.push({ CONSENT_MODE_DATA_READY: decidir });
+    fila.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== 'function') return;
+        window.__tcfapi('addEventListener', 2, function (dados, ok) {
+          if (!ok || !dados) return;
+          if (dados.eventStatus === 'cmpuishown') {
+            // aviso na tela (inclusive ao rever a escolha): para até vir a resposta
+            espera = true;
+            pausar();
+          } else if (dados.eventStatus === 'useractioncomplete') {
+            setTimeout(decidir, 0);
+          }
+        });
+      },
+    });
+
+    if (espera) pausar();
+    else ligar();
+  })();
+})();</script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3340639341412766" crossorigin="anonymous"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Como começar o Project Rumba no GTA 6?","acceptedAnswer":{"@type":"Answer","text":"Termine os dois bunkers do presidente Russo. Depois volte ao segundo bunker, aperte o botão do console e volte ao corredor perto da escotilha: a sala de condicionamento estará aberta. Sente na cadeira."}},{"@type":"Question","name":"Qual a senha do teclado do Project Rumba?","acceptedAnswer":{"@type":"Answer","text":"09-06-07, no teclado à direita da recepção. Os números vêm das camas que sobraram no dormitório."}},{"@type":"Question","name":"Qual a senha do computador do Project Rumba?","acceptedAnswer":{"@type":"Answer","text":"President, Russo e 0612. Depois escolha Open Your Eyes, Find the Source e só no fim Break the Cycle."}},{"@type":"Question","name":"O que ganha no Project Rumba?","acceptedAnswer":{"@type":"Answer","text":"Um aumento permanente de foco e a tatuagem Brainwash para o Jason e a Lucia. No caminho você pega a pistola Duke 1922."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Project Rumba no GTA 6: o segredo do bunker que aumenta o foco para sempre, passo a passo","description":"Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. Veja as senhas 09-06-07 e 0612, a ordem das escolhas, a pistola Duke 1922 e o bônus de foco no fim.","datePublished":"2026-11-26T07:09:00.000Z","dateModified":"2026-11-26T07:09:00.000Z","inLanguage":"pt-BR","mainEntityOfPage":"https://macetesgta6.com.br/dica/project-rumba-gta-6/","image":"https://macetesgta6.com.br/img/project-rumba-gta-6/relogio-da-recepcao.webp","author":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/"},"publisher":{"@type":"Organization","name":"Macetes GTA 6","url":"https://macetesgta6.com.br/sobre/","logo":{"@type":"ImageObject","url":"https://macetesgta6.com.br/logo-512.png","width":512,"height":512}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://macetesgta6.com.br/"},{"@type":"ListItem","position":2,"name":"Easter eggs","item":"https://macetesgta6.com.br/easter-eggs/"},{"@type":"ListItem","position":3,"name":"Project Rumba no GTA 6: o segredo do bunker que aumenta o foco para sempre, passo a passo","item":"https://macetesgta6.com.br/dica/project-rumba-gta-6/"}]}</script><link rel="stylesheet" href="/_astro/Base.LRuwPb8c.css"></head><body><header class="topo"><div class="miolo"><a class="marca" href="/" aria-label="Macetes GTA 6, página inicial"><span class="marca__letreiro">Macetes</span><span class="marca__tag">GTA 6</span></a><nav class="menu" aria-label="Seções"><button class="menu__busca" type="button" data-abrir-busca aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>Buscar</button><a href="/codigos/">Códigos</a><a href="/easter-eggs/">Easter eggs</a><a href="/segredos-e-locais/">Segredos e locais</a><a href="/dinheiro/">Dinheiro</a><a href="/dicas/">Dicas</a><a href="/guias/">Guias</a><a href="/novidades/">Novidades</a><a class="idioma" href="/en/tip/gta-6-project-rumba/" hreflang="en" lang="en" aria-label="Idioma"><span aria-hidden="true">PT</span> | <b>EN</b></a></nav></div><div class="faixa"><div class="miolo"><span><i class="pisca"></i>Última checagem: <strong>26/11 às 04:10</strong></span><span><strong>170</strong> dicas no ar</span><span><strong>147</strong> confirmadas</span><span><strong>291</strong> vídeos e lives lidos</span></div></div></header><div class="miolo"></div><div class="miolo dica"><main><header class="dica__cabeca"><nav class="trilho" aria-label="Você está em"><a href="/">Início</a> <span>/</span> <a href="/easter-eggs/">Easter eggs</a></nav><h1>Project Rumba no GTA 6: o segredo do bunker que aumenta o foco para sempre, passo a passo</h1><p class="dica__resumo">Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. Veja as senhas 09-06-07 e 0612, a ordem das escolhas, a pistola Duke 1922 e o bônus de foco no fim.</p><div class="dica__meta"><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado · 2 fontes</span><span>Atualizado em <time datetime="2026-11-26T07:09:00.000Z">26/11 às 04:09</time></span><span>PS5 e Xbox Series</span></div></header><figure class="figura figura--capa"><img src="/img/project-rumba-gta-6/relogio-da-recepcao.webp" alt="O relógio da recepção, que leva do passado ao presente dentro do Project Rumba." width="1200" height="675" loading="eager" decoding="async" fetchpriority="high"><figcaption>O relógio da recepção, que leva do passado ao presente dentro do Project Rumba.<span>Imagem: WhizL · <a href="https://www.youtube.com/watch?v=h2QBxoBuocU&amp;t=500s" target="_blank" rel="noopener nofollow">ver o vídeo (8:20)</a></span></figcaption></figure><article class="texto"><p><strong>O Project Rumba é a continuação do segredo dos bunkers do presidente Russo.</strong> Uma cadeira de condicionamento leva você a uma instalação secreta que se repete em <strong>loop</strong>, e um relógio deixa você viajar entre o <strong>passado</strong> (tudo limpo e iluminado) e o <strong>presente</strong> (tudo em ruínas). No fim, você ganha <strong>foco para sempre</strong> e a tatuagem <strong>Brainwash</strong>.</p>
+<p>O GameSpot e o WhizL mostram o caminho completo. <strong>Tem spoiler</strong> do mistério nesta página.</p>
+<h2 id="antes-de-começar">Antes de começar</h2>
+<p>Termine os <strong>dois bunkers do presidente Russo</strong>: o da ilha, com a pistola Russo’s 1922, e o da mata, com o tanque. Veja o passo a passo em <a href="../tanque-gratis-bunker-secreto-gta-6/">tanque grátis no bunker secreto</a>.</p>
+<h2 id="como-entrar">Como entrar</h2>
+<ol>
+<li>Volte ao <strong>segundo bunker</strong> e aperte o botão do <strong>console</strong> da sala de controle.</li>
+<li>Volte ao <strong>corredor perto da escotilha</strong>: a <strong>sala de condicionamento</strong> agora está aberta.</li>
+<li><strong>Sente na cadeira.</strong> O jogo passa para <strong>primeira pessoa</strong>.</li>
+</ol>
+<h2 id="loops-1-e-2-o-relógio">Loops 1 e 2: o relógio</h2>
+<ol>
+<li>Siga as portas com placa de <strong>saída</strong> até a <strong>recepção</strong>, que tem um <strong>relógio</strong> na parede. O presidente <strong>Russo</strong> bloqueia as portas vermelhas.</li>
+<li>Passe pela <strong>outra porta</strong>, ao lado dele. Você volta ao corredor do começo: é um loop.</li>
+<li>No segundo loop, entre na sala onde você começou e <strong>atenda o telefone vermelho</strong>.</li>
+<li>Na recepção, olhe para o <strong>relógio</strong> e segure <strong>L2</strong> (LT no Xbox). A tela distorce e você vai para a mesma instalação <strong>em ruínas</strong>: o presente.</li>
+</ol>
+<p>O relógio da recepção é a sua máquina do tempo. Use ele sempre que precisar trocar de época.</p>
+<h2 id="loop-3-as-camas-e-as-senhas">Loop 3: as camas e as senhas</h2>
+<ol>
+<li><strong>No presente</strong>, olhe o <strong>dormitório</strong>: sobraram <strong>três camas</strong> (esquerda, meio e direita).</li>
+<li>Numa sala de <strong>janela quebrada</strong>, atenda o telefone: ele fala dos <strong>três candidatos</strong> que sobreviveram.</li>
+<li>Volte ao <strong>passado</strong> pelo relógio e olhe os <strong>números em cima dessas três camas</strong>: <strong>06, 07 e 09</strong>.</li>
+<li>Na recepção, <strong>não</strong> passe pela porta. Olhe à <strong>direita</strong>: tem um <strong>teclado</strong>. Digite <strong>09-06-07</strong> para abrir a <strong>sala de controle</strong>.</li>
+<li>Atenda o telefone ao lado do computador e entre no computador com: <strong>President</strong>, <strong>Russo</strong> e <strong>0612</strong>.</li>
+<li>Escolha nesta ordem: primeiro <strong>Open Your Eyes</strong> (liga as câmeras), depois <strong>Find the Source</strong> (abre o laboratório). <strong>Ainda não</strong> escolha <strong>Break the Cycle</strong>.</li>
+</ol>
+<h2 id="loop-4-a-pistola-escondida">Loop 4: a pistola escondida</h2>
+<ol>
+<li>Passe pelo Russo para começar outro loop e entre no <strong>laboratório</strong>. Atenda o telefone.</li>
+<li>Vá ao <strong>presente</strong> pelo relógio e volte ao laboratório.</li>
+<li>Na parede da direita tem uma <strong>foto do seu personagem</strong>. Olhe para ela com <strong>L2</strong> e dê zoom com <strong>R2</strong> até a tela ficar <strong>vermelha</strong>.</li>
+<li>Abaixe a câmera: tem uma caixa com a <strong>pistola Duke 1922</strong>. Pegue.</li>
+</ol>
+<h2 id="loop-5-o-fim">Loop 5: o fim</h2>
+<ol>
+<li>Volte à <strong>sala de controle do passado</strong>. Se a porta não abrir, faça mais um loop.</li>
+<li>No computador, escolha <strong>Break the Cycle</strong>.</li>
+<li>Na recepção, o <strong>Russo</strong> não bloqueia mais a saída. Passe pelas portas: ele tenta fugir.</li>
+<li>Ligue o <strong>modo foco</strong> e acerte um ponto crítico.</li>
+</ol>
+<p>Você sai da simulação com um <strong>aumento permanente de foco</strong> e a tatuagem <strong>Brainwash</strong> liberada para o Jason e a Lucia.</p>
+<h2 id="veja-também">Veja também</h2>
+<ul>
+<li><a href="../aumentar-vida-folego-foco-gta-6/">Como aumentar vida, fôlego e foco para sempre</a></li>
+<li><a href="../easter-eggs-gta-6-lista/">Lista de easter eggs do GTA 6</a></li>
+</ul>
+</article><figure class="video"><div class="video__moldura"><button class="video__botao" type="button" data-video="h2QBxoBuocU" data-inicio="0" aria-label="Tocar o vídeo de WhizL a partir de 0:00"><span class="video__play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3v18l15-9z"></path></svg></span><b>Ver no minuto 0:00</b><small>Canal WhizL</small></button></div><figcaption>&quot;GTA 6: The MK-Ultra Mystery SOLVED! (Full Walkthrough)&quot;, de WhizL. O vídeo pertence ao criador e toca direto do YouTube.</figcaption></figure><script>
+  document.querySelectorAll('.video__botao').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&start=' + (b.dataset.inicio || 0);
+      f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+      f.allowFullscreen = true;
+      f.title = b.getAttribute('aria-label');
+      b.replaceWith(f);
+    });
+  });
+</script><section class="perguntas" aria-labelledby="s-perguntas"><h2 id="s-perguntas">Perguntas rápidas</h2><details><summary>Como começar o Project Rumba no GTA 6?</summary><p>Termine os dois bunkers do presidente Russo. Depois volte ao segundo bunker, aperte o botão do console e volte ao corredor perto da escotilha: a sala de condicionamento estará aberta. Sente na cadeira.</p></details><details><summary>Qual a senha do teclado do Project Rumba?</summary><p>09-06-07, no teclado à direita da recepção. Os números vêm das camas que sobraram no dormitório.</p></details><details><summary>Qual a senha do computador do Project Rumba?</summary><p>President, Russo e 0612. Depois escolha Open Your Eyes, Find the Source e só no fim Break the Cycle.</p></details><details><summary>O que ganha no Project Rumba?</summary><p>Um aumento permanente de foco e a tatuagem Brainwash para o Jason e a Lucia. No caminho você pega a pistola Duke 1922.</p></details></section><section class="secao" aria-labelledby="s-mais"><div class="secao__cabeca"><h2 id="s-mais">Mais em Easter eggs</h2></div><div class="grade"><a class="cartao" href="/dica/aumentar-vida-folego-foco-gta-6/"><div class="cartao__img"><img src="/img/aumentar-vida-folego-foco-gta-6/fogueira-do-inferno.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Como aumentar vida, fôlego e foco para sempre no GTA 6: os 5 easter eggs que dão bônus</h3><p>Cinco segredos do GTA 6 aumentam a vida, o fôlego ou o foco de vez: os aliens, o inferno, o morango do Kyle, o parkour do cogumelo e o esgoto dos No Flushers. Veja o que cada um dá e como fazer.</p><div class="cartao__pe"><time datetime="2026-11-26T07:07:00.000Z" data-relativo>26/11 às 04:07</time><span>5 fontes</span></div></a><a class="cartao" href="/dica/apartamento-dexter-gta-6/"><div class="cartao__img"><img src="/img/apartamento-dexter-gta-6/corredor-trinity-apartments.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Apartamento do Dexter no GTA 6: onde fica a casa do Dexter Morgan em Vice City</h3><p>O GTA 6 recriou o prédio do Dexter Morgan, da série Dexter, em Vice City. Veja onde fica no mapa, qual é a porta e os outros detalhes da série escondidos por perto.</p><div class="cartao__pe"><time datetime="2026-11-25T12:39:00.000Z" data-relativo>25/11 às 09:39</time><span>2 fontes</span></div></a><a class="cartao" href="/dica/portal-vice-city-ps2-easter-egg-gta-6/"><div class="cartao__img"><img src="/img/portal-vice-city-ps2-easter-egg-gta-6/camisa-do-tommy.webp" alt="" width="600" height="338" loading="lazy" decoding="async"></div><div class="cartao__topo"><span class="etiqueta">Easter eggs</span><span class="selo selo--confirmado"><svg viewBox="0 0 12 12" aria-hidden="true"><path d="M1.5 6.4 4.6 9.5 10.5 2.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>Confirmado</span></div><h3>Portal para a Vice City do PS2 no GTA 6: como fazer o easter egg do Tommy</h3><p>O GTA 6 esconde um portal que leva o Jason ao Malibu Club da Vice City de 2002. Veja a torre, as 12 subestações com o botão de cada uma, o horário da usina e os prêmios.</p><div class="cartao__pe"><time datetime="2026-11-25T12:27:00.000Z" data-relativo>25/11 às 09:27</time><span>5 fontes</span></div></a></div></section></main><aside class="lateral"><div class="caixa"><h2>De onde veio</h2><ul class="fontes"><li><b>GameSpot</b><a href="https://www.gamespot.com/articles/gta-6-project-rumba-brainwash/" target="_blank" rel="noopener nofollow">How To Complete The Project Rumba Secret In GTA 6</a><small>25 de novembro de 2026</small></li><li><b>WhizL</b><a href="https://www.youtube.com/watch?v=h2QBxoBuocU" target="_blank" rel="noopener nofollow">GTA 6: The MK-Ultra Mystery SOLVED! (Full Walkthrough) (minuto 0:00)</a><small>21 de novembro de 2026</small></li></ul></div><div class="caixa"><h2>Situação</h2><p><strong style="color: var(--menta)">Confirmado.</strong> A informação aparece em 2 fontes diferentes.</p><ul class="historico"><li><time datetime="2026-11-26T07:09:00.000Z">26/11 às 04:09</time>Publicada como confirmada: o GameSpot e o WhizL mostram o mesmo caminho dentro da instalação, as senhas e o prêmio.</li></ul></div></aside></div><dialog class="janela-busca" aria-label="Buscar"><button class="janela-busca__fechar" type="button" data-fechar aria-label="Fechar a busca">×</button><div class="pesquisa pesquisa--janela" data-pesquisa="{&quot;lang&quot;:&quot;pt&quot;,&quot;indice&quot;:&quot;/busca.json&quot;,&quot;termos&quot;:[&quot;registrar carro&quot;,&quot;quantas missões tem&quot;,&quot;consertar anteparo&quot;,&quot;vender carro&quot;,&quot;casa da Mandy&quot;,&quot;galpão com dinheiro&quot;,&quot;ruídos estranhos&quot;,&quot;códigos e macetes&quot;,&quot;senha do cofre do boliche&quot;,&quot;armas únicas&quot;,&quot;carros raros&quot;,&quot;ganhar dinheiro&quot;,&quot;final bom&quot;,&quot;carro do Paul Walker&quot;,&quot;como pescar&quot;,&quot;primeira pessoa&quot;,&quot;trocar para Lucia&quot;],&quot;frases&quot;:{&quot;pergunta&quot;:&quot;Quer algo específico? Ou está perdido?&quot;,&quot;chamada&quot;:&quot;Pesquise aqui&quot;,&quot;exemplo&quot;:&quot;Arma, carro, cofre, missão...&quot;,&quot;buscar&quot;:&quot;Buscar&quot;,&quot;limpar&quot;:&quot;Apagar&quot;,&quot;mais&quot;:&quot;Mais buscados&quot;,&quot;maisNota&quot;:&quot;no Google&quot;,&quot;tambem&quot;:&quot;Também procuram&quot;,&quot;recentes&quot;:&quot;Suas últimas buscas&quot;,&quot;esquecer&quot;:&quot;Limpar&quot;,&quot;perdido&quot;:&quot;Está perdido? Comece por uma seção&quot;,&quot;sugestoes&quot;:&quot;Sugestões&quot;,&quot;tudo&quot;:&quot;Tudo&quot;,&quot;confirmadas&quot;:&quot;Só confirmadas&quot;,&quot;carregando&quot;:&quot;Procurando...&quot;,&quot;um&quot;:&quot;1 resultado&quot;,&quot;varios&quot;:&quot;{n} resultados&quot;,&quot;parcial&quot;:&quot;Nada com todas as palavras. Estes são os mais parecidos:&quot;,&quot;correcao&quot;:&quot;Mostrando resultados para \&quot;{q}\&quot;.&quot;,&quot;nada&quot;:&quot;Não achei nada com isso. Tente outra palavra ou escolha uma das opções abaixo.&quot;,&quot;erro&quot;:&quot;A busca não carregou. Confira a conexão e tente de novo.&quot;,&quot;melhor&quot;:&quot;Melhor resultado&quot;,&quot;confirmado&quot;:&quot;Confirmado&quot;,&quot;verificacao&quot;:&quot;Em verificação&quot;,&quot;verMais&quot;:&quot;Ver mais resultados&quot;}}" data-modo="janela"><h2 class="pesquisa__titulo" id="pesquisa-janela-titulo">Quer algo específico? Ou está perdido? <span class="sol">Pesquise aqui</span></h2><form class="pesquisa__forma" role="search" aria-labelledby="pesquisa-janela-titulo"><svg class="pesquisa__lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg><input class="pesquisa__campo" type="search" maxlength="80" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" placeholder="Arma, carro, cofre, missão..." aria-label="Quer algo específico? Ou está perdido? Pesquise aqui" aria-controls="pesquisa-janela-painel"><button class="pesquisa__limpar" type="button" data-limpar aria-label="Apagar" hidden>×</button><button class="pesquisa__botao" type="submit">Buscar</button></form><div class="pesquisa__painel" id="pesquisa-janela-painel" data-painel><p class="pesquisa__status" role="status" data-status></p><div data-inicio><div class="pesquisa__bloco" data-recentes hidden><p class="pesquisa__rotulo">Suas últimas buscas <button type="button" data-esquecer>Limpar</button></p><div class="pesquisa__chips" data-recentes-lista></div></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Mais buscados <small>no Google</small></p><ol class="pesquisa__ranking"><li><button type="button" data-termo="registrar carro" data-nav><i aria-hidden="true">1</i>registrar carro</button></li><li><button type="button" data-termo="quantas missões tem" data-nav><i aria-hidden="true">2</i>quantas missões tem</button></li><li><button type="button" data-termo="consertar anteparo" data-nav><i aria-hidden="true">3</i>consertar anteparo</button></li><li><button type="button" data-termo="vender carro" data-nav><i aria-hidden="true">4</i>vender carro</button></li><li><button type="button" data-termo="casa da Mandy" data-nav><i aria-hidden="true">5</i>casa da Mandy</button></li><li><button type="button" data-termo="galpão com dinheiro" data-nav><i aria-hidden="true">6</i>galpão com dinheiro</button></li><li><button type="button" data-termo="ruídos estranhos" data-nav><i aria-hidden="true">7</i>ruídos estranhos</button></li><li><button type="button" data-termo="códigos e macetes" data-nav><i aria-hidden="true">8</i>códigos e macetes</button></li></ol></div><div class="pesquisa__bloco"><p class="pesquisa__rotulo">Também procuram</p><div class="pesquisa__chips"><button type="button" data-termo="senha do cofre do boliche" data-nav>senha do cofre do boliche</button><button type="button" data-termo="armas únicas" data-nav>armas únicas</button><button type="button" data-termo="carros raros" data-nav>carros raros</button><button type="button" data-termo="ganhar dinheiro" data-nav>ganhar dinheiro</button><button type="button" data-termo="final bom" data-nav>final bom</button><button type="button" data-termo="carro do Paul Walker" data-nav>carro do Paul Walker</button><button type="button" data-termo="como pescar" data-nav>como pescar</button><button type="button" data-termo="primeira pessoa" data-nav>primeira pessoa</button><button type="button" data-termo="trocar para Lucia" data-nav>trocar para Lucia</button></div></div><nav class="pesquisa__bloco" aria-label="Está perdido? Comece por uma seção"><p class="pesquisa__rotulo">Está perdido? Comece por uma seção</p><div class="pesquisa__chips pesquisa__chips--secao"><a href="/codigos/" data-nav>Códigos</a><a href="/easter-eggs/" data-nav>Easter eggs</a><a href="/segredos-e-locais/" data-nav>Segredos e locais</a><a href="/dinheiro/" data-nav>Dinheiro</a><a href="/dicas/" data-nav>Dicas</a><a href="/guias/" data-nav>Guias</a><a href="/novidades/" data-nav>Novidades</a></div></nav></div><div data-achados hidden><div class="pesquisa__chips pesquisa__sugestoes" data-sugestoes role="group" aria-label="Sugestões"></div><div class="pesquisa__chips pesquisa__filtros" data-filtros role="group"></div><ul class="pesquisa__lista" data-lista></ul><button class="pesquisa__mais" type="button" data-mais data-nav hidden>Ver mais resultados</button></div></div></div><script type="module" src="/_astro/Pesquisa.astro_astro_type_script_index_0_lang.oMk5Dg3Q.js"></script></dialog><footer class="rodape"><div class="miolo"><div><h2>Macetes GTA 6</h2><p>Site independente de fãs, em português. Cada dica mostra de onde veio e se já foi confirmada por mais de uma fonte.</p><p>Sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas de seus donos.</p></div><div><h2>Seções</h2><ul><li><a href="/codigos/">Códigos</a></li><li><a href="/easter-eggs/">Easter eggs</a></li><li><a href="/segredos-e-locais/">Segredos e locais</a></li><li><a href="/dinheiro/">Dinheiro</a></li><li><a href="/dicas/">Dicas</a></li><li><a href="/guias/">Guias</a></li><li><a href="/novidades/">Novidades</a></li><li><a href="https://www.youtube.com/@vice_cortes_gtavi_clips" target="_blank" rel="noopener">Nosso canal de cortes</a></li></ul></div><div><h2>O site</h2><ul><li><a href="/como-verificamos/">Como verificamos</a></li><li><a href="/sobre/">Sobre</a></li><li><a href="/contato/">Contato</a></li><li><a href="/politica-de-privacidade/">Política de privacidade</a></li><li><a href="/termos/">Termos de uso</a></li><li><a href="/en/tip/gta-6-project-rumba/" hreflang="en">English</a></li></ul></div></div><div class="rodape__fim"><div class="miolo">© 2026 Macetes GTA 6. Texto próprio; vídeos incorporados pertencem aos seus criadores.</div></div></footer><script>(function(){const ingles = false;
+
+      // "há 2 h" / "2 h ago" nos horários marcados com data-relativo
+      (function () {
+        var agora = Date.now();
+        document.querySelectorAll('time[data-relativo]').forEach(function (t) {
+          var min = Math.round((agora - new Date(t.dateTime).getTime()) / 60000);
+          if (isNaN(min) || min < 0) return;
+          var txt = ingles
+            ? (min < 1 ? 'just now' : min < 60 ? min + ' min ago' : min < 1440 ? Math.round(min / 60) + ' h ago' : min < 10080 ? Math.round(min / 1440) + ' d ago' : null)
+            : (min < 1 ? 'agora' : min < 60 ? 'há ' + min + ' min' : min < 1440 ? 'há ' + Math.round(min / 60) + ' h' : min < 10080 ? 'há ' + Math.round(min / 1440) + ' d' : null);
+          if (txt) { t.title = t.textContent; t.textContent = txt; }
+        });
+      })();
+    })();</script></body></html>
