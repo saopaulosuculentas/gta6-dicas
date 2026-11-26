@@ -11,9 +11,12 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "KackisHD", url: "https://www.youtube.com/watch?v=axNqHEzer0k", titulo: "GTA 6: HOW TO GET A *FREE TANK* (Easter Egg & Secret Mission Guide)", minuto: "0:27", data: "2026-11-23T17:15:05-03:00" }
   - { tipo: site, canal: "MrDalekJD (TikTok)", url: "https://www.tiktok.com/@dalekjd/video/7711020467255233814", titulo: "GTA 6's BIGGEST MYSTERY SOLVED... GET A FREE TANK FOREVER!", data: "2026-11-22T12:37:47-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-bunker-president-russo/", titulo: "Where To Find President Russo's Bunkers In GTA 6", data: "2026-11-25T16:10:00-03:00" }
 descoberto_em: "2026-11-24T07:30:00-03:00"
-atualizado_em: "2026-11-24T07:30:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "GameSpot places the second bunker west of Big Pine, in Grassrivers." }
+  - { data: "2026-11-26T03:59:00-03:00", nota: "Added GameSpot: the safe code is 2975 (the recording's numbers in Protocol 2 order), the tank is a Hauners Ridgway and it can't be saved as a personal vehicle. Link to Project Rumba, the follow-up." }
   - { data: "2026-11-24T07:30:00-03:00", nota: "Published as confirmed: KackisHD (YouTube) and MrDalekJD (TikTok) follow the same route. Codes 010317 and 085355 show on the in-game keypad display in KackisHD's video; the first bunker's safe code is only spoken, so we don't print it." }
 perguntas:
   - { p: "How do you get a free tank in GTA 6?", r: "Do the hidden quest that starts with a man at the memorial in east downtown Vice City. It runs through a bunker on an island north of Waning Sands and ends in a hidden bunker in the woods, where a tank always respawns." }
@@ -50,7 +53,7 @@ GTA 6 hides a **secret quest** that ends with a **tank you keep forever**. It st
 3. Inside, follow the tunnel and turn right to **switch on the power**, then go through the doors on the left.
 4. You're in the **president's bunker**: presidential seal, desk and red phone. There's also a photo of the president meeting an alien on Mount Chiliad.
 5. **Sit in the desk chair**, check the **drawer** and pick up the **phone**. That turns on a radio in another room: follow the beeping and play the recording, which mentions **Protocol 2**.
-6. Back at the desk, the drawer now has a **classified document** about Protocol 2 with the **safe code**. Both videos say the same number, but neither shows the safe being opened, so read it off the document in your game.
+6. Back at the desk, the drawer now has a **classified document** listing each protocol's order. The recording says **5-2-9-7**, and **Protocol 2** uses the 2nd, 3rd, 4th and 1st numbers. That makes the **safe code 2975**, according to GameSpot.
 7. The safe holds the **Russo's 1922 Pistol**, a legendary pistol that stays in your weapon wheel.
 8. There's a photo under it. Flip it over: the back says **obsessed**, the clue for the bigger bunker.
 
@@ -58,7 +61,7 @@ GTA 6 hides a **secret quest** that ends with a **tank you keep forever**. It st
 
 1. Go to the woods **north of Watson Bay**, in west Vice-Dale County, at one of the spots circled on the apartment map.
 2. The big bunker's front entrance is shut. **Climb the hill behind it** and look in the tree line for a **metal hatch in the ground** and a **keypad on a tree**.
-3. Enter **085355** and climb down the ladder.
+3. Enter **085355** and climb down the ladder. GameSpot describes the spot as **west of Big Pine**, in the Grassrivers region, in a patch of trees: go in daylight, since the hatch is hard to see at night.
 4. It's dark. Head all the way to the far left and switch on the **generator** in the storage room.
 5. Follow the beeping to another **recording** and listen to it.
 6. Crouch under the door into the **control room** and press the button on the panel: the hangar door opens.
@@ -66,7 +69,8 @@ GTA 6 hides a **secret quest** that ends with a **tank you keep forever**. It st
 
 ## Afterwards
 
-- **The tank is yours for good.** The hangar door stays open and the tank respawns there every time you come back.
+- **The tank is yours for good.** The hangar door stays open and the tank respawns there every time you come back. According to GameSpot, it's a **Hauners Ridgway**. It **can't be saved** as a personal vehicle or parked in a garage: to use it again, go back to the bunker.
+- **There's a follow-up:** back at the woods bunker, the conditioning room opens and starts **Project Rumba**, which permanently boosts your **focus**. See [Project Rumba](../gta-6-project-rumba/).
 - It gets you to **5 and 6 stars** in no time. In KackisHD's video the main gun never seemed to run out of ammo.
 
 ## See also

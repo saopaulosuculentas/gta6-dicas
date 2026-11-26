@@ -12,9 +12,12 @@ fontes:
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
   - { tipo: youtube, canal: "GTA6 Drops", url: "https://www.youtube.com/watch?v=fWgDi82l4w8", titulo: "GTA 6 TROPHY GUIDE: 9 trophies you should unlock first (UFO, tank, cocktail + more)", minuto: "1:13", data: "2026-11-23T10:18:42-03:00" }
   - { tipo: youtube, canal: "Jojo Gaming Guides", url: "https://www.youtube.com/watch?v=CiTdEbjcMlk", titulo: "How To Get The Personal Best Trophy - How To Speed Up Your Progression! - GTA 6", minuto: "0:00", data: "2026-11-23T20:10:12-03:00" }
+  - { tipo: youtube, canal: "Jojo Gaming Guides", url: "https://www.youtube.com/watch?v=c6hUJFuDcPs", titulo: "How To Get The Fair Game Trophy - Exact location And Prep Work (Any Chapter after 3) - GTA 6", minuto: "0:37", data: "2026-11-25T15:52:20-03:00" }
+  - { tipo: youtube, canal: "Gaming With Josie", url: "https://www.youtube.com/watch?v=3rtiCJKLl2A", titulo: "GTA 6 Master of None Trophy Guide | All 9 Activities Locations", minuto: "0:00", data: "2026-11-25T17:30:31-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T09:27:00-03:00"
+atualizado_em: "2026-11-26T04:09:00-03:00"
 historico:
+  - { data: "2026-11-26T04:09:00-03:00", nota: "Entraram o Fair Game (Jojo Gaming Guides) e o Master of None (Gaming With Josie), conferidos com o PowerPyx." }
   - { data: "2026-11-25T09:27:00-03:00", nota: "Entrou uma imagem do jogo no lugar da foto ilustrativa." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Publicada como confirmada: o roteiro e os números são do PowerPyx; os troféus rápidos (coquetel, tanque, avião, Banshee, OVNI, joalheria e estande de tiro) batem com o vídeo do GTA6 Drops; o Personal Best, com o Jojo Gaming Guides." }
 perguntas:
@@ -73,6 +76,8 @@ Estes saem rápido e não dependem do fim da história:
 
 - **Personal Best:** **força no nível 4** com o Jason e com a Lucia. Treinando juntos, o parceiro ganha também. O Jojo Gaming Guides mostra que, no **capítulo 5**, a casa nova tem academia: treine, tome o **shake de proteína** da geladeira, durma e repita.
 - **The Shootist:** ouro em todos os desafios dos **estandes de tiro**. Segundo o GTA6 Drops, são dois estandes: o **Griffin Shooting Range**, no noroeste de Vice City, e o **Rogers Ranch**, no nordeste de Port Gellhorn. O passe custa **US$ 5**. São 12 desafios e 42 medalhas.
+- **Fair Game:** faça as caçadas do **Bret**, que pede 3 animais por vez. Depois de umas 3 rodadas, ele manda mensagem sobre um cervo que viu no Snapmatic e marca a área **Brett's Legendary Buck** no mapa. Esse cervo de galhada enorme aparece **vermelho** no binóculo. Abata com o rifle que o Bret te deu, vá até o corpo e **tire uma foto**: o Bret liga e o troféu sai. Dá para fazer depois do fim da história, segundo o Jojo Gaming Guides.
+- **Master of None:** faça uma vez cada atividade: pesca, caça, golfe (devolva os tacos no fim), estande de tiro, sinuca (a partida da história não conta), basquete, um videogame, uma corrida e uma manobra. O Gaming With Josie fez a última com um salto de paraquedas por marcadores; o PowerPyx fala em vencer a corrida e em qualquer manobra.
 - **Gunslinger:** derrube 5 inimigos num único uso do **foco de combate**. Coma ou tome banho antes para encher o foco, use adrenalina e um fuzil, e procure grupos grandes em operações de gangue.
 - **Hot Together:** despiste **4 estrelas** com o parceiro. O PowerPyx indica o **túnel de trem ao norte de Ambrosia**. Também sai sozinho nos cofres de banco do capítulo 4.
 

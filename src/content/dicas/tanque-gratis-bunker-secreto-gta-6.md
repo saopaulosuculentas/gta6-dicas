@@ -10,9 +10,12 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "KackisHD", url: "https://www.youtube.com/watch?v=axNqHEzer0k", titulo: "GTA 6: HOW TO GET A *FREE TANK* (Easter Egg & Secret Mission Guide)", minuto: "0:27", data: "2026-11-23T17:15:05-03:00" }
   - { tipo: site, canal: "MrDalekJD (TikTok)", url: "https://www.tiktok.com/@dalekjd/video/7711020467255233814", titulo: "GTA 6's BIGGEST MYSTERY SOLVED... GET A FREE TANK FOREVER!", data: "2026-11-22T12:37:47-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-bunker-president-russo/", titulo: "Where To Find President Russo's Bunkers In GTA 6", data: "2026-11-25T16:10:00-03:00" }
 descoberto_em: "2026-11-24T07:30:00-03:00"
-atualizado_em: "2026-11-24T07:30:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "O GameSpot descreve o 2º bunker a oeste de Big Pine, em Grassrivers." }
+  - { data: "2026-11-26T03:59:00-03:00", nota: "Entrou o GameSpot: a senha do cofre é 2975 (os números da gravação na ordem do Protocolo 2), o tanque é um Hauners Ridgway e não dá para guardar como veículo seu. Link para o Project Rumba, a continuação." }
   - { data: "2026-11-24T07:30:00-03:00", nota: "Publicada confirmada: KackisHD (YouTube) e MrDalekJD (TikTok) fazem o mesmo caminho. As senhas 010317 e 085355 aparecem no visor do jogo no vídeo do KackisHD; a do cofre do primeiro bunker só foi dita, por isso não publicamos o número." }
 perguntas:
   - { p: "Como pegar um tanque de graça no GTA 6?", r: "Faça a missão secreta que começa com um homem no memorial do leste do centro de Vice City. Ela passa por um bunker numa ilha ao norte de Waning Sands e termina num bunker escondido na mata, onde fica um tanque que volta sempre." }
@@ -49,7 +52,7 @@ O **KackisHD** (YouTube) e o **MrDalekJD** (TikTok, com mais de 1 milhão de vis
 3. Lá dentro, siga pelo túnel e vire à direita para **ligar a energia**. Depois passe pela porta da esquerda.
 4. Você entra no **bunker do presidente**: selo presidencial, mesa e telefone vermelho. Há também uma foto do presidente com um alien no Mount Chiliad.
 5. **Sente na cadeira** da mesa, mexa na **gaveta** e atenda o **telefone**. Isso liga um rádio em outra sala: siga o bipe e ouça a gravação, que fala do **Protocolo 2**.
-6. Volte à mesa: na gaveta há um **documento confidencial** do Protocolo 2 com a **senha do cofre**. Os dois vídeos dizem o mesmo número, mas nenhum mostra o cofre sendo aberto, então leia no documento do seu jogo.
+6. Volte à mesa: na gaveta há um **documento confidencial** com a ordem de cada protocolo. A gravação diz **5-2-9-7**, e o **Protocolo 2** manda usar o 2º, o 3º, o 4º e o 1º número. A **senha do cofre** fica **2975**, segundo o GameSpot.
 7. No cofre está a **Russo's 1922 Pistol**, uma pistola lendária, que fica na sua roda de armas.
 8. Embaixo dela há uma foto. Vire: no verso está escrito **obsessed**, a pista do bunker maior.
 
@@ -57,7 +60,7 @@ O **KackisHD** (YouTube) e o **MrDalekJD** (TikTok, com mais de 1 milhão de vis
 
 1. Vá à mata ao **norte de Watson Bay**, no oeste de Vice-Dale County, num dos pontos marcados no mapa do apartamento.
 2. A entrada da frente do bunker grande está fechada. **Suba o morro atrás dela** e procure, entre as árvores, uma **tampa de metal no chão** e um **teclado preso a uma árvore**.
-3. Digite **085355** e desça pela escada.
+3. Digite **085355** e desça pela escada. O GameSpot descreve o lugar como **a oeste de Big Pine**, na região de Grassrivers, numa mata: vá de dia, porque à noite a tampa é difícil de ver.
 4. Está escuro. Vá até o fundo, à esquerda, e ligue o **gerador** na sala do depósito.
 5. Siga o bipe até outra **gravação** e ouça.
 6. Passe agachado por baixo da porta da **sala de controle** e aperte o botão do painel: a porta do hangar abre.
@@ -65,7 +68,8 @@ O **KackisHD** (YouTube) e o **MrDalekJD** (TikTok, com mais de 1 milhão de vis
 
 ## Depois
 
-- **O tanque é seu para sempre.** A porta do hangar continua aberta e o tanque reaparece lá sempre que você voltar.
+- **O tanque é seu para sempre.** A porta do hangar continua aberta e o tanque reaparece lá sempre que você voltar. Segundo o GameSpot, é um **Hauners Ridgway**. Ele **não pode ser registrado** como veículo seu, nem cabe na garagem: para usar de novo, volte ao bunker.
+- **Tem continuação:** voltando ao bunker da mata, a sala de condicionamento abre e começa o **Project Rumba**, que aumenta o **foco** para sempre. Veja o [Project Rumba](../project-rumba-gta-6/).
 - Com ele você chega fácil a **5 e 6 estrelas**. No vídeo do KackisHD, a munição do canhão pareceu não acabar.
 - Se quiser os tanques da base militar, veja [como pegar um tanque no GTA 6](../como-pegar-tanque-gta-6/).
 

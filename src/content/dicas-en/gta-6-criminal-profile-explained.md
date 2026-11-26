@@ -15,9 +15,11 @@ fontes:
   - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "7:09", data: "2026-11-19T19:17:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/", titulo: "Rockstar prepared \"several variations\" for GTA 6 story moments based on how you treat Lucia and Jason's relationship", data: "2026-11-19T21:45:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
+  - { tipo: youtube, canal: "Trojan", url: "https://www.youtube.com/watch?v=PKQIi9Yxu3s", titulo: "How To Get Professional Criminal Profile In GTA 6", minuto: "3:13", data: "2026-11-22T12:46:14-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "Added Trojan: how to climb to Professional fast by repeating clean robberies." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Added JorRaptor's shortcut (hold D-pad Right to see your profile), what the demon icon's colors mean after each action, and aiming at the yellow marks to wound without killing. Rockstar told Game Informer (via GamesRadar+) the profile changes story scenes; whether it changes the ending is still unknown, per GameSpot." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Now confirmed: GameSpot describes the same five tiers and the permanent Irredeemable rank. Added that both characters start at Hardened, that traffic deaths count, which acts earn focus, and the split in the Psycho icon that warns you Irredeemable is close." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Published as unverified: levels and rules from PC Gamer's criminal profile guide. The profile line shows up in a frame from TheUntouchableWolf's video." }
@@ -73,6 +75,18 @@ GameSpot lists what keeps you at the top tier:
 PC Gamer's writer finished the main story with both characters at Professional, dipping into Hardened now and then. The approach was to stay non-lethal where possible, using focus to aim for knees and elbows in gunfights.
 
 The body count still wasn't small. The endgame stats show **321 enemies and 58 cops killed**, against **461 enemies and 107 cops incapacitated**. There are also 98 animal kills on the record, and the writer suspects most were birds that refuse to get out of the way of vehicles.
+
+## Climbing fast: clean robberies
+
+Trojan's shortcut is to **repeat robberies without killing anyone**. Each clean job adds to Professional:
+
+- **Disarm the alarm** and **destroy the camera footage**.
+- Get away clean: the game counts a **clean getaway**.
+- **Don't kill** the staff.
+
+Trojan pushed Lucia to Professional by repeating a **pawn shop** in Chapter 2, with a car parked out back, a suppressor and a mask. In Chapter 4 he did the same at a **jewelry store** with a back door, opened with the **Snap Gun**. He also says **petting dogs** and **shooting out police tires** during a chase help.
+
+He says you can climb back from a lower level over time, but **Irredeemable** is still permanent, according to GameSpot.
 
 ## Does your profile change the story or the ending?
 

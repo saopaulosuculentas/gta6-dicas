@@ -15,9 +15,12 @@ fontes:
   - { tipo: youtube, canal: "JorRaptor", url: "https://www.youtube.com/watch?v=tRZu-sjvyHA", titulo: "GTA 6 Tips And Tricks I Wish I Knew Earlier...", minuto: "7:09", data: "2026-11-19T19:17:00-03:00" }
   - { tipo: site, canal: "GamesRadar+", url: "https://www.gamesradar.com/games/grand-theft-auto/rockstar-prepared-several-variations-for-gta-6-story-moments-based-on-how-you-treat-lucia-and-jasons-relationship/", titulo: "Rockstar prepared \"several variations\" for GTA 6 story moments based on how you treat Lucia and Jason's relationship", data: "2026-11-19T21:45:00-03:00" }
   - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/does-gta-6-have-multiple-endings/", titulo: "Does GTA 6 Have Multiple Endings?", data: "2026-11-19T16:34:00-03:00" }
+  - { tipo: youtube, canal: "Trojan", url: "https://www.youtube.com/watch?v=PKQIi9Yxu3s", titulo: "How To Get Professional Criminal Profile In GTA 6", minuto: "3:13", data: "2026-11-22T12:46:14-03:00" }
+  - { tipo: youtube, canal: "zevicttt", url: "https://www.youtube.com/watch?v=rssIEcI7Aug", titulo: "COMO CONSEGUIR PERFIL CRIMINAL PROFISSIONAL NO GTA 6 ! DICAS ÚTEIS GTA 6", minuto: "2:26", data: "2026-11-23T16:03:30-03:00" }
 descoberto_em: "2026-11-19T16:11:00-03:00"
-atualizado_em: "2026-11-20T10:56:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "Entraram o Trojan e o zevicttt: como subir rápido para Professional repetindo roubos limpos." }
   - { data: "2026-11-20T10:56:00-03:00", nota: "Entraram o atalho do JorRaptor (segurar o direcional para a direita mostra o perfil), as cores do ícone de demônio depois de cada ação e a mira nas marcas amarelas para ferir sem matar. Pela Rockstar ao Game Informer (via GamesRadar+), o perfil muda cenas da história; se muda o final, o GameSpot diz que ainda não se sabe." }
   - { data: "2026-11-20T10:22:00-03:00", nota: "Entrou o GameSpot: Jason e Lucia começam no Hardened, atropelamento conta como morte, ações que dão foco (salvar civil, fazer carinho em bicho, jogar lixo no lixo) e a rachadura no ícone do Psycho que avisa que o Irredeemable está perto." }
   - { data: "2026-11-19T16:11:00-03:00", nota: "Publicada como confirmada: níveis e regras do PC Gamer; o Thalera mostra o perfil no menu e confirma que abate não letal e furtividade levam ao Profissional." }
@@ -76,6 +79,19 @@ O GameSpot acrescenta três cuidados:
 - **Poupe quem se rende:** às vezes o jogo pergunta se você quer poupar um personagem que se rendeu. Um exemplo de escolha assim está em [matar ou poupar o Arnold](../matar-ou-poupar-arnold-gta-6/).
 
 O autor do PC Gamer terminou a história com os dois personagens no Professional, às vezes caindo para Hardened. Ele tentou não matar na maior parte do tempo, usando o foco para mirar em joelhos e cotovelos. Mesmo assim, as estatísticas finais dele mostram **321 inimigos e 58 policiais mortos**, contra **461 inimigos e 107 policiais derrubados** sem morrer. Ele também tem 98 animais mortos na conta e acha que a maioria foi de pássaros que não saem da frente dos veículos.
+
+## Como subir rápido: roubos limpos
+
+O Trojan e o zevicttt ensinam o mesmo atalho: **repetir roubos sem matar ninguém**. Cada roubo limpo soma pontos para o Professional:
+
+- **Desligue o alarme** e **destrua a gravação** das câmeras.
+- Use **máscara** ou bandana, e **troque de roupa** depois, segundo o zevicttt.
+- Saia sem ser pego: o jogo conta a **fuga limpa**.
+- **Não mate** os funcionários: o zevicttt mostra que matar no assalto derruba o perfil para um nível pior, mesmo sem a polícia ver.
+
+O Trojan subiu a Lucia para Professional repetindo uma **loja de penhores** no capítulo 2, com carro estacionado nos fundos, silenciador e máscara. No capítulo 4, fez o mesmo numa **joalheria** com porta dos fundos, aberta com a **snap gun**. Ele também diz que **fazer carinho em cachorro** e **furar os pneus** da viatura na perseguição ajudam.
+
+Os dois dizem que dá para **voltar** de um nível pior com tempo, mas o **Irredeemable** continua sendo para sempre, segundo o GameSpot.
 
 ## O perfil muda a história ou o final?
 

@@ -12,9 +12,11 @@ fontes:
   - { tipo: youtube, canal: "Hayashii", url: "https://www.youtube.com/watch?v=s8MxTZbJA20", titulo: "Os 5 EASTER EGGS que você PRECISA FAZER no GTA 6! (upgrades de Jason e Lucia)", minuto: "0:38", data: "2026-11-24T19:15:34-03:00" }
   - { tipo: youtube, canal: "Projeto S", url: "https://www.youtube.com/watch?v=g_zmiKVh-J0", titulo: "GTA 6 - MISSÃO SECRETA - EXPERIMENTO SECRETO NO ESGOTO! (EASTER EGG)", minuto: "0:25", data: "2026-11-23T10:00:11-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-project-rumba-brainwash/", titulo: "How To Complete The Project Rumba Secret In GTA 6", data: "2026-11-25T16:10:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "Entrou o Project Rumba, que aumenta o foco para sempre (GameSpot e WhizL mostram o caminho; o bônus é do GameSpot)." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Publicada como confirmada: o Arekkz Gaming e o Hayashii mostram os mesmos 5 segredos e os bônus de cada um. O esgoto também aparece no Projeto S, e o PowerPyx confirma o nome da missão (The Final Flush, no Frank's Waffles)." }
 perguntas:
   - { p: "Como aumentar a vida máxima no GTA 6?", r: "Faça o easter egg do inferno, que dá vida máxima, e o dos aliens, que aumenta todos os atributos. Os dois ficam para sempre." }
@@ -89,6 +91,10 @@ Numa **obra ao lado de um lago no norte do mapa**:
 5. Evite a entrada principal: contorne pela direita até a **entrada lateral iluminada**.
 6. Suba a escada. No painel, deixe **os três botões verdes** e acione o botão grande. Abre uma passagem embaixo da bomba.
 7. **Dê a descarga nele** e entre no casulo. Você acorda em casa com **fôlego máximo**.
+
+## 6. Project Rumba: foco
+
+Depois dos bunkers do presidente Russo, uma cadeira leva você a uma instalação secreta em loop. No fim, segundo o GameSpot, o foco sobe **para sempre** e libera a tatuagem **Brainwash**. Passo a passo em [Project Rumba](../project-rumba-gta-6/).
 
 ## Veja também
 

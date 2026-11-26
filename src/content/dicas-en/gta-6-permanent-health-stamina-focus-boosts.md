@@ -11,9 +11,11 @@ imagens:
 fontes:
   - { tipo: youtube, canal: "Arekkz Gaming", url: "https://www.youtube.com/watch?v=f_tiqbq2qp8", titulo: "GTA 6 - 5 Easter Eggs That Give PERMANENT Stat Boosts! (All Locations Walkthrough)", minuto: "0:00", data: "2026-11-22T18:00:38-03:00" }
   - { tipo: site, canal: "PowerPyx", url: "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/", titulo: "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap", data: "2026-11-18T12:00:00-03:00" }
+  - { tipo: site, canal: "GameSpot", url: "https://www.gamespot.com/articles/gta-6-project-rumba-brainwash/", titulo: "How To Complete The Project Rumba Secret In GTA 6", data: "2026-11-25T16:10:00-03:00" }
 descoberto_em: "2026-11-25T05:00:00-03:00"
-atualizado_em: "2026-11-25T05:00:00-03:00"
+atualizado_em: "2026-11-26T04:07:00-03:00"
 historico:
+  - { data: "2026-11-26T04:07:00-03:00", nota: "Added Project Rumba, which permanently boosts focus (route shown by GameSpot and WhizL; the boost per GameSpot)." }
   - { data: "2026-11-25T05:00:00-03:00", nota: "Published as unverified: the five secrets and the boost each one gives come from Arekkz Gaming's video. PowerPyx only confirms the name of the sewer mission (The Final Flush, at Frank's Waffles). We still need a second source for the rest." }
 perguntas:
   - { p: "How do you increase max health in GTA 6?", r: "Do the hell easter egg, which gives max health, and the alien one, which boosts every stat. Both are permanent." }
@@ -88,6 +90,10 @@ This is the **The Final Flush** mission, which also counts for the **Strangers &
 5. Skip the main entrance: go around to the right to the **lit side entrance**.
 6. Climb the stairs. On the panel, set **all three buttons to green** and press the big button. A passage opens under the pump.
 7. **Flush him** and climb into the pod. You wake up at home with **max stamina**.
+
+## Project Rumba: focus
+
+After President Russo's bunkers, a chair sends you into a looping secret facility. At the end, according to GameSpot, your focus goes up **permanently** and the **Brainwash** tattoo unlocks. Full steps in [Project Rumba](../gta-6-project-rumba/).
 
 ## See also
 

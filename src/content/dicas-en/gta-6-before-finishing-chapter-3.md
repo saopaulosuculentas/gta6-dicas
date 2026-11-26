@@ -15,9 +15,12 @@ fontes:
   - { tipo: youtube, canal: "RageGamingVideos", url: "https://www.youtube.com/watch?v=nRWlNQWkqzg", titulo: "GTA 6 - WARNING: Do This Before Finishing Chapter 3 - Rarest Car in Game & Best Permanent Buffs!", minuto: "5:41", data: "2026-11-24T20:00:26-03:00" }
   - { tipo: youtube, canal: "Diggy", url: "https://www.youtube.com/watch?v=9OUDJGY2Yuc", titulo: "DON'T Make This Mistake Before Chapter 3 Ends In GTA 6", minuto: "0:47", data: "2026-11-22T15:04:49-03:00" }
   - { tipo: youtube, canal: "Tylarious", url: "https://www.youtube.com/watch?v=umrx86xI-dw", titulo: "***WARNING*** DO THIS BEFORE YOU COMPLETE CHAPTER 3 IN GTA VI", minuto: "0:36", data: "2026-11-24T20:18:00-03:00" }
+  - { tipo: youtube, canal: "ABTW", url: "https://www.youtube.com/watch?v=BWUjs-FxGIU", titulo: "DON'T Finish Chapter 3 in GTA 6 Until You Do THIS!", minuto: "2:22", data: "2026-11-25T13:00:03-03:00" }
 descoberto_em: "2026-11-25T09:05:00-03:00"
-atualizado_em: "2026-11-25T09:27:00-03:00"
+atualizado_em: "2026-11-26T04:09:00-03:00"
 historico:
+  - { data: "2026-11-26T04:09:00-03:00", nota: "Link to Chapter 4." }
+  - { data: "2026-11-26T04:07:00-03:00", nota: "Added ABTW: it confirms the Halifax hot rod and the $100,000 savings goal discount." }
   - { data: "2026-11-25T09:27:00-03:00", nota: "Added an in-game image ahead of the illustrative photo." }
   - { data: "2026-11-25T09:05:00-03:00", nota: "Published as confirmed using only what two channels show: Monty's 1922 (Caspahz and RageGamingVideos), Halifax (Caspahz and KhrazeGaming), the Yago race deadline (Caspahz and KhrazeGaming) and Vanessa's Growler (Diggy, KhrazeGaming and others). Single-channel claims are flagged in the text." }
 perguntas:
@@ -46,7 +49,7 @@ In **Dubious Providence**, the second Chapter 3 story mission, **Halifax** wants
 
 - **If you refuse,** the mission goes away. But you can **call him back** as long as Chapter 3 isn't over, according to KhrazeGaming. Caspahz says to keep calling until Jason and Lucia decide to go find him.
 - **If you finish the chapter without calling,** it's gone for good, along with what it gives you.
-- **The reward,** per KhrazeGaming: cash, the **Crowax watch** and a **Vapid Hustler**, a hot rod with an exposed engine.
+- **The reward,** per KhrazeGaming: cash, the **Crowax watch** and a **Vapid Hustler**, a hot rod with an exposed engine. ABTW also got the **hot rod** and about **$2,500 in jewelry**.
 
 When the game asks whether you trust him, Caspahz says to **trust him**. More on [Benedict Halifax](../gta-6-benedict-halifax-statue/).
 
@@ -60,6 +63,10 @@ According to KhrazeGaming, finishing all four leaves you with **Yago's race car*
 
 In the Chapter 3 apartment, the laptop opens with **Muffins, Queen, 15** and gives you the code **92665** for a garage in **La Perle**, next to Auntie's Place. Inside is **Vanessa's pink Growler**, with no tracker, and the garage becomes yours. Diggy, KhrazeGaming and Tylarious all show it, and Diggy says to do it **before Chapter 3 ends**. Full steps in the [Chapter 3 laptop password](../gta-6-chapter-3-laptop-password/).
 
+## 5. Hit $100,000 in savings
+
+Caspahz and ABTW both show that reaching **$100,000 in the family savings** gets you a **20% discount**. Caspahz mentions property; ABTW mentions garages and RydeMe rides. ABTW also got **$20,000 in interest** from BuckMe. Remember: savings money can't be withdrawn.
+
 ## Mentioned by one channel only
 
 - **Safe Word mission:** if you give up on the practice vault, Caspahz says you can come back later and open it for cash and a weapon.
@@ -69,4 +76,5 @@ In the Chapter 3 apartment, the laptop opens with **Muffins, Queen, 15** and giv
 ## See also
 
 - [What to do before finishing Chapter 2](../gta-6-before-finishing-chapter-2/)
+- [Chapter 4 mistakes and missables](../gta-6-chapter-4-mistakes-missables/)
 - [Truffade Thrax location](../gta-6-truffade-thrax-location/)
